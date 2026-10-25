@@ -97,3 +97,8 @@ type = "__n64"
 last_change = 2026-10-25T22:49:03.595916Z
 name = "float32x2_t"
 type = "__n64"
+
+[float16x8_t]
+last_change = 2026-10-25T22:49:03.596808Z
+name = "float16x8_t"
+type = "__n128"

@@ -1,0 +1,33 @@
+last_change = 2026-10-25T22:49:03.632156Z
+name = "__va_list_tag"
+size = 0x20
+
+[members.0x0]
+name = "__stack"
+offset = 0x0
+type = "void *"
+size = 0x8
+
+[members.0x8]
+name = "__gr_top"
+offset = 0x8
+type = "void *"
+size = 0x8
+
+[members.0x10]
+name = "__vr_top"
+offset = 0x10
+type = "void *"
+size = 0x8
+
+[members.0x18]
+name = "__gr_offs"
+offset = 0x18
+type = "int"
+size = 0x4
+
+[members.0x1c]
+name = "__vr_offs"
+offset = 0x1c
+type = "int"
+size = 0x4

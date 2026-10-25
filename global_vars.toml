@@ -5,8 +5,8 @@ name = "byte_71019DF571"
 type = "char[]"
 size = 0x1
 
-[0x215bb88]
-last_change = 2026-10-25T22:59:10.695783Z
-addr = 0x215bb88
-name = "_ZTVN2al9LiveActorE"
-size = 0x1
+[0x215bba0]
+last_change = 2026-10-25T22:59:10.756483Z
+addr = 0x215bba0
+name = "off_710215BBA0"
+size = 0x8

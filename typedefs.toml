@@ -2,3 +2,8 @@
 last_change = 2026-10-25T22:25:26.815860Z
 name = "int8x8_t"
 type = "__n64"
+
+[uint8x8_t]
+last_change = 2026-10-25T22:25:26.816484Z
+name = "uint8x8_t"
+type = "__n64"

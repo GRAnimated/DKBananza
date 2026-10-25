@@ -127,3 +127,8 @@ type = "int16x4_t"
 last_change = 2026-10-25T22:49:03.600803Z
 name = "uint16x2_t"
 type = "uint16x4_t"
+
+[float16x2_t]
+last_change = 2026-10-25T22:49:03.601705Z
+name = "float16x2_t"
+type = "float16x4_t"

@@ -1,0 +1,11 @@
+last_change = 2026-10-25T22:51:03.134720Z
+addr = 0xe29254
+size = 0x8
+name = "al_LiveActor_getAudioKeeper"
+
+[header]
+last_change = 2026-10-25T22:51:03.134720Z
+name = "al_LiveActor_getAudioKeeper"
+addr = 0xe29254
+
+[header.args]

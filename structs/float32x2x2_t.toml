@@ -1,0 +1,9 @@
+last_change = 2026-10-25T22:49:30.852394Z
+name = "float32x2x2_t"
+size = 0x10
+
+[members.0x0]
+name = "val"
+offset = 0x0
+type = "float32x2_t[2]"
+size = 0x10

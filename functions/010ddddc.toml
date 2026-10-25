@@ -1,0 +1,11 @@
+last_change = 2026-10-25T22:51:03.078675Z
+addr = 0x10ddddc
+size = 0x4
+name = "j_al_LiveActor_kill_17"
+
+[header]
+last_change = 2026-10-25T22:51:03.078675Z
+name = "j_al_LiveActor_kill_17"
+addr = 0x10ddddc
+
+[header.args]

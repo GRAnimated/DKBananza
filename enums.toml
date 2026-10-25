@@ -1,0 +1,11 @@
+[memory_order]
+last_change = 2026-10-25T22:49:03.682572Z
+name = "memory_order"
+
+[memory_order.members]
+memory_order_relaxed = 0x0
+memory_order_consume = 0x1
+memory_order_acquire = 0x2
+memory_order_release = 0x3
+memory_order_acq_rel = 0x4
+memory_order_seq_cst = 0x5

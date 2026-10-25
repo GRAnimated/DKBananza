@@ -1,0 +1,11 @@
+last_change = 2026-10-25T22:51:03.134023Z
+addr = 0xe2925c
+size = 0x8
+name = "al_LiveActor_getStageSwitchKeeper"
+
+[header]
+last_change = 2026-10-25T22:51:03.134023Z
+name = "al_LiveActor_getStageSwitchKeeper"
+addr = 0xe2925c
+
+[header.args]

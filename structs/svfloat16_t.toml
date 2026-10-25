@@ -1,0 +1,9 @@
+last_change = 2026-10-25T22:49:03.613550Z
+name = "svfloat16_t"
+size = 0x2
+
+[members.0x0]
+name = "body"
+offset = 0x0
+type = "short float[1]"
+size = 0x2

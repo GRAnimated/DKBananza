@@ -1,11 +1,11 @@
-last_change = 2026-10-25T23:03:09.599232Z
+last_change = 2026-10-25T23:11:41.232543Z
 addr = 0x3495b8
 size = 0x8
-name = "_ZNK2al9LiveActor14getNerveKeeperEv"
+name = "al::LiveActor::getNerveKeeper_void_erEv"
 
 [header]
-last_change = 2026-10-25T23:03:09.599232Z
-name = "_ZNK2al9LiveActor14getNerveKeeperEv"
+last_change = 2026-10-25T23:11:41.232543Z
+name = "al::LiveActor::getNerveKeeper_void_erEv"
 addr = 0x3495b8
 
 [header.args]

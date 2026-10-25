@@ -1,0 +1,213 @@
+last_change = 2026-10-25T23:13:36.930982Z
+name = "vtbl_710215BBA0"
+size = 0x118
+
+[members.0x0]
+name = "sub_7100E29174"
+offset = 0x0
+type = "long long (*)()"
+size = 0x8
+
+[members.0x8]
+name = "sub_7100E29178"
+offset = 0x8
+type = "long long *(*)()"
+size = 0x8
+
+[members.0x10]
+name = "al::LiveActor::DESTRUCTOR_LiveActor_D1Ev"
+offset = 0x10
+type = "unsigned long long *(__fastcall *)(unsigned long long *result)"
+size = 0x8
+
+[members.0x18]
+name = "al::LiveActor::DESTRUCTOR_LiveActor_D0Ev"
+offset = 0x18
+type = "void (__fastcall *)(void *a1)"
+size = 0x8
+
+[members.0x20]
+name = "al::LiveActor::getNerveKeeper_void_erEv"
+offset = 0x20
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0x28]
+name = "al_LiveActor_init"
+offset = 0x28
+type = "void (*)()"
+size = 0x8
+
+[members.0x30]
+name = "al::LiveActor::initAfterPlacement_void_ntEv"
+offset = 0x30
+type = "void (*)()"
+size = 0x8
+
+[members.0x38]
+name = "al::LiveActor::appear_void_arEv"
+offset = 0x38
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0x40]
+name = "al::LiveActor::makeActorAlive_void_veEv"
+offset = 0x40
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0x48]
+name = "al::LiveActor::kill_void_llEv"
+offset = 0x48
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0x50]
+name = "al::LiveActor::makeActorDead_void_adEv"
+offset = 0x50
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0x58]
+name = "al::LiveActor::movement_void_ntEv"
+offset = 0x58
+type = "void (__fastcall *)(long long a1, long double a2, long double a3)"
+size = 0x8
+
+[members.0x60]
+name = "al::LiveActor::calcAnim_void_imEv"
+offset = 0x60
+type = "long long (__fastcall *)(unsigned long long *a1, double a2, long double a3, long double a4)"
+size = 0x8
+
+[members.0x68]
+name = "al::LiveActor::draw_void_awEv"
+offset = 0x68
+type = "void (*)()"
+size = 0x8
+
+[members.0x70]
+name = "al::LiveActor::startClipped_void_edEv"
+offset = 0x70
+type = "long long (__fastcall *)(unsigned long long *a1)"
+size = 0x8
+
+[members.0x78]
+name = "al::LiveActor::endClipped_void_edEv"
+offset = 0x78
+type = "long long (__fastcall *)(long long result)"
+size = 0x8
+
+[members.0x80]
+name = "al_LiveActor_attackSensor"
+offset = 0x80
+type = "void (*)()"
+size = 0x8
+
+[members.0x88]
+name = "al_LiveActor_receiveMsg"
+offset = 0x88
+type = "long long (*)()"
+size = 0x8
+
+[members.0x90]
+name = "nullsub_1192"
+offset = 0x90
+type = "void (*)()"
+size = 0x8
+
+[members.0x98]
+name = "sub_7100E29244"
+offset = 0x98
+type = "long long (*)()"
+size = 0x8
+
+[members.0xa0]
+name = "al::LiveActor::getName_void_meEv"
+offset = 0xa0
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0xa8]
+name = "al::LiveActor::getBaseMtx_void_txEv"
+offset = 0xa8
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0xb0]
+name = "al::LiveActor::getEffectKeeper_void_erEv"
+offset = 0xb0
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0xb8]
+name = "al::LiveActor::getAudioKeeper_void_erEv"
+offset = 0xb8
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0xc0]
+name = "al::LiveActor::getStageSwitchKeeper_void_erEv"
+offset = 0xc0
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0xc8]
+name = "al::LiveActor::getRailRider_void_erEv"
+offset = 0xc8
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0xd0]
+name = "al::LiveActor::getSceneObjHolder_void_erEv"
+offset = 0xd0
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0xd8]
+name = "al::LiveActor::getCollisionDirector_void_orEv"
+offset = 0xd8
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0xe0]
+name = "al::LiveActor::getAreaObjDirector_void_orEv"
+offset = 0xe0
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0xe8]
+name = "al::LiveActor::getCameraDirector_void_orEv"
+offset = 0xe8
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0xf0]
+name = "al::LiveActor::getNatureDirector_void_orEv"
+offset = 0xf0
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0xf8]
+name = "al::LiveActor::initStageSwitchKeeper_void_erEv"
+offset = 0xf8
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0x100]
+name = "sub_71016D5ED4"
+offset = 0x100
+type = "long long (__fastcall *)(long long a1, long long a2)"
+size = 0x8
+
+[members.0x108]
+name = "al::LiveActor::control_void_olEv"
+offset = 0x108
+type = "void (*)()"
+size = 0x8
+
+[members.0x110]
+name = "sub_71001367C8"
+offset = 0x110
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8

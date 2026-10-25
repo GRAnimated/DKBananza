@@ -1,3 +1,11 @@
-last_change = 2026-10-25T22:51:03.140815Z
+last_change = 2026-10-25T23:11:42.539417Z
 addr = 0x1367c8
 size = 0x8
+name = "sub_71001367C8"
+
+[header]
+last_change = 2026-10-25T23:11:42.539417Z
+name = "sub_71001367C8"
+addr = 0x1367c8
+
+[header.args]

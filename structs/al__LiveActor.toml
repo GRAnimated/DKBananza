@@ -1,0 +1,123 @@
+last_change = 2026-10-25T23:13:40.064804Z
+name = "al::LiveActor"
+size = 0x11c
+
+[members.0x0]
+name = "__vftable"
+offset = 0x0
+type = "vtbl_710215BBA0 *"
+size = 0x8
+
+[members.0x8]
+name = "__vftable_8"
+offset = 0x8
+type = "vtbl_710215BCC8 *"
+size = 0x8
+
+[members.0x10]
+name = "__vftable_10"
+offset = 0x10
+type = "vtbl_710215BCF0 *"
+size = 0x8
+
+[members.0x18]
+name = "__vftable_18"
+offset = 0x18
+type = "vtbl_710215BD20 *"
+size = 0x8
+
+[members.0x20]
+name = "__vftable_20"
+offset = 0x20
+type = "vtbl_710215BD58 *"
+size = 0x8
+
+[members.0x28]
+name = "__vftable_28"
+offset = 0x28
+type = "vtbl_710215BD80 *"
+size = 0x8
+
+[members.0x30]
+name = "__vftable_30"
+offset = 0x30
+type = "vtbl_710215BDA8 *"
+size = 0x8
+
+[members.0x38]
+name = "__vftable_38"
+offset = 0x38
+type = "vtbl_710215BDE0 *"
+size = 0x8
+
+[members.0x40]
+name = "__vftable_40"
+offset = 0x40
+type = "vtbl_710215BE08 *"
+size = 0x8
+
+[members.0x48]
+name = "__vftable_48"
+offset = 0x48
+type = "vtbl_710215BE30 *"
+size = 0x8
+
+[members.0x50]
+name = "__vftable_50"
+offset = 0x50
+type = "vtbl_710215BE50 *"
+size = 0x8
+
+[members.0x58]
+name = "mName"
+offset = 0x58
+type = "const char *"
+size = 0x8
+
+[members.0x60]
+name = "TODO_keepers"
+offset = 0x60
+type = "char[128]"
+size = 0x80
+
+[members.0xe0]
+name = "field_e0"
+offset = 0xe0
+type = "unsigned long long *"
+size = 0x8
+
+[members.0xe8]
+name = "gap_E8"
+offset = 0xe8
+type = "char[40]"
+size = 0x28
+
+[members.0x110]
+name = "byte_110"
+offset = 0x110
+type = "char"
+size = 0x1
+
+[members.0x111]
+name = "dword_111"
+offset = 0x111
+type = "int"
+size = 0x4
+
+[members.0x115]
+name = "byte_115"
+offset = 0x115
+type = "char"
+size = 0x1
+
+[members.0x116]
+name = "word_116"
+offset = 0x116
+type = "short"
+size = 0x2
+
+[members.0x118]
+name = "dword_118"
+offset = 0x118
+type = "int"
+size = 0x4

@@ -1,11 +1,11 @@
-last_change = 2026-10-25T23:03:09.605320Z
+last_change = 2026-10-25T23:11:42.534302Z
 addr = 0xe29264
 size = 0x4
-name = "_ZN2al9LiveActor7controlEv"
+name = "al::LiveActor::control_void_olEv"
 
 [header]
-last_change = 2026-10-25T23:03:09.605320Z
-name = "_ZN2al9LiveActor7controlEv"
+last_change = 2026-10-25T23:11:42.534302Z
+name = "al::LiveActor::control_void_olEv"
 addr = 0xe29264
 
 [header.args]

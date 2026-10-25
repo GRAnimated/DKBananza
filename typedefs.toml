@@ -82,3 +82,8 @@ type = "__n64"
 last_change = 2026-10-25T22:49:03.593500Z
 name = "poly16x8_t"
 type = "__n128"
+
+[poly8x16_t]
+last_change = 2026-10-25T22:49:03.594290Z
+name = "poly8x16_t"
+type = "__n128"

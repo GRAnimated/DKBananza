@@ -1,0 +1,11 @@
+last_change = 2026-10-25T22:51:03.133373Z
+addr = 0x16d5cb4
+size = 0x18
+name = "al_LiveActor_getRailRider"
+
+[header]
+last_change = 2026-10-25T22:51:03.133373Z
+name = "al_LiveActor_getRailRider"
+addr = 0x16d5cb4
+
+[header.args]

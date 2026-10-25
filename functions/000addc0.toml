@@ -1,11 +1,11 @@
-last_change = 2026-10-25T23:03:09.598184Z
+last_change = 2026-10-25T23:11:41.294082Z
 addr = 0xaddc0
 size = 0x25c0
-name = "_ZN2al9LiveActor8calcAnimEv"
+name = "al::LiveActor::calcAnim_void_imEv"
 
 [header]
-last_change = 2026-10-25T23:03:09.598184Z
-name = "_ZN2al9LiveActor8calcAnimEv"
+last_change = 2026-10-25T23:11:41.294082Z
+name = "al::LiveActor::calcAnim_void_imEv"
 addr = 0xaddc0
 
 [header.args]

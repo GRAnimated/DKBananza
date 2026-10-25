@@ -1,11 +1,11 @@
-last_change = 2026-10-25T23:03:09.599918Z
+last_change = 2026-10-25T23:11:42.386635Z
 addr = 0xe2924c
 size = 0x8
-name = "_ZNK2al9LiveActor15getEffectKeeperEv"
+name = "al::LiveActor::getEffectKeeper_void_erEv"
 
 [header]
-last_change = 2026-10-25T23:03:09.599918Z
-name = "_ZNK2al9LiveActor15getEffectKeeperEv"
+last_change = 2026-10-25T23:11:42.386635Z
+name = "al::LiveActor::getEffectKeeper_void_erEv"
 addr = 0xe2924c
 
 [header.args]

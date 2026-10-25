@@ -1,0 +1,33 @@
+last_change = 2026-10-25T23:13:37.038797Z
+name = "vtbl_710215BD20"
+size = 0x28
+
+[members.0x0]
+name = "sub_7100E29268"
+offset = 0x0
+type = "unsigned long long *(__fastcall *)(unsigned long long *result)"
+size = 0x8
+
+[members.0x8]
+name = "sub_7100E292B4"
+offset = 0x8
+type = "void (__fastcall *)(unsigned long long *a1)"
+size = 0x8
+
+[members.0x10]
+name = "sub_7100E29308"
+offset = 0x10
+type = "long long (__fastcall *)(unsigned long long *a1)"
+size = 0x8
+
+[members.0x18]
+name = "sub_710003B748"
+offset = 0x18
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0x20]
+name = "sub_71006E8274"
+offset = 0x20
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8

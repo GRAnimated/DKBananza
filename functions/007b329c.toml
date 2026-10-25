@@ -1,0 +1,11 @@
+last_change = 2026-10-25T22:51:03.090237Z
+addr = 0x7b329c
+size = 0x4
+name = "j_al_LiveActor_movement_4"
+
+[header]
+last_change = 2026-10-25T22:51:03.090237Z
+name = "j_al_LiveActor_movement_4"
+addr = 0x7b329c
+
+[header.args]

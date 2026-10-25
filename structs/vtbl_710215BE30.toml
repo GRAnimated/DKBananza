@@ -1,0 +1,15 @@
+last_change = 2026-10-25T23:13:37.211747Z
+name = "vtbl_710215BE30"
+size = 0x10
+
+[members.0x0]
+name = "sub_7100EC26DC"
+offset = 0x0
+type = "long long (__fastcall *)(long long a1)"
+size = 0x8
+
+[members.0x8]
+name = "sub_7100EC26E4"
+offset = 0x8
+type = "long long *(*)()"
+size = 0x8

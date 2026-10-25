@@ -1,11 +1,11 @@
-last_change = 2026-10-25T23:11:42.522241Z
+last_change = 2026-10-25T23:03:09.610816Z
 addr = 0x16d5d98
 size = 0x44
-name = "al::LiveActor::initStageSwitchKeeper_void_erEv"
+name = "_ZN2al9LiveActor21initStageSwitchKeeperEv"
 
 [header]
-last_change = 2026-10-25T23:11:42.522241Z
-name = "al::LiveActor::initStageSwitchKeeper_void_erEv"
+last_change = 2026-10-25T23:03:09.610816Z
+name = "_ZN2al9LiveActor21initStageSwitchKeeperEv"
 addr = 0x16d5d98
 
 [header.args]

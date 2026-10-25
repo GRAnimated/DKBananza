@@ -1,11 +1,11 @@
-last_change = 2026-10-25T23:11:42.403255Z
+last_change = 2026-10-25T23:03:09.609529Z
 addr = 0x16d5cb4
 size = 0x18
-name = "al::LiveActor::getRailRider_void_erEv"
+name = "_ZNK2al9LiveActor12getRailRiderEv"
 
 [header]
-last_change = 2026-10-25T23:11:42.403255Z
-name = "al::LiveActor::getRailRider_void_erEv"
+last_change = 2026-10-25T23:03:09.609529Z
+name = "_ZNK2al9LiveActor12getRailRiderEv"
 addr = 0x16d5cb4
 
 [header.args]

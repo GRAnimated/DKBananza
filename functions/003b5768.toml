@@ -1,11 +1,11 @@
-last_change = 2026-10-25T23:11:42.380256Z
+last_change = 2026-10-25T23:03:09.601746Z
 addr = 0x3b5768
 size = 0x58
-name = "al::LiveActor::getBaseMtx_void_txEv"
+name = "_ZNK2al9LiveActor10getBaseMtxEv"
 
 [header]
-last_change = 2026-10-25T23:11:42.380256Z
-name = "al::LiveActor::getBaseMtx_void_txEv"
+last_change = 2026-10-25T23:03:09.601746Z
+name = "_ZNK2al9LiveActor10getBaseMtxEv"
 addr = 0x3b5768
 
 [header.args]

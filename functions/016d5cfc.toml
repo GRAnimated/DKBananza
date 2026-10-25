@@ -1,11 +1,11 @@
-last_change = 2026-10-25T23:11:42.516398Z
+last_change = 2026-10-25T23:03:09.608889Z
 addr = 0x16d5cfc
 size = 0xc
-name = "al::LiveActor::getNatureDirector_void_orEv"
+name = "_ZNK2al9LiveActor17getNatureDirectorEv"
 
 [header]
-last_change = 2026-10-25T23:11:42.516398Z
-name = "al::LiveActor::getNatureDirector_void_orEv"
+last_change = 2026-10-25T23:03:09.608889Z
+name = "_ZNK2al9LiveActor17getNatureDirectorEv"
 addr = 0x16d5cfc
 
 [header.args]

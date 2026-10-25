@@ -1,11 +1,11 @@
-last_change = 2026-10-25T23:11:42.408447Z
+last_change = 2026-10-25T23:03:09.610193Z
 addr = 0x4f0688
 size = 0xc
-name = "al::LiveActor::getSceneObjHolder_void_erEv"
+name = "_ZNK2al9LiveActor17getSceneObjHolderEv"
 
 [header]
-last_change = 2026-10-25T23:11:42.408447Z
-name = "al::LiveActor::getSceneObjHolder_void_erEv"
+last_change = 2026-10-25T23:03:09.610193Z
+name = "_ZNK2al9LiveActor17getSceneObjHolderEv"
 addr = 0x4f0688
 
 [header.args]

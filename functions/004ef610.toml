@@ -1,11 +1,11 @@
-last_change = 2026-10-25T23:11:42.509928Z
+last_change = 2026-10-25T23:03:09.600516Z
 addr = 0x4ef610
 size = 0xc
-name = "al::LiveActor::getCameraDirector_void_orEv"
+name = "_ZNK2al9LiveActor17getCameraDirectorEv"
 
 [header]
-last_change = 2026-10-25T23:11:42.509928Z
-name = "al::LiveActor::getCameraDirector_void_orEv"
+last_change = 2026-10-25T23:03:09.600516Z
+name = "_ZNK2al9LiveActor17getCameraDirectorEv"
 addr = 0x4ef610
 
 [header.args]

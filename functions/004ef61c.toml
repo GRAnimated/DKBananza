@@ -1,11 +1,11 @@
-last_change = 2026-10-25T23:11:42.419784Z
+last_change = 2026-10-25T23:03:09.518410Z
 addr = 0x4ef61c
 size = 0xc
-name = "al::LiveActor::getAreaObjDirector_void_orEv"
+name = "_ZNK2al9LiveActor18getAreaObjDirectorEv"
 
 [header]
-last_change = 2026-10-25T23:11:42.419784Z
-name = "al::LiveActor::getAreaObjDirector_void_orEv"
+last_change = 2026-10-25T23:03:09.518410Z
+name = "_ZNK2al9LiveActor18getAreaObjDirectorEv"
 addr = 0x4ef61c
 
 [header.args]

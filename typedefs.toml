@@ -42,3 +42,8 @@ type = "__n128"
 last_change = 2026-10-25T22:49:03.587160Z
 name = "int32x4_t"
 type = "__n128"
+
+[int64x2_t]
+last_change = 2026-10-25T22:49:03.587914Z
+name = "int64x2_t"
+type = "__n128"

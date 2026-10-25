@@ -1,0 +1,11 @@
+last_change = 2026-10-25T22:51:03.044439Z
+addr = 0xe2922c
+size = 0x4
+name = "al_LiveActor_init"
+
+[header]
+last_change = 2026-10-25T22:51:03.044439Z
+name = "al_LiveActor_init"
+addr = 0xe2922c
+
+[header.args]

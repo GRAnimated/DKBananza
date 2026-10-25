@@ -132,3 +132,8 @@ type = "uint16x4_t"
 last_change = 2026-10-25T22:49:03.601705Z
 name = "float16x2_t"
 type = "float16x4_t"
+
+[gcc_va_list]
+last_change = 2026-10-25T22:49:03.633779Z
+name = "gcc_va_list"
+type = "__va_list_tag[1]"

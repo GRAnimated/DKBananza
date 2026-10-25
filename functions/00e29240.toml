@@ -1,3 +1,11 @@
-last_change = 2026-10-25T22:51:03.140159Z
+last_change = 2026-10-25T23:11:41.337638Z
 addr = 0xe29240
 size = 0x4
+name = "nullsub_1192"
+
+[header]
+last_change = 2026-10-25T23:11:41.337638Z
+name = "nullsub_1192"
+addr = 0xe29240
+
+[header.args]

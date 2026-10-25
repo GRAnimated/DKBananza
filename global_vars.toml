@@ -10,3 +10,9 @@ last_change = 2026-10-25T22:51:02.995719Z
 addr = 0x215bba0
 name = "al_LiveActor_vtable"
 size = 0x8
+
+[0x215bb88]
+last_change = 2026-10-25T22:51:02.997599Z
+addr = 0x215bb88
+name = "al_LiveActor_vtable_group"
+size = 0x1

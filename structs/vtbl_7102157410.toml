@@ -1,0 +1,15 @@
+last_change = 2026-10-26T15:02:35.986275Z
+name = "vtbl_7102157410"
+size = 0x10
+
+[members.0x0]
+name = "something_27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+offset = 0x0
+type = "long long (__fastcall *)(long long, long long *)"
+size = 0x8
+
+[members.0x8]
+name = "something_18getRuntimeTypeInfoEv"
+offset = 0x8
+type = "long long *(*)()"
+size = 0x8

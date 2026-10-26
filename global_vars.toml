@@ -269363,3 +269363,9 @@ last_change = 2026-10-26T14:12:12.824303Z
 addr = 0x21a7f98
 name = "sead_HeapMgr_sRootHeapsRef"
 size = 0x8
+
+[0x21a7f90]
+last_change = 2026-10-26T14:12:24.938411Z
+addr = 0x21a7f90
+name = "sead_HeapMgr_sInstance"
+size = 0x8

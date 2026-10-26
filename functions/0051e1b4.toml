@@ -1,0 +1,11 @@
+last_change = 2026-10-26T17:38:02.899235Z
+addr = 0x51e1b4
+size = 0x14
+type = "unsigned long long *"
+
+[header]
+last_change = 2026-10-26T17:38:02.899235Z
+addr = 0x51e1b4
+type = "unsigned long long *"
+
+[header.args]

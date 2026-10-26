@@ -269424,3 +269424,10 @@ addr = 0x2176d78
 name = "off_7102176D78"
 type = "vtbl_7102176D78"
 size = 0x8
+
+[0x1a4ec68]
+last_change = 2026-10-26T17:46:15.630166Z
+addr = 0x1a4ec68
+name = "unk_7101A4EC68"
+type = "float[8]"
+size = 0x1

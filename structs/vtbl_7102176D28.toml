@@ -1,0 +1,9 @@
+last_change = 2026-10-26T17:35:19.517146Z
+name = "vtbl_7102176D28"
+size = 0x8
+
+[members.0x0]
+name = "sub_71012DD06C"
+offset = 0x0
+type = "long long (__fastcall *)(long long)"
+size = 0x8

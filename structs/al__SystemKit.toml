@@ -1,4 +1,4 @@
-last_change = 2026-10-26T14:19:41.189530Z
+last_change = 2026-10-26T14:36:46.216159Z
 name = "al::SystemKit"
 size = 0x38
 
@@ -9,7 +9,7 @@ type = "al::MemorySystem *"
 size = 0x8
 
 [members.0x8]
-name = "_8"
+name = "mSaveDataDirector"
 offset = 0x8
 type = "void *"
 size = 0x8

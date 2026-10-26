@@ -12002,3 +12002,10 @@ addr = 0x5adc5c
 func_addr = 0x5adc5c
 comment = "No longer takes in threadPriority"
 decompiled = true
+
+[0x5aef48]
+last_change = 2026-10-26T14:38:36.234839Z
+addr = 0x5aef48
+func_addr = 0x5aef48
+comment = "No longer takes in threadPriority"
+decompiled = true

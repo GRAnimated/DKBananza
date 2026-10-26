@@ -1,0 +1,11 @@
+last_change = 2026-10-26T14:31:10.932211Z
+addr = 0x5ad9f0
+size = 0x8
+name = "_ZN2al22getVirtualDisplayWidthEv"
+
+[header]
+last_change = 2026-10-26T14:31:10.932211Z
+name = "_ZN2al22getVirtualDisplayWidthEv"
+addr = 0x5ad9f0
+
+[header.args]

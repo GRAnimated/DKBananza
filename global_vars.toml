@@ -269417,10 +269417,3 @@ last_change = 2026-10-26T17:38:10.190917Z
 addr = 0x224a1ec
 name = ""
 size = 0x1
-
-[0x2176d08]
-last_change = 2026-10-26T17:43:10.045235Z
-addr = 0x2176d08
-name = "off_7102176D08"
-type = "vtbl_7102176D08"
-size = 0x8

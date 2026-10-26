@@ -1,0 +1,11 @@
+last_change = 2026-10-26T17:38:04.428239Z
+addr = 0x51ed1c
+size = 0x17c
+type = "long double"
+
+[header]
+last_change = 2026-10-26T17:38:04.428239Z
+addr = 0x51ed1c
+type = "long double"
+
+[header.args]

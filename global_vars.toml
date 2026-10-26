@@ -269406,7 +269406,7 @@ type = "__guard"
 size = 0x8
 
 [0x2176c80]
-last_change = 2026-10-26T17:28:23.650732Z
+last_change = 2026-10-26T17:28:23.890042Z
 addr = 0x2176c80
 name = "off_7102176C80"
 type = "al::Scene_vtbl"

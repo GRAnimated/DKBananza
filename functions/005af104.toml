@@ -1,0 +1,11 @@
+last_change = 2026-10-26T14:12:51.099879Z
+addr = 0x5af104
+size = 0x98
+name = "_ZN2al9SystemKit18createMemorySystemEPN4sead4HeapE"
+
+[header]
+last_change = 2026-10-26T14:12:51.099879Z
+name = "_ZN2al9SystemKit18createMemorySystemEPN4sead4HeapE"
+addr = 0x5af104
+
+[header.args]

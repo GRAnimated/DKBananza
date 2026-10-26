@@ -269439,9 +269439,9 @@ name = "dword_7101A977FC"
 type = "unsigned int[3]"
 size = 0xc
 
-[0x1a09b78]
-last_change = 2026-10-26T18:08:23.031352Z
-addr = 0x1a09b78
-name = "byte_7101A09B78"
-type = "unsigned char[20]"
-size = 0x14
+[0x1a0e25d]
+last_change = 2026-10-26T18:08:23.771702Z
+addr = 0x1a0e25d
+name = "unk_7101A0E25D"
+type = "unsigned char[7]"
+size = 0x1

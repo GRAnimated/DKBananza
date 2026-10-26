@@ -269438,3 +269438,10 @@ addr = 0x1a977fc
 name = "dword_7101A977FC"
 type = "unsigned int[3]"
 size = 0xc
+
+[0x1a09b78]
+last_change = 2026-10-26T18:08:22.370872Z
+addr = 0x1a09b78
+name = "unk_7101A09B78"
+type = "unsigned char[20]"
+size = 0x1

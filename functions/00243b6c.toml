@@ -1,0 +1,11 @@
+last_change = 2026-10-26T16:49:23.688604Z
+addr = 0x243b6c
+size = 0x494
+name = "_ZN4sead9IDisposerC2Ev"
+
+[header]
+last_change = 2026-10-26T16:49:23.688604Z
+name = "_ZN4sead9IDisposerC2Ev"
+addr = 0x243b6c
+
+[header.args]

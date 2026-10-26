@@ -1,0 +1,93 @@
+last_change = 2026-10-26T17:28:26.893348Z
+name = "ClosetScene_vtbl"
+size = 0x78
+
+[members.0x0]
+name = "checkDerivedRuntimeTypeInfo"
+offset = 0x0
+type = "void *(__fastcall *)(const ClosetScene *, const sead::RuntimeTypeInfo::Interface *)"
+size = 0x8
+
+[members.0x8]
+name = "getRuntimeTypeInfo"
+offset = 0x8
+type = "const sead::RuntimeTypeInfo::Interface *(__fastcall *)(const ClosetScene *)"
+size = 0x8
+
+[members.0x10]
+name = "destructor"
+offset = 0x10
+type = "void (__fastcall *)(ClosetScene *)"
+size = 0x8
+
+[members.0x18]
+name = "deletingDestructor"
+offset = 0x18
+type = "void (__fastcall *)(ClosetScene *)"
+size = 0x8
+
+[members.0x20]
+name = "getNerveKeeper"
+offset = 0x20
+type = "al::NerveKeeper *(__fastcall *)(const ClosetScene *)"
+size = 0x8
+
+[members.0x28]
+name = "unk_28"
+offset = 0x28
+type = "bool (__fastcall *)(ClosetScene *)"
+size = 0x8
+
+[members.0x30]
+name = "init"
+offset = 0x30
+type = "void (__fastcall *)(ClosetScene *, const al::SceneInitInfo *)"
+size = 0x8
+
+[members.0x38]
+name = "appear"
+offset = 0x38
+type = "void (__fastcall *)(ClosetScene *)"
+size = 0x8
+
+[members.0x40]
+name = "kill"
+offset = 0x40
+type = "void (__fastcall *)(ClosetScene *)"
+size = 0x8
+
+[members.0x48]
+name = "drawMain"
+offset = 0x48
+type = "void (__fastcall *)(const ClosetScene *)"
+size = 0x8
+
+[members.0x50]
+name = "movement"
+offset = 0x50
+type = "void (__fastcall *)(ClosetScene *)"
+size = 0x8
+
+[members.0x58]
+name = "control"
+offset = 0x58
+type = "void (__fastcall *)(ClosetScene *)"
+size = 0x8
+
+[members.0x60]
+name = "getAudioKeeper"
+offset = 0x60
+type = "al::AudioKeeper *(__fastcall *)(const ClosetScene *)"
+size = 0x8
+
+[members.0x68]
+name = "getSceneObjHolder"
+offset = 0x68
+type = "al::SceneObjHolder *(__fastcall *)(const ClosetScene *)"
+size = 0x8
+
+[members.0x70]
+name = "getCameraDirector"
+offset = 0x70
+type = "al::CameraDirector *(__fastcall *)(const ClosetScene *)"
+size = 0x8

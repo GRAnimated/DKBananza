@@ -269384,9 +269384,3 @@ addr = 0x1a977ac
 name = "byte_7101A977AC"
 type = "char[9]"
 size = 0x9
-
-[0x20f61a8]
-last_change = 2026-10-26T16:58:39.484087Z
-addr = 0x20f61a8
-name = "_ZTV9BootScene"
-size = 0x1

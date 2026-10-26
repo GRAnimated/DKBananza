@@ -1,10 +1,12 @@
-last_change = 2026-10-26T16:58:10.423455Z
+last_change = 2026-10-26T16:58:39.744330Z
 addr = 0x6a967c
 size = 0x70
+name = "_ZN9BootSceneC2Ev"
 type = "void *"
 
 [header]
-last_change = 2026-10-26T16:58:10.423455Z
+last_change = 2026-10-26T16:58:39.744330Z
+name = "_ZN9BootSceneC2Ev"
 addr = 0x6a967c
 type = "void *"
 

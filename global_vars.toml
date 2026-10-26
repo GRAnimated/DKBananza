@@ -269377,3 +269377,10 @@ addr = 0x2318680
 name = "qword_7102318680"
 type = "__guard"
 size = 0x8
+
+[0x1a977ac]
+last_change = 2026-10-26T16:57:51.184602Z
+addr = 0x1a977ac
+name = "unk_7101A977AC"
+type = "char[9]"
+size = 0x1

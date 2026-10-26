@@ -269433,8 +269433,8 @@ type = "float[8]"
 size = 0x20
 
 [0x1a977fc]
-last_change = 2026-10-26T17:52:42.671093Z
+last_change = 2026-10-26T17:52:43.452129Z
 addr = 0x1a977fc
-name = "unk_7101A977FC"
+name = "dword_7101A977FC"
 type = "unsigned int[3]"
-size = 0x1
+size = 0xc

@@ -1,0 +1,9 @@
+last_change = 2026-10-26T16:49:42.639681Z
+name = "nn::os::MutexType"
+size = 0x20
+
+[members.0x0]
+name = "_storage"
+offset = 0x0
+type = "unsigned long long[4]"
+size = 0x20

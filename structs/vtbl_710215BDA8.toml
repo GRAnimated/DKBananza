@@ -1,33 +1,33 @@
-last_change = 2026-10-25T23:13:37.136064Z
+last_change = 2026-10-26T08:24:15.597844Z
 name = "vtbl_710215BDA8"
 size = 0x28
 
 [members.0x0]
 name = "sub_7100EC266C"
 offset = 0x0
-type = "long long (__fastcall *)(long long a1)"
+type = "void *(__fastcall *)(const void *__shifted(al::LiveActor,0x30), const sead::RuntimeTypeInfo::Interface *)"
 size = 0x8
 
 [members.0x8]
 name = "sub_7100EC2674"
 offset = 0x8
-type = "long long *(*)()"
+type = "const sead::RuntimeTypeInfo::Interface *(__fastcall *)(const void *__shifted(al::LiveActor,0x30))"
 size = 0x8
 
 [members.0x10]
 name = "sub_71016D6230"
 offset = 0x10
-type = "unsigned long long *(__fastcall *)(unsigned long long *result)"
+type = "void (__fastcall *)(void *__shifted(al::LiveActor,0x30))"
 size = 0x8
 
 [members.0x18]
 name = "sub_71016D6290"
 offset = 0x18
-type = "void (__fastcall *)(unsigned long long *a1)"
+type = "void (__fastcall *)(void *__shifted(al::LiveActor,0x30))"
 size = 0x8
 
 [members.0x20]
 name = "sub_710051F324"
 offset = 0x20
-type = "long long (__fastcall *)(long long a1)"
+type = "al::CameraDirector *(__fastcall *)(const void *__shifted(al::LiveActor,0x30))"
 size = 0x8

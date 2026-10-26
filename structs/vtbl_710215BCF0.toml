@@ -1,9 +1,9 @@
-last_change = 2026-10-25T23:13:37.009221Z
+last_change = 2026-10-26T08:24:15.596693Z
 name = "vtbl_710215BCF0"
 size = 0x8
 
 [members.0x0]
 name = "sub_71006438C0"
 offset = 0x0
-type = "long long (__fastcall *)(long long a1)"
+type = "al::AudioKeeper *(__fastcall *)(const void *__shifted(al::LiveActor,0x10))"
 size = 0x8

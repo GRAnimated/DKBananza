@@ -1,21 +1,21 @@
-last_change = 2026-10-25T23:13:37.068219Z
+last_change = 2026-10-26T08:24:15.597270Z
 name = "vtbl_710215BD58"
 size = 0x18
 
 [members.0x0]
 name = "sub_71016D60A8"
 offset = 0x0
-type = "unsigned long long *(__fastcall *)(unsigned long long *result)"
+type = "void (__fastcall *)(void *__shifted(al::LiveActor,0x20))"
 size = 0x8
 
 [members.0x8]
 name = "sub_71016D6108"
 offset = 0x8
-type = "void (__fastcall *)(unsigned long long *a1)"
+type = "void (__fastcall *)(void *__shifted(al::LiveActor,0x20))"
 size = 0x8
 
 [members.0x10]
 name = "sub_710037E6F0"
 offset = 0x10
-type = "long long (__fastcall *)(long long a1)"
+type = "al::SceneObjHolder *(__fastcall *)(const void *__shifted(al::LiveActor,0x20))"
 size = 0x8

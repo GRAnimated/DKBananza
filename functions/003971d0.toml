@@ -1,0 +1,11 @@
+last_change = 2026-10-26T14:45:28.495125Z
+addr = 0x3971d0
+size = 0x54
+name = "_ZN2al12addNamedHeapEPN4sead4HeapEPKc"
+
+[header]
+last_change = 2026-10-26T14:45:28.495125Z
+name = "_ZN2al12addNamedHeapEPN4sead4HeapEPKc"
+addr = 0x3971d0
+
+[header.args]

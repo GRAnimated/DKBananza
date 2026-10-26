@@ -1,4 +1,4 @@
-last_change = 2026-10-26T14:29:13.398929Z
+last_change = 2026-10-26T14:29:29.058748Z
 name = "Application"
 size = 0x40
 
@@ -11,7 +11,7 @@ size = 0x8
 [members.0x8]
 name = "mSystemKit"
 offset = 0x8
-type = "void *"
+type = "al::SystemKit *"
 size = 0x8
 
 [members.0x10]

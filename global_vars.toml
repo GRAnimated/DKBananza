@@ -269386,8 +269386,8 @@ type = "char[9]"
 size = 0x9
 
 [0x2318540]
-last_change = 2026-10-26T16:59:31.970272Z
+last_change = 2026-10-26T16:59:32.851967Z
 addr = 0x2318540
-name = "unk_7102318540"
+name = "qword_7102318540"
 type = "__guard"
-size = 0x1
+size = 0x8

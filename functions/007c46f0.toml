@@ -1,11 +1,11 @@
-last_change = 2026-10-26T17:28:20.407105Z
+last_change = 2026-10-26T17:28:20.396932Z
 addr = 0x7c46f0
 size = 0x4e8
-type = "void"
+name = "_ZNK10StageScene8drawMainEv"
 
 [header]
-last_change = 2026-10-26T17:28:20.407105Z
+last_change = 2026-10-26T17:28:20.396932Z
+name = "_ZNK10StageScene8drawMainEv"
 addr = 0x7c46f0
-type = "void"
 
 [header.args]

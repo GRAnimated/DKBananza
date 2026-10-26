@@ -1,13 +1,11 @@
-last_change = 2026-10-26T14:16:14.420630Z
+last_change = 2026-10-26T14:12:45.971794Z
 addr = 0x5adaa8
 size = 0x14
 name = "_ZN2al9SystemKitC2Ev"
-type = "al::SystemKit *"
 
 [header]
-last_change = 2026-10-26T14:16:14.420630Z
+last_change = 2026-10-26T14:12:45.971794Z
 name = "_ZN2al9SystemKitC2Ev"
 addr = 0x5adaa8
-type = "al::SystemKit *"
 
 [header.args]

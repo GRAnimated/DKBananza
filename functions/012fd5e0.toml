@@ -1,0 +1,11 @@
+last_change = 2026-10-26T16:58:36.767677Z
+addr = 0x12fd5e0
+size = 0xe38
+name = "_ZN14StaffRollScene4initERKN2al13SceneInitInfoE"
+
+[header]
+last_change = 2026-10-26T16:58:36.767677Z
+name = "_ZN14StaffRollScene4initERKN2al13SceneInitInfoE"
+addr = 0x12fd5e0
+
+[header.args]

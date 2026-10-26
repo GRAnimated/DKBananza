@@ -269406,7 +269406,7 @@ type = "__guard"
 size = 0x8
 
 [0x20f61b8]
-last_change = 2026-10-26T17:28:25.308725Z
+last_change = 2026-10-26T17:28:25.543243Z
 addr = 0x20f61b8
 name = "off_71020F61B8"
 type = "BootScene_vtbl"

@@ -269399,8 +269399,8 @@ name = "_ZTVN2al5SceneE"
 size = 0x10
 
 [0x2316028]
-last_change = 2026-10-26T17:12:01.438271Z
+last_change = 2026-10-26T17:12:02.037563Z
 addr = 0x2316028
-name = "unk_7102316028"
+name = "qword_7102316028"
 type = "__guard"
-size = 0x1
+size = 0x8

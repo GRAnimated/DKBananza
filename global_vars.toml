@@ -269406,7 +269406,7 @@ type = "__guard"
 size = 0x8
 
 [0x20fbe00]
-last_change = 2026-10-26T17:28:32.514162Z
+last_change = 2026-10-26T17:28:32.803121Z
 addr = 0x20fbe00
 name = "off_71020FBE00"
 type = "StageScene_vtbl"

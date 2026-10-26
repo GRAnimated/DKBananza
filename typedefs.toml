@@ -197,3 +197,8 @@ type = "_Unwind_Sword"
 last_change = 2026-10-26T00:47:00.400400Z
 name = "size_t"
 type = "unsigned long long"
+
+[s32]
+last_change = 2026-10-26T14:50:56.331737Z
+name = "s32"
+type = "int"

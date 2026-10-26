@@ -1,0 +1,11 @@
+last_change = 2026-10-26T16:58:34.860668Z
+addr = 0x12de198
+size = 0xa0
+name = "_ZN11ClosetSceneC2Ev"
+
+[header]
+last_change = 2026-10-26T16:58:34.860668Z
+name = "_ZN11ClosetSceneC2Ev"
+addr = 0x12de198
+
+[header.args]

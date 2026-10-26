@@ -1,11 +1,11 @@
-last_change = 2026-10-26T14:29:29.058748Z
+last_change = 2026-10-26T14:30:14.127859Z
 name = "Application"
 size = 0x40
 
 [members.0x0]
 name = "_0"
 offset = 0x0
-type = "void *"
+type = "al::GameFrameworkOunce *"
 size = 0x8
 
 [members.0x8]

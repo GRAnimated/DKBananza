@@ -269379,8 +269379,8 @@ type = "__guard"
 size = 0x8
 
 [0x1a977ac]
-last_change = 2026-10-26T16:57:51.184602Z
+last_change = 2026-10-26T16:57:51.911297Z
 addr = 0x1a977ac
-name = "unk_7101A977AC"
+name = "byte_7101A977AC"
 type = "char[9]"
-size = 0x1
+size = 0x9

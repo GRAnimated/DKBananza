@@ -1,0 +1,11 @@
+last_change = 2026-10-26T17:17:36.974173Z
+addr = 0x51fd3c
+size = 0x16c
+name = "_ZN2al5Scene4initERKNS_13SceneInitInfoE"
+
+[header]
+last_change = 2026-10-26T17:17:36.974173Z
+name = "_ZN2al5Scene4initERKNS_13SceneInitInfoE"
+addr = 0x51fd3c
+
+[header.args]

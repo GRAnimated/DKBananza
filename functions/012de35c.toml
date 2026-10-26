@@ -1,0 +1,11 @@
+last_change = 2026-10-26T16:58:33.615314Z
+addr = 0x12de35c
+size = 0x5a0
+name = "_ZN11ClosetScene4initERKN2al13SceneInitInfoE"
+
+[header]
+last_change = 2026-10-26T16:58:33.615314Z
+name = "_ZN11ClosetScene4initERKN2al13SceneInitInfoE"
+addr = 0x12de35c
+
+[header.args]

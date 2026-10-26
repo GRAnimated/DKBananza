@@ -1,21 +1,27 @@
-last_change = 2026-10-26T14:50:58.249651Z
+last_change = 2026-10-26T14:57:57.519568Z
 name = "al::SensorHitGroup"
-size = 0x10
+size = 0x18
 
 [members.0x0]
-name = "mMaxSensors"
+name = "__vftable"
 offset = 0x0
-type = "s32"
-size = 0x4
-
-[members.0x4]
-name = "mSensorCount"
-offset = 0x4
-type = "s32"
-size = 0x4
+type = "void *"
+size = 0x8
 
 [members.0x8]
-name = "mSensors"
+name = "mMaxSensors"
 offset = 0x8
+type = "s32"
+size = 0x4
+
+[members.0xc]
+name = "mSensorCount"
+offset = 0xc
+type = "s32"
+size = 0x4
+
+[members.0x10]
+name = "mSensors"
+offset = 0x10
 type = "al::HitSensor **"
 size = 0x8

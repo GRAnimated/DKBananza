@@ -1,0 +1,9 @@
+last_change = 2026-10-26T17:34:57.093757Z
+name = "al_Scene_vftable"
+size = 0x8
+
+[members.0x0]
+name = "sub_710069FC20"
+offset = 0x0
+type = "long long (__fastcall *)(int *)"
+size = 0x8

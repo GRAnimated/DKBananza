@@ -269384,3 +269384,10 @@ addr = 0x1a977ac
 name = "byte_7101A977AC"
 type = "char[9]"
 size = 0x9
+
+[0x2318540]
+last_change = 2026-10-26T16:59:31.970272Z
+addr = 0x2318540
+name = "unk_7102318540"
+type = "__guard"
+size = 0x1

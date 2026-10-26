@@ -1,0 +1,11 @@
+last_change = 2026-10-26T17:38:05.350307Z
+addr = 0x51f540
+size = 0x34
+type = "bool"
+
+[header]
+last_change = 2026-10-26T17:38:05.350307Z
+addr = 0x51f540
+type = "bool"
+
+[header.args]

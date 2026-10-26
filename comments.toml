@@ -11995,3 +11995,10 @@ addr = 0x5af280
 func_addr = 0x5af250
 comment = "Appears to be rewritten from SMO"
 decompiled = true
+
+[0x5adc5c]
+last_change = 2026-10-26T14:36:10.326657Z
+addr = 0x5adc5c
+func_addr = 0x5adc5c
+comment = "No longer takes in threadPriority"
+decompiled = true

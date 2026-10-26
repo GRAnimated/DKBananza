@@ -1,9 +1,9 @@
-last_change = 2026-10-26T14:30:14.127859Z
+last_change = 2026-10-26T14:30:19.758755Z
 name = "Application"
 size = 0x40
 
 [members.0x0]
-name = "_0"
+name = "mGameFramework"
 offset = 0x0
 type = "al::GameFrameworkOunce *"
 size = 0x8

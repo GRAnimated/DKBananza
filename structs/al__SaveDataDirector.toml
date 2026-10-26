@@ -1,0 +1,9 @@
+last_change = 2026-10-26T14:37:44.196648Z
+name = "al::SaveDataDirector"
+size = 0x68
+
+[members.0x0]
+name = "size"
+offset = 0x0
+type = "void *[13]"
+size = 0x68

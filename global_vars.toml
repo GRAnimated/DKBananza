@@ -268471,9 +268471,10 @@ name = "_ZN11Application18SingletonDisposer_15sStaticDisposerE"
 size = 0x8
 
 [0x2318750]
-last_change = 2026-10-26T08:24:40.273074Z
+last_change = 2026-10-26T14:44:13.847569Z
 addr = 0x2318750
 name = "_ZN11Application9sInstanceE"
+type = "Application *"
 size = 0x8
 
 [0x23195b0]

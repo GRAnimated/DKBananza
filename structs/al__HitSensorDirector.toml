@@ -1,0 +1,63 @@
+last_change = 2026-10-26T15:03:48.393519Z
+name = "al::HitSensorDirector"
+size = 0x50
+
+[members.0x0]
+name = "__vftable"
+offset = 0x0
+type = "vtbl_71021573E0 *"
+size = 0x8
+
+[members.0x8]
+name = "__vftable_8"
+offset = 0x8
+type = "vtbl_7102157410 *"
+size = 0x8
+
+[members.0x10]
+name = "mPlayer"
+offset = 0x10
+type = "al::SensorHitGroup *"
+size = 0x8
+
+[members.0x18]
+name = "mPlayerEye"
+offset = 0x18
+type = "al::SensorHitGroup *"
+size = 0x8
+
+[members.0x20]
+name = "mRide"
+offset = 0x20
+type = "al::SensorHitGroup *"
+size = 0x8
+
+[members.0x28]
+name = "mEye"
+offset = 0x28
+type = "al::SensorHitGroup *"
+size = 0x8
+
+[members.0x30]
+name = "mLookAt"
+offset = 0x30
+type = "al::SensorHitGroup *"
+size = 0x8
+
+[members.0x38]
+name = "mSimple"
+offset = 0x38
+type = "al::SensorHitGroup *"
+size = 0x8
+
+[members.0x40]
+name = "mMapObj"
+offset = 0x40
+type = "al::SensorHitGroup *"
+size = 0x8
+
+[members.0x48]
+name = "mCharacter"
+offset = 0x48
+type = "al::SensorHitGroup *"
+size = 0x8

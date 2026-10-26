@@ -269391,3 +269391,9 @@ addr = 0x2318540
 name = "qword_7102318540"
 type = "__guard"
 size = 0x8
+
+[0x2176c70]
+last_change = 2026-10-26T17:00:35.912028Z
+addr = 0x2176c70
+name = "_ZTVN2al5SceneE"
+size = 0x10

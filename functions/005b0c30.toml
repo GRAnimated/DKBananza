@@ -1,11 +1,13 @@
-last_change = 2026-10-26T14:17:54.958157Z
+last_change = 2026-10-26T14:17:56.449329Z
 addr = 0x5b0c30
 size = 0x2e4
 name = "_ZN2al12MemorySystemC1EPN4sead4HeapE"
+type = "unsigned long long *"
 
 [header]
-last_change = 2026-10-26T14:17:54.958157Z
+last_change = 2026-10-26T14:17:56.449329Z
 name = "_ZN2al12MemorySystemC1EPN4sead4HeapE"
 addr = 0x5b0c30
+type = "unsigned long long *"
 
 [header.args]

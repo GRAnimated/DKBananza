@@ -1,0 +1,21 @@
+last_change = 2026-10-26T16:49:41.950872Z
+name = "sead::IDisposer"
+size = 0x20
+
+[members.0x0]
+name = "__vftable"
+offset = 0x0
+type = "void *"
+size = 0x8
+
+[members.0x8]
+name = "mDisposerHeap"
+offset = 0x8
+type = "sead::Heap *"
+size = 0x8
+
+[members.0x10]
+name = "mListNode"
+offset = 0x10
+type = "sead::ListNode"
+size = 0x10

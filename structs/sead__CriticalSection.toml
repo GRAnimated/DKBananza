@@ -1,9 +1,9 @@
-last_change = 2026-10-26T16:49:56.263846Z
+last_change = 2026-10-26T16:49:43.370655Z
 name = "sead::CriticalSection"
 size = 0x40
 
 [members.0x0]
-name = ""
+name = "mDisposer"
 offset = 0x0
 type = "sead::IDisposer"
 size = 0x20

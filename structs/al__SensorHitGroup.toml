@@ -1,4 +1,4 @@
-last_change = 2026-10-26T14:59:38.267351Z
+last_change = 2026-10-26T16:49:56.825778Z
 name = "al::SensorHitGroup"
 size = 0x58
 
@@ -29,5 +29,5 @@ size = 0x8
 [members.0x18]
 name = "size"
 offset = 0x18
-type = "void *[8]"
+type = "sead::CriticalSection"
 size = 0x40

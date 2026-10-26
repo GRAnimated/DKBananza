@@ -1,0 +1,11 @@
+last_change = 2026-10-26T14:56:39.058848Z
+addr = 0x36a450
+size = 0x13c
+name = "al_HitSensorDirector_HitSensorDirector"
+
+[header]
+last_change = 2026-10-26T14:56:39.058848Z
+name = "al_HitSensorDirector_HitSensorDirector"
+addr = 0x36a450
+
+[header.args]

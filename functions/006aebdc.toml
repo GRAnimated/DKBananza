@@ -1,0 +1,11 @@
+last_change = 2026-10-26T17:18:17.370944Z
+addr = 0x6aebdc
+size = 0x7c
+name = "_ZN2al5Scene6appearEv"
+
+[header]
+last_change = 2026-10-26T17:18:17.370944Z
+name = "_ZN2al5Scene6appearEv"
+addr = 0x6aebdc
+
+[header.args]

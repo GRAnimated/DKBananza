@@ -269413,7 +269413,7 @@ type = "al::Scene_vtbl"
 size = 0x78
 
 [0x224a1ec]
-last_change = 2026-10-26T17:38:08.757221Z
+last_change = 2026-10-26T17:38:10.190917Z
 addr = 0x224a1ec
-name = "dword_710224A1EC"
-size = 0x4
+name = ""
+size = 0x1

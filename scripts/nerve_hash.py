@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 import argparse
+import csv
 from itertools import product
 from pathlib import Path
 import sys
+from tempfile import NamedTemporaryFile
 
 # hash function from https://gist.github.com/wey-gu/5543c33987c0a5e8f7474b9b80cd36aa
 
@@ -62,6 +64,34 @@ def target_hash(value):
         raise argparse.ArgumentTypeError("not a proper hash")
     return result
 
+def update_csv(name, hash_value):
+    class_name, separator, nerve_name = name.partition("Nrv")
+    if not separator or not class_name or not nerve_name:
+        return
+    path = Path(__file__).resolve().parents[1] / "data" / "nerves" / "nerves.csv"
+    with path.open(newline="", encoding="utf-8") as file:
+        reader = csv.DictReader(file)
+        fields = reader.fieldnames
+        rows = list(reader)
+    matching = [row for row in rows if int(row["Hash"], 16) == hash_value]
+    for row in matching:
+        if ((row["Class"] and row["Class"] != class_name) or
+                (row["NerveName"] and row["NerveName"] != nerve_name)):
+            raise ValueError(f"Conflicting name for {hash_value:016X} at {row['Address']}")
+    changed = 0
+    for row in matching:
+        if row["Class"] != class_name or row["NerveName"] != nerve_name:
+            row.update({"Class": class_name, "NerveName": nerve_name})
+            changed += 1
+    if changed:
+        with NamedTemporaryFile(mode="w", newline="", encoding="utf-8", dir=path.parent, delete=False) as file:
+            temporary = Path(file.name)
+            writer = csv.DictWriter(file, fieldnames=fields)
+            writer.writeheader()
+            writer.writerows(rows)
+        temporary.replace(path)
+        print(f"Updated {changed} entries in {path.name}", file=sys.stderr)
+
 def brute_force(class_name, target, wordlists):
     word_groups = []
     class_name = "".join(class_name.split()) if class_name else None
@@ -105,6 +135,7 @@ def brute_force(class_name, target, wordlists):
                 suffix = " (HostType)" if candidate_class == "HostType" else ""
                 
                 print(f"{name}: {target:016X}{suffix}")
+                update_csv(name, target)
                 return 0
     
     print(f"No match for {target:016X} after {attempts} candidates.", file=sys.stderr)
@@ -137,7 +168,7 @@ def main():
         wordlists = args.wordlist or [Path(__file__).parent / "reference" / "nerve_names" / "nerve_names.txt"]
         try:
             return brute_force(args.class_name, args.brute, wordlists)
-        except (OSError, UnicodeError) as error:
+        except (OSError, UnicodeError, ValueError) as error:
             parser.error(str(error))
     if args.class_name or args.wordlist:
         parser.error("--class and --wordlist require --brute")
@@ -150,7 +181,12 @@ def main():
 
     for name in names:
         name = "".join(name.split())
-        print(f"{name}: {murmur64(name.encode('utf-8')):016X}")
+        hash_value = murmur64(name.encode('utf-8'))
+        print(f"{name}: {hash_value:016X}")
+        try:
+            update_csv(name, hash_value)
+        except (OSError, UnicodeError, ValueError) as error:
+            parser.error(str(error))
 
 
 if __name__ == "__main__":

@@ -2,7 +2,7 @@
 
 ## nerve_hash.py
 
-[nerve_hash.py](nerve_hash.py) hashes nerve class names using MurmurHash64A.
+[nerve_hash.py](nerve_hash.py) hashes nerve class names using MurmurHash64A. Matches update [nerves.csv](../data/nerves/nerves.csv).
 
 Pass names directly or read them from a file, one per line:
 
@@ -28,6 +28,13 @@ To combine words from multiple lists:
 ```sh
 python scripts/nerve_hash.py --brute 29D231D438558CAC --class Barrier --wordlist scripts/reference/nerve_names/nerve_prefixes.txt scripts/reference/nerve_names/nerve_suffixes.txt
 ```
+
+## IDA
+
+[ida/ida_rename_nerves.py](ida/ida_rename_nerves.py) renames functions in IDA to match `data/nerves/nerves.csv`.
+
+- `exe` functions try to be named when they exist
+- the class name is prepended to HostType nerves (maybe this is too messy)
 
 ## Reference
 

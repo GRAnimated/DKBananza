@@ -269417,3 +269417,10 @@ last_change = 2026-10-26T17:38:10.190917Z
 addr = 0x224a1ec
 name = ""
 size = 0x1
+
+[0x2176d40]
+last_change = 2026-10-26T17:43:13.208781Z
+addr = 0x2176d40
+name = "off_7102176D40"
+type = "vtbl_7102176D40"
+size = 0x8

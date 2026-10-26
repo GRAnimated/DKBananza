@@ -1,0 +1,11 @@
+last_change = 2026-10-26T16:58:35.108217Z
+addr = 0x12f3548
+size = 0x750
+name = "_ZN14SculptureScene4initERKN2al13SceneInitInfoE"
+
+[header]
+last_change = 2026-10-26T16:58:35.108217Z
+name = "_ZN14SculptureScene4initERKN2al13SceneInitInfoE"
+addr = 0x12f3548
+
+[header.args]

@@ -1,4 +1,4 @@
-last_change = 2026-10-26T14:26:04.129073Z
+last_change = 2026-10-26T14:29:40.802974Z
 name = "al::MemorySystem"
 size = 0x98
 
@@ -9,7 +9,7 @@ type = "void *"
 size = 0x8
 
 [members.0x8]
-name = "_8"
+name = "mStationedHeap"
 offset = 0x8
 type = "void *"
 size = 0x8

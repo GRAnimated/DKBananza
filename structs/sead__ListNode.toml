@@ -1,0 +1,15 @@
+last_change = 2026-10-26T16:49:41.384942Z
+name = "sead::ListNode"
+size = 0x10
+
+[members.0x0]
+name = "mPrev"
+offset = 0x0
+type = "void *"
+size = 0x8
+
+[members.0x8]
+name = "mNext"
+offset = 0x8
+type = "void *"
+size = 0x8

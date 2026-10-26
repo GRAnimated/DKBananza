@@ -1,0 +1,11 @@
+last_change = 2026-10-26T17:27:02.259312Z
+addr = 0x6aa080
+size = 0x78
+type = "long long *"
+
+[header]
+last_change = 2026-10-26T17:27:02.259312Z
+addr = 0x6aa080
+type = "long long *"
+
+[header.args]

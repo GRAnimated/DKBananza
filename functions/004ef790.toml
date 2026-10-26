@@ -1,0 +1,11 @@
+last_change = 2026-10-26T17:15:52.832209Z
+addr = 0x4ef790
+size = 0x8
+name = "_ZNK2al13NerveExecutor14getNerveKeeperEv"
+
+[header]
+last_change = 2026-10-26T17:15:52.832209Z
+name = "_ZNK2al13NerveExecutor14getNerveKeeperEv"
+addr = 0x4ef790
+
+[header.args]

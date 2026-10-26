@@ -1,15 +1,15 @@
-last_change = 2026-10-26T17:35:18.749706Z
+last_change = 2026-10-26T17:43:08.729638Z
 name = "vtbl_7102176D08"
 size = 0x10
 
 [members.0x0]
-name = "sub_71012DD4CC"
+name = "checkDerivedRuntimeTypeInfo"
 offset = 0x0
-type = "long long (__fastcall *)(long long)"
+type = "void *(__fastcall *)(const al::HioNode *, const sead::RuntimeTypeInfo::Interface *)"
 size = 0x8
 
 [members.0x8]
-name = "sub_71012DD4D4"
+name = "getRuntimeTypeInfo"
 offset = 0x8
-type = "long long *(*)()"
+type = "const sead::RuntimeTypeInfo::Interface *(__fastcall *)(const al::HioNode *)"
 size = 0x8

@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.990132Z
+addr = 0x11b65ac
+size = 0xa8
+name = "_ZN12WeightSwitchC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN12WeightSwitchC2EPKc"
+addr = 0x11b65ac
+type = "unsigned long long *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:43.751141Z
+addr = 0x7c6f10
+size = 0x1cc
+name = "_GLOBAL__sub_I_VoxelClockMapParts.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_VoxelClockMapParts.cpp"
+addr = 0x7c6f10
+type = "long long"
+
+[header.args]

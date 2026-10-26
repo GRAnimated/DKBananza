@@ -1,0 +1,10 @@
+last_change = 2026-10-26T00:37:09.974030Z
+addr = 0x5ac340
+size = 0x144
+name = "nnMain"
+
+[header]
+name = "nnMain"
+addr = 0x5ac340
+
+[header.args]

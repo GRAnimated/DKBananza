@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:39:28.211450Z
+addr = 0x16e94ec
+size = 0xa8
+name = "_ZN13WheelMapPartsC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN13WheelMapPartsC2EPKc"
+addr = 0x16e94ec
+type = "void *"
+
+[header.args]

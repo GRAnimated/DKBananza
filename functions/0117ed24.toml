@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:24.802301Z
+addr = 0x117ed24
+size = 0x12c
+name = "_ZN9ThornPoleC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN9ThornPoleC2EPKc"
+addr = 0x117ed24
+type = "void *"
+
+[header.args]

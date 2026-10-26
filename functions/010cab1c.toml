@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:17.528096Z
+addr = 0x10cab1c
+size = 0xa0
+name = "_ZN11FragmentObjC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN11FragmentObjC2EPKc"
+addr = 0x10cab1c
+type = "void *"
+
+[header.args]

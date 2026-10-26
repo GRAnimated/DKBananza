@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.982404Z
+addr = 0xe84844
+size = 0xdc
+name = "_ZN7GorongoC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN7GorongoC2EPKc"
+addr = 0xe84844
+type = "unsigned long long *"
+
+[header.args]

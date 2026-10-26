@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:40.698850Z
+addr = 0x7ab720
+size = 0x11c
+name = "_GLOBAL__sub_I_Sinkhole.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_Sinkhole.cpp"
+addr = 0x7ab720
+type = "long long"
+
+[header.args]

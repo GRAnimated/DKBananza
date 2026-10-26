@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:38.462180Z
+addr = 0x7a3470
+size = 0x1a0
+name = "_GLOBAL__sub_I_DeformLift.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_DeformLift.cpp"
+addr = 0x7a3470
+type = "long long"
+
+[header.args]

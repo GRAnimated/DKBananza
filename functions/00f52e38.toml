@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:06.638138Z
+addr = 0xf52e38
+size = 0xac
+name = "_ZN10DebrischanC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN10DebrischanC2EPKc"
+addr = 0xf52e38
+type = "void *"
+
+[header.args]

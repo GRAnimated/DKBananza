@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.988950Z
+addr = 0x114fff8
+size = 0xe0
+name = "_ZN13SkydivingGoldC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN13SkydivingGoldC2EPKc"
+addr = 0x114fff8
+type = "unsigned long long *"
+
+[header.args]

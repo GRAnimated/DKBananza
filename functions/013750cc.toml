@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:47.624128Z
+addr = 0x13750cc
+size = 0xe8
+name = "_ZN26VoxelLiftUpRegeneratePartsC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN26VoxelLiftUpRegeneratePartsC2EPKc"
+addr = 0x13750cc
+type = "void *"
+
+[header.args]

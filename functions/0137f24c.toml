@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.995749Z
+addr = 0x137f24c
+size = 0x9c
+name = "_ZN21VoxelRailMoveMapPartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN21VoxelRailMoveMapPartsC2EPKc"
+addr = 0x137f24c
+type = "unsigned long long *"
+
+[header.args]

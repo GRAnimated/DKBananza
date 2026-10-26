@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:39.069607Z
+addr = 0x7a4c40
+size = 0x48
+name = "_GLOBAL__sub_I_FortLevelSoundCtrl.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_FortLevelSoundCtrl.cpp"
+addr = 0x7a4c40
+type = "long long"
+
+[header.args]

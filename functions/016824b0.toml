@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.004133Z
+addr = 0x16824b0
+size = 0x8c
+name = "_ZN19DemoActorRhythmSyncC2EPKc"
+type = "long long"
+
+[header]
+name = "_ZN19DemoActorRhythmSyncC2EPKc"
+addr = 0x16824b0
+type = "long long"
+
+[header.args]

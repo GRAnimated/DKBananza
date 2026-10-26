@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:42.162184Z
+addr = 0x7b0580
+size = 0x48
+name = "_GLOBAL__sub_I_Yocchi.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_Yocchi.cpp"
+addr = 0x7b0580
+type = "long long"
+
+[header.args]

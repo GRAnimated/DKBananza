@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:06.913372Z
+addr = 0xf632e4
+size = 0xc0
+name = "_ZN6FlydonC2EPKc"
+type = "long long"
+
+[header]
+name = "_ZN6FlydonC2EPKc"
+addr = 0xf632e4
+type = "long long"
+
+[header.args]

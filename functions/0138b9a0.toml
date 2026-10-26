@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.996070Z
+addr = 0x138b9a0
+size = 0x4
+name = "j_realloc"
+type = "long long"
+
+[header]
+name = "j_realloc"
+addr = 0x138b9a0
+type = "long long"
+
+[header.args]

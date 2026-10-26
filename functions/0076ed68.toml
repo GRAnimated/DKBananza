@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:35.193864Z
+addr = 0x76ed68
+size = 0x128
+name = "_ZN7GrowNpcC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN7GrowNpcC2EPKc"
+addr = 0x76ed68
+type = "void *"
+
+[header.args]

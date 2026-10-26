@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:39.629812Z
+addr = 0x7a6a00
+size = 0x48
+name = "_GLOBAL__sub_I_Landmine.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_Landmine.cpp"
+addr = 0x7a6a00
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:07.373645Z
+addr = 0xf79018
+size = 0xe0
+name = "_ZN10HopperCoreC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN10HopperCoreC2EPKc"
+addr = 0xf79018
+type = "void *"
+
+[header.args]

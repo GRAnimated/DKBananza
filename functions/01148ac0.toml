@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:22.442640Z
+addr = 0x1148ac0
+size = 0xa8
+name = "_ZN2al19createActorFunctionI12SinkholeGateEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI12SinkholeGateEEPNS_9LiveActorEPKc"
+addr = 0x1148ac0
+type = "al::LiveActor *"
+
+[header.args]

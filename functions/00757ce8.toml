@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.975963Z
+addr = 0x757ce8
+size = 0xa4
+name = "_ZN29VoxelKeyMoveMapPartsGeneratorC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN29VoxelKeyMoveMapPartsGeneratorC2EPKc"
+addr = 0x757ce8
+type = "unsigned long long *"
+
+[header.args]

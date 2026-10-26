@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.986208Z
+addr = 0x105d1a8
+size = 0xb8
+name = "_ZN25SyncClockMapPartsDirectorC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN25SyncClockMapPartsDirectorC2EPKc"
+addr = 0x105d1a8
+type = "unsigned long long *"
+
+[header.args]

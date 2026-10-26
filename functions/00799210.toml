@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:36.776426Z
+addr = 0x799210
+size = 0x1cc
+name = "_GLOBAL__sub_I_LifeItem.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_LifeItem.cpp"
+addr = 0x799210
+type = "long long"
+
+[header.args]

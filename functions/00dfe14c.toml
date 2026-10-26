@@ -1,0 +1,10 @@
+last_change = 2026-10-26T00:37:09.981053Z
+addr = 0xdfe14c
+size = 0x4
+name = "j__ZN2nn5codec24FinalizeDecoderImagePoolEPNS0_25VideoDecoderImagePoolTypeE_0"
+
+[header]
+name = "j__ZN2nn5codec24FinalizeDecoderImagePoolEPNS0_25VideoDecoderImagePoolTypeE_0"
+addr = 0xdfe14c
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.986179Z
+addr = 0x105862c
+size = 0x4
+name = "j__ZdlPv_610"
+type = "void"
+
+[header]
+name = "j__ZdlPv_610"
+addr = 0x105862c
+type = "void"
+
+[header.args]

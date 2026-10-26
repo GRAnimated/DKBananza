@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.995853Z
+addr = 0x1383750
+size = 0xc0
+name = "_ZN30VoxelRotateMapPartsConnectableC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN30VoxelRotateMapPartsConnectableC2EPKc"
+addr = 0x1383750
+type = "unsigned long long *"
+
+[header.args]

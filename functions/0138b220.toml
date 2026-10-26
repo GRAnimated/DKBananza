@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.996047Z
+addr = 0x138b220
+size = 0x8
+name = "_ZdaPvRKSt9nothrow_t"
+type = "void"
+
+[header]
+name = "_ZdaPvRKSt9nothrow_t"
+addr = 0x138b220
+type = "void"
+
+[header.args]

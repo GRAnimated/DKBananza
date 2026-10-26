@@ -1,0 +1,10 @@
+last_change = 2026-10-26T00:37:09.999980Z
+addr = 0x14f3f50
+size = 0x4
+name = "j__ZN2nn2os24FinalizeReaderWriterLockEPNS0_20ReaderWriterLockTypeE_0"
+
+[header]
+name = "j__ZN2nn2os24FinalizeReaderWriterLockEPNS0_20ReaderWriterLockTypeE_0"
+addr = 0x14f3f50
+
+[header.args]

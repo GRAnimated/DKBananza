@@ -1,11 +1,12 @@
-last_change = 2026-10-25T23:11:42.392028Z
+last_change = 2026-10-26T00:37:09.981206Z
 addr = 0xe29254
 size = 0x8
-name = "al::LiveActor::getAudioKeeper_void_erEv"
+name = "_ZNK2al9LiveActor14getAudioKeeperEv"
+type = "long long"
 
 [header]
-last_change = 2026-10-25T23:11:42.392028Z
-name = "al::LiveActor::getAudioKeeper_void_erEv"
+name = "_ZNK2al9LiveActor14getAudioKeeperEv"
 addr = 0xe29254
+type = "long long"
 
 [header.args]

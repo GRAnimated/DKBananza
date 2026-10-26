@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.983718Z
+addr = 0xf2dccc
+size = 0x13c
+name = "_ZN12DemoStartObjC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN12DemoStartObjC2EPKc"
+addr = 0xf2dccc
+type = "unsigned long long *"
+
+[header.args]

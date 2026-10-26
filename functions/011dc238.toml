@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.990623Z
+addr = 0x11dc238
+size = 0xac
+name = "_ZN16Npc2FastTravelerC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN16Npc2FastTravelerC2EPKc"
+addr = 0x11dc238
+type = "void *"
+
+[header.args]

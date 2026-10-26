@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:39.188238Z
+addr = 0x7a5fd0
+size = 0xcc
+name = "_ZN2al19createActorFunctionI9GoalValveEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI9GoalValveEEPNS_9LiveActorEPKc"
+addr = 0x7a5fd0
+type = "al::LiveActor *"
+
+[header.args]

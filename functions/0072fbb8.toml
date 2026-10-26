@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.975915Z
+addr = 0x72fbb8
+size = 0xf8
+name = "_ZN16LevelIntroCameraC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN16LevelIntroCameraC2EPKc"
+addr = 0x72fbb8
+type = "unsigned long long *"
+
+[header.args]

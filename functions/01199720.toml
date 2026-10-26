@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.989787Z
+addr = 0x1199720
+size = 0xcc
+name = "_ZN17TumbleBallShooterC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN17TumbleBallShooterC2EPKc"
+addr = 0x1199720
+type = "unsigned long long *"
+
+[header.args]

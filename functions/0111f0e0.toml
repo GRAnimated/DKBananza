@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:20.630300Z
+addr = 0x111f0e0
+size = 0xa0
+name = "_ZN2al19createActorFunctionI22MinecartRailSwitchRailEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI22MinecartRailSwitchRailEEPNS_9LiveActorEPKc"
+addr = 0x111f0e0
+type = "al::LiveActor *"
+
+[header.args]

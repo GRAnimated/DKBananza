@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:40.844131Z
+addr = 0x7abc80
+size = 0x48
+name = "_GLOBAL__sub_I_SmallBat.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_SmallBat.cpp"
+addr = 0x7abc80
+type = "long long"
+
+[header.args]

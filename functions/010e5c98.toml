@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:18.569057Z
+addr = 0x10e5c98
+size = 0xa8
+name = "_ZN18HeightChangeBridgeC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN18HeightChangeBridgeC2EPKc"
+addr = 0x10e5c98
+type = "void *"
+
+[header.args]

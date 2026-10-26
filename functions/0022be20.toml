@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:22.317818Z
+addr = 0x22be20
+size = 0x56c
+name = "_Znwm"
+type = "long long"
+
+[header]
+name = "_Znwm"
+addr = 0x22be20
+type = "long long"
+
+[header.args]

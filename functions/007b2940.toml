@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:42.340342Z
+addr = 0x7b2940
+size = 0x74
+name = "_GLOBAL__sub_I_TODO_LiveActor_71007B2940"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_TODO_LiveActor_71007B2940"
+addr = 0x7b2940
+type = "long long"
+
+[header.args]

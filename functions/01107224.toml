@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.988216Z
+addr = 0x1107224
+size = 0x110
+name = "_ZN6LizardC2EPKc"
+type = "long long"
+
+[header]
+name = "_ZN6LizardC2EPKc"
+addr = 0x1107224
+type = "long long"
+
+[header.args]

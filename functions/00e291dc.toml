@@ -1,11 +1,12 @@
-last_change = 2026-10-25T23:11:41.219834Z
+last_change = 2026-10-26T00:37:09.981136Z
 addr = 0xe291dc
 size = 0x4c
-name = "al::LiveActor::DESTRUCTOR_LiveActor_D1Ev"
+name = "_ZN2al9LiveActorD1Ev"
+type = "unsigned long long *"
 
 [header]
-last_change = 2026-10-25T23:11:41.219834Z
-name = "al::LiveActor::DESTRUCTOR_LiveActor_D1Ev"
+name = "_ZN2al9LiveActorD1Ev"
 addr = 0xe291dc
+type = "unsigned long long *"
 
 [header.args]

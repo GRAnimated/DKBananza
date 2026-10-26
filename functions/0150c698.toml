@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.000184Z
+addr = 0x150c698
+size = 0x4
+name = "j_cosf_0"
+type = "float"
+
+[header]
+name = "j_cosf_0"
+addr = 0x150c698
+type = "float"
+
+[header.args]

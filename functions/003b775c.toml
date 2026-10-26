@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.973098Z
+addr = 0x3b775c
+size = 0x10c
+name = "_ZN9DemoActorC2EPKc"
+type = "long double"
+
+[header]
+name = "_ZN9DemoActorC2EPKc"
+addr = 0x3b775c
+type = "long double"
+
+[header.args]

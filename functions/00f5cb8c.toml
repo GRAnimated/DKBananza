@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.984386Z
+addr = 0xf5cb8c
+size = 0x98
+name = "_ZN11DonZainCoreC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN11DonZainCoreC2EPKc"
+addr = 0xf5cb8c
+type = "unsigned long long *"
+
+[header.args]

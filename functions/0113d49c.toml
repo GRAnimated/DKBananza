@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:21.941430Z
+addr = 0x113d49c
+size = 0xf0
+name = "_ZN12RecycleVoxelC2EPKc"
+type = "long long"
+
+[header]
+name = "_ZN12RecycleVoxelC2EPKc"
+addr = 0x113d49c
+type = "long long"
+
+[header.args]

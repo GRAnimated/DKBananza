@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.987563Z
+addr = 0x10ca02c
+size = 0x9c
+name = "_ZN18FossilRoomDirectorC2EPKc"
+type = "long long"
+
+[header]
+name = "_ZN18FossilRoomDirectorC2EPKc"
+addr = 0x10ca02c
+type = "long long"
+
+[header.args]

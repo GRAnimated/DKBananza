@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.982180Z
+addr = 0xe678b4
+size = 0xf8
+name = "_ZN11BossMimichiC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN11BossMimichiC2EPKc"
+addr = 0xe678b4
+type = "unsigned long long *"
+
+[header.args]

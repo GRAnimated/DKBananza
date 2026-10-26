@@ -1,0 +1,10 @@
+last_change = 2026-10-26T00:37:09.978455Z
+addr = 0x82e91c
+size = 0x4
+name = "j__ZN2nn2os13FinalizeMutexEPNS0_9MutexTypeE_0_0"
+
+[header]
+name = "j__ZN2nn2os13FinalizeMutexEPNS0_9MutexTypeE_0_0"
+addr = 0x82e91c
+
+[header.args]

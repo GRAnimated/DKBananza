@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.976023Z
+addr = 0x75f498
+size = 0xc8
+name = "_ZN14DoorBonusStageC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN14DoorBonusStageC2EPKc"
+addr = 0x75f498
+type = "unsigned long long *"
+
+[header.args]

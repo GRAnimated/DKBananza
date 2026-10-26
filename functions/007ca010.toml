@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:44.227475Z
+addr = 0x7ca010
+size = 0xf0
+name = "_GLOBAL__sub_I_VoxelRotateMapParts.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_VoxelRotateMapParts.cpp"
+addr = 0x7ca010
+type = "long long"
+
+[header.args]

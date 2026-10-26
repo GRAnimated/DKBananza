@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:42.229751Z
+addr = 0x7b1630
+size = 0x78
+name = "_GLOBAL__sub_I_GreatHarmoneel.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_GreatHarmoneel.cpp"
+addr = 0x7b1630
+type = "long long"
+
+[header.args]

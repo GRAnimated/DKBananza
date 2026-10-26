@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.981315Z
+addr = 0xe2ddf0
+size = 0x4
+name = "something_27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+type = "long long"
+
+[header]
+name = "something_27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0xe2ddf0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.985378Z
+addr = 0xfe5cdc
+size = 0xac
+name = "_ZN18CollectChipWatcherC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN18CollectChipWatcherC2EPKc"
+addr = 0xfe5cdc
+type = "unsigned long long *"
+
+[header.args]

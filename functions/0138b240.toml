@@ -1,0 +1,10 @@
+last_change = 2026-10-26T00:37:09.996055Z
+addr = 0x138b240
+size = 0x8
+name = "_ZdlPvSt11align_val_tRKSt9nothrow_t"
+
+[header]
+name = "_ZdlPvSt11align_val_tRKSt9nothrow_t"
+addr = 0x138b240
+
+[header.args]

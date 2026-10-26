@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:42.597808Z
+addr = 0x7b3e90
+size = 0x48
+name = "_GLOBAL__sub_I_Npc2Distant.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_Npc2Distant.cpp"
+addr = 0x7b3e90
+type = "long long"
+
+[header.args]

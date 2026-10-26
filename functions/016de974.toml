@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.005737Z
+addr = 0x16de974
+size = 0xa0
+name = "_ZN15KeyMoveMapPartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN15KeyMoveMapPartsC2EPKc"
+addr = 0x16de974
+type = "unsigned long long *"
+
+[header.args]

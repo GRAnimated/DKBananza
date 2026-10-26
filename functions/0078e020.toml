@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:35.854004Z
+addr = 0x78e020
+size = 0x84
+name = "_GLOBAL__sub_I_DemoActorVoxelNpc.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_DemoActorVoxelNpc.cpp"
+addr = 0x78e020
+type = "long long"
+
+[header.args]

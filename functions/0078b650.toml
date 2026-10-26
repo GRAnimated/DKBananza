@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:35.401973Z
+addr = 0x78b650
+size = 0x120
+name = "_GLOBAL__sub_I_BossMimichi.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_BossMimichi.cpp"
+addr = 0x78b650
+type = "long long"
+
+[header.args]

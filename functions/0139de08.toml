@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.996433Z
+addr = 0x139de08
+size = 0x4
+name = "j__ZN2nn2os11YieldThreadEv_0"
+type = "unsigned long long"
+
+[header]
+name = "j__ZN2nn2os11YieldThreadEv_0"
+addr = 0x139de08
+type = "unsigned long long"
+
+[header.args]

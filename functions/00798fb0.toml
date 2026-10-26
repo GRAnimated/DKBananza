@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:36.744008Z
+addr = 0x798fb0
+size = 0x48
+name = "_GLOBAL__sub_I_Fossil.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_Fossil.cpp"
+addr = 0x798fb0
+type = "long long"
+
+[header.args]

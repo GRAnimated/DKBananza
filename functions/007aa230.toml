@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:40.286574Z
+addr = 0x7aa230
+size = 0x48
+name = "_GLOBAL__sub_I_PlayerTerritoryPole.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_PlayerTerritoryPole.cpp"
+addr = 0x7aa230
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:16.945213Z
+addr = 0x10be0d8
+size = 0xe8
+name = "_ZN18ExtraLargeFruitObjC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN18ExtraLargeFruitObjC2EPKc"
+addr = 0x10be0d8
+type = "void *"
+
+[header.args]

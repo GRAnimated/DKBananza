@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:31.340528Z
+addr = 0x1222138
+size = 0xa0
+name = "_ZN11TadoruyaNpcC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN11TadoruyaNpcC2EPKc"
+addr = 0x1222138
+type = "void *"
+
+[header.args]

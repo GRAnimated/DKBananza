@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.995649Z
+addr = 0x1378888
+size = 0x9c
+name = "_ZN14VoxelMoneyRailC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN14VoxelMoneyRailC2EPKc"
+addr = 0x1378888
+type = "unsigned long long *"
+
+[header.args]

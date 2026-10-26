@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.987175Z
+addr = 0x10ad310
+size = 0xb8
+name = "_ZN24DemoGraphicsEnvChangeObjC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN24DemoGraphicsEnvChangeObjC2EPKc"
+addr = 0x10ad310
+type = "unsigned long long *"
+
+[header.args]

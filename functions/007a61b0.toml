@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:39.222117Z
+addr = 0x7a61b0
+size = 0xc4
+name = "_GLOBAL__sub_I_Gondola.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_Gondola.cpp"
+addr = 0x7a61b0
+type = "long long"
+
+[header.args]

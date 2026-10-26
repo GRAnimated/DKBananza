@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.005526Z
+addr = 0x16c9c80
+size = 0x4
+name = "nullsub_3544"
+type = "long long"
+
+[header]
+name = "nullsub_3544"
+addr = 0x16c9c80
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.995583Z
+addr = 0x13727e8
+size = 0xb8
+name = "_ZN31VoxelKeyMoveMapPartsConnectableC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN31VoxelKeyMoveMapPartsConnectableC2EPKc"
+addr = 0x13727e8
+type = "unsigned long long *"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-26T00:37:09.978380Z
+addr = 0x826fa0
+size = 0xc
+name = "nndetailRoGetRoDataStart"
+
+[header]
+name = "nndetailRoGetRoDataStart"
+addr = 0x826fa0
+
+[header.args]

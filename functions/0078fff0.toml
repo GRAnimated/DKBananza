@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:36.260470Z
+addr = 0x78fff0
+size = 0x88
+name = "_GLOBAL__sub_I_Gororo.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_Gororo.cpp"
+addr = 0x78fff0
+type = "long long"
+
+[header.args]

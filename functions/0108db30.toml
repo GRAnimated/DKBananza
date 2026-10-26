@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.986876Z
+addr = 0x108db30
+size = 0xb4
+name = "_ZN20ChikaChikaVoxelPartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN20ChikaChikaVoxelPartsC2EPKc"
+addr = 0x108db30
+type = "unsigned long long *"
+
+[header.args]

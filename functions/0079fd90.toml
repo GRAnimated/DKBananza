@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:37.497270Z
+addr = 0x79fd90
+size = 0x48
+name = "_GLOBAL__sub_I_BioFountain.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_BioFountain.cpp"
+addr = 0x79fd90
+type = "long long"
+
+[header.args]

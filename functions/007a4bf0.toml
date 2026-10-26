@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:39.053226Z
+addr = 0x7a4bf0
+size = 0x48
+name = "_GLOBAL__sub_I_FootprintDecal.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_FootprintDecal.cpp"
+addr = 0x7a4bf0
+type = "long long"
+
+[header.args]

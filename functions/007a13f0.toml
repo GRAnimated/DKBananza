@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:37.743844Z
+addr = 0x7a13f0
+size = 0x48
+name = "_GLOBAL__sub_I_BurgerSwitch.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_BurgerSwitch.cpp"
+addr = 0x7a13f0
+type = "long long"
+
+[header.args]

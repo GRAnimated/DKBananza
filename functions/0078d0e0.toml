@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:35.680655Z
+addr = 0x78d0e0
+size = 0x48
+name = "_GLOBAL__sub_I_TowerKRoolDemoActor.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_TowerKRoolDemoActor.cpp"
+addr = 0x78d0e0
+type = "long long"
+
+[header.args]

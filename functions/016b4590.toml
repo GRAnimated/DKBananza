@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.005337Z
+addr = 0x16b4590
+size = 0x8c
+name = "_ZN18CausticsLightActorC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN18CausticsLightActorC2EPKc"
+addr = 0x16b4590
+type = "unsigned long long *"
+
+[header.args]

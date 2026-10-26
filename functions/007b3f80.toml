@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:42.645896Z
+addr = 0x7b3f80
+size = 0x48
+name = "_GLOBAL__sub_I_Npc2KongConstructionBossKong.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_Npc2KongConstructionBossKong.cpp"
+addr = 0x7b3f80
+type = "long long"
+
+[header.args]

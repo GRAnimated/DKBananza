@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.005848Z
+addr = 0x16e6c90
+size = 0xd4
+name = "_ZN12SurfMapPartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN12SurfMapPartsC2EPKc"
+addr = 0x16e6c90
+type = "unsigned long long *"
+
+[header.args]

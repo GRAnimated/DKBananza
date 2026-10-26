@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:34.272585Z
+addr = 0x6f1bd0
+size = 0x178
+name = "_ZN18CannonBarrelTargetC2Ev"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN18CannonBarrelTargetC2Ev"
+addr = 0x6f1bd0
+type = "unsigned long long *"
+
+[header.args]

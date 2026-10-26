@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:16.835755Z
+addr = 0x10bb6c0
+size = 0xc4
+name = "_ZN2al19createActorFunctionI18EffectObjRailGuideEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI18EffectObjRailGuideEEPNS_9LiveActorEPKc"
+addr = 0x10bb6c0
+type = "al::LiveActor *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.987103Z
+addr = 0x10a6d88
+size = 0xa8
+name = "_ZN10DeformLiftC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN10DeformLiftC2EPKc"
+addr = 0x10a6d88
+type = "unsigned long long *"
+
+[header.args]

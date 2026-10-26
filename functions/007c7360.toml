@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:43.786841Z
+addr = 0x7c7360
+size = 0x48
+name = "_GLOBAL__sub_I_VoxelConveyorMapParts.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_VoxelConveyorMapParts.cpp"
+addr = 0x7c7360
+type = "long long"
+
+[header.args]

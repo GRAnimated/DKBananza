@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.987984Z
+addr = 0x10ecb50
+size = 0xa8
+name = "_ZN8IceMakerC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN8IceMakerC2EPKc"
+addr = 0x10ecb50
+type = "unsigned long long *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:00.959657Z
+addr = 0xe9b34c
+size = 0xac
+name = "_ZN19KingKRoolCannonBallC2EPKc"
+type = "unsigned int *"
+
+[header]
+name = "_ZN19KingKRoolCannonBallC2EPKc"
+addr = 0xe9b34c
+type = "unsigned int *"
+
+[header.args]

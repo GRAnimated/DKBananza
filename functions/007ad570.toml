@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:41.491861Z
+addr = 0x7ad570
+size = 0x48
+name = "_GLOBAL__sub_I_ThunderDirector.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_ThunderDirector.cpp"
+addr = 0x7ad570
+type = "long long"
+
+[header.args]

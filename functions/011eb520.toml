@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.990867Z
+addr = 0x11eb520
+size = 0xb8
+name = "_ZN23Npc2KongTalkerDixieKongC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN23Npc2KongTalkerDixieKongC2EPKc"
+addr = 0x11eb520
+type = "void *"
+
+[header.args]

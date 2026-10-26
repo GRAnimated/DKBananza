@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.987079Z
+addr = 0x10a1e58
+size = 0xa0
+name = "_ZN10DangleRopeC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN10DangleRopeC2EPKc"
+addr = 0x10a1e58
+type = "unsigned long long *"
+
+[header.args]

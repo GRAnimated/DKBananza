@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:35.325057Z
+addr = 0x7885d0
+size = 0x11c
+name = "_GLOBAL__sub_I_LightShaftArea.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_LightShaftArea.cpp"
+addr = 0x7885d0
+type = "long long"
+
+[header.args]

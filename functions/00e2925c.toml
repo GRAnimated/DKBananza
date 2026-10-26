@@ -1,11 +1,12 @@
-last_change = 2026-10-25T23:11:42.398028Z
+last_change = 2026-10-26T00:37:09.981214Z
 addr = 0xe2925c
 size = 0x8
-name = "al::LiveActor::getStageSwitchKeeper_void_erEv"
+name = "_ZNK2al9LiveActor20getStageSwitchKeeperEv"
+type = "long long"
 
 [header]
-last_change = 2026-10-25T23:11:42.398028Z
-name = "al::LiveActor::getStageSwitchKeeper_void_erEv"
+name = "_ZNK2al9LiveActor20getStageSwitchKeeperEv"
 addr = 0xe2925c
+type = "long long"
 
 [header.args]

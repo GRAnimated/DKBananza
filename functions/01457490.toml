@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.998105Z
+addr = 0x1457490
+size = 0x4
+name = "j__ZN2nn2os13GetSystemTickEv_0_1"
+type = "unsigned long long"
+
+[header]
+name = "j__ZN2nn2os13GetSystemTickEv_0_1"
+addr = 0x1457490
+type = "unsigned long long"
+
+[header.args]

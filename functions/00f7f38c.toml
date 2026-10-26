@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:07.557606Z
+addr = 0xf7f38c
+size = 0x144
+name = "_ZN8MarksmanC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN8MarksmanC2EPKc"
+addr = 0xf7f38c
+type = "void *"
+
+[header.args]

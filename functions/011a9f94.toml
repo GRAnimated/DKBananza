@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:26.460949Z
+addr = 0x11a9f94
+size = 0xcc
+name = "_ZN17VoxelMimichiPartsC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN17VoxelMimichiPartsC2EPKc"
+addr = 0x11a9f94
+type = "void *"
+
+[header.args]

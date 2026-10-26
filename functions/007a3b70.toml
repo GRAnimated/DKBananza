@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:38.712345Z
+addr = 0x7a3b70
+size = 0x48
+name = "_GLOBAL__sub_I_DistantViewParts.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_DistantViewParts.cpp"
+addr = 0x7a3b70
+type = "long long"
+
+[header.args]

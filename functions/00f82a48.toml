@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:07.716116Z
+addr = 0xf82a48
+size = 0x98
+name = "_ZN7MimichiC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN7MimichiC2EPKc"
+addr = 0xf82a48
+type = "void *"
+
+[header.args]

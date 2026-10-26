@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.974013Z
+addr = 0x594870
+size = 0x90
+name = "_ZN2al14LiveActorGroupC2EPKci"
+type = "long long"
+
+[header]
+name = "_ZN2al14LiveActorGroupC2EPKci"
+addr = 0x594870
+type = "long long"
+
+[header.args]

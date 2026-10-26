@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.982077Z
+addr = 0xe5d680
+size = 0x9c
+name = "_ZN13BioThornRouteC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN13BioThornRouteC2EPKc"
+addr = 0xe5d680
+type = "unsigned long long *"
+
+[header.args]

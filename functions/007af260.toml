@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:41.958159Z
+addr = 0x7af260
+size = 0x48
+name = "_GLOBAL__sub_I_VoxelMiniatureMap.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_VoxelMiniatureMap.cpp"
+addr = 0x7af260
+type = "long long"
+
+[header.args]

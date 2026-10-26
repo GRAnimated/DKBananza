@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:35.124298Z
+addr = 0x75f898
+size = 0xcc
+name = "_ZN8MapModelC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN8MapModelC2EPKc"
+addr = 0x75f898
+type = "unsigned long long *"
+
+[header.args]

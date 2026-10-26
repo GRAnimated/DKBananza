@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:24.665070Z
+addr = 0x117ce30
+size = 0xa8
+name = "_ZN2al19createActorFunctionI10TankSwitchEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI10TankSwitchEEPNS_9LiveActorEPKc"
+addr = 0x117ce30
+type = "al::LiveActor *"
+
+[header.args]

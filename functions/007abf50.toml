@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:40.970313Z
+addr = 0x7abf50
+size = 0x70
+name = "_GLOBAL__sub_I_SoundToy.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_SoundToy.cpp"
+addr = 0x7abf50
+type = "long long"
+
+[header.args]

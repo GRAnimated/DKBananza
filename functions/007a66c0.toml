@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:39.495144Z
+addr = 0x7a66c0
+size = 0x88
+name = "_GLOBAL__sub_I_IceMakerSwitch.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_IceMakerSwitch.cpp"
+addr = 0x7a66c0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:45.062664Z
+addr = 0x82af30
+size = 0x54
+name = "realloc"
+type = "long long"
+
+[header]
+name = "realloc"
+addr = 0x82af30
+type = "long long"
+
+[header.args]

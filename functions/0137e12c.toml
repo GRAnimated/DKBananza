@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.995724Z
+addr = 0x137e12c
+size = 0xb4
+name = "_ZN15VoxelProminenceC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN15VoxelProminenceC2EPKc"
+addr = 0x137e12c
+type = "unsigned long long *"
+
+[header.args]

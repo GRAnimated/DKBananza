@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.990170Z
+addr = 0x11bbc08
+size = 0xac
+name = "_ZN7ZipLineC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN7ZipLineC2EPKc"
+addr = 0x11bbc08
+type = "unsigned long long *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.986761Z
+addr = 0x1084b28
+size = 0xb0
+name = "_ZN16CannonBarrelExitC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN16CannonBarrelExitC2EPKc"
+addr = 0x1084b28
+type = "unsigned long long *"
+
+[header.args]

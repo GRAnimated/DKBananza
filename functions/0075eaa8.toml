@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:35.015332Z
+addr = 0x75eaa8
+size = 0x1c0
+name = "_ZN4ZainC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN4ZainC2EPKc"
+addr = 0x75eaa8
+type = "void *"
+
+[header.args]

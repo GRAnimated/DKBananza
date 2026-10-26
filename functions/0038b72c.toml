@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:22.738242Z
+addr = 0x38b72c
+size = 0x100
+name = "_ZN16VoxelFragmentObjC2EPKc"
+type = "long long"
+
+[header]
+name = "_ZN16VoxelFragmentObjC2EPKc"
+addr = 0x38b72c
+type = "long long"
+
+[header.args]

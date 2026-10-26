@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.983676Z
+addr = 0xf2ad30
+size = 0xe8
+name = "_ZN17DemoActorVoxelNpcC2EPKc"
+type = "long long"
+
+[header]
+name = "_ZN17DemoActorVoxelNpcC2EPKc"
+addr = 0xf2ad30
+type = "long long"
+
+[header.args]

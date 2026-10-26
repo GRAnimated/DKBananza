@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.986373Z
+addr = 0x106ac28
+size = 0xe4
+name = "_ZN18BattleStageSettingC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN18BattleStageSettingC2EPKc"
+addr = 0x106ac28
+type = "unsigned long long *"
+
+[header.args]

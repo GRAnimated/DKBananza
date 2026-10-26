@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:23.591822Z
+addr = 0x1166f70
+size = 0x108
+name = "_ZN11StoneStatueC2EPKc"
+type = "unsigned int *"
+
+[header]
+name = "_ZN11StoneStatueC2EPKc"
+addr = 0x1166f70
+type = "unsigned int *"
+
+[header.args]

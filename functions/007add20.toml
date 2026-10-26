@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:41.624296Z
+addr = 0x7add20
+size = 0x48
+name = "_GLOBAL__sub_I_TransparentWallFixMapParts.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_TransparentWallFixMapParts.cpp"
+addr = 0x7add20
+type = "long long"
+
+[header.args]

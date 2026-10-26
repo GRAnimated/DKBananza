@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.988015Z
+addr = 0x10f16bc
+size = 0xcc
+name = "_ZN7IciclesC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN7IciclesC2EPKc"
+addr = 0x10f16bc
+type = "unsigned long long *"
+
+[header.args]

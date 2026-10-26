@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:41.407972Z
+addr = 0x12eac90
+size = 0x38
+name = "_ZN2al19createActorFunctionI14WobbleMapPartsEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI14WobbleMapPartsEEPNS_9LiveActorEPKc"
+addr = 0x12eac90
+type = "al::LiveActor *"
+
+[header.args]

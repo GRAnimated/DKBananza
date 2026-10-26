@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.989419Z
+addr = 0x11781b4
+size = 0xb4
+name = "_ZN17SyncClockMapPartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN17SyncClockMapPartsC2EPKc"
+addr = 0x11781b4
+type = "unsigned long long *"
+
+[header.args]

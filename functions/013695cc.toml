@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.995452Z
+addr = 0x13695cc
+size = 0xcc
+name = "_ZN18VoxelClockMapPartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN18VoxelClockMapPartsC2EPKc"
+addr = 0x13695cc
+type = "unsigned long long *"
+
+[header.args]

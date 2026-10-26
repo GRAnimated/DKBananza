@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:35.228604Z
+addr = 0x76f198
+size = 0x130
+name = "_ZN12ElevatorBaseC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN12ElevatorBaseC2EPKc"
+addr = 0x76f198
+type = "void *"
+
+[header.args]

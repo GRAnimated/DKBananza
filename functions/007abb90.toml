@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:40.787138Z
+addr = 0x7abb90
+size = 0x48
+name = "_GLOBAL__sub_I_SkydivingDebris.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_SkydivingDebris.cpp"
+addr = 0x7abb90
+type = "long long"
+
+[header.args]

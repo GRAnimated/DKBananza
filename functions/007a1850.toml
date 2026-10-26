@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:37.830113Z
+addr = 0x7a1850
+size = 0x48
+name = "_GLOBAL__sub_I_CannonBarrel.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_CannonBarrel.cpp"
+addr = 0x7a1850
+type = "long long"
+
+[header.args]

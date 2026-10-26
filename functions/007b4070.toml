@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:42.691968Z
+addr = 0x7b4070
+size = 0x48
+name = "_GLOBAL__sub_I_Npc2KongTalkerBossKongDown.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_Npc2KongTalkerBossKongDown.cpp"
+addr = 0x7b4070
+type = "long long"
+
+[header.args]

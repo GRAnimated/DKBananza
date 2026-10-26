@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:35.420065Z
+addr = 0x78b7f0
+size = 0x320
+name = "_GLOBAL__sub_I_BossStorm.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_BossStorm.cpp"
+addr = 0x78b7f0
+type = "long long"
+
+[header.args]

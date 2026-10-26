@@ -1,11 +1,12 @@
-last_change = 2026-10-25T23:11:41.250853Z
+last_change = 2026-10-26T00:37:09.981161Z
 addr = 0xe29230
 size = 0x4
-name = "al::LiveActor::initAfterPlacement_void_ntEv"
+name = "_ZN2al9LiveActor18initAfterPlacementEv"
+type = "void"
 
 [header]
-last_change = 2026-10-25T23:11:41.250853Z
-name = "al::LiveActor::initAfterPlacement_void_ntEv"
+name = "_ZN2al9LiveActor18initAfterPlacementEv"
 addr = 0xe29230
+type = "void"
 
 [header.args]

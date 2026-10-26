@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:41.542457Z
+addr = 0x7ad770
+size = 0x1a0
+name = "_GLOBAL__sub_I_Tornado.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_Tornado.cpp"
+addr = 0x7ad770
+type = "long long"
+
+[header.args]

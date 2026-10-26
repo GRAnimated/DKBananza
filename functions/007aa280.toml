@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:40.303681Z
+addr = 0x7aa280
+size = 0x48
+name = "_GLOBAL__sub_I_PrisonEventDirector.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_PrisonEventDirector.cpp"
+addr = 0x7aa280
+type = "long long"
+
+[header.args]

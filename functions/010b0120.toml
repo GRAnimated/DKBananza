@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.987224Z
+addr = 0x10b0120
+size = 0xc0
+name = "_ZN20DesertLevelShieldObjC2EPKc"
+type = "long long"
+
+[header]
+name = "_ZN20DesertLevelShieldObjC2EPKc"
+addr = 0x10b0120
+type = "long long"
+
+[header.args]

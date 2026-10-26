@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:38.834347Z
+addr = 0x7a4400
+size = 0x48
+name = "_GLOBAL__sub_I_DoorSun.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_DoorSun.cpp"
+addr = 0x7a4400
+type = "long long"
+
+[header.args]

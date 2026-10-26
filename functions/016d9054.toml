@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.005659Z
+addr = 0x16d9054
+size = 0xb0
+name = "_ZN13ClockMapPartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN13ClockMapPartsC2EPKc"
+addr = 0x16d9054
+type = "unsigned long long *"
+
+[header.args]

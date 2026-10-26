@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.985045Z
+addr = 0xfabbf8
+size = 0xc4
+name = "_ZN8ZainCartC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN8ZainCartC2EPKc"
+addr = 0xfabbf8
+type = "unsigned long long *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.991538Z
+addr = 0x1218c38
+size = 0x120
+name = "_ZN11RambiPlayerC2EPKc"
+type = "long long"
+
+[header]
+name = "_ZN11RambiPlayerC2EPKc"
+addr = 0x1218c38
+type = "long long"
+
+[header.args]

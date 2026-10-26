@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:36.000326Z
+addr = 0x78e960
+size = 0x48
+name = "_GLOBAL__sub_I_PlacementLightAttenuator.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_PlacementLightAttenuator.cpp"
+addr = 0x78e960
+type = "long long"
+
+[header.args]

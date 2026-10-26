@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.003808Z
+addr = 0x165b910
+size = 0x4
+name = "j_strcasecmp_0"
+type = "int"
+
+[header]
+name = "j_strcasecmp_0"
+addr = 0x165b910
+type = "int"
+
+[header.args]

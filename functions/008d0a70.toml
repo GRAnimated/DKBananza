@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.979069Z
+addr = 0x8d0a70
+size = 0x4
+name = "j_memcmp_0"
+type = "int"
+
+[header]
+name = "j_memcmp_0"
+addr = 0x8d0a70
+type = "int"
+
+[header.args]

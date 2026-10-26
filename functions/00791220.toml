@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:36.460170Z
+addr = 0x791220
+size = 0x48
+name = "_GLOBAL__sub_I_RockBee.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_RockBee.cpp"
+addr = 0x791220
+type = "long long"
+
+[header.args]

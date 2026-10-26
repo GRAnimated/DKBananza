@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:46.646643Z
+addr = 0x13642fc
+size = 0xa8
+name = "_ZN24SculptureSceneVoxelPartsC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN24SculptureSceneVoxelPartsC2EPKc"
+addr = 0x13642fc
+type = "void *"
+
+[header.args]

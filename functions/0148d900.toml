@@ -1,0 +1,10 @@
+last_change = 2026-10-26T00:37:09.998797Z
+addr = 0x148d900
+size = 0x4
+name = "nullsub_2601"
+
+[header]
+name = "nullsub_2601"
+addr = 0x148d900
+
+[header.args]

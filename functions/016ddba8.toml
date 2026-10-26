@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.005724Z
+addr = 0x16ddba8
+size = 0xe0
+name = "_ZN12GateMapPartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN12GateMapPartsC2EPKc"
+addr = 0x16ddba8
+type = "unsigned long long *"
+
+[header.args]

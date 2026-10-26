@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:34.670269Z
+addr = 0x7308a0
+size = 0x404
+name = "_GLOBAL__sub_I_Mimichi.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_Mimichi.cpp"
+addr = 0x7308a0
+type = "long long"
+
+[header.args]

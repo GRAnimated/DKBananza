@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.995557Z
+addr = 0x1370af4
+size = 0xc4
+name = "_ZN20VoxelKeyMoveMapPartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN20VoxelKeyMoveMapPartsC2EPKc"
+addr = 0x1370af4
+type = "unsigned long long *"
+
+[header.args]

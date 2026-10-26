@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.989654Z
+addr = 0x1190570
+size = 0xa8
+name = "_ZN20TowerLevelBackgroundC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN20TowerLevelBackgroundC2EPKc"
+addr = 0x1190570
+type = "unsigned long long *"
+
+[header.args]

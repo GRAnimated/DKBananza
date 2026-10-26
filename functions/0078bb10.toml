@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:35.437621Z
+addr = 0x78bb10
+size = 0x48
+name = "_GLOBAL__sub_I_BossStormKamaitachi.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_BossStormKamaitachi.cpp"
+addr = 0x78bb10
+type = "long long"
+
+[header.args]

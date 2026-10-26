@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:42.548607Z
+addr = 0x7b3620
+size = 0xf4
+name = "_ZN2al19createActorFunctionI21Npc2AnimalTalkerZebraEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI21Npc2AnimalTalkerZebraEEPNS_9LiveActorEPKc"
+addr = 0x7b3620
+type = "al::LiveActor *"
+
+[header.args]

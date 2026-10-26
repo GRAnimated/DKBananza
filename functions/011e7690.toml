@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:29.292344Z
+addr = 0x11e7690
+size = 0xa4
+name = "_ZN2al19createActorFunctionI27Npc2KongTalkerBossKongSwingEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI27Npc2KongTalkerBossKongSwingEEPNS_9LiveActorEPKc"
+addr = 0x11e7690
+type = "al::LiveActor *"
+
+[header.args]

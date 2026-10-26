@@ -1,11 +1,12 @@
-last_change = 2026-10-25T23:11:42.373997Z
+last_change = 2026-10-26T00:37:09.973142Z
 addr = 0x42fbb4
 size = 0x8
-name = "al::LiveActor::getName_void_meEv"
+name = "_ZNK2al9LiveActor7getNameEv"
+type = "long long"
 
 [header]
-last_change = 2026-10-25T23:11:42.373997Z
-name = "al::LiveActor::getName_void_meEv"
+name = "_ZNK2al9LiveActor7getNameEv"
 addr = 0x42fbb4
+type = "long long"
 
 [header.args]

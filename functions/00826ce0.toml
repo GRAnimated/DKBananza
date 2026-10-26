@@ -1,0 +1,10 @@
+last_change = 2026-10-26T00:37:44.874174Z
+addr = 0x826ce0
+size = 0x164
+name = "_init"
+
+[header]
+name = "_init"
+addr = 0x826ce0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-26T00:37:09.979377Z
+addr = 0x9133bc
+size = 0x4
+name = "j__ZN2nn2os17FinalizeSemaphoreEPNS0_13SemaphoreTypeE_0"
+
+[header]
+name = "j__ZN2nn2os17FinalizeSemaphoreEPNS0_13SemaphoreTypeE_0"
+addr = 0x9133bc
+
+[header.args]

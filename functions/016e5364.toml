@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.005815Z
+addr = 0x16e5364
+size = 0x88
+name = "_ZN17ShadowFixMapPartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN17ShadowFixMapPartsC2EPKc"
+addr = 0x16e5364
+type = "unsigned long long *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:07.313132Z
+addr = 0xf74abc
+size = 0xf8
+name = "_ZN6HopperC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN6HopperC2EPKc"
+addr = 0xf74abc
+type = "void *"
+
+[header.args]

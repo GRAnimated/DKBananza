@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.983745Z
+addr = 0xf2f914
+size = 0xfc
+name = "_ZN23DemoStartObjPaulineRockC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN23DemoStartObjPaulineRockC2EPKc"
+addr = 0xf2f914
+type = "unsigned long long *"
+
+[header.args]

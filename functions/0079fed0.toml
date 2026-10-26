@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:37.566030Z
+addr = 0x79fed0
+size = 0xc4
+name = "_GLOBAL__sub_I_BioWaterSurface.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_BioWaterSurface.cpp"
+addr = 0x79fed0
+type = "long long"
+
+[header.args]

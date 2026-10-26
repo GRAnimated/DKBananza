@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:44.081826Z
+addr = 0x7c9490
+size = 0x48
+name = "_GLOBAL__sub_I_VoxelPartsBrokenRateChecker.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_VoxelPartsBrokenRateChecker.cpp"
+addr = 0x7c9490
+type = "long long"
+
+[header.args]

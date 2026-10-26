@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.000174Z
+addr = 0x150c68c
+size = 0x4
+name = "j_log10f_0"
+type = "float"
+
+[header]
+name = "j_log10f_0"
+addr = 0x150c68c
+type = "float"
+
+[header.args]

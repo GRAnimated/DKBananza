@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:19.722268Z
+addr = 0x11030fc
+size = 0xa8
+name = "_ZN11LightCandleC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN11LightCandleC2EPKc"
+addr = 0x11030fc
+type = "void *"
+
+[header.args]

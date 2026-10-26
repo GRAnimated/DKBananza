@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:33.438918Z
+addr = 0x64c330
+size = 0xe0
+name = "_ZN17SinkholeGeneratorC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN17SinkholeGeneratorC2EPKc"
+addr = 0x64c330
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:21.614499Z
+addr = 0x12b970
+size = 0x70
+name = "_ZdaPv"
+type = "void"
+
+[header]
+name = "_ZdaPv"
+addr = 0x12b970
+type = "void"
+
+[header.args]

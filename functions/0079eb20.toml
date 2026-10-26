@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:37.240998Z
+addr = 0x79eb20
+size = 0xd4
+name = "_ZN2al19createActorFunctionI12AutoAimPointEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI12AutoAimPointEEPNS_9LiveActorEPKc"
+addr = 0x79eb20
+type = "al::LiveActor *"
+
+[header.args]

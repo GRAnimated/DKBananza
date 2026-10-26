@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:16.491351Z
+addr = 0x10b29b4
+size = 0x98
+name = "_ZN17DistantViewAnimalC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN17DistantViewAnimalC2EPKc"
+addr = 0x10b29b4
+type = "void *"
+
+[header.args]

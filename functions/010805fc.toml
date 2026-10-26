@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.986724Z
+addr = 0x10805fc
+size = 0xf4
+name = "_ZN12CannonBarrelC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN12CannonBarrelC2EPKc"
+addr = 0x10805fc
+type = "unsigned long long *"
+
+[header.args]

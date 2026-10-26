@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:36.920317Z
+addr = 0x799970
+size = 0xd4
+name = "_ZN2al19createActorFunctionI16MinecartBombItemEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI16MinecartBombItemEEPNS_9LiveActorEPKc"
+addr = 0x799970
+type = "al::LiveActor *"
+
+[header.args]

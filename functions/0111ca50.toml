@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:20.480750Z
+addr = 0x111ca50
+size = 0x9c
+name = "_ZN2al19createActorFunctionI21MinecartBreakMapPartsEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI21MinecartBreakMapPartsEEPNS_9LiveActorEPKc"
+addr = 0x111ca50
+type = "al::LiveActor *"
+
+[header.args]

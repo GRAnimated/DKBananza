@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:35.264984Z
+addr = 0x774a18
+size = 0x190
+name = "_ZN16HandSlapVoxelObjC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN16HandSlapVoxelObjC2EPKc"
+addr = 0x774a18
+type = "void *"
+
+[header.args]

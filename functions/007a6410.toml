@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:39.343019Z
+addr = 0x7a6410
+size = 0x48
+name = "_GLOBAL__sub_I_HandSlapSwitch.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_HandSlapSwitch.cpp"
+addr = 0x7a6410
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:34.535388Z
+addr = 0x726b78
+size = 0xdc
+name = "_ZN10RouteGuideC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN10RouteGuideC2EPKc"
+addr = 0x726b78
+type = "void *"
+
+[header.args]

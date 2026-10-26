@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:05.459397Z
+addr = 0xf3c110
+size = 0xa0
+name = "_ZN2al19createActorFunctionI24PlacementLightAttenuatorEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI24PlacementLightAttenuatorEEPNS_9LiveActorEPKc"
+addr = 0xf3c110
+type = "al::LiveActor *"
+
+[header.args]

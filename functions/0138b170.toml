@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.996025Z
+addr = 0x138b170
+size = 0x14
+name = "_ZnamRKSt9nothrow_t"
+type = "long long"
+
+[header]
+name = "_ZnamRKSt9nothrow_t"
+addr = 0x138b170
+type = "long long"
+
+[header.args]

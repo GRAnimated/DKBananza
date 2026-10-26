@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:41.005982Z
+addr = 0x7ac010
+size = 0x80
+name = "_GLOBAL__sub_I_SoundTutorialSpeaker.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_SoundTutorialSpeaker.cpp"
+addr = 0x7ac010
+type = "long long"
+
+[header.args]

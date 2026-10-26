@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.975906Z
+addr = 0x72f958
+size = 0xf4
+name = "_ZN18VoxelRegenerateObjC2EPKc"
+type = "long long"
+
+[header]
+name = "_ZN18VoxelRegenerateObjC2EPKc"
+addr = 0x72f958
+type = "long long"
+
+[header.args]

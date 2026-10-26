@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.991511Z
+addr = 0x1215d5c
+size = 0x16c
+name = "_ZN9RambiBaseC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN9RambiBaseC2EPKc"
+addr = 0x1215d5c
+type = "unsigned long long *"
+
+[header.args]

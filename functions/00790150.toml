@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:36.330375Z
+addr = 0x790150
+size = 0x48
+name = "_GLOBAL__sub_I_Hopper.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_Hopper.cpp"
+addr = 0x790150
+type = "long long"
+
+[header.args]

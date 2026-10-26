@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:00.709193Z
+addr = 0xe95f24
+size = 0x98
+name = "_ZN9KingKRoolC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN9KingKRoolC2EPKc"
+addr = 0xe95f24
+type = "void *"
+
+[header.args]

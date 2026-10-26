@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.979045Z
+addr = 0x8d0730
+size = 0x4
+name = "j_strcmp_0"
+type = "int"
+
+[header]
+name = "j_strcmp_0"
+addr = 0x8d0730
+type = "int"
+
+[header.args]

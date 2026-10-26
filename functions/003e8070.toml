@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:22.982226Z
+addr = 0x3e8070
+size = 0x18
+name = "free"
+type = "long long"
+
+[header]
+name = "free"
+addr = 0x3e8070
+type = "long long"
+
+[header.args]

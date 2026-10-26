@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:39:27.584016Z
+addr = 0x16dce00
+size = 0xc8
+name = "_ZN15FloaterMapPartsC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN15FloaterMapPartsC2EPKc"
+addr = 0x16dce00
+type = "void *"
+
+[header.args]

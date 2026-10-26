@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.005781Z
+addr = 0x16e37e4
+size = 0xa8
+name = "_ZN14RotateMapPartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN14RotateMapPartsC2EPKc"
+addr = 0x16e37e4
+type = "unsigned long long *"
+
+[header.args]

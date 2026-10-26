@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:35.301572Z
+addr = 0x7778e8
+size = 0x1c8
+name = "_ZN12MinecartBossC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN12MinecartBossC2EPKc"
+addr = 0x7778e8
+type = "void *"
+
+[header.args]

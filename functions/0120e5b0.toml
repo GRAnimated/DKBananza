@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.991402Z
+addr = 0x120e5b0
+size = 0xbc
+name = "_ZN16NpcRaceReceptionC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN16NpcRaceReceptionC2EPKc"
+addr = 0x120e5b0
+type = "void *"
+
+[header.args]

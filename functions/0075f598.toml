@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:35.087146Z
+addr = 0x75f598
+size = 0xc8
+name = "_ZN16YocchiControllerC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN16YocchiControllerC2EPKc"
+addr = 0x75f598
+type = "void *"
+
+[header.args]

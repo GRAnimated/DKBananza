@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:37.121401Z
+addr = 0x79a0a0
+size = 0x48
+name = "_GLOBAL__sub_I_ReturnBalloon.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_ReturnBalloon.cpp"
+addr = 0x79a0a0
+type = "long long"
+
+[header.args]

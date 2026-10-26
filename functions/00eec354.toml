@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:02.484976Z
+addr = 0xeec354
+size = 0x118
+name = "_ZN9StomperorC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN9StomperorC2EPKc"
+addr = 0xeec354
+type = "void *"
+
+[header.args]

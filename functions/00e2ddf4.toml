@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:56.335330Z
+addr = 0xe2ddf4
+size = 0x68
+name = "something_18getRuntimeTypeInfoEv"
+type = "long long *"
+
+[header]
+name = "something_18getRuntimeTypeInfoEv"
+addr = 0xe2ddf4
+type = "long long *"
+
+[header.args]

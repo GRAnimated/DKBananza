@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:07.078774Z
+addr = 0xf6bc0c
+size = 0xdc
+name = "_ZN4GushC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN4GushC2EPKc"
+addr = 0xf6bc0c
+type = "void *"
+
+[header.args]

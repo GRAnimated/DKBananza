@@ -1,11 +1,12 @@
-last_change = 2026-10-25T22:51:03.045913Z
+last_change = 2026-10-26T00:37:09.984144Z
 addr = 0xf3f068
 size = 0x4
 name = "j_al_LiveActor_appear_0"
+type = "long long"
 
 [header]
-last_change = 2026-10-25T22:51:03.045913Z
 name = "j_al_LiveActor_appear_0"
 addr = 0xf3f068
+type = "long long"
 
 [header.args]

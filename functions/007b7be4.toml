@@ -1,11 +1,12 @@
-last_change = 2026-10-25T22:51:03.097061Z
+last_change = 2026-10-26T00:37:09.977893Z
 addr = 0x7b7be4
 size = 0x4
 name = "j_al_LiveActor_movement_6"
+type = "void"
 
 [header]
-last_change = 2026-10-25T22:51:03.097061Z
 name = "j_al_LiveActor_movement_6"
 addr = 0x7b7be4
+type = "void"
 
 [header.args]

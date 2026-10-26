@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:38.380023Z
+addr = 0x7a3100
+size = 0x48
+name = "_GLOBAL__sub_I_DamageBallGenerator.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_DamageBallGenerator.cpp"
+addr = 0x7a3100
+type = "long long"
+
+[header.args]

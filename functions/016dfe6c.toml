@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.005753Z
+addr = 0x16dfe6c
+size = 0x90
+name = "_ZN16RailMoveMapPartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN16RailMoveMapPartsC2EPKc"
+addr = 0x16dfe6c
+type = "unsigned long long *"
+
+[header.args]

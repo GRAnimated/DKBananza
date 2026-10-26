@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:38.565017Z
+addr = 0x7a3750
+size = 0x48
+name = "_GLOBAL__sub_I_DemoGraphicsEnvChangeObj.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_DemoGraphicsEnvChangeObj.cpp"
+addr = 0x7a3750
+type = "long long"
+
+[header.args]

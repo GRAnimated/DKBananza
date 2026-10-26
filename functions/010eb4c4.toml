@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.987968Z
+addr = 0x10eb4c4
+size = 0xa8
+name = "_ZN9IceBucketC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN9IceBucketC2EPKc"
+addr = 0x10eb4c4
+type = "unsigned long long *"
+
+[header.args]

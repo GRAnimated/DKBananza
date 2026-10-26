@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:45.026130Z
+addr = 0x82ae60
+size = 0x50
+name = "malloc"
+type = "long long"
+
+[header]
+name = "malloc"
+addr = 0x82ae60
+type = "long long"
+
+[header.args]

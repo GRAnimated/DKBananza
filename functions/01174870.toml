@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.989370Z
+addr = 0x1174870
+size = 0xa0
+name = "_ZN14SwitchMaterialC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN14SwitchMaterialC2EPKc"
+addr = 0x1174870
+type = "unsigned long long *"
+
+[header.args]

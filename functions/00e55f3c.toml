@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:59.127108Z
+addr = 0xe55f3c
+size = 0xc4
+name = "_ZN8BioThornC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN8BioThornC2EPKc"
+addr = 0xe55f3c
+type = "void *"
+
+[header.args]

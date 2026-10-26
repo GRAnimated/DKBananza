@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:08.151612Z
+addr = 0xf8d484
+size = 0x98
+name = "_ZN6PettanC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN6PettanC2EPKc"
+addr = 0xf8d484
+type = "void *"
+
+[header.args]

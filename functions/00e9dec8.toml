@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.982573Z
+addr = 0xe9dec8
+size = 0xa4
+name = "_ZN28KingKRoolCannonBallGeneratorC2EPKc"
+type = "long long"
+
+[header]
+name = "_ZN28KingKRoolCannonBallGeneratorC2EPKc"
+addr = 0xe9dec8
+type = "long long"
+
+[header.args]

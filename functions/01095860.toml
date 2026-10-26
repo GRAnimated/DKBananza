@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.986971Z
+addr = 0x1095860
+size = 0xf8
+name = "_ZN23ContinuousBattleWatcherC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN23ContinuousBattleWatcherC2EPKc"
+addr = 0x1095860
+type = "unsigned long long *"
+
+[header.args]

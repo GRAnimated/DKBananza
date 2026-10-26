@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:41.575445Z
+addr = 0x7adc30
+size = 0x48
+name = "_GLOBAL__sub_I_TowerLevelBackground.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_TowerLevelBackground.cpp"
+addr = 0x7adc30
+type = "long long"
+
+[header.args]

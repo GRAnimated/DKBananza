@@ -1,0 +1,10 @@
+last_change = 2026-10-26T00:37:09.978388Z
+addr = 0x826fc0
+size = 0x4
+name = "__nnDetailNintendoSdkRuntimeObjectFile"
+
+[header]
+name = "__nnDetailNintendoSdkRuntimeObjectFile"
+addr = 0x826fc0
+
+[header.args]

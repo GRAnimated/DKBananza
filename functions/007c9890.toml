@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:44.100337Z
+addr = 0x7c9890
+size = 0xd0
+name = "_ZN2al19createActorFunctionI15VoxelPrisonGridEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI15VoxelPrisonGridEEPNS_9LiveActorEPKc"
+addr = 0x7c9890
+type = "al::LiveActor *"
+
+[header.args]

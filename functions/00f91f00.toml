@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.984839Z
+addr = 0xf91f00
+size = 0x130
+name = "_ZN7RockBeeC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN7RockBeeC2EPKc"
+addr = 0xf91f00
+type = "unsigned long long *"
+
+[header.args]

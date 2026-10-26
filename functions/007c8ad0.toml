@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:43.943157Z
+addr = 0x7c8ad0
+size = 0x1a0
+name = "_GLOBAL__sub_I_VoxelKeyMoveMapParts.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_VoxelKeyMoveMapParts.cpp"
+addr = 0x7c8ad0
+type = "long long"
+
+[header.args]

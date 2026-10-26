@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:35.718925Z
+addr = 0x78d250
+size = 0xc0
+name = "_GLOBAL__sub_I_Void.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_Void.cpp"
+addr = 0x78d250
+type = "long long"
+
+[header.args]

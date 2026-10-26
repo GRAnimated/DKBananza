@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:08.425337Z
+addr = 0xf99a48
+size = 0xc4
+name = "_ZN8TogemoleC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN8TogemoleC2EPKc"
+addr = 0xf99a48
+type = "void *"
+
+[header.args]

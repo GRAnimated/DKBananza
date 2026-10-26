@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.991330Z
+addr = 0x1207d94
+size = 0xb4
+name = "_ZN16Npc2VoxelSunbathC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN16Npc2VoxelSunbathC2EPKc"
+addr = 0x1207d94
+type = "void *"
+
+[header.args]

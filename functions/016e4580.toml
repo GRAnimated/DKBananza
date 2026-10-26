@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.005807Z
+addr = 0x16e4580
+size = 0xec
+name = "_ZN14SeesawMapPartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN14SeesawMapPartsC2EPKc"
+addr = 0x16e4580
+type = "unsigned long long *"
+
+[header.args]

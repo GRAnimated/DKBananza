@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.979065Z
+addr = 0x8d0a60
+size = 0x4
+name = "j_memmove_0"
+type = "void *"
+
+[header]
+name = "j_memmove_0"
+addr = 0x8d0a60
+type = "void *"
+
+[header.args]

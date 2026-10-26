@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.975977Z
+addr = 0x75c928
+size = 0xb8
+name = "_ZN15DemoActorPlayerC2EPKc"
+type = "long long"
+
+[header]
+name = "_ZN15DemoActorPlayerC2EPKc"
+addr = 0x75c928
+type = "long long"
+
+[header.args]

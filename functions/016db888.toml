@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.005708Z
+addr = 0x16db888
+size = 0x94
+name = "_ZN12FallMapPartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN12FallMapPartsC2EPKc"
+addr = 0x16db888
+type = "unsigned long long *"
+
+[header.args]

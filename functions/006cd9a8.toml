@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.975754Z
+addr = 0x6cd9a8
+size = 0xe0
+name = "_ZN8SinkholeC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN8SinkholeC2EPKc"
+addr = 0x6cd9a8
+type = "unsigned long long *"
+
+[header.args]

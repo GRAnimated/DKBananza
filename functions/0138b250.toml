@@ -1,0 +1,10 @@
+last_change = 2026-10-26T00:37:09.996058Z
+addr = 0x138b250
+size = 0x8
+name = "_ZdaPvSt11align_val_t"
+
+[header]
+name = "_ZdaPvSt11align_val_t"
+addr = 0x138b250
+
+[header.args]

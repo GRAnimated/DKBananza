@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.995633Z
+addr = 0x13770a0
+size = 0xb0
+name = "_ZN13VoxelMoneyObjC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN13VoxelMoneyObjC2EPKc"
+addr = 0x13770a0
+type = "unsigned long long *"
+
+[header.args]

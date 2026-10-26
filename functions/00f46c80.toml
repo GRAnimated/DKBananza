@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.984227Z
+addr = 0xf46c80
+size = 0xb0
+name = "_ZN6ChaserC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN6ChaserC2EPKc"
+addr = 0xf46c80
+type = "unsigned long long *"
+
+[header.args]

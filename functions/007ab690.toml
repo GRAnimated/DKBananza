@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:40.681872Z
+addr = 0x7ab690
+size = 0x88
+name = "_GLOBAL__sub_I_RouteGuide.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_RouteGuide.cpp"
+addr = 0x7ab690
+type = "long long"
+
+[header.args]

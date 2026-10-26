@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:19.394788Z
+addr = 0x10f8e3c
+size = 0xd0
+name = "_ZN11LakeWatcherC2EPKc"
+type = "long long"
+
+[header]
+name = "_ZN11LakeWatcherC2EPKc"
+addr = 0x10f8e3c
+type = "long long"
+
+[header.args]

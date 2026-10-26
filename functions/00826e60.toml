@@ -1,0 +1,10 @@
+last_change = 2026-10-26T00:37:09.978372Z
+addr = 0x826e60
+size = 0x64
+name = "_fini"
+
+[header]
+name = "_fini"
+addr = 0x826e60
+
+[header.args]

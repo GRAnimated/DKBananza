@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.006454Z
+addr = 0x1707fb0
+size = 0x8c
+name = "_ZN33ModelClusterModelKillAreaListenerC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN33ModelClusterModelKillAreaListenerC2EPKc"
+addr = 0x1707fb0
+type = "unsigned long long *"
+
+[header.args]

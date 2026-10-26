@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:22.242018Z
+addr = 0x21a520
+size = 0x484
+name = "_Znam"
+type = "long long"
+
+[header]
+name = "_Znam"
+addr = 0x21a520
+type = "long long"
+
+[header.args]

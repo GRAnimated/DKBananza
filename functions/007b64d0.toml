@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:42.912263Z
+addr = 0x7b64d0
+size = 0x48
+name = "_GLOBAL__sub_I_Npc2VoxelConcierge.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_Npc2VoxelConcierge.cpp"
+addr = 0x7b64d0
+type = "long long"
+
+[header.args]

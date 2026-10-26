@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:41.141258Z
+addr = 0x7ac5b0
+size = 0xd8
+name = "_ZN2al19createActorFunctionI11SubRouteObjEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI11SubRouteObjEEPNS_9LiveActorEPKc"
+addr = 0x7ac5b0
+type = "al::LiveActor *"
+
+[header.args]

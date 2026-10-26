@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.006829Z
+addr = 0x17224a4
+size = 0xa8
+name = "_ZN22EffectObjGroundEmitterC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN22EffectObjGroundEmitterC2EPKc"
+addr = 0x17224a4
+type = "unsigned long long *"
+
+[header.args]

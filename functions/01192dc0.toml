@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.989699Z
+addr = 0x1192dc0
+size = 0xac
+name = "_ZN18TowerLevelFragmentC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN18TowerLevelFragmentC2EPKc"
+addr = 0x1192dc0
+type = "unsigned long long *"
+
+[header.args]

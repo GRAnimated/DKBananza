@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:39.119768Z
+addr = 0x7a5da0
+size = 0x48
+name = "_GLOBAL__sub_I_FragmentShooter.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_FragmentShooter.cpp"
+addr = 0x7a5da0
+type = "long long"
+
+[header.args]

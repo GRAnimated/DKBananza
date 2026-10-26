@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:42.965164Z
+addr = 0x7b6da0
+size = 0x48
+name = "_GLOBAL__sub_I_Npc2VoxelHideAndSeek.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_Npc2VoxelHideAndSeek.cpp"
+addr = 0x7b6da0
+type = "long long"
+
+[header.args]

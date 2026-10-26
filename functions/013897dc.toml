@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:48.978482Z
+addr = 0x13897dc
+size = 0xa0
+name = "_ZN25WaterVoxelKeyMoveMapPartsC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN25WaterVoxelKeyMoveMapPartsC2EPKc"
+addr = 0x13897dc
+type = "void *"
+
+[header.args]

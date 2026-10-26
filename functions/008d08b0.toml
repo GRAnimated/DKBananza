@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.979057Z
+addr = 0x8d08b0
+size = 0x4
+name = "j_strrchr_0"
+type = "char *"
+
+[header]
+name = "j_strrchr_0"
+addr = 0x8d08b0
+type = "char *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.006918Z
+addr = 0x1727318
+size = 0x8c
+name = "_ZN8OceanObjC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN8OceanObjC2EPKc"
+addr = 0x1727318
+type = "unsigned long long *"
+
+[header.args]

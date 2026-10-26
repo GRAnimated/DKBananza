@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:44.319559Z
+addr = 0x7cac40
+size = 0x1a0
+name = "_GLOBAL__sub_I_WaterVoxelKeyMoveMapParts.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_WaterVoxelKeyMoveMapParts.cpp"
+addr = 0x7cac40
+type = "long long"
+
+[header.args]

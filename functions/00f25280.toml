@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:04.208242Z
+addr = 0xf25280
+size = 0x9c
+name = "_ZN2al19createActorFunctionI13AnimCameraObjEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI13AnimCameraObjEEPNS_9LiveActorEPKc"
+addr = 0xf25280
+type = "al::LiveActor *"
+
+[header.args]

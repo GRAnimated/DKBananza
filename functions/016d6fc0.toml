@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.005612Z
+addr = 0x16d6fc0
+size = 0x8c
+name = "_ZN13BackHidePartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN13BackHidePartsC2EPKc"
+addr = 0x16d6fc0
+type = "unsigned long long *"
+
+[header.args]

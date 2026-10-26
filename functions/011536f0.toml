@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:22.804670Z
+addr = 0x11536f0
+size = 0xb8
+name = "_ZN2al19createActorFunctionI16SkydivingGravityEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI16SkydivingGravityEEPNS_9LiveActorEPKc"
+addr = 0x11536f0
+type = "al::LiveActor *"
+
+[header.args]

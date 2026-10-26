@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:44.304375Z
+addr = 0x7cabb0
+size = 0x88
+name = "_GLOBAL__sub_I_WaterVoxelFixMapParts.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_WaterVoxelFixMapParts.cpp"
+addr = 0x7cabb0
+type = "long long"
+
+[header.args]

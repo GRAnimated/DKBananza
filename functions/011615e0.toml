@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:23.384340Z
+addr = 0x11615e0
+size = 0xa4
+name = "_ZN2al19createActorFunctionI15SoundSubSpeakerEEPNS_9LiveActorEPKc"
+type = "al::LiveActor *"
+
+[header]
+name = "_ZN2al19createActorFunctionI15SoundSubSpeakerEEPNS_9LiveActorEPKc"
+addr = 0x11615e0
+type = "al::LiveActor *"
+
+[header.args]

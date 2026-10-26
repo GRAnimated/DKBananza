@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.004124Z
+addr = 0x167eb40
+size = 0x4
+name = "j__ZN2nn3hid14VibrationMixerD2Ev_0"
+type = "void"
+
+[header]
+name = "j__ZN2nn3hid14VibrationMixerD2Ev_0"
+addr = 0x167eb40
+type = "void"
+
+[header.args]

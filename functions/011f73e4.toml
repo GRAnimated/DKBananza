@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:29.885888Z
+addr = 0x11f73e4
+size = 0x100
+name = "_ZN18Npc2VoxelConciergeC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN18Npc2VoxelConciergeC2EPKc"
+addr = 0x11f73e4
+type = "void *"
+
+[header.args]

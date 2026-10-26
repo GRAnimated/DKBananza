@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:37.445121Z
+addr = 0x79fc50
+size = 0x48
+name = "_GLOBAL__sub_I_BattleStageBgmCtrl.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_BattleStageBgmCtrl.cpp"
+addr = 0x79fc50
+type = "long long"
+
+[header.args]

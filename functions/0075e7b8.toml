@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.976004Z
+addr = 0x75e7b8
+size = 0xc0
+name = "_ZN17SneakingManGoldenC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN17SneakingManGoldenC2EPKc"
+addr = 0x75e7b8
+type = "unsigned long long *"
+
+[header.args]

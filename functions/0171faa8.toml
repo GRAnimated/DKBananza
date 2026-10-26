@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.006786Z
+addr = 0x171faa8
+size = 0x94
+name = "_ZN14AllDeadWatcherC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN14AllDeadWatcherC2EPKc"
+addr = 0x171faa8
+type = "unsigned long long *"
+
+[header.args]

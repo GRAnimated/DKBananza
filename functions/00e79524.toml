@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:38:00.097949Z
+addr = 0xe79524
+size = 0x174
+name = "_ZN9BossStormC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN9BossStormC2EPKc"
+addr = 0xe79524
+type = "void *"
+
+[header.args]

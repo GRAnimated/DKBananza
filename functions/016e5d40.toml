@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:39:28.010873Z
+addr = 0x16e5d40
+size = 0xc0
+name = "_ZN13SlideMapPartsC2EPKc"
+type = "void *"
+
+[header]
+name = "_ZN13SlideMapPartsC2EPKc"
+addr = 0x16e5d40
+type = "void *"
+
+[header.args]

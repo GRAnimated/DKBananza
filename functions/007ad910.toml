@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:41.558981Z
+addr = 0x7ad910
+size = 0x174
+name = "_GLOBAL__sub_I_TornadoBossStormField.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_TornadoBossStormField.cpp"
+addr = 0x7ad910
+type = "long long"
+
+[header.args]

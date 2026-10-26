@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:10.005891Z
+addr = 0x16ea268
+size = 0xdc
+name = "_ZN14WobbleMapPartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN14WobbleMapPartsC2EPKc"
+addr = 0x16ea268
+type = "unsigned long long *"
+
+[header.args]

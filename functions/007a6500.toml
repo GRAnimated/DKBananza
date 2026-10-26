@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:39.394162Z
+addr = 0x7a6500
+size = 0x48
+name = "_GLOBAL__sub_I_HeightChangeBridge.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_HeightChangeBridge.cpp"
+addr = 0x7a6500
+type = "long long"
+
+[header.args]

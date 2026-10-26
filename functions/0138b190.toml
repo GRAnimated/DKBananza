@@ -1,0 +1,10 @@
+last_change = 2026-10-26T00:37:09.996028Z
+addr = 0x138b190
+size = 0x14
+name = "_ZnwmSt11align_val_t"
+
+[header]
+name = "_ZnwmSt11align_val_t"
+addr = 0x138b190
+
+[header.args]

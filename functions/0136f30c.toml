@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.995543Z
+addr = 0x136f30c
+size = 0xc0
+name = "_ZN23VoxelHopperLiftMapPartsC2EPKc"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN23VoxelHopperLiftMapPartsC2EPKc"
+addr = 0x136f30c
+type = "unsigned long long *"
+
+[header.args]

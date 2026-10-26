@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:09.975830Z
+addr = 0x6f7b38
+size = 0xa0
+name = "_ZN19VoxelRisingMapPartsC2EPKc"
+type = "long long"
+
+[header]
+name = "_ZN19VoxelRisingMapPartsC2EPKc"
+addr = 0x6f7b38
+type = "long long"
+
+[header.args]

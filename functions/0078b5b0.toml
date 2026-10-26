@@ -1,0 +1,12 @@
+last_change = 2026-10-26T00:37:35.366367Z
+addr = 0x78b5b0
+size = 0x50
+name = "_GLOBAL__sub_I_BioThornRoot.cpp"
+type = "long long"
+
+[header]
+name = "_GLOBAL__sub_I_BioThornRoot.cpp"
+addr = 0x78b5b0
+type = "long long"
+
+[header.args]

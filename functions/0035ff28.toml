@@ -1,0 +1,11 @@
+last_change = 2026-10-26T16:58:40.029298Z
+addr = 0x35ff28
+size = 0x19f4
+name = "_ZN10StageScene4initERKN2al13SceneInitInfoE"
+
+[header]
+last_change = 2026-10-26T16:58:40.029298Z
+name = "_ZN10StageScene4initERKN2al13SceneInitInfoE"
+addr = 0x35ff28
+
+[header.args]

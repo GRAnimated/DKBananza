@@ -1,0 +1,11 @@
+last_change = 2026-10-26T14:05:56.132953Z
+addr = 0x195220
+size = 0x528
+name = "_ZnamPN4sead4HeapEi"
+
+[header]
+last_change = 2026-10-26T14:05:56.132953Z
+name = "_ZnamPN4sead4HeapEi"
+addr = 0x195220
+
+[header.args]

@@ -2,6 +2,14 @@
 last_change = 2026-10-25T22:49:03.682572Z
 name = "memory_order"
 
+["$BDF88968CAE1EA74E42809B9AE857E7C"]
+last_change = 2026-10-26T00:47:00.392468Z
+name = "$BDF88968CAE1EA74E42809B9AE857E7C"
+
+[_Unwind_Reason_Code]
+last_change = 2026-10-26T00:47:00.399545Z
+name = "_Unwind_Reason_Code"
+
 [memory_order.members]
 memory_order_relaxed = 0x0
 memory_order_consume = 0x1
@@ -9,3 +17,25 @@ memory_order_acquire = 0x2
 memory_order_release = 0x3
 memory_order_acq_rel = 0x4
 memory_order_seq_cst = 0x5
+
+["$BDF88968CAE1EA74E42809B9AE857E7C".members]
+_URC_NO_REASON = 0x0
+_URC_FOREIGN_EXCEPTION_CAUGHT = 0x1
+_URC_FATAL_PHASE2_ERROR = 0x2
+_URC_FATAL_PHASE1_ERROR = 0x3
+_URC_NORMAL_STOP = 0x4
+_URC_END_OF_STACK = 0x5
+_URC_HANDLER_FOUND = 0x6
+_URC_INSTALL_CONTEXT = 0x7
+_URC_CONTINUE_UNWIND = 0x8
+
+[_Unwind_Reason_Code.members]
+_URC_NO_REASON = 0x0
+_URC_FOREIGN_EXCEPTION_CAUGHT = 0x1
+_URC_FATAL_PHASE2_ERROR = 0x2
+_URC_FATAL_PHASE1_ERROR = 0x3
+_URC_NORMAL_STOP = 0x4
+_URC_END_OF_STACK = 0x5
+_URC_HANDLER_FOUND = 0x6
+_URC_INSTALL_CONTEXT = 0x7
+_URC_CONTINUE_UNWIND = 0x8

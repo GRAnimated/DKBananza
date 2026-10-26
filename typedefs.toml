@@ -137,3 +137,63 @@ type = "float16x4_t"
 last_change = 2026-10-25T22:49:03.633779Z
 name = "gcc_va_list"
 type = "__va_list_tag[1]"
+
+[_Unwind_Sword]
+last_change = 2026-10-26T00:47:00.398823Z
+name = "_Unwind_Sword"
+type = "signed long long"
+
+[_Unwind_Ptr]
+last_change = 2026-10-26T00:47:00.398956Z
+name = "_Unwind_Ptr"
+type = "unsigned long long"
+
+[_Unwind_Internal_Ptr]
+last_change = 2026-10-26T00:47:00.399071Z
+name = "_Unwind_Internal_Ptr"
+type = "unsigned long long"
+
+[_Unwind_Word]
+last_change = 2026-10-26T00:47:00.399180Z
+name = "_Unwind_Word"
+type = "unsigned long long"
+
+[_Unwind_Action]
+last_change = 2026-10-26T00:47:00.399290Z
+name = "_Unwind_Action"
+type = "int"
+
+[_Unwind_Exception_Class]
+last_change = 2026-10-26T00:47:00.399398Z
+name = "_Unwind_Exception_Class"
+type = "unsigned long long"
+
+[_Unwind_Exception_Cleanup_Fn]
+last_change = 2026-10-26T00:47:00.399728Z
+name = "_Unwind_Exception_Cleanup_Fn"
+type = "void (*)(_Unwind_Reason_Code, struct _Unwind_Exception *)"
+
+[_Unwind_Personality_Fn]
+last_change = 2026-10-26T00:47:00.399918Z
+name = "_Unwind_Personality_Fn"
+type = "_Unwind_Reason_Code (*)(int, _Unwind_Action, _Unwind_Exception_Class, struct _Unwind_Exception *, struct _Unwind_Context *)"
+
+[_Unwind_Stop_Fn]
+last_change = 2026-10-26T00:47:00.400082Z
+name = "_Unwind_Stop_Fn"
+type = "_Unwind_Reason_Code (*)(int, _Unwind_Action, _Unwind_Exception_Class, struct _Unwind_Exception *, struct _Unwind_Context *, void *)"
+
+[_Unwind_Trace_Fn]
+last_change = 2026-10-26T00:47:00.400212Z
+name = "_Unwind_Trace_Fn"
+type = "_Unwind_Reason_Code (*)(struct _Unwind_Context *, void *)"
+
+[__guard]
+last_change = 2026-10-26T00:47:00.400283Z
+name = "__guard"
+type = "_Unwind_Sword"
+
+[size_t]
+last_change = 2026-10-26T00:47:00.400400Z
+name = "size_t"
+type = "unsigned long long"

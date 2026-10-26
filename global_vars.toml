@@ -269431,3 +269431,10 @@ addr = 0x1a4ec68
 name = "flt_7101A4EC68"
 type = "float[8]"
 size = 0x20
+
+[0x1a977fc]
+last_change = 2026-10-26T17:52:42.671093Z
+addr = 0x1a977fc
+name = "unk_7101A977FC"
+type = "unsigned int[3]"
+size = 0x1

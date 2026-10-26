@@ -11988,3 +11988,10 @@ addr = 0x197a8f0
 func_addr = 0x197a8ec
 comment = "void *"
 decompiled = false
+
+[0x5af280]
+last_change = 2026-10-26T14:34:31.256579Z
+addr = 0x5af280
+func_addr = 0x5af250
+comment = "Appears to be rewritten from SMO"
+decompiled = true

@@ -1,11 +1,14 @@
-last_change = 2026-10-26T14:36:10.326657Z
+last_change = 2026-10-26T14:36:28.036639Z
 addr = 0x5adc5c
 size = 0x44
 name = "_ZN2al9SystemKit20createSaveDataSystemEj"
 
 [header]
-last_change = 2026-10-26T14:35:27.682510Z
+last_change = 2026-10-26T14:36:28.036639Z
 name = "_ZN2al9SystemKit20createSaveDataSystemEj"
 addr = 0x5adc5c
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+type = "al::SystemKit *"
+size = 0x8

@@ -1,0 +1,11 @@
+last_change = 2026-10-26T17:21:14.557418Z
+addr = 0x522f38
+size = 0x18
+name = "_ZN2al13NerveExecutorC2EPKc"
+
+[header]
+last_change = 2026-10-26T17:21:14.557418Z
+name = "_ZN2al13NerveExecutorC2EPKc"
+addr = 0x522f38
+
+[header.args]

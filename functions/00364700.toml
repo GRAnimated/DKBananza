@@ -1,11 +1,11 @@
-last_change = 2026-10-26T18:01:57.199084Z
+last_change = 2026-10-26T18:01:57.254861Z
 addr = 0x364700
 size = 0x90
-name = "StageScene_7100364700"
+type = "void"
 
 [header]
-last_change = 2026-10-26T18:01:57.199084Z
-name = "StageScene_7100364700"
+last_change = 2026-10-26T18:01:57.254861Z
 addr = 0x364700
+type = "void"
 
 [header.args]

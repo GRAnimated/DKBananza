@@ -1,0 +1,243 @@
+last_change = 2026-10-26T17:35:34.806703Z
+name = "al::Scene"
+size = 0x13c
+
+[members.0x0]
+name = "__vftable"
+offset = 0x0
+type = "al_Scene_vftable *"
+size = 0x8
+
+[members.0x8]
+name = "__vftable_8"
+offset = 0x8
+type = "vtbl_7102176D08 *"
+size = 0x8
+
+[members.0x10]
+name = "gap_10"
+offset = 0x10
+type = "char[8]"
+size = 0x8
+
+[members.0x18]
+name = "__vftable_18"
+offset = 0x18
+type = "vtbl_7102176D28 *"
+size = 0x8
+
+[members.0x20]
+name = "__vftable_20"
+offset = 0x20
+type = "vtbl_7102176D40 *"
+size = 0x8
+
+[members.0x28]
+name = "__vftable_28"
+offset = 0x28
+type = "vtbl_7102176D78 *"
+size = 0x8
+
+[members.0x30]
+name = "field_30"
+offset = 0x30
+type = "float *"
+size = 0x8
+
+[members.0x38]
+name = "qword_38"
+offset = 0x38
+type = "unsigned long long"
+size = 0x8
+
+[members.0x40]
+name = "mIsAlive"
+offset = 0x40
+type = "bool"
+size = 0x1
+
+[members.0x41]
+name = "gap_41"
+offset = 0x41
+type = "char[7]"
+size = 0x7
+
+[members.0x48]
+name = "qword_48"
+offset = 0x48
+type = "long long"
+size = 0x8
+
+[members.0x50]
+name = "dword_50"
+offset = 0x50
+type = "int"
+size = 0x4
+
+[members.0x54]
+name = "byte_54"
+offset = 0x54
+type = "char[63]"
+size = 0x3f
+
+[members.0x93]
+name = "byte_93"
+offset = 0x93
+type = "char"
+size = 0x1
+
+[members.0x94]
+name = "gap_94"
+offset = 0x94
+type = "char[4]"
+size = 0x4
+
+[members.0x98]
+name = "byte_98"
+offset = 0x98
+type = "char[1]"
+size = 0x1
+
+[members.0x99]
+name = "gap_99"
+offset = 0x99
+type = "char[7]"
+size = 0x7
+
+[members.0xa0]
+name = "qword_a0"
+offset = 0xa0
+type = "long long"
+size = 0x8
+
+[members.0xa8]
+name = "qword_a8"
+offset = 0xa8
+type = "long long"
+size = 0x8
+
+[members.0xb0]
+name = "qword_b0"
+offset = 0xb0
+type = "unsigned long long"
+size = 0x8
+
+[members.0xb8]
+name = "qword_b8"
+offset = 0xb8
+type = "unsigned long long"
+size = 0x8
+
+[members.0xc0]
+name = "gap_C0"
+offset = 0xc0
+type = "char[8]"
+size = 0x8
+
+[members.0xc8]
+name = "qword_c8"
+offset = 0xc8
+type = "unsigned long long"
+size = 0x8
+
+[members.0xd0]
+name = "qword_d0"
+offset = 0xd0
+type = "unsigned long long"
+size = 0x8
+
+[members.0xd8]
+name = "qword_d8"
+offset = 0xd8
+type = "unsigned long long"
+size = 0x8
+
+[members.0xe0]
+name = "gap_E0"
+offset = 0xe0
+type = "char[8]"
+size = 0x8
+
+[members.0xe8]
+name = "qword_e8"
+offset = 0xe8
+type = "unsigned long long"
+size = 0x8
+
+[members.0xf0]
+name = "qword_f0"
+offset = 0xf0
+type = "unsigned long long"
+size = 0x8
+
+[members.0xf8]
+name = "qword_f8"
+offset = 0xf8
+type = "long long"
+size = 0x8
+
+[members.0x100]
+name = "qword_100"
+offset = 0x100
+type = "unsigned long long"
+size = 0x8
+
+[members.0x108]
+name = "gap_108"
+offset = 0x108
+type = "char[4]"
+size = 0x4
+
+[members.0x10c]
+name = "qword_10c"
+offset = 0x10c
+type = "unsigned long long"
+size = 0x8
+
+[members.0x114]
+name = "gap_114"
+offset = 0x114
+type = "char[4]"
+size = 0x4
+
+[members.0x118]
+name = "qword_118"
+offset = 0x118
+type = "long long"
+size = 0x8
+
+[members.0x120]
+name = "qword_120"
+offset = 0x120
+type = "long long"
+size = 0x8
+
+[members.0x128]
+name = "qword_128"
+offset = 0x128
+type = "unsigned long long"
+size = 0x8
+
+[members.0x130]
+name = "field_130"
+offset = 0x130
+type = "long long *"
+size = 0x8
+
+[members.0x138]
+name = "byte_138"
+offset = 0x138
+type = "char"
+size = 0x1
+
+[members.0x139]
+name = "gap_139"
+offset = 0x139
+type = "char"
+size = 0x1
+
+[members.0x13a]
+name = "word_13a"
+offset = 0x13a
+type = "short"
+size = 0x2

@@ -1,0 +1,11 @@
+last_change = 2026-10-26T18:02:05.337304Z
+addr = 0x12ff97c
+size = 0x30
+name = "StageScene_71012FF97C"
+
+[header]
+last_change = 2026-10-26T18:02:05.337304Z
+name = "StageScene_71012FF97C"
+addr = 0x12ff97c
+
+[header.args]

@@ -269438,10 +269438,3 @@ addr = 0x1a977fc
 name = "dword_7101A977FC"
 type = "unsigned int[3]"
 size = 0xc
-
-[0x1a24897]
-last_change = 2026-10-26T18:08:25.791175Z
-addr = 0x1a24897
-name = "byte_7101A24897"
-type = "unsigned char[10]"
-size = 0xa

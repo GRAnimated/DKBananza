@@ -1,0 +1,11 @@
+last_change = 2026-10-26T18:08:26.253786Z
+addr = 0x2f2c40
+size = 0x2630
+name = "Scene_updateListsByMode_71002F2C40"
+
+[header]
+last_change = 2026-10-26T18:08:26.253786Z
+name = "Scene_updateListsByMode_71002F2C40"
+addr = 0x2f2c40
+
+[header.args]

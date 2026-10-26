@@ -1,5 +1,51 @@
-last_change = 2026-10-26T14:27:22.397586Z
+last_change = 2026-10-26T14:28:35.520307Z
 name = "Application"
-size = 0x1
+size = 0x40
 
-[members]
+[members.0x0]
+name = "_0"
+offset = 0x0
+type = "void *"
+size = 0x8
+
+[members.0x8]
+name = "_8"
+offset = 0x8
+type = "void *"
+size = 0x8
+
+[members.0x10]
+name = "_10"
+offset = 0x10
+type = "void *"
+size = 0x8
+
+[members.0x18]
+name = "_18"
+offset = 0x18
+type = "void *"
+size = 0x8
+
+[members.0x20]
+name = "_20"
+offset = 0x20
+type = "void *"
+size = 0x8
+
+[members.0x28]
+name = "_28"
+offset = 0x28
+type = "void *"
+size = 0x8
+
+[members.0x30]
+name = "_30"
+offset = 0x30
+type = "void *"
+size = 0x8
+
+[members.0x38]
+name = "_38"
+offset = 0x38
+type = "void *"
+size = 0x8

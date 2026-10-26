@@ -1,13 +1,13 @@
-last_change = 2026-10-26T14:58:03.326404Z
+last_change = 2026-10-26T15:00:07.276371Z
 addr = 0x36a58c
 size = 0x94
 name = "_ZN2al14SensorHitGroupC2EiPKc"
-type = "al::HitSensor **"
+type = "void"
 
 [header]
-last_change = 2026-10-26T14:58:03.326404Z
+last_change = 2026-10-26T15:00:07.276371Z
 name = "_ZN2al14SensorHitGroupC2EiPKc"
 addr = 0x36a58c
-type = "al::HitSensor **"
+type = "void"
 
 [header.args]

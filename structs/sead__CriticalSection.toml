@@ -1,0 +1,15 @@
+last_change = 2026-10-26T16:49:43.370655Z
+name = "sead::CriticalSection"
+size = 0x40
+
+[members.0x0]
+name = "mDisposer"
+offset = 0x0
+type = "sead::IDisposer"
+size = 0x20
+
+[members.0x20]
+name = "mCriticalSectionInner"
+offset = 0x20
+type = "nn::os::MutexType"
+size = 0x20

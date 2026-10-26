@@ -1,33 +1,33 @@
-last_change = 2026-10-26T17:35:20.289369Z
+last_change = 2026-10-26T17:43:12.972033Z
 name = "vtbl_7102176D40"
 size = 0x28
 
 [members.0x0]
-name = "sub_71012DD53C"
+name = "checkDerivedRuntimeTypeInfo"
 offset = 0x0
-type = "long long (__fastcall *)(long long, long long *)"
+type = "void *(__fastcall *)(const al::IUseCamera *, const sead::RuntimeTypeInfo::Interface *)"
 size = 0x8
 
 [members.0x8]
-name = "sub_71012DD544"
+name = "getRuntimeTypeInfo"
 offset = 0x8
-type = "long long *(*)()"
+type = "const sead::RuntimeTypeInfo::Interface *(__fastcall *)(const al::IUseCamera *)"
 size = 0x8
 
 [members.0x10]
-name = "sub_7101766FD4"
+name = "destructor"
 offset = 0x10
-type = "void (__fastcall *)(long long)"
+type = "void (__fastcall *)(al::IUseCamera *)"
 size = 0x8
 
 [members.0x18]
-name = "sub_7101767010"
+name = "deletingDestructor"
 offset = 0x18
-type = "void (__fastcall *)(long long)"
+type = "void (__fastcall *)(al::IUseCamera *)"
 size = 0x8
 
 [members.0x20]
-name = "sub_710002CA2C"
+name = "getCameraDirector"
 offset = 0x20
-type = "long long (__fastcall *)(long long)"
+type = "al::CameraDirector *(__fastcall *)(const al::IUseCamera *)"
 size = 0x8

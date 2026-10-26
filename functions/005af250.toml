@@ -1,0 +1,11 @@
+last_change = 2026-10-26T14:33:58.291942Z
+addr = 0x5af250
+size = 0xb0
+name = "_ZN2al21initRegionAndLanguageEv"
+
+[header]
+last_change = 2026-10-26T14:33:58.291942Z
+name = "_ZN2al21initRegionAndLanguageEv"
+addr = 0x5af250
+
+[header.args]

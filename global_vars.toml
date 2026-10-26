@@ -269440,8 +269440,8 @@ type = "unsigned int[3]"
 size = 0xc
 
 [0x1a09b78]
-last_change = 2026-10-26T18:08:22.370872Z
+last_change = 2026-10-26T18:08:23.031352Z
 addr = 0x1a09b78
-name = "unk_7101A09B78"
+name = "byte_7101A09B78"
 type = "unsigned char[20]"
-size = 0x1
+size = 0x14

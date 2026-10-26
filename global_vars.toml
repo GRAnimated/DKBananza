@@ -269372,8 +269372,8 @@ name = "sead_HeapMgr_sInstance"
 size = 0x8
 
 [0x2318680]
-last_change = 2026-10-26T16:54:27.967526Z
+last_change = 2026-10-26T16:54:28.607482Z
 addr = 0x2318680
-name = "unk_7102318680"
+name = "qword_7102318680"
 type = "__guard"
-size = 0x1
+size = 0x8

@@ -1,0 +1,11 @@
+last_change = 2026-10-26T17:00:35.809985Z
+addr = 0x12f336c
+size = 0xc8
+name = "_ZN14SculptureSceneC2EPN2al10WipeHolderE"
+
+[header]
+last_change = 2026-10-26T17:00:35.809985Z
+name = "_ZN14SculptureSceneC2EPN2al10WipeHolderE"
+addr = 0x12f336c
+
+[header.args]

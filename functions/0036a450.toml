@@ -1,11 +1,13 @@
-last_change = 2026-10-26T14:56:39.058848Z
+last_change = 2026-10-26T15:00:08.247794Z
 addr = 0x36a450
 size = 0x13c
 name = "al_HitSensorDirector_HitSensorDirector"
+type = "void"
 
 [header]
-last_change = 2026-10-26T14:56:39.058848Z
+last_change = 2026-10-26T15:00:08.247794Z
 name = "al_HitSensorDirector_HitSensorDirector"
 addr = 0x36a450
+type = "void"
 
 [header.args]

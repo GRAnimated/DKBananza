@@ -1,4 +1,4 @@
-last_change = 2026-10-26T14:29:40.802974Z
+last_change = 2026-10-26T14:45:16.769560Z
 name = "al::MemorySystem"
 size = 0x98
 
@@ -81,7 +81,7 @@ type = "void *"
 size = 0x8
 
 [members.0x68]
-name = "_68"
+name = "mHeapList"
 offset = 0x68
 type = "void *"
 size = 0x8

@@ -1,11 +1,13 @@
-last_change = 2026-10-26T14:38:36.234839Z
+last_change = 2026-10-26T14:38:55.095130Z
 addr = 0x5aef48
 size = 0x94
 name = "_ZN2al16SaveDataDirectorC2Ej"
+type = "void *"
 
 [header]
-last_change = 2026-10-26T14:38:02.615005Z
+last_change = 2026-10-26T14:38:55.095130Z
 name = "_ZN2al16SaveDataDirectorC2Ej"
 addr = 0x5aef48
+type = "void *"
 
 [header.args]

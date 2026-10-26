@@ -269413,8 +269413,8 @@ type = "al::Scene_vtbl"
 size = 0x78
 
 [0x1ae75e0]
-last_change = 2026-10-26T17:38:06.758671Z
+last_change = 2026-10-26T17:38:07.013419Z
 addr = 0x1ae75e0
-name = "unk_7101AE75E0"
+name = "qword_7101AE75E0"
 type = "unsigned long long[3]"
-size = 0x1
+size = 0x18

@@ -1,21 +1,21 @@
-last_change = 2026-10-26T17:43:14.654958Z
+last_change = 2026-10-26T17:35:21.164419Z
 name = "vtbl_7102176D78"
 size = 0x18
 
 [members.0x0]
-name = "destructor"
+name = "sub_7101766FDC"
 offset = 0x0
-type = "void (__fastcall *)(al::IUseSceneObjHolder *)"
+type = "void (__fastcall *)(long long)"
 size = 0x8
 
 [members.0x8]
-name = "deletingDestructor"
+name = "sub_7101767040"
 offset = 0x8
-type = "void (__fastcall *)(al::IUseSceneObjHolder *)"
+type = "void (__fastcall *)(long long)"
 size = 0x8
 
 [members.0x10]
-name = "getSceneObjHolder"
+name = "sub_71004044EC"
 offset = 0x10
-type = "al::SceneObjHolder *(__fastcall *)(const al::IUseSceneObjHolder *)"
+type = "long long (__fastcall *)(long long)"
 size = 0x8

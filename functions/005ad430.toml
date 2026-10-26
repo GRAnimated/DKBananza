@@ -1,0 +1,12 @@
+last_change = 2026-10-26T14:27:25.972291Z
+addr = 0x5ad430
+size = 0x5bc
+
+[header]
+last_change = 2026-10-26T14:27:25.972291Z
+addr = 0x5ad430
+
+[header.args.0x0]
+offset = 0x0
+type = "Application *"
+size = 0x8

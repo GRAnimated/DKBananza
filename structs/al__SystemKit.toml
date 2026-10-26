@@ -1,9 +1,9 @@
-last_change = 2026-10-26T14:16:07.798420Z
+last_change = 2026-10-26T14:19:26.714436Z
 name = "al::SystemKit"
 size = 0x38
 
 [members.0x0]
-name = "_0"
+name = "mMemorySystem"
 offset = 0x0
 type = "void *"
 size = 0x8

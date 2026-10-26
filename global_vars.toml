@@ -269412,8 +269412,8 @@ name = "al_Scene_vftable"
 type = "al::Scene_vtbl"
 size = 0x78
 
-[0x224a1e8]
-last_change = 2026-10-26T17:38:08.461464Z
-addr = 0x224a1e8
-name = "dword_710224A1E8"
+[0x224a1ec]
+last_change = 2026-10-26T17:38:08.757221Z
+addr = 0x224a1ec
+name = "dword_710224A1EC"
 size = 0x4

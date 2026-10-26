@@ -1,0 +1,11 @@
+last_change = 2026-10-26T17:28:33.381574Z
+addr = 0x34e77c
+size = 0x1b4
+name = "_ZN10StageScene8movementEv"
+
+[header]
+last_change = 2026-10-26T17:28:33.381574Z
+name = "_ZN10StageScene8movementEv"
+addr = 0x34e77c
+
+[header.args]

@@ -269384,3 +269384,9 @@ addr = 0x1a977ac
 name = "byte_7101A977AC"
 type = "char[9]"
 size = 0x9
+
+[0x20fa4c8]
+last_change = 2026-10-26T16:58:35.847680Z
+addr = 0x20fa4c8
+name = "_ZTV14SculptureScene"
+size = 0x1

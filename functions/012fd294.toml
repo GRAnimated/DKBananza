@@ -1,0 +1,11 @@
+last_change = 2026-10-26T16:58:38.072019Z
+addr = 0x12fd294
+size = 0x78
+name = "_ZN14StaffRollSceneC2Ev"
+
+[header]
+last_change = 2026-10-26T16:58:38.072019Z
+name = "_ZN14StaffRollSceneC2Ev"
+addr = 0x12fd294
+
+[header.args]

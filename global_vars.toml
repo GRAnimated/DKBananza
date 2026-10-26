@@ -269384,9 +269384,3 @@ addr = 0x1a977ac
 name = "byte_7101A977AC"
 type = "char[9]"
 size = 0x9
-
-[0x20fbb30]
-last_change = 2026-10-26T16:58:36.998535Z
-addr = 0x20fbb30
-name = "_ZTV14StaffRollScene"
-size = 0x10

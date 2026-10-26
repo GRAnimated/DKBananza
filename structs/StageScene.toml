@@ -1,4 +1,4 @@
-last_change = 2026-10-26T17:48:39.373510Z
+last_change = 2026-10-26T18:01:48.845723Z
 name = "StageScene"
 size = 0x2d0
 
@@ -9,337 +9,325 @@ type = "al::Scene"
 size = 0x140
 
 [members.0x140]
-name = "byte_140"
+name = "field_140"
 offset = 0x140
-type = "char[1]"
-size = 0x1
-
-[members.0x141]
-name = "gap_141"
-offset = 0x141
-type = "char[7]"
-size = 0x7
+type = "void *"
+size = 0x8
 
 [members.0x148]
-name = "qword_148"
+name = "mPlayerActor"
 offset = 0x148
-type = "unsigned long long"
+type = "al::LiveActor *"
 size = 0x8
 
 [members.0x150]
-name = "qword_150"
+name = "mWipeHolder"
 offset = 0x150
-type = "unsigned long long"
+type = "al::WipeHolder *"
 size = 0x8
 
 [members.0x158]
-name = "qword_158"
+name = "field_158"
 offset = 0x158
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x160]
-name = "qword_160"
+name = "field_160"
 offset = 0x160
-type = "long long"
+type = "void *"
 size = 0x8
 
 [members.0x168]
-name = "qword_168"
+name = "field_168"
 offset = 0x168
-type = "long long"
+type = "void *"
 size = 0x8
 
 [members.0x170]
-name = "qword_170"
+name = "field_170"
 offset = 0x170
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x178]
-name = "qword_178"
+name = "field_178"
 offset = 0x178
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x180]
-name = "qword_180"
+name = "field_180"
 offset = 0x180
-type = "long long"
+type = "void *"
 size = 0x8
 
 [members.0x188]
-name = "qword_188"
+name = "mStatePauseMenu"
 offset = 0x188
-type = "unsigned long long"
+type = "StageSceneStatePauseMenu *"
 size = 0x8
 
 [members.0x190]
-name = "qword_190"
+name = "mStateMap"
 offset = 0x190
-type = "unsigned long long"
+type = "al::NerveStateBase *"
 size = 0x8
 
 [members.0x198]
-name = "field_198"
+name = "mStatePowerUpMenu"
 offset = 0x198
-type = "long long *"
+type = "StageSceneStatePowerUpMenu *"
 size = 0x8
 
 [members.0x1a0]
-name = "qword_1a0"
+name = "mStateCollectionList"
 offset = 0x1a0
-type = "unsigned long long"
+type = "StageSceneStateCollectionList *"
 size = 0x8
 
 [members.0x1a8]
-name = "field_1a8"
+name = "mStateDemo"
 offset = 0x1a8
-type = "long long *"
+type = "StageSceneStateDemo *"
 size = 0x8
 
 [members.0x1b0]
-name = "qword_1b0"
+name = "mStateRace"
 offset = 0x1b0
-type = "unsigned long long"
+type = "StageSceneStateRace *"
 size = 0x8
 
 [members.0x1b8]
-name = "field_1b8"
+name = "mStateMusicList"
 offset = 0x1b8
-type = "long long *"
+type = "StageSceneStateMusicList *"
 size = 0x8
 
 [members.0x1c0]
-name = "qword_1c0"
+name = "mStateSnapshot"
 offset = 0x1c0
-type = "long long"
+type = "StageSceneStateSnapshot *"
 size = 0x8
 
 [members.0x1c8]
-name = "byte_1c8"
+name = "field_1C8"
 offset = 0x1c8
-type = "char"
+type = "bool"
 size = 0x1
 
-[members.0x1c9]
-name = "gap_1C9"
-offset = 0x1c9
-type = "char[7]"
-size = 0x7
-
 [members.0x1d0]
-name = "byte_1d0"
+name = "mGameDataHolder"
 offset = 0x1d0
-type = "char[8]"
+type = "GameDataHolder *"
 size = 0x8
 
 [members.0x1d8]
-name = "qword_1d8"
+name = "field_1D8"
 offset = 0x1d8
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x1e0]
-name = "gap_1E0"
+name = "padding_1E0"
 offset = 0x1e0
-type = "char[8]"
+type = "unsigned char[8]"
 size = 0x8
 
 [members.0x1e8]
-name = "dword_1e8"
+name = "field_1E8"
 offset = 0x1e8
 type = "int"
 size = 0x4
 
 [members.0x1ec]
-name = "gap_1EC"
+name = "padding_1EC"
 offset = 0x1ec
-type = "char[4]"
+type = "unsigned char[4]"
 size = 0x4
 
 [members.0x1f0]
-name = "dword_1f0"
+name = "field_1F0"
 offset = 0x1f0
 type = "int"
 size = 0x4
 
-[members.0x1f4]
-name = "gap_1F4"
-offset = 0x1f4
-type = "char[4]"
-size = 0x4
-
 [members.0x1f8]
-name = "qword_1f8"
+name = "mSceneUpdateList"
 offset = 0x1f8
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x200]
-name = "qword_200"
+name = "field_200"
 offset = 0x200
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x208]
-name = "qword_208"
+name = "field_208"
 offset = 0x208
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x210]
-name = "qword_210"
+name = "field_210"
 offset = 0x210
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x218]
-name = "gap_218"
+name = "field_218"
 offset = 0x218
-type = "char[32]"
-size = 0x20
+type = "void *"
+size = 0x8
+
+[members.0x220]
+name = "field_220"
+offset = 0x220
+type = "void *"
+size = 0x8
+
+[members.0x228]
+name = "field_228"
+offset = 0x228
+type = "void *"
+size = 0x8
+
+[members.0x230]
+name = "field_230"
+offset = 0x230
+type = "void *"
+size = 0x8
 
 [members.0x238]
-name = "qword_238"
+name = "field_238"
 offset = 0x238
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x240]
-name = "gap_240"
+name = "field_240"
 offset = 0x240
-type = "char"
+type = "bool"
 size = 0x1
 
 [members.0x241]
-name = "byte_241"
+name = "field_241"
 offset = 0x241
-type = "char"
+type = "bool"
 size = 0x1
 
 [members.0x242]
-name = "gap_242"
+name = "field_242"
 offset = 0x242
-type = "char"
+type = "bool"
 size = 0x1
 
 [members.0x243]
-name = "byte_243"
+name = "field_243"
 offset = 0x243
-type = "char"
+type = "bool"
 size = 0x1
-
-[members.0x244]
-name = "gap_244"
-offset = 0x244
-type = "char[4]"
-size = 0x4
 
 [members.0x248]
-name = "byte_248"
+name = "field_248"
 offset = 0x248
-type = "char[1]"
-size = 0x1
-
-[members.0x249]
-name = "gap_249"
-offset = 0x249
-type = "char[7]"
-size = 0x7
+type = "void *"
+size = 0x8
 
 [members.0x250]
-name = "qword_250"
+name = "field_250"
 offset = 0x250
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x258]
-name = "qword_258"
+name = "field_258"
 offset = 0x258
-type = "long long"
+type = "void *"
 size = 0x8
 
 [members.0x260]
-name = "qword_260"
+name = "mSceneStatus"
 offset = 0x260
-type = "unsigned long long"
+type = "StageSceneStatus *"
 size = 0x8
 
 [members.0x268]
-name = "qword_268"
+name = "field_268"
 offset = 0x268
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x270]
-name = "qword_270"
+name = "field_270"
 offset = 0x270
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x278]
-name = "qword_278"
+name = "mTalkPaulineAreaDirector"
 offset = 0x278
-type = "unsigned long long"
+type = "TalkPaulineAreaDirector *"
 size = 0x8
 
 [members.0x280]
-name = "field_280"
+name = "mStyleTutorialTalkAreaDirector"
 offset = 0x280
-type = "long long *"
+type = "StyleTutorialTalkAreaDirector *"
 size = 0x8
 
 [members.0x288]
-name = "qword_288"
+name = "field_288"
 offset = 0x288
-type = "long long"
+type = "void *"
 size = 0x8
 
 [members.0x290]
-name = "qword_290"
+name = "mFastTraveler"
 offset = 0x290
-type = "unsigned long long"
+type = "FastTraveler *"
 size = 0x8
 
 [members.0x298]
-name = "gap_298"
+name = "field_298"
 offset = 0x298
-type = "char[8]"
-size = 0x8
+type = "bool"
+size = 0x1
 
 [members.0x2a0]
-name = "qword_2a0"
+name = "field_2A0"
 offset = 0x2a0
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x2a8]
-name = "qword_2a8"
+name = "mGameSystemInfo"
 offset = 0x2a8
-type = "unsigned long long"
+type = "al::GameSystemInfo *"
 size = 0x8
 
 [members.0x2b0]
-name = "qword_2b0"
+name = "field_2B0"
 offset = 0x2b0
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x2b8]
-name = "qword_2b8"
+name = "field_2B8"
 offset = 0x2b8
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x2c0]
-name = "qword_2c0"
+name = "mStageWorkerThread"
 offset = 0x2c0
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x2c8]
-name = "qword_2c8"
+name = "field_2C8"
 offset = 0x2c8
-type = "long long"
+type = "sead::Heap *"
 size = 0x8

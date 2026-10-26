@@ -1,0 +1,11 @@
+last_change = 2026-10-26T14:35:27.682510Z
+addr = 0x5adc5c
+size = 0x44
+name = "_ZN2al9SystemKit20createSaveDataSystemEj"
+
+[header]
+last_change = 2026-10-26T14:35:27.682510Z
+name = "_ZN2al9SystemKit20createSaveDataSystemEj"
+addr = 0x5adc5c
+
+[header.args]

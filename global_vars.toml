@@ -269440,8 +269440,8 @@ type = "unsigned int[3]"
 size = 0xc
 
 [0x22699c0]
-last_change = 2026-10-27T00:09:05.931585Z
+last_change = 2026-10-27T00:09:06.472513Z
 addr = 0x22699c0
-name = "unk_71022699C0"
+name = "qword_71022699C0"
 type = "__guard"
-size = 0x1
+size = 0x8

@@ -44,7 +44,7 @@ There's a new `TQMSV` pose.
 
 Nerves now use floating point steps and a mutable step rate. Nerve names are now hashed and used in `NerveStateCtrl` comparisons instead of comparing pointers.
 
-After the hash, nerves have one more virtual function. It returns nullptr for most nerves, but some use it to pass extra (sometimes unique) data between nerve calls.
+`getNameHash` is our name for the 64-bit integer hash getter, not a string-pointer return or recovered original spelling. After the hash, nerves have one more virtual function. It returns nullptr for most nerves, but some use it to pass extra (sometimes unique) data between nerve calls.
 
 Odyssey:
 
@@ -63,7 +63,7 @@ class Nerve {
 public:
     virtual void execute(NerveKeeper* keeper) const = 0;
     virtual void executeOnEnd(NerveKeeper* keeper) const {}
-    virtual const char* getNameHash() const = 0;
+    virtual u64 getNameHash() const = 0;
     virtual field_18; // different between nerves
 };
 ```
@@ -110,3 +110,4 @@ al::KeyMoveMapPartsGenerator -> VoxelKeyMoveMapPartsGenerator
 | Class Name | Odyssey Size | Bananza Size |
 | ---------- | ------------ | ------------ |
 | al::LiveActor | 0x108 | 0x120 |
+| StageScene | 0x4C0 | 0x2D0 |

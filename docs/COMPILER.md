@@ -17,3 +17,7 @@ Example in `al::ActorPoseKeeperTQMSV::updatePoseTrans`:
     ...
   }
 ```
+
+### Inlined implementations
+
+`SequenceStateStage::exeLoad()` is DKB's equivalent of `HakoniwaSequence::exeLoadStage`. DKB only includes it inlined in `anonymous namespace::SequenceStateStageNrvLoad::execute` at `0x710063FAAC`.

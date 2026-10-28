@@ -197,3 +197,153 @@ type = "_Unwind_Sword"
 last_change = 2026-10-26T00:47:00.400400Z
 name = "size_t"
 type = "unsigned long long"
+
+[_Unwind_Reason_Code]
+last_change = 2026-10-28T04:57:00.578700Z
+name = "_Unwind_Reason_Code"
+type = "$BDF88968CAE1EA74E42809B9AE857E7C"
+
+["al::ActorCreatorFunction"]
+last_change = 2026-10-28T04:57:00.582062Z
+name = "al::ActorCreatorFunction"
+type = "al::LiveActor *(*)(const char *)"
+
+["sead::Vector2<float>::$5F7B1D72196E4337A70D2C0B9E7A047F::$38C3DEC81229B66F67FB6D350D75FF5A"]
+last_change = 2026-10-28T04:57:00.591013Z
+name = "sead::Vector2<float>::$5F7B1D72196E4337A70D2C0B9E7A047F::$38C3DEC81229B66F67FB6D350D75FF5A"
+type = "sead::Vector2<float>::$::$38C3DEC81229B66F67FB6D350D75FF5A"
+
+["sead::Vector2<int>::$2D153293884F9588CC84F01B0F05AAB9::$CDF557A927ED2BFF93B09908D4EFCA76"]
+last_change = 2026-10-28T04:57:00.591071Z
+name = "sead::Vector2<int>::$2D153293884F9588CC84F01B0F05AAB9::$CDF557A927ED2BFF93B09908D4EFCA76"
+type = "sead::Vector2<int>::$::$CDF557A927ED2BFF93B09908D4EFCA76"
+
+["sead::Vector2<unsigned int>::$BD199A3CE41D07194E117E0C344006B6::$E903C2A7C2E773B40766EDD788E6C3F6"]
+last_change = 2026-10-28T04:57:00.591120Z
+name = "sead::Vector2<unsigned int>::$BD199A3CE41D07194E117E0C344006B6::$E903C2A7C2E773B40766EDD788E6C3F6"
+type = "sead::Vector2<unsigned int>::$::$E903C2A7C2E773B40766EDD788E6C3F6"
+
+["sead::Vector2f"]
+last_change = 2026-10-28T04:57:00.591137Z
+name = "sead::Vector2f"
+type = "sead::Vector2<float>"
+
+["sead::Vector2i"]
+last_change = 2026-10-28T04:57:00.591149Z
+name = "sead::Vector2i"
+type = "sead::Vector2<int>"
+
+["sead::Vector2u"]
+last_change = 2026-10-28T04:57:00.591160Z
+name = "sead::Vector2u"
+type = "sead::Vector2<unsigned int>"
+
+["sead::Vector3<float>::$5309AE89CC8CD8035BB4C1FA48D08EA7::$393C16A032292777F0C3725FFB2C0008"]
+last_change = 2026-10-28T04:57:00.591197Z
+name = "sead::Vector3<float>::$5309AE89CC8CD8035BB4C1FA48D08EA7::$393C16A032292777F0C3725FFB2C0008"
+type = "sead::Vector3<float>::$::$393C16A032292777F0C3725FFB2C0008"
+
+["sead::Vector3<int>::$ADB7D816CE9286636E26DF7B0563ED36::$E2259ECB9B29C54B1F1B94C130E1A022"]
+last_change = 2026-10-28T04:57:00.591238Z
+name = "sead::Vector3<int>::$ADB7D816CE9286636E26DF7B0563ED36::$E2259ECB9B29C54B1F1B94C130E1A022"
+type = "sead::Vector3<int>::$::$E2259ECB9B29C54B1F1B94C130E1A022"
+
+["sead::Vector3<unsigned int>::$57DA7994216C979F6CCE8D02AB010CEC::$DBACFAB20A0087D64F6FDB795FCF762C"]
+last_change = 2026-10-28T04:57:00.591276Z
+name = "sead::Vector3<unsigned int>::$57DA7994216C979F6CCE8D02AB010CEC::$DBACFAB20A0087D64F6FDB795FCF762C"
+type = "sead::Vector3<unsigned int>::$::$DBACFAB20A0087D64F6FDB795FCF762C"
+
+["sead::Vector3f"]
+last_change = 2026-10-28T04:57:00.591292Z
+name = "sead::Vector3f"
+type = "sead::Vector3<float>"
+
+["sead::Vector3i"]
+last_change = 2026-10-28T04:57:00.591302Z
+name = "sead::Vector3i"
+type = "sead::Vector3<int>"
+
+["sead::Vector3u"]
+last_change = 2026-10-28T04:57:00.591312Z
+name = "sead::Vector3u"
+type = "sead::Vector3<unsigned int>"
+
+["sead::Vector4<float>::$E5CA505D77211FD7F3545B356442E9A6::$91D1B2149FAC90180ECB9AC277F76009"]
+last_change = 2026-10-28T04:57:00.591356Z
+name = "sead::Vector4<float>::$E5CA505D77211FD7F3545B356442E9A6::$91D1B2149FAC90180ECB9AC277F76009"
+type = "sead::Vector4<float>::$::$91D1B2149FAC90180ECB9AC277F76009"
+
+["sead::Vector4<int>::$376D78DD755AC66C5D1A98D5B331223A::$8EE7526571220F033655C348230167E3"]
+last_change = 2026-10-28T04:57:00.591406Z
+name = "sead::Vector4<int>::$376D78DD755AC66C5D1A98D5B331223A::$8EE7526571220F033655C348230167E3"
+type = "sead::Vector4<int>::$::$8EE7526571220F033655C348230167E3"
+
+["sead::Vector4<unsigned int>::$5A08640BA4663A112C36CAFB5957B04B::$F3E1E6C47CFE6D90F587350E7FC1BC9E"]
+last_change = 2026-10-28T04:57:00.591452Z
+name = "sead::Vector4<unsigned int>::$5A08640BA4663A112C36CAFB5957B04B::$F3E1E6C47CFE6D90F587350E7FC1BC9E"
+type = "sead::Vector4<unsigned int>::$::$F3E1E6C47CFE6D90F587350E7FC1BC9E"
+
+["sead::Vector4f"]
+last_change = 2026-10-28T04:57:00.591467Z
+name = "sead::Vector4f"
+type = "sead::Vector4<float>"
+
+["sead::Vector4i"]
+last_change = 2026-10-28T04:57:00.591478Z
+name = "sead::Vector4i"
+type = "sead::Vector4<int>"
+
+["sead::Vector4u"]
+last_change = 2026-10-28T04:57:00.591488Z
+name = "sead::Vector4u"
+type = "sead::Vector4<unsigned int>"
+
+["sead::Quatf"]
+last_change = 2026-10-28T04:57:00.591568Z
+name = "sead::Quatf"
+type = "sead::Quat<float>"
+
+["sead::Matrix22f"]
+last_change = 2026-10-28T04:57:00.591613Z
+name = "sead::Matrix22f"
+type = "sead::Matrix22<float>"
+
+["sead::Matrix33f"]
+last_change = 2026-10-28T04:57:00.591653Z
+name = "sead::Matrix33f"
+type = "sead::Matrix33<float>"
+
+["sead::Matrix34f"]
+last_change = 2026-10-28T04:57:00.591692Z
+name = "sead::Matrix34f"
+type = "sead::Matrix34<float>"
+
+["sead::Matrix44f"]
+last_change = 2026-10-28T04:57:00.591734Z
+name = "sead::Matrix44f"
+type = "sead::Matrix44<float>"
+
+["sead::Matrixf"]
+last_change = 2026-10-28T04:57:00.591745Z
+name = "sead::Matrixf"
+type = "sead::Matrix34<float>"
+
+["sead::BoundBox2f"]
+last_change = 2026-10-28T04:57:00.591757Z
+name = "sead::BoundBox2f"
+type = "sead::BoundBox2<float>"
+
+["sead::BoundBox3f"]
+last_change = 2026-10-28T04:57:00.591804Z
+name = "sead::BoundBox3f"
+type = "sead::BoundBox3<float>"
+
+[s32]
+last_change = 2026-10-28T04:57:00.599447Z
+name = "s32"
+type = "int"
+
+["al::LayoutActor_Vtable"]
+last_change = 2026-10-28T04:57:00.611101Z
+name = "al::LayoutActor_Vtable"
+type = "LayoutActorVtableTemp"

@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:40.000731Z
+addr = 0xf8a9d0
+size = 0xc0
+name = "_ZN8MiniShio6appearEv"
+type = "void"
+
+[header]
+name = "_ZN8MiniShio6appearEv"
+addr = 0xf8a9d0
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

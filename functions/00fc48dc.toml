@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:43.781080Z
+addr = 0xfc48dc
+size = 0x64
+name = "_ZNK30SimplePaulineEventExecuteActor18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK30SimplePaulineEventExecuteActor18getRuntimeTypeInfoEv"
+addr = 0xfc48dc
+
+[header.args]

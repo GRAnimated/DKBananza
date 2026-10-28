@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.393986Z
+addr = 0x1016794
+size = 0x14
+name = "_ZNK12_GLOBAL__N_19CueNrvOut11getNameHashEv"
+type = "unsigned long long"
+
+[header]
+name = "_ZNK12_GLOBAL__N_19CueNrvOut11getNameHashEv"
+addr = 0x1016794
+type = "unsigned long long"
+
+[header.args]

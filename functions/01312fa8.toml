@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.625972Z
+addr = 0x1312fa8
+size = 0x14
+name = "_ZNK12_GLOBAL__N_137StageSceneStateSnapshotNrvInWipeClose11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_137StageSceneStateSnapshotNrvInWipeClose11getNameHashEv"
+addr = 0x1312fa8
+
+[header.args]

@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.650833Z
+addr = 0x134df90
+size = 0x2c8
+name = "sub_710134DF90"
+type = "long long"
+
+[header]
+name = "sub_710134DF90"
+addr = 0x134df90
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long (__fastcall ***)()"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

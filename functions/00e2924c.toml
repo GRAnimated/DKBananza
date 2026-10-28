@@ -1,12 +1,16 @@
-last_change = 2026-10-26T00:37:09.981197Z
+last_change = 2026-10-28T04:56:43.233406Z
 addr = 0xe2924c
 size = 0x8
 name = "_ZNK2al9LiveActor15getEffectKeeperEv"
-type = "long long"
+type = "al::EffectKeeper *"
 
 [header]
 name = "_ZNK2al9LiveActor15getEffectKeeperEv"
 addr = 0xe2924c
-type = "long long"
+type = "al::EffectKeeper *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "const al::LiveActor *"
+size = 0x8

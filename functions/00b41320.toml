@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:58.171246Z
+addr = 0xb41320
+size = 0xb9c
+name = "havok_7100B41320"
+type = "int32x4_t"
+
+[header]
+name = "havok_7100B41320"
+addr = 0xb41320
+type = "int32x4_t"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "void **"
+size = 0x8

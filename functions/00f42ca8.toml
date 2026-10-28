@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.326499Z
+addr = 0xf42ca8
+size = 0x3c
+name = "_ZN10BattanWall13makeActorDeadEv"
+
+[header]
+name = "_ZN10BattanWall13makeActorDeadEv"
+addr = 0xf42ca8
+
+[header.args]

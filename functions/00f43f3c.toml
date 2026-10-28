@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:35.647606Z
+addr = 0xf43f3c
+size = 0x1cc
+name = "UnknownHost_710223CC78_exeHideWait"
+type = "long long"
+
+[header]
+name = "UnknownHost_710223CC78_exeHideWait"
+addr = 0xf43f3c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

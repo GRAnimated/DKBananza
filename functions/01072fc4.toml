@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.422719Z
+addr = 0x1072fc4
+size = 0x5c
+name = "_ZN14BioThornSwitchD1Ev"
+
+[header]
+name = "_ZN14BioThornSwitchD1Ev"
+addr = 0x1072fc4
+
+[header.args]

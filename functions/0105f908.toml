@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.416102Z
+addr = 0x105f908
+size = 0x5c
+name = "_ZN10BallBucketD1Ev"
+
+[header]
+name = "_ZN10BallBucketD1Ev"
+addr = 0x105f908
+
+[header.args]

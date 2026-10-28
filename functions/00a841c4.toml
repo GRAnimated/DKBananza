@@ -1,10 +1,12 @@
-last_change = 2026-10-26T00:37:09.980255Z
+last_change = 2026-10-28T04:56:43.183275Z
 addr = 0xa841c4
 size = 0x4
-name = "nullsub_988"
+name = "_ZN12hknpModifierD2Ev"
+type = "void"
 
 [header]
-name = "nullsub_988"
+name = "_ZN12hknpModifierD2Ev"
 addr = 0xa841c4
+type = "void"
 
 [header.args]

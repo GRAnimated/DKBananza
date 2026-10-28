@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.380652Z
+addr = 0xfeead4
+size = 0x14
+name = "_ZNK12_GLOBAL__N_119StateNrvWaitInWater11getNameHashEv_7100FEEAD4"
+
+[header]
+name = "_ZNK12_GLOBAL__N_119StateNrvWaitInWater11getNameHashEv_7100FEEAD4"
+addr = 0xfeead4
+
+[header.args]

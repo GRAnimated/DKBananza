@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.311670Z
+addr = 0xf13dac
+size = 0x8
+name = "Nerve_7100F13DAC"
+
+[header]
+name = "Nerve_7100F13DAC"
+addr = 0xf13dac
+
+[header.args]

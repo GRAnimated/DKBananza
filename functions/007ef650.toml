@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.094565Z
+addr = 0x7ef650
+size = 0xc4
+name = "sub_71007EF650"
+type = "long long"
+
+[header]
+name = "sub_71007EF650"
+addr = 0x7ef650
+type = "long long"
+
+[header.args]

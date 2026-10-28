@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:36.575673Z
+addr = 0xf517d8
+size = 0x8a8
+name = "_ZN7Dangoro10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN7Dangoro10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xf517d8
+
+[header.args]

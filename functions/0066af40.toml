@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:57:38.451105Z
+addr = 0x66af40
+size = 0x1ac
+name = "phive_RigidBody_applyUpdateShape_"
+type = "long long"
+
+[header]
+name = "phive_RigidBody_applyUpdateShape_"
+addr = 0x66af40
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "char"
+size = 0x1

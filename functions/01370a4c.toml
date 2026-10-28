@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.671045Z
+addr = 0x1370a4c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_134VoxelHopperLiftMapPartsNrvMoveSign11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_134VoxelHopperLiftMapPartsNrvMoveSign11getNameHashEv"
+addr = 0x1370a4c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.521845Z
+addr = 0x11b7884
+size = 0x8
+name = "_ZNK12_GLOBAL__N_118WeightSwitchNrvOff7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_118WeightSwitchNrvOff7executeEPN2al11NerveKeeperE"
+addr = 0x11b7884
+
+[header.args]

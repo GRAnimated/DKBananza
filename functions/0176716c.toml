@@ -1,10 +1,16 @@
-last_change = 2026-10-26T00:37:10.007418Z
+last_change = 2026-10-28T04:56:43.922493Z
 addr = 0x176716c
 size = 0x4
-name = "nullsub_3686"
+name = "_ZN2al5Scene7controlEv"
+type = "void"
 
 [header]
-name = "nullsub_3686"
+name = "_ZN2al5Scene7controlEv"
 addr = 0x176716c
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::Scene *"
+size = 0x8

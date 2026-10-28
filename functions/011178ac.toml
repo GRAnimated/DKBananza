@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:13.578499Z
+addr = 0x11178ac
+size = 0x20c
+name = "_ZN8Minecart15exeRunJumpStartEv"
+
+[header]
+name = "_ZN8Minecart15exeRunJumpStartEv"
+addr = 0x11178ac
+
+[header.args]

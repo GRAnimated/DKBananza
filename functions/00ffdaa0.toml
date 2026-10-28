@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.386160Z
+addr = 0xffdaa0
+size = 0x14
+name = "_ZNK12_GLOBAL__N_121MoneyLineNrvPutSmooth11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_121MoneyLineNrvPutSmooth11getNameHashEv"
+addr = 0xffdaa0
+
+[header.args]

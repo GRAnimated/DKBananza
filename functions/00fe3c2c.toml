@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.377678Z
+addr = 0xfe3c2c
+size = 0x5c
+name = "_ZN10BottleItemD1Ev"
+
+[header]
+name = "_ZN10BottleItemD1Ev"
+addr = 0xfe3c2c
+
+[header.args]

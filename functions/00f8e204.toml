@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:40.287118Z
+addr = 0xf8e204
+size = 0x84
+name = "_ZN6Pettan7exeFallEv"
+
+[header]
+name = "_ZN6Pettan7exeFallEv"
+addr = 0xf8e204
+
+[header.args]

@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:42.996744Z
+addr = 0x5ad210
+size = 0xd8
+name = "_ZN4sead11ResourceMgrC2Ev"
+type = "long long"
+
+[header]
+name = "_ZN4sead11ResourceMgrC2Ev"
+addr = 0x5ad210
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8

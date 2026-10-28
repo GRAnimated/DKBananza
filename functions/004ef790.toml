@@ -1,11 +1,16 @@
-last_change = 2026-10-26T17:15:52.832209Z
+last_change = 2026-10-28T04:56:42.519565Z
 addr = 0x4ef790
 size = 0x8
 name = "_ZNK2al13NerveExecutor14getNerveKeeperEv"
+type = "void *"
 
 [header]
-last_change = 2026-10-26T17:15:52.832209Z
 name = "_ZNK2al13NerveExecutor14getNerveKeeperEv"
 addr = 0x4ef790
+type = "void *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "const al::NerveExecutor *"
+size = 0x8

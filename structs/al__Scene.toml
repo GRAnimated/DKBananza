@@ -1,11 +1,11 @@
-last_change = 2026-10-26T17:35:35.357119Z
+last_change = 2026-10-28T04:57:00.600970Z
 name = "al::Scene"
 size = 0x13c
 
 [members.0x0]
 name = "__vftable"
 offset = 0x0
-type = "al_Scene_vftable *"
+type = "al::Scene_vtbl *"
 size = 0x8
 
 [members.0x8]
@@ -15,9 +15,9 @@ type = "vtbl_7102176D08 *"
 size = 0x8
 
 [members.0x10]
-name = "gap_10"
+name = "mNerveKeeper"
 offset = 0x10
-type = "char[8]"
+type = "al::NerveKeeper *"
 size = 0x8
 
 [members.0x18]
@@ -41,13 +41,13 @@ size = 0x8
 [members.0x30]
 name = "field_30"
 offset = 0x30
-type = "float *"
+type = "ScenePhysicsTiming *"
 size = 0x8
 
 [members.0x38]
-name = "qword_38"
+name = "field_38"
 offset = 0x38
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x40]
@@ -57,187 +57,163 @@ type = "bool"
 size = 0x1
 
 [members.0x41]
-name = "gap_41"
+name = "gap41"
 offset = 0x41
 type = "char[7]"
 size = 0x7
 
 [members.0x48]
-name = "qword_48"
+name = "mName"
 offset = 0x48
-type = "long long"
-size = 0x8
-
-[members.0x50]
-name = "dword_50"
-offset = 0x50
-type = "int"
-size = 0x4
-
-[members.0x54]
-name = "byte_54"
-offset = 0x54
-type = "char[63]"
-size = 0x3f
-
-[members.0x93]
-name = "byte_93"
-offset = 0x93
-type = "char"
-size = 0x1
-
-[members.0x94]
-name = "gap_94"
-offset = 0x94
-type = "char[4]"
-size = 0x4
+type = "sead::FixedSafeString<64>"
+size = 0x50
 
 [members.0x98]
-name = "byte_98"
+name = "mStageResourceKeeper"
 offset = 0x98
-type = "char[1]"
-size = 0x1
-
-[members.0x99]
-name = "gap_99"
-offset = 0x99
-type = "char[7]"
-size = 0x7
+type = "al::StageResourceKeeper *"
+size = 0x8
 
 [members.0xa0]
-name = "qword_a0"
+name = "mLiveActorKit"
 offset = 0xa0
-type = "long long"
+type = "al::LiveActorKit *"
 size = 0x8
 
 [members.0xa8]
-name = "qword_a8"
+name = "mLayoutKit"
 offset = 0xa8
-type = "long long"
+type = "al::LayoutKit *"
 size = 0x8
 
 [members.0xb0]
-name = "qword_b0"
+name = "mSceneObjHolder"
 offset = 0xb0
-type = "unsigned long long"
+type = "al::SceneObjHolder *"
 size = 0x8
 
 [members.0xb8]
-name = "qword_b8"
+name = "mSceneStopCtrl"
 offset = 0xb8
-type = "unsigned long long"
+type = "al::SceneStopCtrl *"
 size = 0x8
 
 [members.0xc0]
-name = "gap_C0"
+name = "field_C0"
 offset = 0xc0
-type = "char[8]"
+type = "void *"
 size = 0x8
 
 [members.0xc8]
-name = "qword_c8"
+name = "field_C8"
 offset = 0xc8
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0xd0]
-name = "qword_d0"
+name = "mEffectDirector"
 offset = 0xd0
-type = "unsigned long long"
+type = "al::EffectDirector *"
 size = 0x8
 
 [members.0xd8]
-name = "qword_d8"
+name = "mAudioDirector"
 offset = 0xd8
-type = "unsigned long long"
+type = "al::AudioDirector *"
 size = 0x8
 
 [members.0xe0]
-name = "gap_E0"
+name = "mAudioKeeper"
 offset = 0xe0
-type = "char[8]"
+type = "al::AudioKeeper *"
 size = 0x8
 
 [members.0xe8]
-name = "qword_e8"
+name = "field_E8"
 offset = 0xe8
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0xf0]
-name = "qword_f0"
+name = "field_F0"
 offset = 0xf0
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0xf8]
-name = "qword_f8"
+name = "field_F8"
 offset = 0xf8
-type = "long long"
+type = "void *"
 size = 0x8
 
 [members.0x100]
-name = "qword_100"
+name = "mEffectSystem"
 offset = 0x100
-type = "unsigned long long"
+type = "al::EffectSystem *"
 size = 0x8
 
 [members.0x108]
-name = "gap_108"
+name = "field_108"
 offset = 0x108
-type = "char[4]"
+type = "int"
 size = 0x4
 
 [members.0x10c]
-name = "qword_10c"
+name = "field_10C"
 offset = 0x10c
-type = "unsigned long long"
+type = "bool"
+size = 0x1
+
+[members.0x10d]
+name = "field_10D"
+offset = 0x10d
+type = "bool"
+size = 0x1
+
+[members.0x110]
+name = "field_110"
+offset = 0x110
+type = "void *"
 size = 0x8
 
-[members.0x114]
-name = "gap_114"
-offset = 0x114
-type = "char[4]"
-size = 0x4
-
 [members.0x118]
-name = "qword_118"
+name = "field_118"
 offset = 0x118
-type = "long long"
+type = "void *"
 size = 0x8
 
 [members.0x120]
-name = "qword_120"
+name = "field_120"
 offset = 0x120
-type = "long long"
+type = "void *"
 size = 0x8
 
 [members.0x128]
-name = "qword_128"
+name = "mJobThread"
 offset = 0x128
-type = "unsigned long long"
+type = "void *"
 size = 0x8
 
 [members.0x130]
 name = "field_130"
 offset = 0x130
-type = "long long *"
+type = "void *"
 size = 0x8
 
 [members.0x138]
-name = "byte_138"
+name = "field_138"
 offset = 0x138
-type = "char"
+type = "bool"
 size = 0x1
 
 [members.0x139]
-name = "gap_139"
+name = "field_139"
 offset = 0x139
-type = "char"
+type = "unsigned char"
 size = 0x1
 
 [members.0x13a]
-name = "word_13a"
+name = "field_13A"
 offset = 0x13a
-type = "short"
+type = "unsigned short"
 size = 0x2

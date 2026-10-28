@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.119969Z
+addr = 0x8cffd0
+size = 0x8
+name = "_ZNK9hkReflect6Detail4Impl10isPropertyEv"
+type = "long long"
+
+[header]
+name = "_ZNK9hkReflect6Detail4Impl10isPropertyEv"
+addr = 0x8cffd0
+type = "long long"
+
+[header.args]

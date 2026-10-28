@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.517426Z
+addr = 0x11a9c78
+size = 0x14
+name = "_ZNK12_GLOBAL__N_140VoxelKeyMoveMapPartsGeneratorNrvGenerate11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_140VoxelKeyMoveMapPartsGeneratorNrvGenerate11getNameHashEv"
+addr = 0x11a9c78
+
+[header.args]

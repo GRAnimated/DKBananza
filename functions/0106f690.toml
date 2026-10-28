@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:56.279021Z
+addr = 0x106f690
+size = 0x3c
+name = "_ZN7BioSeed4killEv"
+
+[header]
+name = "_ZN7BioSeed4killEv"
+addr = 0x106f690
+
+[header.args]

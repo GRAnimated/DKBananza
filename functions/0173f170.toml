@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.912629Z
+addr = 0x173f170
+size = 0x18
+name = "_ZNK12_GLOBAL__N_136CameraStateRailMoveMovieNrvMoveStart7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_136CameraStateRailMoveMovieNrvMoveStart7executeEPN2al11NerveKeeperE"
+addr = 0x173f170
+
+[header.args]

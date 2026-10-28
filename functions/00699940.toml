@@ -1,10 +1,22 @@
-last_change = 2026-10-26T00:37:09.975703Z
+last_change = 2026-10-28T04:56:43.034344Z
 addr = 0x699940
 size = 0x4
-name = "nullsub_682"
+name = "_ZN4sead13GameFramework17createSeadMenuMgrEPNS_8TaskBaseE"
+type = "void"
 
 [header]
-name = "nullsub_682"
+name = "_ZN4sead13GameFramework17createSeadMenuMgrEPNS_8TaskBaseE"
 addr = 0x699940
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "sead::GameFramework *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "sead::TaskBase *"
+size = 0x8

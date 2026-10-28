@@ -1,0 +1,52 @@
+last_change = 2026-10-28T04:57:47.993375Z
+addr = 0x8ace20
+size = 0x214
+name = "sub_71008ACE20"
+type = "long long"
+
+[header]
+name = "sub_71008ACE20"
+addr = 0x8ace20
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x4]
+offset = 0x4
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x5]
+offset = 0x5
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x6]
+offset = 0x6
+name = "this"
+type = "nn::util::BinaryFileHeader *"
+size = 0x8

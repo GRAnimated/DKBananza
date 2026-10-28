@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.984236Z
+last_change = 2026-10-28T04:56:43.327575Z
 addr = 0xf47184
 size = 0x4
-name = "nullsub_1462"
+name = "_ZN6Chaser7controlEv"
 
 [header]
-name = "nullsub_1462"
+name = "_ZN6Chaser7controlEv"
 addr = 0xf47184
 
 [header.args]

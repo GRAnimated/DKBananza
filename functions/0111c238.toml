@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.473942Z
+addr = 0x111c238
+size = 0x78
+name = "_ZN21MinecartBreakMapParts10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN21MinecartBreakMapParts10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x111c238
+
+[header.args]

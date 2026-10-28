@@ -1,11 +1,16 @@
-last_change = 2026-10-26T17:28:33.386636Z
+last_change = 2026-10-28T04:56:43.035876Z
 addr = 0x69fc20
 size = 0x154
-type = "bool"
+name = "sub_710069FC20"
+type = "long long"
 
 [header]
-last_change = 2026-10-26T17:28:33.386636Z
+name = "sub_710069FC20"
 addr = 0x69fc20
-type = "bool"
+type = "long long"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::Scene *"
+size = 0x8

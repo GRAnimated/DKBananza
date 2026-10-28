@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:38.006836Z
+addr = 0xf6a1cc
+size = 0x258
+name = "_ZN6Gororo12exeBreakBlowEv"
+type = "long long"
+
+[header]
+name = "_ZN6Gororo12exeBreakBlowEv"
+addr = 0xf6a1cc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

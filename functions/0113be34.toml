@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:17.494019Z
+addr = 0x113be34
+size = 0x64
+name = "_ZN22RecordPlayerSoundLevel9exeLayoutEv"
+
+[header]
+name = "_ZN22RecordPlayerSoundLevel9exeLayoutEv"
+addr = 0x113be34
+
+[header.args]

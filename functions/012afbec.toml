@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.596668Z
+addr = 0x12afbec
+size = 0x14
+name = "_ZNK12_GLOBAL__N_122PlayerStateSwimNrvRise11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_122PlayerStateSwimNrvRise11getNameHashEv"
+addr = 0x12afbec
+
+[header.args]

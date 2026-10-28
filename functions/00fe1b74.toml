@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:46.235249Z
+addr = 0xfe1b74
+size = 0xbc
+name = "_ZN14BananamondChip7exeWaitEv"
+
+[header]
+name = "_ZN14BananamondChip7exeWaitEv"
+addr = 0xfe1b74
+
+[header.args]

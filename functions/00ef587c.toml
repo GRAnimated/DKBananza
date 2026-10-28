@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:30.863410Z
+addr = 0xef587c
+size = 0xb0
+name = "sub_7100EF587C"
+
+[header]
+name = "sub_7100EF587C"
+addr = 0xef587c
+
+[header.args]

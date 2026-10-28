@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:45.062664Z
+last_change = 2026-10-28T04:57:45.471349Z
 addr = 0x82af30
 size = 0x54
 name = "realloc"
@@ -9,4 +9,14 @@ name = "realloc"
 addr = 0x82af30
 type = "long long"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "void *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "unsigned long long"
+size = 0x8

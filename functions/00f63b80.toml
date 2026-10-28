@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:37.694733Z
+addr = 0xf63b80
+size = 0x48
+name = "_ZN6Flydon10endClippedEv"
+
+[header]
+name = "_ZN6Flydon10endClippedEv"
+addr = 0xf63b80
+
+[header.args]

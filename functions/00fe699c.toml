@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:46.682583Z
+addr = 0xfe699c
+size = 0x64
+name = "_ZNK18CollectChipWatcher18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK18CollectChipWatcher18getRuntimeTypeInfoEv"
+addr = 0xfe699c
+
+[header.args]

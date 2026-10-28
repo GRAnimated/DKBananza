@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:23.659392Z
+addr = 0xe7fb50
+size = 0xd4
+name = "_ZN9BossStorm13exeDemoAppearEv"
+
+[header]
+name = "_ZN9BossStorm13exeDemoAppearEv"
+addr = 0xe7fb50
+
+[header.args]

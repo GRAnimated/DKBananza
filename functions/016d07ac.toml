@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.871766Z
+addr = 0x16d07ac
+size = 0x14
+name = "_ZN2al20ActorPoseKeeperTQGSV15updatePoseTransERKN4sead7Vector3IfEE"
+type = "void"
+
+[header]
+name = "_ZN2al20ActorPoseKeeperTQGSV15updatePoseTransERKN4sead7Vector3IfEE"
+addr = 0x16d07ac
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::ActorPoseKeeperTQGSV *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "trans"
+type = "const sead::Vector3f *"
+size = 0x8

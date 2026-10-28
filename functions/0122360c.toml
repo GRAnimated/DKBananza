@@ -1,12 +1,16 @@
-last_change = 2026-10-26T00:37:09.991630Z
+last_change = 2026-10-28T04:56:43.556941Z
 addr = 0x122360c
 size = 0x4
-name = "j__ZdlPv_1231"
+name = "_ZN23VoxelNpcHideGameWatcherD0Ev"
 type = "void"
 
 [header]
-name = "j__ZdlPv_1231"
+name = "_ZN23VoxelNpcHideGameWatcherD0Ev"
 addr = 0x122360c
 type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "void *"
+size = 0x8

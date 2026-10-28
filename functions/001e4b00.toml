@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:28.126985Z
+addr = 0x1e4b00
+size = 0x524
+name = "sub_71001E4B00"
+type = "unsigned short *"
+
+[header]
+name = "sub_71001E4B00"
+addr = 0x1e4b00
+type = "unsigned short *"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

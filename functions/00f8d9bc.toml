@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.350834Z
+addr = 0xf8d9bc
+size = 0x2c
+name = "_ZN6Pettan8calcAnimEv"
+
+[header]
+name = "_ZN6Pettan8calcAnimEv"
+addr = 0xf8d9bc
+
+[header.args]

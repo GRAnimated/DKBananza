@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:35.701984Z
+addr = 0xf45f48
+size = 0x64
+name = "_ZNK10BattanWall18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK10BattanWall18getRuntimeTypeInfoEv"
+addr = 0xf45f48
+
+[header.args]

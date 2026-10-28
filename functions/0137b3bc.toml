@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.674296Z
+addr = 0x137b3bc
+size = 0x120
+name = "_ZN27VoxelPartsBrokenRateChecker12exeCountDownEv"
+
+[header]
+name = "_ZN27VoxelPartsBrokenRateChecker12exeCountDownEv"
+addr = 0x137b3bc
+
+[header.args]

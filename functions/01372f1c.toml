@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.671844Z
+addr = 0x1372f1c
+size = 0x2c
+name = "_ZN31VoxelKeyMoveMapPartsConnectable4killEv"
+
+[header]
+name = "_ZN31VoxelKeyMoveMapPartsConnectable4killEv"
+addr = 0x1372f1c
+
+[header.args]

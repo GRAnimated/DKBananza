@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:13.624820Z
+addr = 0x1117e5c
+size = 0x130
+name = "_ZN8Minecart13exeRunJumpEndEv"
+
+[header]
+name = "_ZN8Minecart13exeRunJumpEndEv"
+addr = 0x1117e5c
+
+[header.args]

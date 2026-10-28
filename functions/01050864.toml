@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:53.642451Z
+addr = 0x1050864
+size = 0xf0
+name = "sub_7101050864"
+type = "void"
+
+[header]
+name = "sub_7101050864"
+addr = 0x1050864
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

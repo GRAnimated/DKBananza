@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:09.973098Z
+last_change = 2026-10-28T04:57:31.163413Z
 addr = 0x3b775c
 size = 0x10c
 name = "_ZN9DemoActorC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN9DemoActorC2EPKc"
 addr = 0x3b775c
 type = "long double"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

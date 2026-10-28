@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.481622Z
+addr = 0x11359a4
+size = 0x58
+name = "_ZN18PunchingBallSwitch12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN18PunchingBallSwitch12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x11359a4
+
+[header.args]

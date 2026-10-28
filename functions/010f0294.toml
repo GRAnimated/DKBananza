@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:09.629850Z
+addr = 0x10f0294
+size = 0x9c
+name = "_ZN14IceMakerSwitch9exeOnWaitEv"
+
+[header]
+name = "_ZN14IceMakerSwitch9exeOnWaitEv"
+addr = 0x10f0294
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.592571Z
+addr = 0x1297cb0
+size = 0x14
+name = "_ZNK12_GLOBAL__N_131PlayerStateDeadNrvDeadSkydiving11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_131PlayerStateDeadNrvDeadSkydiving11getNameHashEv"
+addr = 0x1297cb0
+
+[header.args]

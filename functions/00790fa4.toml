@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.073614Z
+addr = 0x790fa4
+size = 0x2c
+name = "_ZN8MiniShio12startClippedEv"
+
+[header]
+name = "_ZN8MiniShio12startClippedEv"
+addr = 0x790fa4
+
+[header.args]

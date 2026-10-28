@@ -1,10 +1,12 @@
-last_change = 2026-10-26T00:37:10.001046Z
+last_change = 2026-10-28T04:56:43.775214Z
 addr = 0x1576774
 size = 0x4
-name = "nullsub_2934"
+name = "phive_RigidBody_7101576774"
+type = "void"
 
 [header]
-name = "nullsub_2934"
+name = "phive_RigidBody_7101576774"
 addr = 0x1576774
+type = "void"
 
 [header.args]

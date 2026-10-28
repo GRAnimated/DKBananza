@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:00.624381Z
+addr = 0x1096554
+size = 0x64
+name = "_ZNK23ContinuousBattleWatcher18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK23ContinuousBattleWatcher18getRuntimeTypeInfoEv"
+addr = 0x1096554
+
+[header.args]

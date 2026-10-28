@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.036014Z
+addr = 0x6a00cc
+size = 0x3f0
+name = "sub_71006A00CC"
+type = "long long"
+
+[header]
+name = "sub_71006A00CC"
+addr = 0x6a00cc
+type = "long long"
+
+[header.args]

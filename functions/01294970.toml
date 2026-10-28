@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.591849Z
+addr = 0x1294970
+size = 0x8
+name = "_ZNK12_GLOBAL__N_129PlayerStateDamageNrvBlowWater7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_129PlayerStateDamageNrvBlowWater7executeEPN2al11NerveKeeperE"
+addr = 0x1294970
+
+[header.args]

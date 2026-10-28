@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:59:03.953842Z
+addr = 0x10bbf28
+size = 0x22c
+name = "UnknownHost_710223F468_exeDemoAppearSign"
+type = "long long"
+
+[header]
+name = "UnknownHost_710223F468_exeDemoAppearSign"
+addr = 0x10bbf28
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

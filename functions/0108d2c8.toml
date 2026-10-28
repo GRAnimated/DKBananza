@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:59.676298Z
+addr = 0x108d2c8
+size = 0x64
+name = "_ZNK13CheckPointTmp18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK13CheckPointTmp18getRuntimeTypeInfoEv"
+addr = 0x108d2c8
+
+[header.args]

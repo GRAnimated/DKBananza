@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.436957Z
+addr = 0x109d72c
+size = 0x2c
+name = "_ZN7Crystal13makeActorDeadEv"
+
+[header]
+name = "_ZN7Crystal13makeActorDeadEv"
+addr = 0x109d72c
+
+[header.args]

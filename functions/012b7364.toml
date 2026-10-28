@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.598160Z
+addr = 0x12b7364
+size = 0xc8
+name = "_ZN15PlayerStateWait17exeWaitRhythmAreaEv"
+
+[header]
+name = "_ZN15PlayerStateWait17exeWaitRhythmAreaEv"
+addr = 0x12b7364
+
+[header.args]

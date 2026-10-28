@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:42.490584Z
+addr = 0x3b9900
+size = 0x360
+name = "sub_71003B9900"
+type = "float"
+
+[header]
+name = "sub_71003B9900"
+addr = 0x3b9900
+type = "float"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "result"
+type = "float"
+size = 0x4

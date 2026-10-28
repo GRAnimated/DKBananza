@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:59:09.776057Z
+addr = 0x10f1f58
+size = 0x8c
+name = "_ZN7Icicles9exeAppearEv"
+type = "long long"
+
+[header]
+name = "_ZN7Icicles9exeAppearEv"
+addr = 0x10f1f58
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

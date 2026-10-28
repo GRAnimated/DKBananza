@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:58:30.432523Z
+addr = 0xeec46c
+size = 0xb7c
+name = "_ZN9Stomperor4initERKN2al13ActorInitInfoE"
+type = "void"
+
+[header]
+name = "_ZN9Stomperor4initERKN2al13ActorInitInfoE"
+addr = 0xeec46c
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "float *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

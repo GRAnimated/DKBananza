@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.542777Z
+addr = 0x11f5fe0
+size = 0x38
+name = "_ZN25Npc2VoxelBreakAchievement10endClippedEv"
+
+[header]
+name = "_ZN25Npc2VoxelBreakAchievement10endClippedEv"
+addr = 0x11f5fe0
+
+[header.args]

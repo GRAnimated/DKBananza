@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.493027Z
+addr = 0x1159a88
+size = 0x14
+name = "_ZNK12_GLOBAL__N_129SoundLevelAltarDoorNrvStandBy11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_129SoundLevelAltarDoorNrvStandBy11getNameHashEv"
+addr = 0x1159a88
+
+[header.args]

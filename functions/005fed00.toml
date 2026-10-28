@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:36.945856Z
+addr = 0x5fed00
+size = 0xb0
+name = "al_Sequence_71005FED00"
+type = "long long"
+
+[header]
+name = "al_Sequence_71005FED00"
+addr = 0x5fed00
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::Sequence *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "info"
+type = "void *"
+size = 0x8

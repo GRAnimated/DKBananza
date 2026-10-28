@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.544878Z
+addr = 0x11fce10
+size = 0x14
+name = "_ZNK12_GLOBAL__N_135Npc2VoxelHideAndSeekNrvDemoFoundEnd11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_135Npc2VoxelHideAndSeekNrvDemoFoundEnd11getNameHashEv"
+addr = 0x11fce10
+
+[header.args]

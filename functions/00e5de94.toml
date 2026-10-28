@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.251073Z
+addr = 0xe5de94
+size = 0x8
+name = "_ZN13BioThornRoute10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN13BioThornRoute10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xe5de94
+
+[header.args]

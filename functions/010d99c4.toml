@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.454904Z
+addr = 0x10d99c4
+size = 0x14
+name = "FruitSwitchExtraLarge__ZNK12_GLOBAL__N_123HostTypeNrvReactionSide11getNameHashEv"
+
+[header]
+name = "FruitSwitchExtraLarge__ZNK12_GLOBAL__N_123HostTypeNrvReactionSide11getNameHashEv"
+addr = 0x10d99c4
+
+[header.args]

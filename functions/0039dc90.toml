@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:57:30.886177Z
+addr = 0x39dc90
+size = 0x18c
+name = "sub_710039DC90"
+type = "void"
+
+[header]
+name = "sub_710039DC90"
+addr = 0x39dc90
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long (__fastcall ***)(unsigned long long)"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "const char *"
+size = 0x8

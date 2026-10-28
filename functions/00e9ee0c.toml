@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.273170Z
+addr = 0xe9ee0c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_135KingKRoolCannonBallGeneratorNrvIdle11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_135KingKRoolCannonBallGeneratorNrvIdle11getNameHashEv"
+addr = 0xe9ee0c
+
+[header.args]

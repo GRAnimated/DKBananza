@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:17.569863Z
+addr = 0x113c928
+size = 0x48
+name = "_ZNK12_GLOBAL__N_133RecordPlayerSoundLevelNrvReaction7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_133RecordPlayerSoundLevelNrvReaction7executeEPN2al11NerveKeeperE"
+addr = 0x113c928
+
+[header.args]

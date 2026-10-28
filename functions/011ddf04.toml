@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.534193Z
+addr = 0x11ddf04
+size = 0x1c
+name = "_ZNK12_GLOBAL__N_129Npc2FastTravelerNrvMoveOnRail7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_129Npc2FastTravelerNrvMoveOnRail7executeEPN2al11NerveKeeperE"
+addr = 0x11ddf04
+
+[header.args]

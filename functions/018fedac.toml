@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:44.004375Z
+addr = 0x18fedac
+size = 0x68
+name = "sub_71018FEDAC"
+
+[header]
+name = "sub_71018FEDAC"
+addr = 0x18fedac
+
+[header.args]

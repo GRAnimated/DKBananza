@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.542863Z
+addr = 0x11f6408
+size = 0x64
+name = "_ZNK25Npc2VoxelBreakAchievement18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK25Npc2VoxelBreakAchievement18getRuntimeTypeInfoEv"
+addr = 0x11f6408
+
+[header.args]

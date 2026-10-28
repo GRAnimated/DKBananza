@@ -1,0 +1,15 @@
+last_change = 2026-10-28T04:57:00.591885Z
+name = "sead::Vector2<int>::$::$CDF557A927ED2BFF93B09908D4EFCA76"
+size = 0x8
+
+[members.0x0]
+name = "x"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "y"
+offset = 0x4
+type = "int"
+size = 0x4

@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.801612Z
+addr = 0x15fc568
+size = 0x68
+name = "_ZNK5phive20DynamicsWorldBackEnd18getRuntimeTypeInfoEv"
+type = "long long *"
+
+[header]
+name = "_ZNK5phive20DynamicsWorldBackEnd18getRuntimeTypeInfoEv"
+addr = 0x15fc568
+type = "long long *"
+
+[header.args]

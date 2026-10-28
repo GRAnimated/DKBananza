@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.873249Z
+addr = 0x16d1010
+size = 0x4
+name = "j__ZNK2al20ActorPoseKeeperTFGSV27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+type = "void *"
+
+[header]
+name = "j__ZNK2al20ActorPoseKeeperTFGSV27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x16d1010
+type = "void *"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "const al::ActorPoseKeeperTFGSV *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "typeInfo"
+type = "const sead::RuntimeTypeInfo::Interface *"
+size = 0x8

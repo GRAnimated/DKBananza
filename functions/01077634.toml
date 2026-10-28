@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:57.144800Z
+addr = 0x1077634
+size = 0x460
+name = "BlowBreakMapParts_attackCollider"
+
+[header]
+name = "BlowBreakMapParts_attackCollider"
+addr = 0x1077634
+
+[header.args]

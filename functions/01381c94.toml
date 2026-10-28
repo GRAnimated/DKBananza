@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.676891Z
+addr = 0x1381c94
+size = 0x3c
+name = "_ZN19VoxelRisingMapParts10endClippedEv"
+
+[header]
+name = "_ZN19VoxelRisingMapParts10endClippedEv"
+addr = 0x1381c94
+
+[header.args]

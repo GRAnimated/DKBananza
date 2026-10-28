@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.908526Z
+addr = 0x17301b8
+size = 0x14
+name = "_ZNK12_GLOBAL__N_131CameraPoserEntranceNrvKeepInAir11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_131CameraPoserEntranceNrvKeepInAir11getNameHashEv"
+addr = 0x17301b8
+
+[header.args]

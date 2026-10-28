@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.572912Z
+addr = 0x125e570
+size = 0x320
+name = "_ZN13PlayerGorilla15exeClimbCeilingEv"
+
+[header]
+name = "_ZN13PlayerGorilla15exeClimbCeilingEv"
+addr = 0x125e570
+
+[header.args]

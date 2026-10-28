@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:42.501094Z
+addr = 0x44f5fc
+size = 0x450
+name = "sub_710044F5FC"
+type = "long long"
+
+[header]
+name = "sub_710044F5FC"
+addr = 0x44f5fc
+type = "long long"
+
+[header.args]

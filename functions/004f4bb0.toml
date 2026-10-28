@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:42.521469Z
+addr = 0x4f4bb0
+size = 0x74
+name = "sub_71004F4BB0"
+type = "al::NerveStateBase *"
+
+[header]
+name = "sub_71004F4BB0"
+addr = 0x4f4bb0
+type = "al::NerveStateBase *"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.616718Z
+addr = 0x12f549c
+size = 0x4
+name = "_ZNK14SculptureScene27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+type = "void *"
+
+[header]
+name = "_ZNK14SculptureScene27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x12f549c
+type = "void *"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "const SculptureScene *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "typeInfo"
+type = "const sead::RuntimeTypeInfo::Interface *"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.509504Z
+addr = 0x118ef74
+size = 0x40
+name = "_ZN21TornadoBossStormField6appearEv"
+
+[header]
+name = "_ZN21TornadoBossStormField6appearEv"
+addr = 0x118ef74
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:29.938659Z
+addr = 0xee58c4
+size = 0x7c
+name = "_ZN19ShioShioStateAttack13exeAttackBombEv"
+
+[header]
+name = "_ZN19ShioShioStateAttack13exeAttackBombEv"
+addr = 0xee58c4
+
+[header.args]

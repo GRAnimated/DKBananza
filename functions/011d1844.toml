@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.529185Z
+addr = 0x11d1844
+size = 0x90
+name = "_ZN27Npc2AnimalTalkerMonkeyMiner16exeReactionOtherEv"
+
+[header]
+name = "_ZN27Npc2AnimalTalkerMonkeyMiner16exeReactionOtherEv"
+addr = 0x11d1844
+
+[header.args]

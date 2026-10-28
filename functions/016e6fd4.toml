@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.883845Z
+addr = 0x16e6fd4
+size = 0x64
+name = "_ZNK12SurfMapParts18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK12SurfMapParts18getRuntimeTypeInfoEv"
+addr = 0x16e6fd4
+
+[header.args]

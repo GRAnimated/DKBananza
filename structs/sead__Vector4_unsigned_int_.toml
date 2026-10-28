@@ -1,0 +1,9 @@
+last_change = 2026-10-28T04:57:00.591440Z
+name = "sead::Vector4<unsigned int>"
+size = 0x10
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "sead::Vector4<unsigned int>::$5A08640BA4663A112C36CAFB5957B04B"
+size = 0x10

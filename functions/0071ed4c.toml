@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.057028Z
+addr = 0x71ed4c
+size = 0x964
+name = "_ZN10BattanWall8calcAnimEv"
+
+[header]
+name = "_ZN10BattanWall8calcAnimEv"
+addr = 0x71ed4c
+
+[header.args]

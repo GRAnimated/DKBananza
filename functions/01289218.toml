@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.588758Z
+addr = 0x1289218
+size = 0xc4
+name = "_ZN18PlayerStateAirMove15exeFloatingHardEv"
+
+[header]
+name = "_ZN18PlayerStateAirMove15exeFloatingHardEv"
+addr = 0x1289218
+
+[header.args]

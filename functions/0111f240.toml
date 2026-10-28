@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.475346Z
+addr = 0x111f240
+size = 0x14
+name = "_ZNK12_GLOBAL__N_130MinecartRailSwitchRailNrvRight11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_130MinecartRailSwitchRailNrvRight11getNameHashEv"
+addr = 0x111f240
+
+[header.args]

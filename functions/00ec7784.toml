@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.287590Z
+addr = 0xec7784
+size = 0x14
+name = "_ZNK12_GLOBAL__N_131KingKRoolVoxelBulletNrvBlowDown11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_131KingKRoolVoxelBulletNrvBlowDown11getNameHashEv"
+addr = 0xec7784
+
+[header.args]

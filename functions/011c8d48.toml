@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.526520Z
+addr = 0x11c8d48
+size = 0xac
+name = "_ZN7GrowNpc12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN7GrowNpc12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x11c8d48
+
+[header.args]

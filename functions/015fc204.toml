@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.801537Z
+addr = 0x15fc204
+size = 0x20
+name = "_ZN5phive20DynamicsWorldBackEnd22setSolverIterationNum_Ei"
+type = "float"
+
+[header]
+name = "_ZN5phive20DynamicsWorldBackEnd22setSolverIterationNum_Ei"
+addr = 0x15fc204
+type = "float"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4

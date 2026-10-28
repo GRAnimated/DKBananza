@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.083411Z
+addr = 0x7b1a00
+size = 0x2c
+name = "_ZN7GrowNpc10endClippedEv"
+
+[header]
+name = "_ZN7GrowNpc10endClippedEv"
+addr = 0x7b1a00
+
+[header.args]

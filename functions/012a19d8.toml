@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.594584Z
+addr = 0x12a19d8
+size = 0xe0
+name = "_ZN18PlayerStateRolling21exeClimbCeilingDamageEv"
+
+[header]
+name = "_ZN18PlayerStateRolling21exeClimbCeilingDamageEv"
+addr = 0x12a19d8
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.521491Z
+addr = 0x11b6654
+size = 0x348
+name = "_ZN12WeightSwitch4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN12WeightSwitch4initERKN2al13ActorInitInfoE"
+addr = 0x11b6654
+
+[header.args]

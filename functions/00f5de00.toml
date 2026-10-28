@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.334706Z
+addr = 0xf5de00
+size = 0x5c
+name = "_ZN11DonZainCoreD1Ev"
+
+[header]
+name = "_ZN11DonZainCoreD1Ev"
+addr = 0xf5de00
+
+[header.args]

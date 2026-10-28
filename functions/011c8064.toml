@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.526251Z
+addr = 0x11c8064
+size = 0x4
+name = "_ZNK14GreatHarmoneel27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK14GreatHarmoneel27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x11c8064
+
+[header.args]

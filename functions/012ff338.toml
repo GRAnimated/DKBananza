@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.619557Z
+addr = 0x12ff338
+size = 0x8
+name = "_ZNK12_GLOBAL__N_133StaffRollSceneNrvWaitWipeCloseEnd7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_133StaffRollSceneNrvWaitWipeCloseEnd7executeEPN2al11NerveKeeperE"
+addr = 0x12ff338
+
+[header.args]

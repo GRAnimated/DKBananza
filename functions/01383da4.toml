@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.677797Z
+addr = 0x1383da4
+size = 0x2c
+name = "_ZN30VoxelRotateMapPartsConnectable14makeActorAliveEv"
+
+[header]
+name = "_ZN30VoxelRotateMapPartsConnectable14makeActorAliveEv"
+addr = 0x1383da4
+
+[header.args]

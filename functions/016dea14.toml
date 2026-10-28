@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.880978Z
+addr = 0x16dea14
+size = 0x2a0
+name = "_ZN15KeyMoveMapParts4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN15KeyMoveMapParts4initERKN2al13ActorInitInfoE"
+addr = 0x16dea14
+
+[header.args]

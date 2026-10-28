@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:01.006541Z
+addr = 0x109aa2c
+size = 0x68
+name = "_ZN21CoverMapPartsSubActor4killEv"
+
+[header]
+name = "_ZN21CoverMapPartsSubActor4killEv"
+addr = 0x109aa2c
+
+[header.args]

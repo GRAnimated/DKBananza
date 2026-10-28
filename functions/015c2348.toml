@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.789812Z
+addr = 0x15c2348
+size = 0x40
+name = "_ZN5phive6SystemD2Ev"
+type = "long long"
+
+[header]
+name = "_ZN5phive6SystemD2Ev"
+addr = 0x15c2348
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

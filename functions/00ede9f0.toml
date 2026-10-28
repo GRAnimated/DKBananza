@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.294349Z
+addr = 0xede9f0
+size = 0x68
+name = "sub_7100EDE9F0"
+type = "float"
+
+[header]
+name = "sub_7100EDE9F0"
+addr = 0xede9f0
+type = "float"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "float"
+size = 0x4
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "float"
+size = 0x4

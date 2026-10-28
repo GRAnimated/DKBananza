@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:57:27.865316Z
+addr = 0x18c0c8
+size = 0xac
+name = "_ZN5phive12WorldBackEnd11lockForReadEv"
+type = "long long"
+
+[header]
+name = "_ZN5phive12WorldBackEnd11lockForReadEv"
+addr = 0x18c0c8
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

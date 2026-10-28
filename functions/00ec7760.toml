@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.287574Z
+addr = 0xec7760
+size = 0x8
+name = "_ZNK12_GLOBAL__N_129KingKRoolVoxelBulletNrvAppear7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_129KingKRoolVoxelBulletNrvAppear7executeEPN2al11NerveKeeperE"
+addr = 0xec7760
+
+[header.args]

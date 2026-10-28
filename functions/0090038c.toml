@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:56:43.133414Z
+addr = 0x90038c
+size = 0xb8
+name = "havok_710090038C"
+type = "long long"
+
+[header]
+name = "havok_710090038C"
+addr = 0x90038c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "unsigned long long"
+size = 0x8

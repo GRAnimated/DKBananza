@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:36.654780Z
+addr = 0x5e6fac
+size = 0xe8
+name = "_ZN2al11LayoutActorC1EPKc"
+type = "void"
+
+[header]
+name = "_ZN2al11LayoutActorC1EPKc"
+addr = 0x5e6fac
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::LayoutActor *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "name"
+type = "const char *"
+size = 0x8

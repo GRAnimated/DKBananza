@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.353029Z
+addr = 0xf948b8
+size = 0x14
+name = "RockBee__ZNK12_GLOBAL__N_117HostTypeNrvDamage11getNameHashEv"
+
+[header]
+name = "RockBee__ZNK12_GLOBAL__N_117HostTypeNrvDamage11getNameHashEv"
+addr = 0xf948b8
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.338989Z
+addr = 0xf6ca60
+size = 0x30
+name = "_ZN4Gush12startClippedEv"
+
+[header]
+name = "_ZN4Gush12startClippedEv"
+addr = 0xf6ca60
+
+[header.args]

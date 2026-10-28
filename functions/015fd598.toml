@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.802265Z
+addr = 0x15fd598
+size = 0x58
+name = "_ZN5phive21CollisionFilterSensor6createEPN4sead4HeapE"
+type = "long long *"
+
+[header]
+name = "_ZN5phive21CollisionFilterSensor6createEPN4sead4HeapE"
+addr = 0x15fd598
+type = "long long *"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

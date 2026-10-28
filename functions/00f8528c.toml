@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.346197Z
+addr = 0xf8528c
+size = 0x40
+name = "_ZN7Mimichi11exeDemoStopEv"
+type = "long long"
+
+[header]
+name = "_ZN7Mimichi11exeDemoStopEv"
+addr = 0xf8528c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

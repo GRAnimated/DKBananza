@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:40.930532Z
+addr = 0xf977e4
+size = 0x64
+name = "_ZNK17SneakingManGolden18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK17SneakingManGolden18getRuntimeTypeInfoEv"
+addr = 0xf977e4
+
+[header.args]

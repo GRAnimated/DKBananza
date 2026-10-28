@@ -1,0 +1,87 @@
+last_change = 2026-10-28T04:57:00.594269Z
+name = "al::ActorInitInfo"
+size = 0x118
+
+[members.0x0]
+name = "placementInfo"
+offset = 0x0
+type = "void *"
+size = 0x8
+
+[members.0x8]
+name = "field_08"
+offset = 0x8
+type = "void *"
+size = 0x8
+
+[members.0x10]
+name = "actorSceneInfo"
+offset = 0x10
+type = "al::ActorSceneInfo"
+size = 0xb0
+
+[members.0xc0]
+name = "allActorsGroup"
+offset = 0xc0
+type = "void *"
+size = 0x8
+
+[members.0xc8]
+name = "field_C8"
+offset = 0xc8
+type = "void *"
+size = 0x8
+
+[members.0xd0]
+name = "field_D0"
+offset = 0xd0
+type = "void *"
+size = 0x8
+
+[members.0xd8]
+name = "actorResourceHolder"
+offset = 0xd8
+type = "void *"
+size = 0x8
+
+[members.0xe0]
+name = "field_E0"
+offset = 0xe0
+type = "void *"
+size = 0x8
+
+[members.0xe8]
+name = "field_E8"
+offset = 0xe8
+type = "void *"
+size = 0x8
+
+[members.0xf0]
+name = "executeDirector"
+offset = 0xf0
+type = "void *"
+size = 0x8
+
+[members.0xf8]
+name = "field_F8"
+offset = 0xf8
+type = "void *"
+size = 0x8
+
+[members.0x100]
+name = "field_100"
+offset = 0x100
+type = "void *"
+size = 0x8
+
+[members.0x108]
+name = "field_108"
+offset = 0x108
+type = "void *"
+size = 0x8
+
+[members.0x110]
+name = "viewIdHolder"
+offset = 0x110
+type = "void *"
+size = 0x8

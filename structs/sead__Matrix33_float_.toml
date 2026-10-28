@@ -1,0 +1,9 @@
+last_change = 2026-10-28T04:57:00.591638Z
+name = "sead::Matrix33<float>"
+size = 0x24
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "sead::Matrix33<float>::$7F88512838E01D8ABA6291BA29A43440"
+size = 0x24

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:30.490043Z
+addr = 0xeee5dc
+size = 0x5c
+name = "_ZN9Stomperor13exeFeetAttackEv"
+
+[header]
+name = "_ZN9Stomperor13exeFeetAttackEv"
+addr = 0xeee5dc
+
+[header.args]

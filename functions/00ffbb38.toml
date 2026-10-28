@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.385289Z
+addr = 0xffbb38
+size = 0x5c
+name = "_ZN9MoneyItemD1Ev"
+
+[header]
+name = "_ZN9MoneyItemD1Ev"
+addr = 0xffbb38
+
+[header.args]

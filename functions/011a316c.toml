@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.515592Z
+addr = 0x11a316c
+size = 0x14
+name = "_ZN24VoxelForwardBackMapParts7controlEv"
+
+[header]
+name = "_ZN24VoxelForwardBackMapParts7controlEv"
+addr = 0x11a316c
+
+[header.args]

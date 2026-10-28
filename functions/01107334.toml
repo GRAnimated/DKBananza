@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:12.150354Z
+addr = 0x1107334
+size = 0x24c
+name = "_ZN6Lizard4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN6Lizard4initERKN2al13ActorInitInfoE"
+addr = 0x1107334
+
+[header.args]

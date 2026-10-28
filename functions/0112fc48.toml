@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.480682Z
+addr = 0x112fc48
+size = 0x504
+name = "_ZN11PuddleParts7exeWaitEv"
+
+[header]
+name = "_ZN11PuddleParts7exeWaitEv"
+addr = 0x112fc48
+
+[header.args]

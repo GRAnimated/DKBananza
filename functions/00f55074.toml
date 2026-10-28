@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:36.807753Z
+addr = 0xf55074
+size = 0x90
+name = "_ZN10Debrischan14exeAttackResetEv"
+type = "long long"
+
+[header]
+name = "_ZN10Debrischan14exeAttackResetEv"
+addr = 0xf55074
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.668566Z
+addr = 0x1369e18
+size = 0x34
+name = "_ZN18VoxelClockMapParts6appearEv"
+
+[header]
+name = "_ZN18VoxelClockMapParts6appearEv"
+addr = 0x1369e18
+
+[header.args]

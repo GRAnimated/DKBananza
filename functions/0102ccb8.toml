@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.403123Z
+addr = 0x102ccb8
+size = 0x4c
+name = "_ZN12MenuMiniGameD1Ev"
+
+[header]
+name = "_ZN12MenuMiniGameD1Ev"
+addr = 0x102ccb8
+
+[header.args]

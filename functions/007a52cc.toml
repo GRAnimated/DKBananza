@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:43.660132Z
+addr = 0x7a52cc
+size = 0x1c8
+name = "_ZN16ThrowableItemBox8movementEv"
+
+[header]
+name = "_ZN16ThrowableItemBox8movementEv"
+addr = 0x7a52cc
+
+[header.args]

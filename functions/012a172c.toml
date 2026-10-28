@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.594572Z
+addr = 0x12a172c
+size = 0x210
+name = "_ZN18PlayerStateRolling22exeClimbCeilingRollingEv"
+
+[header]
+name = "_ZN18PlayerStateRolling22exeClimbCeilingRollingEv"
+addr = 0x12a172c
+
+[header.args]

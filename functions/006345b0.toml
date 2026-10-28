@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.018097Z
+addr = 0x6345b0
+size = 0xa4
+name = "_ZN15Npc2VoxelTalker6appearEv"
+
+[header]
+name = "_ZN15Npc2VoxelTalker6appearEv"
+addr = 0x6345b0
+
+[header.args]

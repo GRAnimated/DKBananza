@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:40.017635Z
+addr = 0xf8b378
+size = 0x140
+name = "_ZN8MiniShio9exeSearchEv"
+
+[header]
+name = "_ZN8MiniShio9exeSearchEv"
+addr = 0xf8b378
+
+[header.args]

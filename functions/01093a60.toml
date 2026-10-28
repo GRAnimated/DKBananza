@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:00.336597Z
+addr = 0x1093a60
+size = 0x150
+name = "_ZN6Closet12exeOpenReadyEv"
+
+[header]
+name = "_ZN6Closet12exeOpenReadyEv"
+addr = 0x1093a60
+
+[header.args]

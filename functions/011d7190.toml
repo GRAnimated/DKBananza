@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.530701Z
+addr = 0x11d7190
+size = 0x8
+name = "_ZNK12_GLOBAL__N_128Npc2AnimalTalkerZebraNrvFall7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_128Npc2AnimalTalkerZebraNrvFall7executeEPN2al11NerveKeeperE"
+addr = 0x11d7190
+
+[header.args]

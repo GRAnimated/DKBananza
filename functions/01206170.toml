@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.547748Z
+addr = 0x1206170
+size = 0x1fc
+name = "_ZN15Npc2VoxelSinger4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN15Npc2VoxelSinger4initERKN2al13ActorInitInfoE"
+addr = 0x1206170
+
+[header.args]

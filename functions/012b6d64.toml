@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.598092Z
+addr = 0x12b6d64
+size = 0xb8
+name = "_ZN15PlayerStateWait14exeWaitBalanceEv"
+
+[header]
+name = "_ZN15PlayerStateWait14exeWaitBalanceEv"
+addr = 0x12b6d64
+
+[header.args]

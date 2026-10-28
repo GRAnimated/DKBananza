@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.477265Z
+addr = 0x1124c54
+size = 0x4
+name = "_ZNK14MovingBanaroot27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK14MovingBanaroot27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x1124c54
+
+[header.args]

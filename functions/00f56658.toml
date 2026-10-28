@@ -1,12 +1,16 @@
-last_change = 2026-10-26T00:37:09.984350Z
+last_change = 2026-10-28T04:56:43.331840Z
 addr = 0xf56658
 size = 0x4
-name = "j__ZdlPv_414"
+name = "_ZN10DebrischanD0Ev"
 type = "void"
 
 [header]
-name = "j__ZdlPv_414"
+name = "_ZN10DebrischanD0Ev"
 addr = 0xf56658
 type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "void *"
+size = 0x8

@@ -1,11 +1,16 @@
-last_change = 2026-10-25T23:11:42.683269Z
+last_change = 2026-10-28T04:56:42.414640Z
 addr = 0x3b748
 size = 0x8
 name = "sub_710003B748"
+type = "al::StageSwitchKeeper *"
 
 [header]
-last_change = 2026-10-25T23:11:42.683269Z
 name = "sub_710003B748"
 addr = 0x3b748
+type = "al::StageSwitchKeeper *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "const void *__shifted(al::LiveActor,0x18)"
+size = 0x8

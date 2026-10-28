@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:29.334167Z
+addr = 0xed75f4
+size = 0x64
+name = "_ZNK9PoppyKong18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK9PoppyKong18getRuntimeTypeInfoEv"
+addr = 0xed75f4
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.009164Z
+addr = 0x5ef27c
+size = 0xd4
+name = "_ZN8BanaRoot13makeActorDeadEv"
+
+[header]
+name = "_ZN8BanaRoot13makeActorDeadEv"
+addr = 0x5ef27c
+
+[header.args]

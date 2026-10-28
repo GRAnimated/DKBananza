@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.499232Z
+addr = 0x116e894
+size = 0x58
+name = "_ZN19StoneStatueTutorial12exeStateDemoEv"
+
+[header]
+name = "_ZN19StoneStatueTutorial12exeStateDemoEv"
+addr = 0x116e894
+
+[header.args]

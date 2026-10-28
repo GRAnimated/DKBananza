@@ -1,10 +1,12 @@
-last_change = 2026-10-26T00:37:10.001814Z
+last_change = 2026-10-28T04:56:43.790793Z
 addr = 0x15c3690
 size = 0x4
-name = "nullsub_3059"
+name = "_ZNK5phive5World13dumpWorldInfoEv"
+type = "void"
 
 [header]
-name = "nullsub_3059"
+name = "_ZNK5phive5World13dumpWorldInfoEv"
 addr = 0x15c3690
+type = "void"
 
 [header.args]

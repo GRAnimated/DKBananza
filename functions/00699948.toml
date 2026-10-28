@@ -1,10 +1,28 @@
-last_change = 2026-10-26T00:37:09.975712Z
+last_change = 2026-10-28T04:56:43.034432Z
 addr = 0x699948
 size = 0x4
-name = "nullsub_684"
+name = "_ZN4sead9Framework17createSystemTasksEPNS_8TaskBaseERKNS0_19CreateSystemTaskArgE"
+type = "void"
 
 [header]
-name = "nullsub_684"
+name = "_ZN4sead9Framework17createSystemTasksEPNS_8TaskBaseERKNS0_19CreateSystemTaskArgE"
 addr = 0x699948
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "sead::Framework *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "sead::TaskBase *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "const sead::Framework::CreateSystemTaskArg *"
+size = 0x8

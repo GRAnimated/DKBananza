@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.986324Z
+last_change = 2026-10-28T04:56:43.419304Z
 addr = 0x1069338
 size = 0x4
-name = "nullsub_1612"
+name = "Barrier__ZNK12_GLOBAL__N_115HostTypeNrvVoid7executeEPN2al11NerveKeeperE"
 
 [header]
-name = "nullsub_1612"
+name = "Barrier__ZNK12_GLOBAL__N_115HostTypeNrvVoid7executeEPN2al11NerveKeeperE"
 addr = 0x1069338
 
 [header.args]

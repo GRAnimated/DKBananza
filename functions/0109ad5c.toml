@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:01.036500Z
+addr = 0x109ad5c
+size = 0x64
+name = "_ZNK21CoverMapPartsSubActor18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK21CoverMapPartsSubActor18getRuntimeTypeInfoEv"
+addr = 0x109ad5c
+
+[header.args]

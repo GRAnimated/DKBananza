@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.905547Z
+addr = 0x17274a4
+size = 0x18
+name = "_ZN8OceanObj18initAfterPlacementEv"
+
+[header]
+name = "_ZN8OceanObj18initAfterPlacementEv"
+addr = 0x17274a4
+
+[header.args]

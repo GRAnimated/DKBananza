@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.546940Z
+addr = 0x1203980
+size = 0x78
+name = "_ZN20Npc2VoxelShopCostumeD1Ev"
+
+[header]
+name = "_ZN20Npc2VoxelShopCostumeD1Ev"
+addr = 0x1203980
+
+[header.args]

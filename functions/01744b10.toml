@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.914120Z
+addr = 0x1744b10
+size = 0xc
+name = "_ZNK12_GLOBAL__N_125CameraPoserTowerNrvFollow7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_125CameraPoserTowerNrvFollow7executeEPN2al11NerveKeeperE"
+addr = 0x1744b10
+
+[header.args]

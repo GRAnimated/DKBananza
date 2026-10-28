@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.262733Z
+addr = 0xe81f04
+size = 0x14
+name = "BossStorm__ZNK12_GLOBAL__N_125HostTypeNrvWindAttackSign11getNameHashEv"
+
+[header]
+name = "BossStorm__ZNK12_GLOBAL__N_125HostTypeNrvWindAttackSign11getNameHashEv"
+addr = 0xe81f04
+
+[header.args]

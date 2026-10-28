@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.422511Z
+addr = 0x1072410
+size = 0x14
+name = "BioSeedRoad__ZNK12_GLOBAL__N_115HostTypeNrvWait11getNameHashEv"
+
+[header]
+name = "BioSeedRoad__ZNK12_GLOBAL__N_115HostTypeNrvWait11getNameHashEv"
+addr = 0x1072410
+
+[header.args]

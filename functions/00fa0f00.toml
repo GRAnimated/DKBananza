@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.357304Z
+addr = 0xfa0f00
+size = 0x14
+name = "_ZNK12_GLOBAL__N_121UeyowaidaLaserNrvWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_121UeyowaidaLaserNrvWait11getNameHashEv"
+addr = 0xfa0f00
+
+[header.args]

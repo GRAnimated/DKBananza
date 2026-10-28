@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.986354Z
+last_change = 2026-10-28T04:56:43.419805Z
 addr = 0x106a32c
 size = 0x4
-name = "nullsub_1615"
+name = "_ZN18BattleStageBgmCtrl12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
 
 [header]
-name = "nullsub_1615"
+name = "_ZN18BattleStageBgmCtrl12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
 addr = 0x106a32c
 
 [header.args]

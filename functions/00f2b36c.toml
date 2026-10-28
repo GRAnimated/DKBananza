@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.318758Z
+addr = 0xf2b36c
+size = 0x5c
+name = "_ZN17DemoActorVoxelNpcD1Ev"
+
+[header]
+name = "_ZN17DemoActorVoxelNpcD1Ev"
+addr = 0xf2b36c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.085361Z
+addr = 0x7b8d78
+size = 0x34
+name = "_ZN15Npc2VoxelTalker13makeActorDeadEv"
+
+[header]
+name = "_ZN15Npc2VoxelTalker13makeActorDeadEv"
+addr = 0x7b8d78
+
+[header.args]

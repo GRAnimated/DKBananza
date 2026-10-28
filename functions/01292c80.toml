@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.590394Z
+addr = 0x1292c80
+size = 0x164
+name = "_ZN20PlayerStateClimbWall10exeJumpEndEv"
+
+[header]
+name = "_ZN20PlayerStateClimbWall10exeJumpEndEv"
+addr = 0x1292c80
+
+[header.args]

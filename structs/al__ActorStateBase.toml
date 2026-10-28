@@ -1,0 +1,15 @@
+last_change = 2026-10-28T04:57:00.607149Z
+name = "al::ActorStateBase"
+size = 0x28
+
+[members.0x0]
+name = "al::NerveStateBase"
+offset = 0x0
+type = "al::NerveStateBase"
+size = 0x20
+
+[members.0x20]
+name = "mActor"
+offset = 0x20
+type = "al::LiveActor *"
+size = 0x8

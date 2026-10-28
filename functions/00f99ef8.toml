@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:41.019990Z
+addr = 0xf99ef8
+size = 0x34
+name = "_ZN8Togemole14makeActorAliveEv"
+
+[header]
+name = "_ZN8Togemole14makeActorAliveEv"
+addr = 0xf99ef8
+
+[header.args]

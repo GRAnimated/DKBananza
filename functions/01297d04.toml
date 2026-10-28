@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.592605Z
+addr = 0x1297d04
+size = 0x14
+name = "_ZNK12_GLOBAL__N_135PlayerStateDeadNrvDeadPoisonInWater11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_135PlayerStateDeadNrvDeadPoisonInWater11getNameHashEv"
+addr = 0x1297d04
+
+[header.args]

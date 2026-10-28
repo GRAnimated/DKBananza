@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.903977Z
+addr = 0x1722a18
+size = 0x5c
+name = "_ZN22EffectObjGroundEmitterD1Ev"
+
+[header]
+name = "_ZN22EffectObjGroundEmitterD1Ev"
+addr = 0x1722a18
+
+[header.args]

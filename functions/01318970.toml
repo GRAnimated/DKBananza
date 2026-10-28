@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.627946Z
+addr = 0x1318970
+size = 0x5c
+name = "_ZN22SequenceStateStaffRoll10exeDestroyEv"
+type = "void"
+
+[header]
+name = "_ZN22SequenceStateStaffRoll10exeDestroyEv"
+addr = 0x1318970
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "SequenceStateStaffRoll *"
+size = 0x8

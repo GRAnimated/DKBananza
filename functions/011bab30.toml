@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.522717Z
+addr = 0x11bab30
+size = 0xac
+name = "_ZN16YocchiController10exeDemoEndEv"
+
+[header]
+name = "_ZN16YocchiController10exeDemoEndEv"
+addr = 0x11bab30
+
+[header.args]

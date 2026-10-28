@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.358322Z
+addr = 0xfa403c
+size = 0x5c
+name = "sub_7100FA403C"
+
+[header]
+name = "sub_7100FA403C"
+addr = 0xfa403c
+
+[header.args]

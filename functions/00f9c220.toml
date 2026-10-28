@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.355578Z
+addr = 0xf9c220
+size = 0x80
+name = "sub_7100F9C220"
+type = "__n128"
+
+[header]
+name = "sub_7100F9C220"
+addr = 0xf9c220
+type = "__n128"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "float"
+size = 0x4

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:47.062661Z
+addr = 0xfed4bc
+size = 0x104
+name = "_ZN5State14exeWaitThunderEv_7100FED4BC"
+
+[header]
+name = "_ZN5State14exeWaitThunderEv_7100FED4BC"
+addr = 0xfed4bc
+
+[header.args]

@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:09.996021Z
+last_change = 2026-10-28T04:56:43.680740Z
 addr = 0x138b150
 size = 0x14
 name = "_ZnwmRKSt9nothrow_t"
@@ -9,4 +9,14 @@ name = "_ZnwmRKSt9nothrow_t"
 addr = 0x138b150
 type = "long long"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "const std::nothrow_t *"
+size = 0x8

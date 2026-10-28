@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.465648Z
+addr = 0x10fb59c
+size = 0x134
+name = "_ZN8Landmine12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN8Landmine12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x10fb59c
+
+[header.args]

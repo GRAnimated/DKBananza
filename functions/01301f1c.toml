@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.620677Z
+addr = 0x1301f1c
+size = 0x8
+name = "_ZNK12_GLOBAL__N_123StageSceneNrvVoxelLimit7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_123StageSceneNrvVoxelLimit7executeEPN2al11NerveKeeperE"
+addr = 0x1301f1c
+
+[header.args]

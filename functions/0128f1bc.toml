@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.589706Z
+addr = 0x128f1bc
+size = 0x2d4
+name = "_ZN20PlayerStateClimbPole9exeTopEndEv"
+
+[header]
+name = "_ZN20PlayerStateClimbPole9exeTopEndEv"
+addr = 0x128f1bc
+
+[header.args]

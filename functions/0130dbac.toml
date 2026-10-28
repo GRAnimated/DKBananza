@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.624265Z
+addr = 0x130dbac
+size = 0x22c
+name = "UnknownHost_7102243040_exeConfirmMenu"
+type = "void"
+
+[header]
+name = "UnknownHost_7102243040_exeConfirmMenu"
+addr = 0x130dbac
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:29.502456Z
+addr = 0x2c1800
+size = 0xf0c
+name = "sub_71002C1800"
+type = "unsigned char *"
+
+[header]
+name = "sub_71002C1800"
+addr = 0x2c1800
+type = "unsigned char *"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "unsigned char **"
+size = 0x8

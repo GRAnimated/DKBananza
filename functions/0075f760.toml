@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:57:42.502818Z
+addr = 0x75f760
+size = 0x2c
+name = "_ZN2al12LiveActorKitD0Ev"
+type = "void"
+
+[header]
+name = "_ZN2al12LiveActorKitD0Ev"
+addr = 0x75f760
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "al::LiveActorKit *"
+size = 0x8

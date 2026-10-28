@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.593479Z
+addr = 0x129c048
+size = 0xac
+name = "_ZN15PlayerStateLand15exeLandMinecartEv"
+
+[header]
+name = "_ZN15PlayerStateLand15exeLandMinecartEv"
+addr = 0x129c048
+
+[header.args]

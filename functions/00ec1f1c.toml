@@ -1,10 +1,12 @@
-last_change = 2026-10-26T00:37:09.982840Z
+last_change = 2026-10-28T04:56:43.285913Z
 addr = 0xec1f1c
 size = 0x4
-name = "nullsub_1332"
+name = "Nerve_7100EC1F1C"
+type = "void"
 
 [header]
-name = "nullsub_1332"
+name = "Nerve_7100EC1F1C"
 addr = 0xec1f1c
+type = "void"
 
 [header.args]

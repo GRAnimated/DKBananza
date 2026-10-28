@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.454520Z
+addr = 0x10d8ae4
+size = 0x8
+name = "FruitSwitch__ZNK12_GLOBAL__N_123HostTypeNrvReactionSide7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "FruitSwitch__ZNK12_GLOBAL__N_123HostTypeNrvReactionSide7executeEPN2al11NerveKeeperE"
+addr = 0x10d8ae4
+
+[header.args]

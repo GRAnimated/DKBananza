@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.211722Z
+addr = 0xbd42b4
+size = 0x14
+name = "_ZN11hkSerialize18TagfileWriteFormat11beginBundleEPN4hkIo11WriteBufferE"
+type = "long long"
+
+[header]
+name = "_ZN11hkSerialize18TagfileWriteFormat11beginBundleEPN4hkIo11WriteBufferE"
+addr = 0xbd42b4
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

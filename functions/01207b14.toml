@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.548186Z
+addr = 0x1207b14
+size = 0x14
+name = "_ZNK12_GLOBAL__N_123Npc2VoxelSingerNrvEvent11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_123Npc2VoxelSingerNrvEvent11getNameHashEv"
+addr = 0x1207b14
+
+[header.args]

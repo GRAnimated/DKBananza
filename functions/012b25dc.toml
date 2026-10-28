@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.596969Z
+addr = 0x12b25dc
+size = 0x24c
+name = "_ZN20PlayerStateSwingSpin7exeFallEv"
+
+[header]
+name = "_ZN20PlayerStateSwingSpin7exeFallEv"
+addr = 0x12b25dc
+
+[header.args]

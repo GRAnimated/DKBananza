@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:42.442503Z
+addr = 0x2108ec
+size = 0x264
+name = "sub_71002108EC"
+
+[header]
+name = "sub_71002108EC"
+addr = 0x2108ec
+
+[header.args]

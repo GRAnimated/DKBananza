@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:38:07.557606Z
+last_change = 2026-10-28T04:58:39.268214Z
 addr = 0xf7f38c
 size = 0x144
 name = "_ZN8MarksmanC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN8MarksmanC2EPKc"
 addr = 0xf7f38c
 type = "void *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

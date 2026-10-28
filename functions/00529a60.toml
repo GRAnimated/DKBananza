@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:42.532491Z
+addr = 0x529a60
+size = 0x274
+name = "sub_7100529A60"
+type = "long long"
+
+[header]
+name = "sub_7100529A60"
+addr = 0x529a60
+type = "long long"
+
+[header.args]

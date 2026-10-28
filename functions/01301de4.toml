@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.620520Z
+addr = 0x1301de4
+size = 0x14
+name = "_ZNK12_GLOBAL__N_126StageSceneNrvGraphicsReady11getNameHashEv"
+type = "unsigned long long"
+
+[header]
+name = "_ZNK12_GLOBAL__N_126StageSceneNrvGraphicsReady11getNameHashEv"
+addr = 0x1301de4
+type = "unsigned long long"
+
+[header.args]

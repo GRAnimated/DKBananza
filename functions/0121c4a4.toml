@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.991551Z
+last_change = 2026-10-28T04:56:43.554563Z
 addr = 0x121c4a4
 size = 0x4
-name = "nullsub_1871"
+name = "RambiPlayer__ZNK12_GLOBAL__N_120HostTypeNrvBindStart7executeEPN2al11NerveKeeperE"
 
 [header]
-name = "nullsub_1871"
+name = "RambiPlayer__ZNK12_GLOBAL__N_120HostTypeNrvBindStart7executeEPN2al11NerveKeeperE"
 addr = 0x121c4a4
 
 [header.args]

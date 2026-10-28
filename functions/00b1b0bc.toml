@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.199202Z
+addr = 0xb1b0bc
+size = 0x8
+name = "_ZN19hkMemoryMeshTexture13setFilterModeEN13hkMeshTexture10FilterModeE"
+type = "long long"
+
+[header]
+name = "_ZN19hkMemoryMeshTexture13setFilterModeEN13hkMeshTexture10FilterModeE"
+addr = 0xb1b0bc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "char"
+size = 0x1

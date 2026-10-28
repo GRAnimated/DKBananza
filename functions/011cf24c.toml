@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.528430Z
+addr = 0x11cf24c
+size = 0x64
+name = "_ZNK28Npc2AnimalTalkerMonkeyFisher18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK28Npc2AnimalTalkerMonkeyFisher18getRuntimeTypeInfoEv"
+addr = 0x11cf24c
+
+[header.args]

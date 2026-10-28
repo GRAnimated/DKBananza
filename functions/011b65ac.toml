@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:09.990132Z
+last_change = 2026-10-28T04:56:43.521481Z
 addr = 0x11b65ac
 size = 0xa8
 name = "_ZN12WeightSwitchC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN12WeightSwitchC2EPKc"
 addr = 0x11b65ac
 type = "unsigned long long *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.537453Z
+addr = 0x11e6824
+size = 0xec
+name = "_ZN27Npc2KongTalkerBossKongSwing10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN27Npc2KongTalkerBossKongSwing10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x11e6824
+
+[header.args]

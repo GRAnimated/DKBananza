@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:38.518820Z
+addr = 0xf74028
+size = 0x50
+name = "_ZN9Hikariski6appearEv"
+
+[header]
+name = "_ZN9Hikariski6appearEv"
+addr = 0xf74028
+
+[header.args]

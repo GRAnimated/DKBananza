@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:55.882382Z
+addr = 0x106a34c
+size = 0x64
+name = "_ZNK18BattleStageBgmCtrl18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK18BattleStageBgmCtrl18getRuntimeTypeInfoEv"
+addr = 0x106a34c
+
+[header.args]

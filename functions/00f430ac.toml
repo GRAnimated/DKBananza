@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:35.604251Z
+addr = 0xf430ac
+size = 0x1d4
+name = "_ZN10BattanWall10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN10BattanWall10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xf430ac
+
+[header.args]

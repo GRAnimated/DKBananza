@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:19.222828Z
+addr = 0x11500d8
+size = 0x1b8
+name = "_ZN13SkydivingGold4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN13SkydivingGold4initERKN2al13ActorInitInfoE"
+addr = 0x11500d8
+
+[header.args]

@@ -1,0 +1,51 @@
+last_change = 2026-10-28T04:57:00.595612Z
+name = "al::ActorPoseKeeperTRGMSV"
+size = 0x80
+
+[members.0x0]
+name = "__vftable"
+offset = 0x0
+type = "al::ActorPoseKeeperTRGMSV_vtbl *"
+size = 0x8
+
+[members.0x8]
+name = "mTrans"
+offset = 0x8
+type = "sead::Vector3f"
+size = 0xc
+
+[members.0x18]
+name = "mStepRatePtr"
+offset = 0x18
+type = "const float *"
+size = 0x8
+
+[members.0x20]
+name = "mRotate"
+offset = 0x20
+type = "sead::Vector3f"
+size = 0xc
+
+[members.0x2c]
+name = "mGravity"
+offset = 0x2c
+type = "sead::Vector3f"
+size = 0xc
+
+[members.0x38]
+name = "mScale"
+offset = 0x38
+type = "sead::Vector3f"
+size = 0xc
+
+[members.0x44]
+name = "mVelocity"
+offset = 0x44
+type = "sead::Vector3f"
+size = 0xc
+
+[members.0x50]
+name = "mMtx"
+offset = 0x50
+type = "sead::Matrix34f"
+size = 0x30

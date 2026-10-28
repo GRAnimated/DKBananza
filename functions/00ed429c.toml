@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.290497Z
+addr = 0xed429c
+size = 0xc8
+name = "_ZN12MinecartBoss13exeWaitSwitchEv"
+
+[header]
+name = "_ZN12MinecartBoss13exeWaitSwitchEv"
+addr = 0xed429c
+
+[header.args]

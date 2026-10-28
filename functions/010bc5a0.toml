@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:04.022387Z
+addr = 0x10bc5a0
+size = 0x84
+name = "UnknownHost_710223F418_exeDemoLayout"
+
+[header]
+name = "UnknownHost_710223F418_exeDemoLayout"
+addr = 0x10bc5a0
+
+[header.args]

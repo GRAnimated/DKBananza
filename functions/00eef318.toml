@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:30.556281Z
+addr = 0xeef318
+size = 0x88
+name = "_ZN9StomperorD0Ev"
+
+[header]
+name = "_ZN9StomperorD0Ev"
+addr = 0xeef318
+
+[header.args]

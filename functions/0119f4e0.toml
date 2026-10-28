@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.514022Z
+addr = 0x119f4e0
+size = 0x14
+name = "_ZNK12_GLOBAL__N_125VoidMaterialObjNrvRelease11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_125VoidMaterialObjNrvRelease11getNameHashEv"
+addr = 0x119f4e0
+
+[header.args]

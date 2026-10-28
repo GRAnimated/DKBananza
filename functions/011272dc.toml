@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:15.638565Z
+addr = 0x11272dc
+size = 0x2dc
+name = "_ZN11PaulineCage7exeMoveEv"
+
+[header]
+name = "_ZN11PaulineCage7exeMoveEv"
+addr = 0x11272dc
+
+[header.args]

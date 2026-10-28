@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:56.531838Z
+addr = 0x1071bf4
+size = 0x64
+name = "_ZNK11BioSeedRoad18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK11BioSeedRoad18getRuntimeTypeInfoEv"
+addr = 0x1071bf4
+
+[header.args]

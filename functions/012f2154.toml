@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.615702Z
+addr = 0x12f2154
+size = 0x178
+name = "sub_71012F2154"
+type = "long long"
+
+[header]
+name = "sub_71012F2154"
+addr = 0x12f2154
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "float"
+size = 0x4

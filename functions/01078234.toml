@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:57.214846Z
+addr = 0x1078234
+size = 0x478
+name = "_ZN17BlowBreakMapParts7exeBlowEv"
+type = "long long"
+
+[header]
+name = "_ZN17BlowBreakMapParts7exeBlowEv"
+addr = 0x1078234
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

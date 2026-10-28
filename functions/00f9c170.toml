@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.355487Z
+addr = 0xf9c170
+size = 0x8
+name = "_ZNK12_GLOBAL__N_115TogemoleNrvTurn7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_115TogemoleNrvTurn7executeEPN2al11NerveKeeperE"
+addr = 0xf9c170
+
+[header.args]

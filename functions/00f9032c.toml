@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.351726Z
+addr = 0xf9032c
+size = 0xc0
+name = "_ZN17PettanStateAttack19exeAttackAfterTiredEv"
+type = "long long"
+
+[header]
+name = "_ZN17PettanStateAttack19exeAttackAfterTiredEv"
+addr = 0xf9032c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

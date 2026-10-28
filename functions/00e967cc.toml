@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:24.762797Z
+addr = 0xe967cc
+size = 0x74
+name = "_ZN9KingKRool18exeDemoBattleStartEv"
+
+[header]
+name = "_ZN9KingKRool18exeDemoBattleStartEv"
+addr = 0xe967cc
+
+[header.args]

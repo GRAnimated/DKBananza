@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.549600Z
+addr = 0x120c384
+size = 0xc4
+name = "_ZN21Npc2VoxelYocchiParent10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN21Npc2VoxelYocchiParent10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x120c384
+
+[header.args]

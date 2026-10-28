@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:24.755461Z
+addr = 0xe965e8
+size = 0x50
+name = "_ZN9KingKRool8movementEv"
+
+[header]
+name = "_ZN9KingKRool8movementEv"
+addr = 0xe965e8
+
+[header.args]

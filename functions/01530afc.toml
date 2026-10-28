@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.761927Z
+addr = 0x1530afc
+size = 0x58
+name = "sub_7101530AFC"
+type = "long long"
+
+[header]
+name = "sub_7101530AFC"
+addr = 0x1530afc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8

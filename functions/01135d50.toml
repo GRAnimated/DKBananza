@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.481692Z
+addr = 0x1135d50
+size = 0x70
+name = "_ZN18PunchingBallSwitch10exeOffWaitEv"
+type = "__n128"
+
+[header]
+name = "_ZN18PunchingBallSwitch10exeOffWaitEv"
+addr = 0x1135d50
+type = "__n128"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

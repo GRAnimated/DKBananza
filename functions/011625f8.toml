@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.495638Z
+addr = 0x11625f8
+size = 0x14
+name = "_ZNK12_GLOBAL__N_114SoundToyNrvOff11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_114SoundToyNrvOff11getNameHashEv"
+addr = 0x11625f8
+
+[header.args]

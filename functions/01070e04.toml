@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.422105Z
+addr = 0x1070e04
+size = 0x8
+name = "BioSeed__ZNK12_GLOBAL__N_118HostTypeNrvRespawn7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "BioSeed__ZNK12_GLOBAL__N_118HostTypeNrvRespawn7executeEPN2al11NerveKeeperE"
+addr = 0x1070e04
+
+[header.args]

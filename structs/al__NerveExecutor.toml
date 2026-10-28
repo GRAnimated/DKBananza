@@ -1,0 +1,21 @@
+last_change = 2026-10-28T04:57:00.600541Z
+name = "al::NerveExecutor"
+size = 0x18
+
+[members.0x0]
+name = "al::IUseNerve"
+offset = 0x0
+type = "al::IUseNerve"
+size = 0x8
+
+[members.0x8]
+name = "__vftable_8"
+offset = 0x8
+type = "al::NerveExecutor_Vtable_secondary"
+size = 0x8
+
+[members.0x10]
+name = "field_10"
+offset = 0x10
+type = "void *"
+size = 0x8

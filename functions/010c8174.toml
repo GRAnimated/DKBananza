@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.449392Z
+addr = 0x10c8174
+size = 0x14
+name = "_ZNK12_GLOBAL__N_121FlyUnitFixNrvMoveDown11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_121FlyUnitFixNrvMoveDown11getNameHashEv"
+addr = 0x10c8174
+
+[header.args]

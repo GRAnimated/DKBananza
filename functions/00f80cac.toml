@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:39.392884Z
+addr = 0xf80cac
+size = 0x64
+name = "_ZNK8Marksman18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK8Marksman18getRuntimeTypeInfoEv"
+addr = 0xf80cac
+
+[header.args]

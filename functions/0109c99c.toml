@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:01.174817Z
+addr = 0x109c99c
+size = 0x64
+name = "_ZNK11CrackGround18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK11CrackGround18getRuntimeTypeInfoEv"
+addr = 0x109c99c
+
+[header.args]

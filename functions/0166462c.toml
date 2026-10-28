@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.828608Z
+addr = 0x166462c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_128CameraPoseUpdaterNrvDeactive11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_128CameraPoseUpdaterNrvDeactive11getNameHashEv"
+addr = 0x166462c
+
+[header.args]

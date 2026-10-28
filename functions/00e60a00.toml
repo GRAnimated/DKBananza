@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.251994Z
+addr = 0xe60a00
+size = 0x8
+name = "_ZThn8_NK2al14ActorStateBase27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+type = "long long"
+
+[header]
+name = "_ZThn8_NK2al14ActorStateBase27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0xe60a00
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

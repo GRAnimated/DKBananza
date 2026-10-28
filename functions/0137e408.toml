@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.995728Z
+last_change = 2026-10-28T04:56:43.675531Z
 addr = 0x137e408
 size = 0x4
-name = "nullsub_2108"
+name = "_ZN15VoxelProminence18initAfterPlacementEv"
 
 [header]
-name = "nullsub_2108"
+name = "_ZN15VoxelProminence18initAfterPlacementEv"
 addr = 0x137e408
 
 [header.args]

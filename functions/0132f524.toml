@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.636675Z
+addr = 0x132f524
+size = 0x5c
+name = "_ZN15SampleWalkEnemyD1Ev"
+
+[header]
+name = "_ZN15SampleWalkEnemyD1Ev"
+addr = 0x132f524
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.343471Z
+addr = 0xf7ce98
+size = 0x2c
+name = "_ZN7Kageski8calcAnimEv"
+
+[header]
+name = "_ZN7Kageski8calcAnimEv"
+addr = 0xf7ce98
+
+[header.args]

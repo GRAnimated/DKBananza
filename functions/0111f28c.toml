@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.475381Z
+addr = 0x111f28c
+size = 0x8
+name = "_ZNK12_GLOBAL__N_144MinecartRailSwitchRailNrvSwitchMiddleToRight7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_144MinecartRailSwitchRailNrvSwitchMiddleToRight7executeEPN2al11NerveKeeperE"
+addr = 0x111f28c
+
+[header.args]

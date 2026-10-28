@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:02.271013Z
+addr = 0x10ad700
+size = 0x64
+name = "_ZNK24DemoGraphicsEnvChangeObj18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK24DemoGraphicsEnvChangeObj18getRuntimeTypeInfoEv"
+addr = 0x10ad700
+
+[header.args]

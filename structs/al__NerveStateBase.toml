@@ -1,0 +1,15 @@
+last_change = 2026-10-28T04:57:00.593675Z
+name = "al::NerveStateBase"
+size = 0x20
+
+[members.0x0]
+name = "al::NerveExecutor"
+offset = 0x0
+type = "al::NerveExecutor"
+size = 0x18
+
+[members.0x18]
+name = "field_18"
+offset = 0x18
+type = "bool"
+size = 0x1

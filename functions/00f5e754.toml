@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.984409Z
+last_change = 2026-10-28T04:56:43.335061Z
 addr = 0xf5e754
 size = 0x4
-name = "nullsub_1479"
+name = "_ZNK12_GLOBAL__N_118DonZainCoreNrvDead7executeEPN2al11NerveKeeperE"
 
 [header]
-name = "nullsub_1479"
+name = "_ZNK12_GLOBAL__N_118DonZainCoreNrvDead7executeEPN2al11NerveKeeperE"
 addr = 0xf5e754
 
 [header.args]

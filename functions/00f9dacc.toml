@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:41.227925Z
+addr = 0xf9dacc
+size = 0x1a8
+name = "_ZN9Ueyowaida10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN9Ueyowaida10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xf9dacc
+
+[header.args]

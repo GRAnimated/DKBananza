@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:11.693497Z
+addr = 0x1103dcc
+size = 0x64
+name = "_ZNK11LightCandle18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK11LightCandle18getRuntimeTypeInfoEv"
+addr = 0x1103dcc
+
+[header.args]

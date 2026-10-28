@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.597832Z
+addr = 0x12b5ed4
+size = 0xb0
+name = "_ZN23PlayerStateTackleCharge7exeLandEv"
+
+[header]
+name = "_ZN23PlayerStateTackleCharge7exeLandEv"
+addr = 0x12b5ed4
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.622759Z
+addr = 0x130b43c
+size = 0x6c
+name = "_ZN24StageSceneStatePauseMenu23exeWipeCloseToModeFirstEv"
+
+[header]
+name = "_ZN24StageSceneStatePauseMenu23exeWipeCloseToModeFirstEv"
+addr = 0x130b43c
+
+[header.args]

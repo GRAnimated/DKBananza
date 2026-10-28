@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.444466Z
+addr = 0x10b88f8
+size = 0x14
+name = "_ZNK12_GLOBAL__N_125DoorDemoSimpleNrvWaitOpen11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_125DoorDemoSimpleNrvWaitOpen11getNameHashEv"
+addr = 0x10b88f8
+
+[header.args]

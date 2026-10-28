@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.989683Z
+last_change = 2026-10-28T04:56:43.510246Z
 addr = 0x1191e4c
 size = 0x4
-name = "nullsub_1783"
+name = "_ZN28TowerLevelBackgroundDirector7controlEv"
 
 [header]
-name = "nullsub_1783"
+name = "_ZN28TowerLevelBackgroundDirector7controlEv"
 addr = 0x1191e4c
 
 [header.args]

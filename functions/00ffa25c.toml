@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:47.820082Z
+addr = 0xffa25c
+size = 0x64
+name = "_ZNK16MinecartBombItem18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK16MinecartBombItem18getRuntimeTypeInfoEv"
+addr = 0xffa25c
+
+[header.args]

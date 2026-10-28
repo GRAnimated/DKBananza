@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.548444Z
+addr = 0x1208518
+size = 0xdc
+name = "_ZN16Npc2VoxelSunbath10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN16Npc2VoxelSunbath10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x1208518
+
+[header.args]

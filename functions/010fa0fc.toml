@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.465243Z
+addr = 0x10fa0fc
+size = 0x70
+name = "_ZN11LakeWatcher7exeWaitEv"
+
+[header]
+name = "_ZN11LakeWatcher7exeWaitEv"
+addr = 0x10fa0fc
+
+[header.args]

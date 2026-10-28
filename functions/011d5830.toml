@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.530286Z
+addr = 0x11d5830
+size = 0x14
+name = "_ZNK12_GLOBAL__N_132Npc2AnimalTalkerSnakeNrvReaction11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_132Npc2AnimalTalkerSnakeNrvReaction11getNameHashEv"
+addr = 0x11d5830
+
+[header.args]

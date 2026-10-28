@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.400812Z
+addr = 0x1028ae0
+size = 0x6c
+name = "_ZN8ItemShopD1Ev"
+
+[header]
+name = "_ZN8ItemShopD1Ev"
+addr = 0x1028ae0
+
+[header.args]

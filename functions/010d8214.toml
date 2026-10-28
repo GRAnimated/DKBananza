@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:06.885095Z
+addr = 0x10d8214
+size = 0x64
+name = "_ZNK11FruitSwitch18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK11FruitSwitch18getRuntimeTypeInfoEv"
+addr = 0x10d8214
+
+[header.args]

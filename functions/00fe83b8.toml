@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.379133Z
+addr = 0xfe83b8
+size = 0x8
+name = "_ZNK12_GLOBAL__N_137CollectChipWatcherRecordNrvGiveRecord7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_137CollectChipWatcherRecordNrvGiveRecord7executeEPN2al11NerveKeeperE"
+addr = 0xfe83b8
+
+[header.args]

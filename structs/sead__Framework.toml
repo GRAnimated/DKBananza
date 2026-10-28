@@ -1,0 +1,51 @@
+last_change = 2026-10-28T04:57:00.582738Z
+name = "sead::Framework"
+size = 0x50
+
+[members.0x0]
+name = "__vftable"
+offset = 0x0
+type = "sead::Framework_vtbl *"
+size = 0x8
+
+[members.0x8]
+name = "mReserveReset"
+offset = 0x8
+type = "bool"
+size = 0x1
+
+[members.0x9]
+name = "field_09"
+offset = 0x9
+type = "unsigned char[7]"
+size = 0x7
+
+[members.0x10]
+name = "mResetParameter"
+offset = 0x10
+type = "void *"
+size = 0x8
+
+[members.0x18]
+name = "field_18"
+offset = 0x18
+type = "unsigned char[32]"
+size = 0x20
+
+[members.0x38]
+name = "mTaskMgr"
+offset = 0x38
+type = "sead::TaskMgr *"
+size = 0x8
+
+[members.0x40]
+name = "mMethodTreeMgr"
+offset = 0x40
+type = "sead::MethodTreeMgr *"
+size = 0x8
+
+[members.0x48]
+name = "mMethodTreeMgrHeap"
+offset = 0x48
+type = "sead::Heap *"
+size = 0x8

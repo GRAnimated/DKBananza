@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.538382Z
+addr = 0x11e8f48
+size = 0x34
+name = "_ZN24Npc2KongTalkerCrankyKong7controlEv"
+type = "long long"
+
+[header]
+name = "_ZN24Npc2KongTalkerCrankyKong7controlEv"
+addr = 0x11e8f48
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

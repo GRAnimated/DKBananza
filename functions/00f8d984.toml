@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:40.213838Z
+addr = 0xf8d984
+size = 0x38
+name = "_ZN6Pettan8movementEv"
+
+[header]
+name = "_ZN6Pettan8movementEv"
+addr = 0xf8d984
+
+[header.args]

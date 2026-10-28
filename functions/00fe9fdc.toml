@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.379626Z
+addr = 0xfe9fdc
+size = 0x14
+name = "_ZNK12_GLOBAL__N_116FossilNrvCovered11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_116FossilNrvCovered11getNameHashEv"
+addr = 0xfe9fdc
+
+[header.args]

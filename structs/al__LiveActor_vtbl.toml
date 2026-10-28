@@ -1,0 +1,213 @@
+last_change = 2026-10-28T04:57:00.580924Z
+name = "al::LiveActor_vtbl"
+size = 0x118
+
+[members.0x0]
+name = "checkDerivedRuntimeTypeInfo"
+offset = 0x0
+type = "void *(__fastcall *)(const al::LiveActor *, const sead::RuntimeTypeInfo::Interface *)"
+size = 0x8
+
+[members.0x8]
+name = "getRuntimeTypeInfo"
+offset = 0x8
+type = "const sead::RuntimeTypeInfo::Interface *(__fastcall *)(const al::LiveActor *)"
+size = 0x8
+
+[members.0x10]
+name = "destructor"
+offset = 0x10
+type = "void (__fastcall *)(al::LiveActor *)"
+size = 0x8
+
+[members.0x18]
+name = "deletingDestructor"
+offset = 0x18
+type = "void (__fastcall *)(al::LiveActor *)"
+size = 0x8
+
+[members.0x20]
+name = "getNerveKeeper"
+offset = 0x20
+type = "al::NerveKeeper *(__fastcall *)(const al::LiveActor *)"
+size = 0x8
+
+[members.0x28]
+name = "init"
+offset = 0x28
+type = "void (__fastcall *)(al::LiveActor *, const al::ActorInitInfo *)"
+size = 0x8
+
+[members.0x30]
+name = "initAfterPlacement"
+offset = 0x30
+type = "void (__fastcall *)(al::LiveActor *)"
+size = 0x8
+
+[members.0x38]
+name = "appear"
+offset = 0x38
+type = "void (__fastcall *)(al::LiveActor *)"
+size = 0x8
+
+[members.0x40]
+name = "makeActorAlive"
+offset = 0x40
+type = "void (__fastcall *)(al::LiveActor *)"
+size = 0x8
+
+[members.0x48]
+name = "kill"
+offset = 0x48
+type = "void (__fastcall *)(al::LiveActor *)"
+size = 0x8
+
+[members.0x50]
+name = "makeActorDead"
+offset = 0x50
+type = "void (__fastcall *)(al::LiveActor *)"
+size = 0x8
+
+[members.0x58]
+name = "movement"
+offset = 0x58
+type = "void (__fastcall *)(al::LiveActor *)"
+size = 0x8
+
+[members.0x60]
+name = "calcAnim"
+offset = 0x60
+type = "void (__fastcall *)(al::LiveActor *)"
+size = 0x8
+
+[members.0x68]
+name = "draw"
+offset = 0x68
+type = "void (__fastcall *)(const al::LiveActor *)"
+size = 0x8
+
+[members.0x70]
+name = "startClipped"
+offset = 0x70
+type = "void (__fastcall *)(al::LiveActor *)"
+size = 0x8
+
+[members.0x78]
+name = "endClipped"
+offset = 0x78
+type = "void (__fastcall *)(al::LiveActor *)"
+size = 0x8
+
+[members.0x80]
+name = "attackSensor"
+offset = 0x80
+type = "void (__fastcall *)(al::LiveActor *, al::HitSensor *, al::HitSensor *)"
+size = 0x8
+
+[members.0x88]
+name = "receiveMsg"
+offset = 0x88
+type = "bool (__fastcall *)(al::LiveActor *, const al::SensorMsg *, al::HitSensor *, al::HitSensor *)"
+size = 0x8
+
+[members.0x90]
+name = "unknown_90"
+offset = 0x90
+type = "void (*)()"
+size = 0x8
+
+[members.0x98]
+name = "unknown_98"
+offset = 0x98
+type = "long long (*)()"
+size = 0x8
+
+[members.0xa0]
+name = "getName"
+offset = 0xa0
+type = "const char *(__fastcall *)(const al::LiveActor *)"
+size = 0x8
+
+[members.0xa8]
+name = "getBaseMtx"
+offset = 0xa8
+type = "const sead::Matrix34f *(__fastcall *)(const al::LiveActor *)"
+size = 0x8
+
+[members.0xb0]
+name = "getEffectKeeper"
+offset = 0xb0
+type = "al::EffectKeeper *(__fastcall *)(const al::LiveActor *)"
+size = 0x8
+
+[members.0xb8]
+name = "getAudioKeeper"
+offset = 0xb8
+type = "al::AudioKeeper *(__fastcall *)(const al::LiveActor *)"
+size = 0x8
+
+[members.0xc0]
+name = "getStageSwitchKeeper"
+offset = 0xc0
+type = "al::StageSwitchKeeper *(__fastcall *)(const al::LiveActor *)"
+size = 0x8
+
+[members.0xc8]
+name = "getRailRider"
+offset = 0xc8
+type = "al::RailRider *(__fastcall *)(const al::LiveActor *)"
+size = 0x8
+
+[members.0xd0]
+name = "getSceneObjHolder"
+offset = 0xd0
+type = "al::SceneObjHolder *(__fastcall *)(const al::LiveActor *)"
+size = 0x8
+
+[members.0xd8]
+name = "getCollisionDirector"
+offset = 0xd8
+type = "al::CollisionDirector *(__fastcall *)(const al::LiveActor *)"
+size = 0x8
+
+[members.0xe0]
+name = "getAreaObjDirector"
+offset = 0xe0
+type = "al::AreaObjDirector *(__fastcall *)(const al::LiveActor *)"
+size = 0x8
+
+[members.0xe8]
+name = "getCameraDirector"
+offset = 0xe8
+type = "al::CameraDirector *(__fastcall *)(const al::LiveActor *)"
+size = 0x8
+
+[members.0xf0]
+name = "getNatureDirector"
+offset = 0xf0
+type = "al::NatureDirector *(__fastcall *)(const al::LiveActor *)"
+size = 0x8
+
+[members.0xf8]
+name = "initStageSwitchKeeper"
+offset = 0xf8
+type = "void (__fastcall *)(al::LiveActor *)"
+size = 0x8
+
+[members.0x100]
+name = "unknown_100"
+offset = 0x100
+type = "long long (__fastcall *)(long long a1, long long a2)"
+size = 0x8
+
+[members.0x108]
+name = "control"
+offset = 0x108
+type = "void (__fastcall *)(al::LiveActor *)"
+size = 0x8
+
+[members.0x110]
+name = "updateCollider"
+offset = 0x110
+type = "void (__fastcall *)(al::LiveActor *)"
+size = 0x8

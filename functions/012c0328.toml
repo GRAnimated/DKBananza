@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.600484Z
+addr = 0x12c0328
+size = 0x90
+name = "_ZN15PlayerUpperBody8exeSwingEv"
+
+[header]
+name = "_ZN15PlayerUpperBody8exeSwingEv"
+addr = 0x12c0328
+
+[header.args]

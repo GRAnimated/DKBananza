@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.262691Z
+addr = 0xe81ed0
+size = 0x8
+name = "Nerve_HostTypeNrvWindStart_slot3_7100E81ED0"
+type = "long long"
+
+[header]
+name = "Nerve_HostTypeNrvWindStart_slot3_7100E81ED0"
+addr = 0xe81ed0
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

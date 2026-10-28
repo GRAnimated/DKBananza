@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.388930Z
+addr = 0x100617c
+size = 0x8
+name = "_ZNK12_GLOBAL__N_122TreasureBoxNrvOpenItem7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_122TreasureBoxNrvOpenItem7executeEPN2al11NerveKeeperE"
+addr = 0x100617c
+
+[header.args]

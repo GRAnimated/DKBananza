@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:56:43.121686Z
+addr = 0x8d18d0
+size = 0x8c
+name = "_ZN11hkErrStreamC2EPvi"
+type = "long long"
+
+[header]
+name = "_ZN11hkErrStreamC2EPvi"
+addr = 0x8d18d0
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "int"
+size = 0x4

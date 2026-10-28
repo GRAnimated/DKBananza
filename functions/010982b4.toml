@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:59:00.771708Z
+addr = 0x10982b4
+size = 0x78
+name = "_ZN11CopyFooting7exeKeepEv"
+type = "long long"
+
+[header]
+name = "_ZN11CopyFooting7exeKeepEv"
+addr = 0x10982b4
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

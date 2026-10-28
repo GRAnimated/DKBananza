@@ -1,0 +1,58 @@
+last_change = 2026-10-28T04:57:48.895165Z
+addr = 0x8e48b8
+size = 0x7c
+name = "_ZN9hkOstreamlsEi"
+type = "long long"
+
+[header]
+name = "_ZN9hkOstreamlsEi"
+addr = 0x8e48b8
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x4]
+offset = 0x4
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x5]
+offset = 0x5
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x6]
+offset = 0x6
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x7]
+offset = 0x7
+name = ""
+type = "int"
+size = 0x4

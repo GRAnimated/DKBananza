@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.963040Z
+addr = 0x181e024
+size = 0x68
+name = "sub_710181E024"
+type = "long long *"
+
+[header]
+name = "sub_710181E024"
+addr = 0x181e024
+type = "long long *"
+
+[header.args]

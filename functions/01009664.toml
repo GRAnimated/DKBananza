@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.389683Z
+addr = 0x1009664
+size = 0xc
+name = "sub_7101009664"
+type = "const char *"
+
+[header]
+name = "sub_7101009664"
+addr = 0x1009664
+type = "const char *"
+
+[header.args]

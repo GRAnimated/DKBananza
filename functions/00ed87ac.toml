@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.292141Z
+addr = 0xed87ac
+size = 0x14
+name = "_ZNK12_GLOBAL__N_132PoppyKongNrvDemoBattleStartDelay11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_132PoppyKongNrvDemoBattleStartDelay11getNameHashEv"
+addr = 0xed87ac
+
+[header.args]

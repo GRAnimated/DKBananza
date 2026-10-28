@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.447952Z
+addr = 0x10c3588
+size = 0x8
+name = "_ZNK12_GLOBAL__N_120FerrisWheelNrvRotate7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_120FerrisWheelNrvRotate7executeEPN2al11NerveKeeperE"
+addr = 0x10c3588
+
+[header.args]

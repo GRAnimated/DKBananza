@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.616684Z
+addr = 0x12f5068
+size = 0x434
+name = "_ZN14SculptureScene7exeMenuEv"
+
+[header]
+name = "_ZN14SculptureScene7exeMenuEv"
+addr = 0x12f5068
+
+[header.args]

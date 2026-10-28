@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.339445Z
+addr = 0xf6fa1c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_115GushNrvBlowDown11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_115GushNrvBlowDown11getNameHashEv"
+addr = 0xf6fa1c
+
+[header.args]

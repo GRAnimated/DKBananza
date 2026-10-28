@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.681696Z
+addr = 0x138c130
+size = 0x78
+name = "sub_710138C130"
+type = "unsigned long long *"
+
+[header]
+name = "sub_710138C130"
+addr = 0x138c130
+type = "unsigned long long *"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "unsigned long long *"
+size = 0x8

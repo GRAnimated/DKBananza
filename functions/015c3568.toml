@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.790642Z
+addr = 0x15c3568
+size = 0x4
+name = "_ZN5phive5WorldD0Ev"
+type = "void"
+
+[header]
+name = "_ZN5phive5WorldD0Ev"
+addr = 0x15c3568
+type = "void"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.308653Z
+addr = 0xf0963c
+size = 0xc
+name = "sub_7100F0963C"
+
+[header]
+name = "sub_7100F0963C"
+addr = 0xf0963c
+
+[header.args]

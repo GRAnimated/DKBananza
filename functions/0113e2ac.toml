@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.484750Z
+addr = 0x113e2ac
+size = 0x34
+name = "_ZN12RecycleVoxel10endClippedEv"
+
+[header]
+name = "_ZN12RecycleVoxel10endClippedEv"
+addr = 0x113e2ac
+
+[header.args]

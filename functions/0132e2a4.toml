@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.636234Z
+addr = 0x132e2a4
+size = 0x2c
+name = "_ZN16SampleVoxelEnemy13makeActorDeadEv"
+
+[header]
+name = "_ZN16SampleVoxelEnemy13makeActorDeadEv"
+addr = 0x132e2a4
+
+[header.args]

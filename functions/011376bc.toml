@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.482224Z
+addr = 0x11376bc
+size = 0x14
+name = "_ZNK12_GLOBAL__N_117RainDamageNrvWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_117RainDamageNrvWait11getNameHashEv"
+addr = 0x11376bc
+
+[header.args]

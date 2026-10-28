@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.272057Z
+addr = 0xe9c22c
+size = 0x184
+name = "_ZN19KingKRoolCannonBall10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN19KingKRoolCannonBall10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xe9c22c
+
+[header.args]

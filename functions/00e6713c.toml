@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:58:22.067014Z
+addr = 0xe6713c
+size = 0x68
+name = "_ZNK2al13NerveExecutor18getRuntimeTypeInfoEv"
+type = "long long *"
+
+[header]
+name = "_ZNK2al13NerveExecutor18getRuntimeTypeInfoEv"
+addr = 0xe6713c
+type = "long long *"
+
+[header.args]

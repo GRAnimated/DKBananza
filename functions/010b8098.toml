@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:03.355625Z
+addr = 0x10b8098
+size = 0x64
+name = "_ZNK14DoorDemoSimple18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK14DoorDemoSimple18getRuntimeTypeInfoEv"
+addr = 0x10b8098
+
+[header.args]

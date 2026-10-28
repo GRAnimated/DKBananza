@@ -1,12 +1,22 @@
-last_change = 2026-10-26T00:38:23.591822Z
+last_change = 2026-10-28T04:59:21.339408Z
 addr = 0x1166f70
 size = 0x108
 name = "_ZN11StoneStatueC2EPKc"
-type = "unsigned int *"
+type = "long long *"
 
 [header]
 name = "_ZN11StoneStatueC2EPKc"
 addr = 0x1166f70
-type = "unsigned int *"
+type = "long long *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

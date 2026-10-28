@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.384669Z
+addr = 0xffa258
+size = 0x4
+name = "_ZNK16MinecartBombItem27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK16MinecartBombItem27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0xffa258
+
+[header.args]

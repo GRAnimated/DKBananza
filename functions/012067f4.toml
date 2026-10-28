@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.547853Z
+addr = 0x12067f4
+size = 0x38
+name = "_ZN15Npc2VoxelSinger10endClippedEv"
+
+[header]
+name = "_ZN15Npc2VoxelSinger10endClippedEv"
+addr = 0x12067f4
+
+[header.args]

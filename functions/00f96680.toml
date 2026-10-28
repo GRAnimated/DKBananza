@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.353832Z
+addr = 0xf96680
+size = 0x4c
+name = "_ZN17SneakingManGolden12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN17SneakingManGolden12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xf96680
+
+[header.args]

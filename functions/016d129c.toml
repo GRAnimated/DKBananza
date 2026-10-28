@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.873911Z
+addr = 0x16d129c
+size = 0x8
+name = "_ZNK2al21ActorPoseKeeperTQGMSV7getQuatEv"
+type = "const sead::Quatf *"
+
+[header]
+name = "_ZNK2al21ActorPoseKeeperTQGMSV7getQuatEv"
+addr = 0x16d129c
+type = "const sead::Quatf *"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "const al::ActorPoseKeeperTQGMSV *"
+size = 0x8

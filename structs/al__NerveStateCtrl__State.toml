@@ -1,0 +1,21 @@
+last_change = 2026-10-28T04:57:00.593723Z
+name = "al::NerveStateCtrl::State"
+size = 0x18
+
+[members.0x0]
+name = "state"
+offset = 0x0
+type = "al::NerveStateBase *"
+size = 0x8
+
+[members.0x8]
+name = "nerve"
+offset = 0x8
+type = "const al::Nerve *"
+size = 0x8
+
+[members.0x10]
+name = "name"
+offset = 0x10
+type = "const char *"
+size = 0x8

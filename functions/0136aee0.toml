@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.669032Z
+addr = 0x136aee0
+size = 0x50
+name = "_ZN21VoxelConveyorMapParts7controlEv"
+
+[header]
+name = "_ZN21VoxelConveyorMapParts7controlEv"
+addr = 0x136aee0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:34.542756Z
+addr = 0xf32ddc
+size = 0x64
+name = "_ZNK18TitleLogoDemoActor18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK18TitleLogoDemoActor18getRuntimeTypeInfoEv"
+addr = 0xf32ddc
+
+[header.args]

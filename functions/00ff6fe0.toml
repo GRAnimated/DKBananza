@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.383324Z
+addr = 0xff6fe0
+size = 0x60
+name = "_ZN13LifeVoxelItem18initAfterPlacementEv"
+
+[header]
+name = "_ZN13LifeVoxelItem18initAfterPlacementEv"
+addr = 0xff6fe0
+
+[header.args]

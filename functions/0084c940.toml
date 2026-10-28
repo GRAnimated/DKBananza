@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:46.218286Z
+addr = 0x84c940
+size = 0xd4
+name = "sub_710084C940"
+type = "long long"
+
+[header]
+name = "sub_710084C940"
+addr = 0x84c940
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x1]
+offset = 0x1
+name = "s"
+type = "char *"
+size = 0x8

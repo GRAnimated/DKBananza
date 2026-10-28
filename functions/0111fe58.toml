@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:14.802313Z
+addr = 0x111fe58
+size = 0x64
+name = "_ZNK14MinecartSwitch18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK14MinecartSwitch18getRuntimeTypeInfoEv"
+addr = 0x111fe58
+
+[header.args]

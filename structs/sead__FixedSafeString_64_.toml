@@ -1,0 +1,21 @@
+last_change = 2026-10-28T04:57:00.603117Z
+name = "sead::FixedSafeString<64>"
+size = 0x50
+
+[members.0x0]
+name = "mStringTop"
+offset = 0x0
+type = "const char *"
+size = 0x8
+
+[members.0x8]
+name = "mBufferSize"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "mBuffer"
+offset = 0xc
+type = "char[64]"
+size = 0x40

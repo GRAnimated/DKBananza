@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.426546Z
+addr = 0x107dc68
+size = 0x14
+name = "UnknownHost_710223EDF0__ZNK12_GLOBAL__N_122HostTypeNrvReactionTop11getNameHashEv"
+
+[header]
+name = "UnknownHost_710223EDF0__ZNK12_GLOBAL__N_122HostTypeNrvReactionTop11getNameHashEv"
+addr = 0x107dc68
+
+[header.args]

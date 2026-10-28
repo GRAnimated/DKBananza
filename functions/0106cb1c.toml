@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:56.095926Z
+addr = 0x106cb1c
+size = 0x714
+name = "_ZN13BgmSessionObj4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN13BgmSessionObj4initERKN2al13ActorInitInfoE"
+addr = 0x106cb1c
+
+[header.args]

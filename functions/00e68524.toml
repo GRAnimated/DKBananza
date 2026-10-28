@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.254718Z
+addr = 0xe68524
+size = 0x88
+name = "_ZN11BossMimichi10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN11BossMimichi10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xe68524
+
+[header.args]

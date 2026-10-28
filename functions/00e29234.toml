@@ -1,12 +1,28 @@
-last_change = 2026-10-26T00:37:09.981169Z
+last_change = 2026-10-28T04:56:43.233283Z
 addr = 0xe29234
 size = 0x4
-name = "al_LiveActor_attackSensor"
+name = "_ZN2al9LiveActor12attackSensorEPNS_9HitSensorES2_"
 type = "void"
 
 [header]
-name = "al_LiveActor_attackSensor"
+name = "_ZN2al9LiveActor12attackSensorEPNS_9HitSensorES2_"
 addr = 0xe29234
 type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::LiveActor *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "self"
+type = "al::HitSensor *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = "other"
+type = "al::HitSensor *"
+size = 0x8

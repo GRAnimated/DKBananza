@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.236418Z
+addr = 0xe2ecac
+size = 0xc
+name = "sub_7100E2ECAC"
+type = "long long"
+
+[header]
+name = "sub_7100E2ECAC"
+addr = 0xe2ecac
+type = "long long"
+
+[header.args]

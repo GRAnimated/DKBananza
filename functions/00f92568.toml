@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.352467Z
+addr = 0xf92568
+size = 0xec
+name = "_ZN7RockBee18initAfterPlacementEv"
+
+[header]
+name = "_ZN7RockBee18initAfterPlacementEv"
+addr = 0xf92568
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:08.382742Z
+addr = 0x10e52a4
+size = 0x74
+name = "_ZN21HarmoneelDemoDirector16exeDemoHarmoneelEv"
+
+[header]
+name = "_ZN21HarmoneelDemoDirector16exeDemoHarmoneelEv"
+addr = 0x10e52a4
+
+[header.args]

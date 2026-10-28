@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.786112Z
+addr = 0x15a9014
+size = 0x8
+name = "phive_RigidBody_71015A9014"
+type = "long long"
+
+[header]
+name = "phive_RigidBody_71015A9014"
+addr = 0x15a9014
+type = "long long"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.913144Z
+addr = 0x174083c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_138CameraVerticalAbsorber2DGalaxyNrvLimit11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_138CameraVerticalAbsorber2DGalaxyNrvLimit11getNameHashEv"
+addr = 0x174083c
+
+[header.args]

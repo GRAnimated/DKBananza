@@ -1,10 +1,22 @@
-last_change = 2026-10-26T00:37:10.007523Z
+last_change = 2026-10-28T04:56:43.925344Z
 addr = 0x176c0ac
 size = 0x4
-name = "nullsub_3697"
+name = "_ZN2al8Sequence4initERKNS_16SequenceInitInfoE"
+type = "void"
 
 [header]
-name = "nullsub_3697"
+name = "_ZN2al8Sequence4initERKNS_16SequenceInitInfoE"
 addr = 0x176c0ac
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::Sequence *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "info"
+type = "const al::SequenceInitInfo *"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.535097Z
+addr = 0x11dfefc
+size = 0x64
+name = "_ZNK18Npc2GreatHarmoneel18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK18Npc2GreatHarmoneel18getRuntimeTypeInfoEv"
+addr = 0x11dfefc
+
+[header.args]

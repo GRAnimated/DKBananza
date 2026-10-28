@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.416578Z
+addr = 0x1060f4c
+size = 0x14
+name = "BallCountAreaObserver__ZNK12_GLOBAL__N_115HostTypeNrvWait11getNameHashEv"
+
+[header]
+name = "BallCountAreaObserver__ZNK12_GLOBAL__N_115HostTypeNrvWait11getNameHashEv"
+addr = 0x1060f4c
+
+[header.args]

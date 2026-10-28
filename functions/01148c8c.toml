@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:18.691951Z
+addr = 0x1148c8c
+size = 0x50
+name = "_ZNK12_GLOBAL__N_124SinkholeGateNrvKeyRotate7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_124SinkholeGateNrvKeyRotate7executeEPN2al11NerveKeeperE"
+addr = 0x1148c8c
+
+[header.args]

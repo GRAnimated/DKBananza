@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:58:49.425077Z
+addr = 0x10111ec
+size = 0x68
+name = "_ZThn8_NK2al14NerveStateBase18getRuntimeTypeInfoEv"
+type = "long long *"
+
+[header]
+name = "_ZThn8_NK2al14NerveStateBase18getRuntimeTypeInfoEv"
+addr = 0x10111ec
+type = "long long *"
+
+[header.args]

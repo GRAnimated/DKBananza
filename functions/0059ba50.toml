@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:42.995255Z
+addr = 0x59ba50
+size = 0x28
+name = "_ZN11TreasureBox14makeActorAliveEv"
+
+[header]
+name = "_ZN11TreasureBox14makeActorAliveEv"
+addr = 0x59ba50
+
+[header.args]

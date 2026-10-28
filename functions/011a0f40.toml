@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.989867Z
+last_change = 2026-10-28T04:56:43.514733Z
 addr = 0x11a0f40
 size = 0x4
-name = "nullsub_1793"
+name = "_ZN10VoidPillar7controlEv"
 
 [header]
-name = "nullsub_1793"
+name = "_ZN10VoidPillar7controlEv"
 addr = 0x11a0f40
 
 [header.args]

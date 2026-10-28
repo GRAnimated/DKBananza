@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:03.603525Z
+addr = 0x10b9c48
+size = 0x134
+name = "_ZN7DoorSun10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN7DoorSun10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x10b9c48
+
+[header.args]

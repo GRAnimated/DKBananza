@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.512873Z
+addr = 0x119b81c
+size = 0xc8
+name = "_ZN7Updraft7exeBlowEv"
+
+[header]
+name = "_ZN7Updraft7exeBlowEv"
+addr = 0x119b81c
+
+[header.args]

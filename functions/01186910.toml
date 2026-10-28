@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:09.989592Z
+last_change = 2026-10-28T04:56:43.507279Z
 addr = 0x1186910
 size = 0xb0
 name = "_ZN15ThunderDirectorC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN15ThunderDirectorC2EPKc"
 addr = 0x1186910
 type = "long long"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

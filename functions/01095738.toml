@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:00.539565Z
+addr = 0x1095738
+size = 0x40
+name = "_ZNK12_GLOBAL__N_117CloudShapeNrvShow7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_117CloudShapeNrvShow7executeEPN2al11NerveKeeperE"
+addr = 0x1095738
+
+[header.args]

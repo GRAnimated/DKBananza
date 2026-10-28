@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.356863Z
+addr = 0xf9fd88
+size = 0x8
+name = "_ZN14UeyowaidaLaser10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN14UeyowaidaLaser10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xf9fd88
+
+[header.args]

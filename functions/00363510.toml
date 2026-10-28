@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:30.236756Z
+addr = 0x363510
+size = 0x78
+name = "al_initScenePhysics"
+type = "void"
+
+[header]
+name = "al_initScenePhysics"
+addr = 0x363510
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "scene"
+type = "al::Scene *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "timing"
+type = "ScenePhysicsTiming *"
+size = 0x8

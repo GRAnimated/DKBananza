@@ -1,11 +1,11 @@
-last_change = 2026-10-25T23:13:40.064804Z
+last_change = 2026-10-28T04:57:00.582015Z
 name = "al::LiveActor"
-size = 0x11c
+size = 0x120
 
 [members.0x0]
 name = "__vftable"
 offset = 0x0
-type = "vtbl_710215BBA0 *"
+type = "al::LiveActor_vtbl *"
 size = 0x8
 
 [members.0x8]
@@ -75,22 +75,118 @@ type = "const char *"
 size = 0x8
 
 [members.0x60]
-name = "TODO_keepers"
+name = "mPoseKeeper"
 offset = 0x60
-type = "char[128]"
-size = 0x80
+type = "al::ActorPoseKeeperBase *"
+size = 0x8
+
+[members.0x68]
+name = "field_68"
+offset = 0x68
+type = "void *"
+size = 0x8
+
+[members.0x70]
+name = "field_70"
+offset = 0x70
+type = "void *"
+size = 0x8
+
+[members.0x78]
+name = "field_78"
+offset = 0x78
+type = "void *"
+size = 0x8
+
+[members.0x80]
+name = "field_80"
+offset = 0x80
+type = "void *"
+size = 0x8
+
+[members.0x88]
+name = "field_88"
+offset = 0x88
+type = "void *"
+size = 0x8
+
+[members.0x90]
+name = "field_90"
+offset = 0x90
+type = "void *"
+size = 0x8
+
+[members.0x98]
+name = "mModelKeeper"
+offset = 0x98
+type = "al::ModelKeeper *"
+size = 0x8
+
+[members.0xa0]
+name = "mNerveKeeper"
+offset = 0xa0
+type = "al::NerveKeeper *"
+size = 0x8
+
+[members.0xa8]
+name = "field_a8"
+offset = 0xa8
+type = "void *"
+size = 0x8
+
+[members.0xb0]
+name = "field_b0"
+offset = 0xb0
+type = "void *"
+size = 0x8
+
+[members.0xb8]
+name = "mEffectKeeper"
+offset = 0xb8
+type = "al::EffectKeeper *"
+size = 0x8
+
+[members.0xc0]
+name = "mAudioKeeper"
+offset = 0xc0
+type = "al::AudioKeeper *"
+size = 0x8
+
+[members.0xc8]
+name = "field_c8"
+offset = 0xc8
+type = "void *"
+size = 0x8
+
+[members.0xd0]
+name = "mStageSwitchKeeper"
+offset = 0xd0
+type = "al::StageSwitchKeeper *"
+size = 0x8
+
+[members.0xd8]
+name = "mRailKeeper"
+offset = 0xd8
+type = "al::RailKeeper *"
+size = 0x8
 
 [members.0xe0]
 name = "field_e0"
 offset = 0xe0
-type = "unsigned long long *"
+type = "void *"
 size = 0x8
 
 [members.0xe8]
 name = "gap_E8"
 offset = 0xe8
-type = "char[40]"
-size = 0x28
+type = "unsigned char[32]"
+size = 0x20
+
+[members.0x108]
+name = "mSceneInfo"
+offset = 0x108
+type = "al::ActorSceneInfo *"
+size = 0x8
 
 [members.0x110]
 name = "byte_110"
@@ -98,26 +194,26 @@ offset = 0x110
 type = "char"
 size = 0x1
 
-[members.0x111]
+[members.0x114]
 name = "dword_111"
-offset = 0x111
+offset = 0x114
 type = "int"
 size = 0x4
 
-[members.0x115]
+[members.0x118]
 name = "byte_115"
-offset = 0x115
+offset = 0x118
 type = "char"
 size = 0x1
 
-[members.0x116]
+[members.0x11a]
 name = "word_116"
-offset = 0x116
+offset = 0x11a
 type = "short"
 size = 0x2
 
-[members.0x118]
+[members.0x11c]
 name = "dword_118"
-offset = 0x118
+offset = 0x11c
 type = "int"
 size = 0x4

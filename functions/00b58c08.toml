@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.980607Z
+last_change = 2026-10-28T04:56:43.204857Z
 addr = 0xb58c08
 size = 0x4
-name = "nullsub_1077"
+name = "havok_nullsub_1077"
 
 [header]
-name = "nullsub_1077"
+name = "havok_nullsub_1077"
 addr = 0xb58c08
 
 [header.args]

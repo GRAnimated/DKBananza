@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:28.708157Z
+addr = 0x24bb98
+size = 0x1ec
+name = "sub_710024BB98"
+type = "size_t"
+
+[header]
+name = "sub_710024BB98"
+addr = 0x24bb98
+type = "size_t"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "const char **"
+size = 0x8

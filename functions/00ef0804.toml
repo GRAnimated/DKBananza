@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.300532Z
+addr = 0xef0804
+size = 0x14
+name = "_ZNK12_GLOBAL__N_122StomperorNrvDemoReboot11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_122StomperorNrvDemoReboot11getNameHashEv"
+addr = 0xef0804
+
+[header.args]

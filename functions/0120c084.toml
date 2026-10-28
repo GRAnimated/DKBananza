@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.549502Z
+addr = 0x120c084
+size = 0x14
+name = "_ZNK12_GLOBAL__N_125Npc2VoxelTalkerNrvRecover11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_125Npc2VoxelTalkerNrvRecover11getNameHashEv"
+addr = 0x120c084
+
+[header.args]

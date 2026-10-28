@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.556029Z
+addr = 0x1220e4c
+size = 0x4c
+name = "_ZN11TadoruyaNpc8calcAnimEv"
+
+[header]
+name = "_ZN11TadoruyaNpc8calcAnimEv"
+addr = 0x1220e4c
+
+[header.args]

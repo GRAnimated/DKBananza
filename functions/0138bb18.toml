@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.681343Z
+addr = 0x138bb18
+size = 0x8
+name = "_ZN4sead9Framework18setProcessPriorityENS0_15ProcessPriorityE"
+type = "bool"
+
+[header]
+name = "_ZN4sead9Framework18setProcessPriorityENS0_15ProcessPriorityE"
+addr = 0x138bb18
+type = "bool"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "sead::Framework *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "sead::Framework::ProcessPriority"
+size = 0x4

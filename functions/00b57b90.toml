@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.204576Z
+addr = 0xb57b90
+size = 0xc
+name = "havok_7100B57B90"
+type = "void"
+
+[header]
+name = "havok_7100B57B90"
+addr = 0xb57b90
+type = "void"
+
+[header.args]

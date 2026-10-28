@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:00.051853Z
+addr = 0xbad960
+size = 0x790
+name = "havok_7100BAD960"
+type = "long long"
+
+[header]
+name = "havok_7100BAD960"
+addr = 0xbad960
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8

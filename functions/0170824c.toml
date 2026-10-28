@@ -1,12 +1,16 @@
-last_change = 2026-10-26T00:37:10.006461Z
+last_change = 2026-10-28T04:56:43.895946Z
 addr = 0x170824c
 size = 0x4
-name = "j_al_LiveActor_appear_17"
-type = "long long"
+name = "_ZN33ModelClusterModelKillAreaListener6appearEv"
+type = "void"
 
 [header]
-name = "j_al_LiveActor_appear_17"
+name = "_ZN33ModelClusterModelKillAreaListener6appearEv"
 addr = 0x170824c
-type = "long long"
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::LiveActor *"
+size = 0x8

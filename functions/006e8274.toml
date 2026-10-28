@@ -1,11 +1,16 @@
-last_change = 2026-10-25T23:11:42.675054Z
+last_change = 2026-10-28T04:57:40.380993Z
 addr = 0x6e8274
 size = 0x44
 name = "sub_71006E8274"
+type = "void"
 
 [header]
-last_change = 2026-10-25T23:11:42.675054Z
 name = "sub_71006E8274"
 addr = 0x6e8274
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "void *__shifted(al::LiveActor,0x18)"
+size = 0x8

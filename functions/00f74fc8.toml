@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.341135Z
+addr = 0xf74fc8
+size = 0xb4
+name = "_ZN6Hopper8calcAnimEv"
+
+[header]
+name = "_ZN6Hopper8calcAnimEv"
+addr = 0xf74fc8
+
+[header.args]

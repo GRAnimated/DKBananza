@@ -1,10 +1,12 @@
-last_change = 2026-10-26T00:37:09.979117Z
+last_change = 2026-10-28T04:56:43.124223Z
 addr = 0x8d9a20
 size = 0x4
-name = "nullsub_844"
+name = "_ZN9hkReflect6Detail4ImplD2Ev"
+type = "void"
 
 [header]
-name = "nullsub_844"
+name = "_ZN9hkReflect6Detail4ImplD2Ev"
 addr = 0x8d9a20
+type = "void"
 
 [header.args]

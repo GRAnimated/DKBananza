@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.517611Z
+addr = 0x11aab24
+size = 0x58
+name = "_ZN17VoxelMimichiParts18initAfterPlacementEv"
+
+[header]
+name = "_ZN17VoxelMimichiParts18initAfterPlacementEv"
+addr = 0x11aab24
+
+[header.args]

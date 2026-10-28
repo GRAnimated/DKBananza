@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.342268Z
+addr = 0xf79570
+size = 0x4c
+name = "_ZN10HopperCore9exeAttachEv"
+type = "long long"
+
+[header]
+name = "_ZN10HopperCore9exeAttachEv"
+addr = 0xf79570
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

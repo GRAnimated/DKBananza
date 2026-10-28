@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:38:16.491351Z
+last_change = 2026-10-28T04:59:02.763932Z
 addr = 0x10b29b4
 size = 0x98
 name = "_ZN17DistantViewAnimalC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN17DistantViewAnimalC2EPKc"
 addr = 0x10b29b4
 type = "void *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

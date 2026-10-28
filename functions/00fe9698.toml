@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:46.877894Z
+addr = 0xfe9698
+size = 0x64
+name = "_ZNK6Fossil18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK6Fossil18getRuntimeTypeInfoEv"
+addr = 0xfe9698
+
+[header.args]

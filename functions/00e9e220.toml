@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.982577Z
+last_change = 2026-10-28T04:56:43.272829Z
 addr = 0xe9e220
 size = 0x4
-name = "nullsub_1324"
+name = "_ZN28KingKRoolCannonBallGenerator7controlEv"
 
 [header]
-name = "nullsub_1324"
+name = "_ZN28KingKRoolCannonBallGenerator7controlEv"
 addr = 0xe9e220
 
 [header.args]

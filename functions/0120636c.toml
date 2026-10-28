@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.547754Z
+addr = 0x120636c
+size = 0x68
+name = "_ZN15Npc2VoxelSinger18initAfterPlacementEv"
+
+[header]
+name = "_ZN15Npc2VoxelSinger18initAfterPlacementEv"
+addr = 0x120636c
+
+[header.args]

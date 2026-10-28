@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.343442Z
+addr = 0xf7cdfc
+size = 0x8
+name = "_ZN7Kageski18initAfterPlacementEv"
+
+[header]
+name = "_ZN7Kageski18initAfterPlacementEv"
+addr = 0xf7cdfc
+
+[header.args]

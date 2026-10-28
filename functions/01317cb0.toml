@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.627330Z
+addr = 0x1317cb0
+size = 0x8
+name = "_ZThn32_N15ProductSequenceD1Ev"
+type = "void"
+
+[header]
+name = "_ZThn32_N15ProductSequenceD1Ev"
+addr = 0x1317cb0
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

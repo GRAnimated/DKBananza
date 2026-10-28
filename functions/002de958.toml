@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:42.460645Z
+addr = 0x2de958
+size = 0x4
+name = "_ZN2al18GameFrameworkOunce9procCalc_Ev"
+type = "void"
+
+[header]
+name = "_ZN2al18GameFrameworkOunce9procCalc_Ev"
+addr = 0x2de958
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::GameFrameworkOunce *"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.550068Z
+addr = 0x120da1c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_134Npc2VoxelYocchiParentNrvMoveOnRail11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_134Npc2VoxelYocchiParentNrvMoveOnRail11getNameHashEv"
+addr = 0x120da1c
+
+[header.args]

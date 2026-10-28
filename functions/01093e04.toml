@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:00.365398Z
+addr = 0x1093e04
+size = 0x64
+name = "_ZNK6Closet18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK6Closet18getRuntimeTypeInfoEv"
+addr = 0x1093e04
+
+[header.args]

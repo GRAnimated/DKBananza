@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.536842Z
+addr = 0x11e4e94
+size = 0x14
+name = "_ZNK12_GLOBAL__N_138Npc2KongTalkerBossKongNrvReactionOther11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_138Npc2KongTalkerBossKongNrvReactionOther11getNameHashEv"
+addr = 0x11e4e94
+
+[header.args]

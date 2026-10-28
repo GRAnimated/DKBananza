@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.510741Z
+addr = 0x1193aac
+size = 0x20c
+name = "_ZN18TowerLevelFragment19exeChangePhaseFinalEv"
+
+[header]
+name = "_ZN18TowerLevelFragment19exeChangePhaseFinalEv"
+addr = 0x1193aac
+
+[header.args]

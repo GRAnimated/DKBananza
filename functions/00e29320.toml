@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:18.130085Z
+addr = 0xe29320
+size = 0x60
+name = "_ZNK14LightShaftArea18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK14LightShaftArea18getRuntimeTypeInfoEv"
+addr = 0xe29320
+
+[header.args]

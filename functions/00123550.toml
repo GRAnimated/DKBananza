@@ -1,0 +1,30 @@
+last_change = 2026-10-28T04:57:00.658194Z
+addr = 0x123550
+size = 0x1ac
+name = "sub_7100123550"
+type = "void"
+
+[header]
+name = "sub_7100123550"
+addr = 0x123550
+type = "void"
+
+[stack_vars.-0x4c]
+offset = -76
+name = "v21"
+type = "float[3]"
+size = 0xc
+addr = 0x123550
+
+[stack_vars.-0x8]
+offset = -8
+name = "v22"
+type = "al::LiveActor *"
+size = 0x8
+addr = 0x123550
+
+[header.args.0x0]
+offset = 0x0
+name = "a1"
+type = "al::LiveActor *"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:53.881159Z
+addr = 0x1052ed8
+size = 0x130
+name = "_ZN12WardrobeMenu12exeColorMenuEv"
+
+[header]
+name = "_ZN12WardrobeMenu12exeColorMenuEv"
+addr = 0x1052ed8
+
+[header.args]

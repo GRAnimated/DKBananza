@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.510746Z
+addr = 0x1193cb8
+size = 0x158
+name = "_ZN18TowerLevelFragment7exeMoveEv"
+
+[header]
+name = "_ZN18TowerLevelFragment7exeMoveEv"
+addr = 0x1193cb8
+
+[header.args]

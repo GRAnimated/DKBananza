@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.431382Z
+addr = 0x108d2c4
+size = 0x4
+name = "_ZNK13CheckPointTmp27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK13CheckPointTmp27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x108d2c4
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.533805Z
+addr = 0x11dc2e4
+size = 0x34c
+name = "_ZN16Npc2FastTraveler4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN16Npc2FastTraveler4initERKN2al13ActorInitInfoE"
+addr = 0x11dc2e4
+
+[header.args]

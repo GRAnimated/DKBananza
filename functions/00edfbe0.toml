@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:29.765565Z
+addr = 0xedfbe0
+size = 0xcc
+name = "_ZN8ShioShio7exeTurnEv"
+
+[header]
+name = "_ZN8ShioShio7exeTurnEv"
+addr = 0xedfbe0
+
+[header.args]

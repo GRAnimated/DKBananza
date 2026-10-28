@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.817416Z
+addr = 0x1642bf4
+size = 0x4c0
+name = "sub_7101642BF4"
+type = "bool"
+
+[header]
+name = "sub_7101642BF4"
+addr = 0x1642bf4
+type = "bool"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

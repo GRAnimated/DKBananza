@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.318632Z
+addr = 0xf2ab6c
+size = 0x58
+name = "sub_7100F2AB6C"
+type = "long long"
+
+[header]
+name = "sub_7100F2AB6C"
+addr = 0xf2ab6c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8

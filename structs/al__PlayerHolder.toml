@@ -1,0 +1,9 @@
+last_change = 2026-10-28T04:57:00.605759Z
+name = "al::PlayerHolder"
+size = 0x18
+
+[members.0x0]
+name = "padding"
+offset = 0x0
+type = "unsigned char[24]"
+size = 0x18

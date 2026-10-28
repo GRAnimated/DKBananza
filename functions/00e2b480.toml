@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:18.307161Z
+addr = 0xe2b480
+size = 0x70
+name = "_ZN21ProceduralMimichiArea12exeOutVolumeEv"
+
+[header]
+name = "_ZN21ProceduralMimichiArea12exeOutVolumeEv"
+addr = 0xe2b480
+
+[header.args]

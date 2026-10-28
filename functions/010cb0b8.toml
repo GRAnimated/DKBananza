@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.450453Z
+addr = 0x10cb0b8
+size = 0x14c
+name = "sub_71010CB0B8"
+
+[header]
+name = "sub_71010CB0B8"
+addr = 0x10cb0b8
+
+[header.args]

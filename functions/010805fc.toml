@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:09.986724Z
+last_change = 2026-10-28T04:58:58.367923Z
 addr = 0x10805fc
 size = 0xf4
 name = "_ZN12CannonBarrelC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN12CannonBarrelC2EPKc"
 addr = 0x10805fc
 type = "unsigned long long *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

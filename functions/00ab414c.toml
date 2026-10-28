@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:55.452699Z
+addr = 0xab414c
+size = 0x264
+name = "havok_7100AB414C"
+
+[header]
+name = "havok_7100AB414C"
+addr = 0xab414c
+
+[header.args]

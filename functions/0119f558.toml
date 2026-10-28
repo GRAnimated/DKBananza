@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.514038Z
+addr = 0x119f558
+size = 0x50
+name = "_ZNK12_GLOBAL__N_127VoidMaterialObjNrvDestroyed7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_127VoidMaterialObjNrvDestroyed7executeEPN2al11NerveKeeperE"
+addr = 0x119f558
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.674632Z
+addr = 0x137c448
+size = 0x8
+name = "_ZNK12_GLOBAL__N_142VoxelPartsBrokenRateCheckerNrvAppearBanana7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_142VoxelPartsBrokenRateCheckerNrvAppearBanana7executeEPN2al11NerveKeeperE"
+addr = 0x137c448
+
+[header.args]

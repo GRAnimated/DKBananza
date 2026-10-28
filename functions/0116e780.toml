@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.499221Z
+addr = 0x116e780
+size = 0x84
+name = "_ZN19StoneStatueTutorial7controlEv"
+type = "long long"
+
+[header]
+name = "_ZN19StoneStatueTutorial7controlEv"
+addr = 0x116e780
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.332037Z
+addr = 0xf56de0
+size = 0x14
+name = "_ZNK12_GLOBAL__N_123DebrischanNrvLoseDamage11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_123DebrischanNrvLoseDamage11getNameHashEv"
+addr = 0xf56de0
+
+[header.args]

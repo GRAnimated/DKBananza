@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.412379Z
+addr = 0x10539c8
+size = 0x4c
+name = "_ZN12WardrobeMenuD1Ev"
+
+[header]
+name = "_ZN12WardrobeMenuD1Ev"
+addr = 0x10539c8
+
+[header.args]

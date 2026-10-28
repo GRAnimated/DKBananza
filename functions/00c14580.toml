@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:58:03.000276Z
+addr = 0xc14580
+size = 0x371c
+name = "havok_7100C14580"
+type = "unsigned long long *"
+
+[header]
+name = "havok_7100C14580"
+addr = 0xc14580
+type = "unsigned long long *"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

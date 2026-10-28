@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:41.812257Z
+addr = 0xfa8728
+size = 0x18c
+name = "sub_7100FA8728"
+type = "long long"
+
+[header]
+name = "sub_7100FA8728"
+addr = 0xfa8728
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int"
+size = 0x4

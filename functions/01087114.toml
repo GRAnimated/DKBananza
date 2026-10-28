@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:58.966180Z
+addr = 0x1087114
+size = 0x64
+name = "_ZNK18CannonBarrelSwitch18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK18CannonBarrelSwitch18getRuntimeTypeInfoEv"
+addr = 0x1087114
+
+[header.args]

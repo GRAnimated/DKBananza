@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.256233Z
+addr = 0xe6c59c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_127BossMimichiPitfallNrvSucked11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_127BossMimichiPitfallNrvSucked11getNameHashEv"
+addr = 0xe6c59c
+
+[header.args]

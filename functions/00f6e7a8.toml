@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:38.285377Z
+addr = 0xf6e7a8
+size = 0x88
+name = "_ZN4GushD0Ev"
+
+[header]
+name = "_ZN4GushD0Ev"
+addr = 0xf6e7a8
+
+[header.args]

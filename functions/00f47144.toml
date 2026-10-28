@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:35.772830Z
+addr = 0xf47144
+size = 0x40
+name = "_ZN6Chaser12startClippedEv"
+
+[header]
+name = "_ZN6Chaser12startClippedEv"
+addr = 0xf47144
+
+[header.args]

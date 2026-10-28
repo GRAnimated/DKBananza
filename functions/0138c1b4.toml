@@ -1,10 +1,16 @@
-last_change = 2026-10-26T00:37:09.996098Z
+last_change = 2026-10-28T04:56:43.681800Z
 addr = 0x138c1b4
 size = 0x4
-name = "nullsub_2124"
+name = "_ZN4sead9Framework8runImpl_Ev"
+type = "void"
 
 [header]
-name = "nullsub_2124"
+name = "_ZN4sead9Framework8runImpl_Ev"
 addr = 0x138c1b4
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "sead::Framework *"
+size = 0x8

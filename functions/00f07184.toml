@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:31.812401Z
+addr = 0xf07184
+size = 0x128
+name = "_ZN4Void16exeDemoBattleEndEv"
+
+[header]
+name = "_ZN4Void16exeDemoBattleEndEv"
+addr = 0xf07184
+
+[header.args]

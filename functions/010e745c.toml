@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:08.621396Z
+addr = 0x10e745c
+size = 0x64
+name = "_ZNK18HeightChangeBridge18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK18HeightChangeBridge18getRuntimeTypeInfoEv"
+addr = 0x10e745c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.600987Z
+addr = 0x12c0bbc
+size = 0x60
+name = "_ZNK12_GLOBAL__N_126PlayerUpperBodyNrvDrumming7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_126PlayerUpperBodyNrvDrumming7executeEPN2al11NerveKeeperE"
+addr = 0x12c0bbc
+
+[header.args]

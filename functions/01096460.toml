@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.434719Z
+addr = 0x1096460
+size = 0xf0
+name = "_ZN23ContinuousBattleWatcher13exeResultDemoEv"
+
+[header]
+name = "_ZN23ContinuousBattleWatcher13exeResultDemoEv"
+addr = 0x1096460
+
+[header.args]

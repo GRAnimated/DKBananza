@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:23.840678Z
+addr = 0xe83d00
+size = 0x8
+name = "Nerve_7100E83D00"
+
+[header]
+name = "Nerve_7100E83D00"
+addr = 0xe83d00
+
+[header.args]

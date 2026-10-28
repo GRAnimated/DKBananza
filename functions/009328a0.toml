@@ -1,0 +1,52 @@
+last_change = 2026-10-28T04:56:43.146946Z
+addr = 0x9328a0
+size = 0xe8
+name = "_ZN14hkDebugDisplay14displayPointExEyRK10hkVector4fjN20hk1PointDisplayStyle4EnumEfi"
+type = "long long"
+
+[header]
+name = "_ZN14hkDebugDisplay14displayPointExEyRK10hkVector4fjN20hk1PointDisplayStyle4EnumEfi"
+addr = 0x9328a0
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "unsigned int"
+size = 0x4
+
+[header.args.0x4]
+offset = 0x4
+name = ""
+type = "unsigned int"
+size = 0x4
+
+[header.args.0x5]
+offset = 0x5
+name = ""
+type = "unsigned int"
+size = 0x4
+
+[header.args.0x6]
+offset = 0x6
+name = ""
+type = "float"
+size = 0x4

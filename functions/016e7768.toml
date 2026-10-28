@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.884017Z
+addr = 0x16e7768
+size = 0x8
+name = "_ZNK12_GLOBAL__N_119SurfMapPartsNrvWait7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_119SurfMapPartsNrvWait7executeEPN2al11NerveKeeperE"
+addr = 0x16e7768
+
+[header.args]

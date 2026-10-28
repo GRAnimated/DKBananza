@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:37.435398Z
+addr = 0xf5fcbc
+size = 0xd8
+name = "_ZN18DonZainStateAttack31exeAttackHorizontalSignJumpSignEv"
+type = "long long"
+
+[header]
+name = "_ZN18DonZainStateAttack31exeAttackHorizontalSignJumpSignEv"
+addr = 0xf5fcbc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.248655Z
+addr = 0xe56a44
+size = 0xd0
+name = "_ZN8BioThornD1Ev"
+
+[header]
+name = "_ZN8BioThornD1Ev"
+addr = 0xe56a44
+
+[header.args]

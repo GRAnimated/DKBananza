@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:21.507350Z
+addr = 0xe5e610
+size = 0x64
+name = "_ZNK13BioThornRoute18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK13BioThornRoute18getRuntimeTypeInfoEv"
+addr = 0xe5e610
+
+[header.args]

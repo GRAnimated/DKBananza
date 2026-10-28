@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:48.598381Z
+addr = 0x10051d4
+size = 0x164
+name = "_ZN11TreasureBox21exeRotateItemOverheadEv"
+type = "long long"
+
+[header]
+name = "_ZN11TreasureBox21exeRotateItemOverheadEv"
+addr = 0x10051d4
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

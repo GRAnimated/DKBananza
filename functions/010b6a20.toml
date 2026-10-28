@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:03.206491Z
+addr = 0x10b6a20
+size = 0x80
+name = "_ZN19DoorChallengeCourseD0Ev"
+
+[header]
+name = "_ZN19DoorChallengeCourseD0Ev"
+addr = 0x10b6a20
+
+[header.args]

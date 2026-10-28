@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.481615Z
+addr = 0x11358f4
+size = 0xb0
+name = "_ZN18PunchingBallSwitch18initAfterPlacementEv"
+
+[header]
+name = "_ZN18PunchingBallSwitch18initAfterPlacementEv"
+addr = 0x11358f4
+
+[header.args]

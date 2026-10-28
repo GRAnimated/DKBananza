@@ -1,11 +1,22 @@
-last_change = 2026-10-26T17:10:31.864966Z
+last_change = 2026-10-28T04:57:32.082211Z
 addr = 0x464894
 size = 0x50
-type = "void *"
+name = "_ZN15ProductSequenceC2EPKc"
+type = "void"
 
 [header]
-last_change = 2026-10-26T17:10:31.864966Z
+name = "_ZN15ProductSequenceC2EPKc"
 addr = 0x464894
-type = "void *"
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "ProductSequence *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "name"
+type = "const char *"
+size = 0x8

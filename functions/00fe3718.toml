@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:46.397100Z
+addr = 0xfe3718
+size = 0x60
+name = "_ZN10BottleItem9exeSuckedEv"
+
+[header]
+name = "_ZN10BottleItem9exeSuckedEv"
+addr = 0xfe3718
+
+[header.args]

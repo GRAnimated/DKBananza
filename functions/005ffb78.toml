@@ -1,0 +1,36 @@
+last_change = 2026-10-28T04:57:36.985729Z
+addr = 0x5ffb78
+size = 0x1f0
+name = "_ZN2al10WipeHolderC2Ei"
+type = "unsigned long long *"
+
+[header]
+name = "_ZN2al10WipeHolderC2Ei"
+addr = 0x5ffb78
+type = "unsigned long long *"
+
+[stack_vars.-0x60]
+offset = -96
+name = "v19"
+type = "unsigned long long[2]"
+size = 0x10
+addr = 0x5ffb78
+
+[stack_vars.-0x50]
+offset = -80
+name = "v20"
+type = "unsigned long long[2]"
+size = 0x10
+addr = 0x5ffb78
+
+[header.args.0x0]
+offset = 0x0
+name = "a1"
+type = "al::WipeHolder *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "a2"
+type = "s32"
+size = 0x4

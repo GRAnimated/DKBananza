@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:50.248574Z
+addr = 0x101ca0c
+size = 0xd4
+name = "_ZN16EnemyTracingIcon11exeWaitHideEv"
+
+[header]
+name = "_ZN16EnemyTracingIcon11exeWaitHideEv"
+addr = 0x101ca0c
+
+[header.args]

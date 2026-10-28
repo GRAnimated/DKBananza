@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:38:18.569057Z
+last_change = 2026-10-28T04:59:08.467256Z
 addr = 0x10e5c98
 size = 0xa8
 name = "_ZN18HeightChangeBridgeC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN18HeightChangeBridgeC2EPKc"
 addr = 0x10e5c98
 type = "void *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

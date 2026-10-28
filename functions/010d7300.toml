@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.453882Z
+addr = 0x10d7300
+size = 0x94
+name = "_ZN8FruitObj21exeDemoWaitAfterCrashEv"
+
+[header]
+name = "_ZN8FruitObj21exeDemoWaitAfterCrashEv"
+addr = 0x10d7300
+
+[header.args]

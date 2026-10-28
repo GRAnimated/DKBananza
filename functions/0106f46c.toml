@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:56.273491Z
+addr = 0x106f46c
+size = 0x224
+name = "_ZN7BioSeed4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN7BioSeed4initERKN2al13ActorInitInfoE"
+addr = 0x106f46c
+
+[header.args]

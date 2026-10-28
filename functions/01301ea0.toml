@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.620634Z
+addr = 0x1301ea0
+size = 0x14
+name = "_ZNK12_GLOBAL__N_122StageSceneNrvMusicList11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_122StageSceneNrvMusicList11getNameHashEv"
+addr = 0x1301ea0
+
+[header.args]

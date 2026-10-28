@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.507546Z
+addr = 0x1187fac
+size = 0x8
+name = "sub_7101187FAC"
+
+[header]
+name = "sub_7101187FAC"
+addr = 0x1187fac
+
+[header.args]

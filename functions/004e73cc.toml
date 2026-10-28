@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:42.517771Z
+addr = 0x4e73cc
+size = 0x164
+name = "_ZN11FragmentObj7controlEv"
+type = "long long"
+
+[header]
+name = "_ZN11FragmentObj7controlEv"
+addr = 0x4e73cc
+type = "long long"
+
+[header.args]

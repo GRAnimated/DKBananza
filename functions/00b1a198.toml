@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.198566Z
+addr = 0xb1a198
+size = 0x2c
+name = "_ZN20hkMemoryMeshMaterial28createCompatibleVertexBufferEP18hkMeshVertexBuffer"
+
+[header]
+name = "_ZN20hkMemoryMeshMaterial28createCompatibleVertexBufferEP18hkMeshVertexBuffer"
+addr = 0xb1a198
+
+[header.args]

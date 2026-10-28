@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.526921Z
+addr = 0x11ca628
+size = 0x8
+name = "GrowNpc__ZNK12_GLOBAL__N_115HostTypeNrvGrow7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "GrowNpc__ZNK12_GLOBAL__N_115HostTypeNrvGrow7executeEPN2al11NerveKeeperE"
+addr = 0x11ca628
+
+[header.args]

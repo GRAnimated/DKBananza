@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.906065Z
+addr = 0x1728ed4
+size = 0x14
+name = "_ZNK12_GLOBAL__N_122SePlayObjNrvWaitSwitch11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_122SePlayObjNrvWaitSwitch11getNameHashEv"
+addr = 0x1728ed4
+
+[header.args]

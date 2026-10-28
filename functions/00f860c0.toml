@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.346756Z
+addr = 0xf860c0
+size = 0x14
+name = "_ZNK12_GLOBAL__N_116MimichiNrvAttack11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_116MimichiNrvAttack11getNameHashEv"
+addr = 0xf860c0
+
+[header.args]

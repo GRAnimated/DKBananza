@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.008056Z
+addr = 0x5e7480
+size = 0x50
+name = "sub_71005E7480"
+type = "float"
+
+[header]
+name = "sub_71005E7480"
+addr = 0x5e7480
+type = "float"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

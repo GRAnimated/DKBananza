@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.234807Z
+addr = 0xe2b850
+size = 0x14
+name = "_ZNK12_GLOBAL__N_132ProceduralMimichiAreaNrvInVolume11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_132ProceduralMimichiAreaNrvInVolume11getNameHashEv"
+addr = 0xe2b850
+
+[header.args]

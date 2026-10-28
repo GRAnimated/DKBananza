@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.711802Z
+addr = 0x143c410
+size = 0x118
+name = "sub_710143C410"
+type = "long long"
+
+[header]
+name = "sub_710143C410"
+addr = 0x143c410
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "src"
+type = "void *"
+size = 0x8

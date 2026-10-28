@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.903190Z
+addr = 0x1720540
+size = 0x14
+name = "_ZNK12_GLOBAL__N_122AllDeadWatcherNrvWatch11getNameHashEv"
+type = "unsigned long long"
+
+[header]
+name = "_ZNK12_GLOBAL__N_122AllDeadWatcherNrvWatch11getNameHashEv"
+addr = 0x1720540
+type = "unsigned long long"
+
+[header.args]

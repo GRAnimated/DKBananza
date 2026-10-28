@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.556035Z
+addr = 0x1220e98
+size = 0x8
+name = "_ZN11TadoruyaNpc10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN11TadoruyaNpc10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x1220e98
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.545849Z
+addr = 0x11fff44
+size = 0x48
+name = "_ZN17Npc2VoxelQuizChan7controlEv"
+
+[header]
+name = "_ZN17Npc2VoxelQuizChan7controlEv"
+addr = 0x11fff44
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:57:54.889631Z
+addr = 0xa74248
+size = 0x114
+name = "havok_7100A74248"
+type = "long long"
+
+[header]
+name = "havok_7100A74248"
+addr = 0xa74248
+type = "long long"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.377387Z
+addr = 0xfe2d7c
+size = 0x8
+name = "_ZNK12_GLOBAL__N_121BananamondChipNrvWait7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_121BananamondChipNrvWait7executeEPN2al11NerveKeeperE"
+addr = 0xfe2d7c
+
+[header.args]

@@ -1,12 +1,22 @@
-last_change = 2026-10-26T00:37:10.009750Z
+last_change = 2026-10-28T04:56:44.001458Z
 addr = 0x18f6ce0
 size = 0xd8
 name = "_ZN22PhiveRigidBodyMapPartsC2EPKc"
-type = "unsigned long long *"
+type = "void"
 
 [header]
 name = "_ZN22PhiveRigidBodyMapPartsC2EPKc"
 addr = 0x18f6ce0
-type = "unsigned long long *"
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "const char *"
+size = 0x8

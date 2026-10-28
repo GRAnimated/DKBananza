@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.175190Z
+addr = 0xa0ee80
+size = 0xb8
+name = "havok_7100A0EE80"
+type = "int32x2_t"
+
+[header]
+name = "havok_7100A0EE80"
+addr = 0xa0ee80
+type = "int32x2_t"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int32x2_t *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int32x2_t *"
+size = 0x8

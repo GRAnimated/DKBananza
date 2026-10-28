@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:42.996136Z
+addr = 0x5ac484
+size = 0x4
+name = "j__ZN4sead13GameFramework10initializeERKNS_9Framework13InitializeArgE"
+type = "long long"
+
+[header]
+name = "j__ZN4sead13GameFramework10initializeERKNS_9Framework13InitializeArgE"
+addr = 0x5ac484
+type = "long long"
+
+[header.args]

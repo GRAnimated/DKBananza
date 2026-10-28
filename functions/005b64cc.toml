@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:57:36.011123Z
+addr = 0x5b64cc
+size = 0x108
+name = "_ZN4sead11ResourceMgr15registerFactoryEPNS_15ResourceFactoryERKNS_14SafeStringBaseIcEE"
+type = "long long"
+
+[header]
+name = "_ZN4sead11ResourceMgr15registerFactoryEPNS_15ResourceFactoryERKNS_14SafeStringBaseIcEE"
+addr = 0x5b64cc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "char **"
+size = 0x8

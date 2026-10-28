@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.537464Z
+addr = 0x11e6960
+size = 0x4
+name = "_ZN27Npc2KongTalkerBossKongSwing8calcAnimEv"
+
+[header]
+name = "_ZN27Npc2KongTalkerBossKongSwing8calcAnimEv"
+addr = 0x11e6960
+
+[header.args]

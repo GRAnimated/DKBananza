@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:59.788745Z
+addr = 0x108e81c
+size = 0x160
+name = "_ZN20ChikaChikaVoxelParts8exeBlinkEv"
+
+[header]
+name = "_ZN20ChikaChikaVoxelParts8exeBlinkEv"
+addr = 0x108e81c
+
+[header.args]

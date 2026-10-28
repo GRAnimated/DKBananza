@@ -1,0 +1,27 @@
+last_change = 2026-10-28T04:57:00.582447Z
+name = "sead::LogicalFrameBuffer_vtbl"
+size = 0x20
+
+[members.0x0]
+name = "checkDerivedRuntimeTypeInfo"
+offset = 0x0
+type = "void *(*)(const sead::LogicalFrameBuffer *const __hidden this, const sead::RuntimeTypeInfo::Interface *)"
+size = 0x8
+
+[members.0x8]
+name = "getRuntimeTypeInfo"
+offset = 0x8
+type = "const sead::RuntimeTypeInfo::Interface *(*)(const sead::LogicalFrameBuffer *const __hidden this)"
+size = 0x8
+
+[members.0x10]
+name = "dtr_LogicalFrameBuffer"
+offset = 0x10
+type = "void (*)(sead::LogicalFrameBuffer *__hidden this)"
+size = 0x8
+
+[members.0x18]
+name = "dtr_LogicalFrameBuffer_2"
+offset = 0x18
+type = "void (*)(sead::LogicalFrameBuffer *__hidden this)"
+size = 0x8

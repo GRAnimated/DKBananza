@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.543803Z
+addr = 0x11f968c
+size = 0xc4
+name = "_ZN21Npc2VoxelConstruction10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN21Npc2VoxelConstruction10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x11f968c
+
+[header.args]

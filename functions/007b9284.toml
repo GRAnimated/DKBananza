@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.085499Z
+addr = 0x7b9284
+size = 0x34
+name = "_ZN21Npc2VoxelYocchiParent14makeActorAliveEv"
+
+[header]
+name = "_ZN21Npc2VoxelYocchiParent14makeActorAliveEv"
+addr = 0x7b9284
+
+[header.args]

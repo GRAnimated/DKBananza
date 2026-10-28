@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:10.726214Z
+addr = 0x10fa710
+size = 0x60
+name = "_ZN11LakeWatcher20exeDemoEndWaitCameraEv"
+
+[header]
+name = "_ZN11LakeWatcher20exeDemoEndWaitCameraEv"
+addr = 0x10fa710
+
+[header.args]

@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.175746Z
+addr = 0xa145a0
+size = 0xfc
+name = "_ZN19hknpEventDispatcher9getSignalEN13hknpEventType4EnumE"
+type = "unsigned short *"
+
+[header]
+name = "_ZN19hknpEventDispatcher9getSignalEN13hknpEventType4EnumE"
+addr = 0xa145a0
+type = "unsigned short *"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "unsigned short"
+size = 0x2

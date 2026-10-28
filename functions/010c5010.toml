@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.448576Z
+addr = 0x10c5010
+size = 0x14
+name = "_ZNK12_GLOBAL__N_128FloatingDisplayNrvAfterBreak11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_128FloatingDisplayNrvAfterBreak11getNameHashEv"
+addr = 0x10c5010
+
+[header.args]

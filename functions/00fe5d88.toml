@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:46.648985Z
+addr = 0xfe5d88
+size = 0x508
+name = "_ZN18CollectChipWatcher4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN18CollectChipWatcher4initERKN2al13ActorInitInfoE"
+addr = 0xfe5d88
+
+[header.args]

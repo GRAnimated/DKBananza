@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.264972Z
+addr = 0xe86658
+size = 0x14
+name = "Gorongo__ZNK12_GLOBAL__N_124HostTypeNrvDemoBattleEnd11getNameHashEv"
+
+[header]
+name = "Gorongo__ZNK12_GLOBAL__N_124HostTypeNrvDemoBattleEnd11getNameHashEv"
+addr = 0xe86658
+
+[header.args]

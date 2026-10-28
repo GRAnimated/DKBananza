@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.450142Z
+addr = 0x10ca314
+size = 0x5c
+name = "_ZN18FossilRoomDirectorD1Ev"
+
+[header]
+name = "_ZN18FossilRoomDirectorD1Ev"
+addr = 0x10ca314
+
+[header.args]

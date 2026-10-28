@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:37.779617Z
+addr = 0xf6483c
+size = 0x64
+name = "_ZNK6Flydon18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK6Flydon18getRuntimeTypeInfoEv"
+addr = 0xf6483c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.591775Z
+addr = 0x12946d4
+size = 0x90
+name = "_ZN17PlayerStateDamage7exeDownEv"
+
+[header]
+name = "_ZN17PlayerStateDamage7exeDownEv"
+addr = 0x12946d4
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.882982Z
+addr = 0x16e4ae8
+size = 0x64
+name = "_ZNK14SeesawMapParts18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK14SeesawMapParts18getRuntimeTypeInfoEv"
+addr = 0x16e4ae8
+
+[header.args]

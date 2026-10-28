@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:25.308129Z
+addr = 0xe9e61c
+size = 0x64
+name = "_ZNK28KingKRoolCannonBallGenerator18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK28KingKRoolCannonBallGenerator18getRuntimeTypeInfoEv"
+addr = 0xe9e61c
+
+[header.args]

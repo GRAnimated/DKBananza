@@ -1,16 +1,22 @@
-last_change = 2026-10-26T14:38:56.501732Z
+last_change = 2026-10-28T04:57:35.912870Z
 addr = 0x5aef48
 size = 0x94
 name = "_ZN2al16SaveDataDirectorC2Ej"
 type = "void *"
 
 [header]
-last_change = 2026-10-26T14:38:56.501732Z
 name = "_ZN2al16SaveDataDirectorC2Ej"
 addr = 0x5aef48
 type = "void *"
 
 [header.args.0x0]
 offset = 0x0
+name = "a1"
 type = "al::SaveDataDirector *"
 size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "a2"
+type = "unsigned int"
+size = 0x4

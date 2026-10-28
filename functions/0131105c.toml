@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.625801Z
+addr = 0x131105c
+size = 0xe8
+name = "_ZN23StageSceneStateSnapshot14exeInWipeCloseEv"
+
+[header]
+name = "_ZN23StageSceneStateSnapshot14exeInWipeCloseEv"
+addr = 0x131105c
+
+[header.args]

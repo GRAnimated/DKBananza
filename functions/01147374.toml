@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.487405Z
+addr = 0x1147374
+size = 0x5c
+name = "_ZN8SinkholeD1Ev"
+
+[header]
+name = "_ZN8SinkholeD1Ev"
+addr = 0x1147374
+
+[header.args]

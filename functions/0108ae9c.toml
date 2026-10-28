@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.430343Z
+addr = 0x108ae9c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_134CannonBarrelTargetNrvDemoAppearOut11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_134CannonBarrelTargetNrvDemoAppearOut11getNameHashEv"
+addr = 0x108ae9c
+
+[header.args]

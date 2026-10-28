@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:22.530250Z
+addr = 0xe6dc08
+size = 0x48
+name = "_ZNK12_GLOBAL__N_138BossMimichiStateAttackNrvAttackPitfall7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_138BossMimichiStateAttackNrvAttackPitfall7executeEPN2al11NerveKeeperE"
+addr = 0xe6dc08
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:12.171087Z
+addr = 0x11077dc
+size = 0xdc
+name = "_ZN6Lizard7controlEv"
+
+[header]
+name = "_ZN6Lizard7controlEv"
+addr = 0x11077dc
+
+[header.args]

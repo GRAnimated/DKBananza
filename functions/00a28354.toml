@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.177934Z
+addr = 0xa28354
+size = 0xc
+name = "havok_7100A28354"
+type = "const char *"
+
+[header]
+name = "havok_7100A28354"
+addr = 0xa28354
+type = "const char *"
+
+[header.args]

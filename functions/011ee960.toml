@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.540323Z
+addr = 0x11ee960
+size = 0x3c
+name = "_ZN18Npc2KongTalkerVoid12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN18Npc2KongTalkerVoid12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x11ee960
+
+[header.args]

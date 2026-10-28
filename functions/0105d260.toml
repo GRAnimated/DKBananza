@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:54.735844Z
+addr = 0x105d260
+size = 0x1b4
+name = "_ZN25SyncClockMapPartsDirector4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN25SyncClockMapPartsDirector4initERKN2al13ActorInitInfoE"
+addr = 0x105d260
+
+[header.args]

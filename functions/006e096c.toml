@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.049087Z
+addr = 0x6e096c
+size = 0x38
+name = "_ZN25Npc2VoxelShopChipExchange10endClippedEv"
+
+[header]
+name = "_ZN25Npc2VoxelShopChipExchange10endClippedEv"
+addr = 0x6e096c
+
+[header.args]

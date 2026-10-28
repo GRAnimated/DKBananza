@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.549833Z
+addr = 0x120cb68
+size = 0x50
+name = "_ZN21Npc2VoxelYocchiParent11exeMorphEndEv"
+
+[header]
+name = "_ZN21Npc2VoxelYocchiParent11exeMorphEndEv"
+addr = 0x120cb68
+
+[header.args]

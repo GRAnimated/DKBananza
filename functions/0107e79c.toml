@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.426720Z
+addr = 0x107e79c
+size = 0x3c
+name = "BurgerTower_updateCollider"
+
+[header]
+name = "BurgerTower_updateCollider"
+addr = 0x107e79c
+
+[header.args]

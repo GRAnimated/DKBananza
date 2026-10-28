@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.198686Z
+addr = 0xb1a244
+size = 0xc
+name = "_ZNK20hkMemoryMeshMaterial10getTextureEi"
+type = "long long"
+
+[header]
+name = "_ZNK20hkMemoryMeshMaterial10getTextureEi"
+addr = 0xb1a244
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4

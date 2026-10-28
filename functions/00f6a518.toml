@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:38.011101Z
+addr = 0xf6a518
+size = 0x1e8
+name = "_ZN6Gororo8exeSwoonEv"
+
+[header]
+name = "_ZN6Gororo8exeSwoonEv"
+addr = 0xf6a518
+
+[header.args]

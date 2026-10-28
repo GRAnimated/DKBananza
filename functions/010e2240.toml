@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.457761Z
+addr = 0x10e2240
+size = 0x14
+name = "_ZNK12_GLOBAL__N_121HandSlapSwitchNrvWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_121HandSlapSwitchNrvWait11getNameHashEv"
+addr = 0x10e2240
+
+[header.args]

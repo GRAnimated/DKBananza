@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.832569Z
+addr = 0x166cffc
+size = 0x24
+name = "sub_710166CFFC"
+type = "float"
+
+[header]
+name = "sub_710166CFFC"
+addr = 0x166cffc
+type = "float"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "_OWORD *"
+size = 0x8

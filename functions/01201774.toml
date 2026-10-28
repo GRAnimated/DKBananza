@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.546361Z
+addr = 0x1201774
+size = 0x34
+name = "_ZN25Npc2VoxelShopChipExchange13makeActorDeadEv"
+
+[header]
+name = "_ZN25Npc2VoxelShopChipExchange13makeActorDeadEv"
+addr = 0x1201774
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:56.177593Z
+addr = 0x106e0ec
+size = 0x200
+name = "_ZN11BioFountain4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN11BioFountain4initERKN2al13ActorInitInfoE"
+addr = 0x106e0ec
+
+[header.args]

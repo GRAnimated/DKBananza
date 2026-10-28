@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.521502Z
+addr = 0x11b6a84
+size = 0x5c
+name = "_ZN12WeightSwitch18initAfterPlacementEv"
+
+[header]
+name = "_ZN12WeightSwitch18initAfterPlacementEv"
+addr = 0x11b6a84
+
+[header.args]

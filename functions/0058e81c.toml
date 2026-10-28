@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:42.993450Z
+addr = 0x58e81c
+size = 0x138
+name = "_ZN24Npc2KongTalkerCrankyKong4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN24Npc2KongTalkerCrankyKong4initERKN2al13ActorInitInfoE"
+addr = 0x58e81c
+
+[header.args]

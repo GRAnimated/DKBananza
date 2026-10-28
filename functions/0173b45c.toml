@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.911989Z
+addr = 0x173b45c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_131CameraPoserRailMoveMovieNrvMove11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_131CameraPoserRailMoveMovieNrvMove11getNameHashEv"
+addr = 0x173b45c
+
+[header.args]

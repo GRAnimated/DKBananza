@@ -1,0 +1,33 @@
+last_change = 2026-10-28T04:57:00.593128Z
+name = "al::NerveStateCtrl"
+size = 0x20
+
+[members.0x0]
+name = "__vftable"
+offset = 0x0
+type = "al::HioNode_vtbl *"
+size = 0x8
+
+[members.0x8]
+name = "mMaxStates"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "mStateCount"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "mStates"
+offset = 0x10
+type = "al::NerveStateCtrl::State *"
+size = 0x8
+
+[members.0x18]
+name = "mCurrentState"
+offset = 0x18
+type = "al::NerveStateCtrl::State *"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.486016Z
+addr = 0x1143250
+size = 0x134
+name = "_ZN11RisingStorm7exeWaitEv"
+
+[header]
+name = "_ZN11RisingStorm7exeWaitEv"
+addr = 0x1143250
+
+[header.args]

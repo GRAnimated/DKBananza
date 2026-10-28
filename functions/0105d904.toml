@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:54.774980Z
+addr = 0x105d904
+size = 0x64
+name = "_ZNK25SyncClockMapPartsDirector18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK25SyncClockMapPartsDirector18getRuntimeTypeInfoEv"
+addr = 0x105d904
+
+[header.args]

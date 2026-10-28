@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.264599Z
+addr = 0xe84f9c
+size = 0xc
+name = "_ZN7Gorongo6appearEv"
+
+[header]
+name = "_ZN7Gorongo6appearEv"
+addr = 0xe84f9c
+
+[header.args]

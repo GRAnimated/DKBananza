@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:23.084841Z
+addr = 0xe74b60
+size = 0x264
+name = "sub_7100E74B60"
+
+[header]
+name = "sub_7100E74B60"
+addr = 0xe74b60
+
+[header.args]

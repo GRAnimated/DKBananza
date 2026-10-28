@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.028356Z
+addr = 0x678388
+size = 0x18
+name = "_ZN8ShioShio18initAfterPlacementEv"
+
+[header]
+name = "_ZN8ShioShio18initAfterPlacementEv"
+addr = 0x678388
+
+[header.args]

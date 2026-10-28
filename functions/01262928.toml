@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.573573Z
+addr = 0x1262928
+size = 0x14
+name = "_ZNK12_GLOBAL__N_120PlayerGorillaNrvSwim11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_120PlayerGorillaNrvSwim11getNameHashEv"
+addr = 0x1262928
+
+[header.args]

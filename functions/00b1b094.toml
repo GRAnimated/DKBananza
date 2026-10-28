@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.199114Z
+addr = 0xb1b094
+size = 0x8
+name = "_ZN19hkMemoryMeshTexture11setFilenameEPKc"
+type = "long long"
+
+[header]
+name = "_ZN19hkMemoryMeshTexture11setFilenameEPKc"
+addr = 0xb1b094
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

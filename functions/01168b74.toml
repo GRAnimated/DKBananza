@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:21.519236Z
+addr = 0x1168b74
+size = 0xa4
+name = "_ZN11StoneStatue10exeFitWaitEv"
+
+[header]
+name = "_ZN11StoneStatue10exeFitWaitEv"
+addr = 0x1168b74
+
+[header.args]

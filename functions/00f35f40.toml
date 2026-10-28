@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:58:34.758627Z
+addr = 0xf35f40
+size = 0x304
+name = "sub_7100F35F40"
+type = "long long"
+
+[header]
+name = "sub_7100F35F40"
+addr = 0xf35f40
+type = "long long"
+
+[header.args]

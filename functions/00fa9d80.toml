@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:41.877642Z
+addr = 0xfa9d80
+size = 0x368
+name = "_ZN4Zain10exeRecoverEv"
+
+[header]
+name = "_ZN4Zain10exeRecoverEv"
+addr = 0xfa9d80
+
+[header.args]

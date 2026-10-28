@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.269712Z
+addr = 0xe965ac
+size = 0x3c
+name = "_ZN9KingKRool7controlEv"
+
+[header]
+name = "_ZN9KingKRool7controlEv"
+addr = 0xe965ac
+
+[header.args]

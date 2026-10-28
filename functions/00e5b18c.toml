@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.249947Z
+addr = 0xe5b18c
+size = 0x54
+name = "UnknownHost_710223AE50_exeFarWaitTooHurry"
+type = "long long"
+
+[header]
+name = "UnknownHost_710223AE50_exeFarWaitTooHurry"
+addr = 0xe5b18c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

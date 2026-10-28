@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.419314Z
+addr = 0x106933c
+size = 0x14
+name = "Barrier__ZNK12_GLOBAL__N_115HostTypeNrvVoid11getNameHashEv"
+
+[header]
+name = "Barrier__ZNK12_GLOBAL__N_115HostTypeNrvVoid11getNameHashEv"
+addr = 0x106933c
+
+[header.args]

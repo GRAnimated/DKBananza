@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:42.489447Z
+addr = 0x3b56cc
+size = 0x8
+name = "sub_71003B56CC"
+type = "long long"
+
+[header]
+name = "sub_71003B56CC"
+addr = 0x3b56cc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "unsigned long long"
+size = 0x8

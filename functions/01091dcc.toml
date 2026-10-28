@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.432928Z
+addr = 0x1091dcc
+size = 0x8
+name = "_ZNK12_GLOBAL__N_117ClimbRopeNrvClimb7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_117ClimbRopeNrvClimb7executeEPN2al11NerveKeeperE"
+addr = 0x1091dcc
+
+[header.args]

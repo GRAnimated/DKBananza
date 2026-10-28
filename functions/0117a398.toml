@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.503676Z
+addr = 0x117a398
+size = 0x4
+name = "_ZNK18SyncSwitchDirector27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK18SyncSwitchDirector27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x117a398
+
+[header.args]

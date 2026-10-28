@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:42.433309Z
+addr = 0x184c04
+size = 0xc4
+name = "_ZN4sead18GameFrameworkOunce11swapBuffer_Ev"
+type = "void"
+
+[header]
+name = "_ZN4sead18GameFrameworkOunce11swapBuffer_Ev"
+addr = 0x184c04
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "sead::GameFrameworkOunce *"
+size = 0x8

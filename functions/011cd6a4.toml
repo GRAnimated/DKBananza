@@ -1,12 +1,16 @@
-last_change = 2026-10-26T00:37:09.990307Z
+last_change = 2026-10-28T04:56:43.527949Z
 addr = 0x11cd6a4
 size = 0x4
-name = "j__ZdlPv_1106"
+name = "_ZN24Npc2AnimalTalkerElephantD0Ev"
 type = "void"
 
 [header]
-name = "j__ZdlPv_1106"
+name = "_ZN24Npc2AnimalTalkerElephantD0Ev"
 addr = 0x11cd6a4
 type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "void *"
+size = 0x8

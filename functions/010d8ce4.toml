@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.987683Z
+last_change = 2026-10-28T04:56:43.454580Z
 addr = 0x10d8ce4
 size = 0x4
-name = "nullsub_1677"
+name = "_ZN21FruitSwitchExtraLarge18initAfterPlacementEv"
 
 [header]
-name = "nullsub_1677"
+name = "_ZN21FruitSwitchExtraLarge18initAfterPlacementEv"
 addr = 0x10d8ce4
 
 [header.args]

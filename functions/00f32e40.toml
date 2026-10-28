@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.321722Z
+addr = 0xf32e40
+size = 0x5c
+name = "_ZN18TitleLogoDemoActorD1Ev"
+
+[header]
+name = "_ZN18TitleLogoDemoActorD1Ev"
+addr = 0xf32e40
+
+[header.args]

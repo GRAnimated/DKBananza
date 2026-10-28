@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:57:32.745733Z
+addr = 0x4ab3dc
+size = 0xad2c
+name = "sub_71004AB3DC"
+type = "long long"
+
+[header]
+name = "sub_71004AB3DC"
+addr = 0x4ab3dc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "_OWORD *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "unsigned int *"
+size = 0x8

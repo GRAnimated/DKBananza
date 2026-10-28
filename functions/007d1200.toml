@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:57:44.374777Z
+addr = 0x7d1200
+size = 0x44
+name = "sub_71007D1200"
+type = "long long"
+
+[header]
+name = "sub_71007D1200"
+addr = 0x7d1200
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "void *"
+size = 0x8

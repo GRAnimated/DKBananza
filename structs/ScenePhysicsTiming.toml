@@ -1,0 +1,21 @@
+last_change = 2026-10-28T04:57:00.605898Z
+name = "ScenePhysicsTiming"
+size = 0xc
+
+[members.0x0]
+name = "field_00"
+offset = 0x0
+type = "float"
+size = 0x4
+
+[members.0x4]
+name = "field_04"
+offset = 0x4
+type = "float"
+size = 0x4
+
+[members.0x8]
+name = "field_08"
+offset = 0x8
+type = "float"
+size = 0x4

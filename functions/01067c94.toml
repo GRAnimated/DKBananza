@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.418508Z
+addr = 0x1067c94
+size = 0x8
+name = "_ZNK12_GLOBAL__N_121BanaRootNrvComboBreak7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_121BanaRootNrvComboBreak7executeEPN2al11NerveKeeperE"
+addr = 0x1067c94
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.360373Z
+addr = 0xfad0ec
+size = 0x14
+name = "_ZNK12_GLOBAL__N_114ZainCartNrvFix11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_114ZainCartNrvFix11getNameHashEv"
+addr = 0xfad0ec
+
+[header.args]

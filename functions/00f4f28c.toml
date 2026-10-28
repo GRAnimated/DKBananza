@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.984325Z
+last_change = 2026-10-28T04:56:43.330272Z
 addr = 0xf4f28c
 size = 0x4
-name = "nullsub_1475"
+name = "_ZN7Dangoro18initAfterPlacementEv"
 
 [header]
-name = "nullsub_1475"
+name = "_ZN7Dangoro18initAfterPlacementEv"
 addr = 0xf4f28c
 
 [header.args]

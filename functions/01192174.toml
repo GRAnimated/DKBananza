@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.510303Z
+addr = 0x1192174
+size = 0x20c
+name = "_ZN28TowerLevelBackgroundDirector19exeChangePhaseFinalEv"
+type = "unsigned long long"
+
+[header]
+name = "_ZN28TowerLevelBackgroundDirector19exeChangePhaseFinalEv"
+addr = 0x1192174
+type = "unsigned long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "TowerLevelBackgroundDirector *"
+size = 0x8

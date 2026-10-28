@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.332125Z
+addr = 0xf56f08
+size = 0x14
+name = "_ZNK12_GLOBAL__N_119DebrischanNrvSearch11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_119DebrischanNrvSearch11getNameHashEv"
+addr = 0xf56f08
+
+[header.args]

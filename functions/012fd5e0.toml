@@ -1,11 +1,22 @@
-last_change = 2026-10-26T16:58:36.767677Z
+last_change = 2026-10-28T04:56:43.619238Z
 addr = 0x12fd5e0
 size = 0xe38
 name = "_ZN14StaffRollScene4initERKN2al13SceneInitInfoE"
+type = "void"
 
 [header]
-last_change = 2026-10-26T16:58:36.767677Z
 name = "_ZN14StaffRollScene4initERKN2al13SceneInitInfoE"
 addr = 0x12fd5e0
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "StaffRollScene *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "info"
+type = "const al::SceneInitInfo *"
+size = 0x8

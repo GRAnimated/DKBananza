@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:42.996668Z
+addr = 0x5acfac
+size = 0x84
+name = "sub_71005ACFAC"
+type = "long long"
+
+[header]
+name = "sub_71005ACFAC"
+addr = 0x5acfac
+type = "long long"
+
+[header.args]

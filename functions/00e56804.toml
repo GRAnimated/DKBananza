@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:21.184311Z
+addr = 0xe56804
+size = 0xb0
+name = "_ZN8BioThorn9exeBattleEv"
+
+[header]
+name = "_ZN8BioThorn9exeBattleEv"
+addr = 0xe56804
+
+[header.args]

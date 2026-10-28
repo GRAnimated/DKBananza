@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.083489Z
+addr = 0x7b231c
+size = 0x8c
+name = "_ZN24Npc2AnimalTalkerElephant8calcAnimEv"
+
+[header]
+name = "_ZN24Npc2AnimalTalkerElephant8calcAnimEv"
+addr = 0x7b231c
+
+[header.args]

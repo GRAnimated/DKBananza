@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.341887Z
+addr = 0xf78d38
+size = 0x14
+name = "_ZNK12_GLOBAL__N_121HopperNrvAttackCancel11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_121HopperNrvAttackCancel11getNameHashEv"
+addr = 0xf78d38
+
+[header.args]

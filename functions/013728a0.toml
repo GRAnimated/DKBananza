@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.671794Z
+addr = 0x13728a0
+size = 0x384
+name = "_ZN31VoxelKeyMoveMapPartsConnectable4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN31VoxelKeyMoveMapPartsConnectable4initERKN2al13ActorInitInfoE"
+addr = 0x13728a0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.589789Z
+addr = 0x128fb64
+size = 0x8
+name = "_ZNK12_GLOBAL__N_131PlayerStateClimbPoleNrvWaitLeft7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_131PlayerStateClimbPoleNrvWaitLeft7executeEPN2al11NerveKeeperE"
+addr = 0x128fb64
+
+[header.args]

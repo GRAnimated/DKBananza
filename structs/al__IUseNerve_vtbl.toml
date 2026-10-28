@@ -1,0 +1,33 @@
+last_change = 2026-10-28T04:57:00.608264Z
+name = "al::IUseNerve_vtbl"
+size = 0x28
+
+[members.0x0]
+name = "field_0"
+offset = 0x0
+type = "void *"
+size = 0x8
+
+[members.0x8]
+name = "field_8"
+offset = 0x8
+type = "void *"
+size = 0x8
+
+[members.0x10]
+name = "field_10"
+offset = 0x10
+type = "void *"
+size = 0x8
+
+[members.0x18]
+name = "field_18"
+offset = 0x18
+type = "void *"
+size = 0x8
+
+[members.0x20]
+name = "getNerveKeeper"
+offset = 0x20
+type = "al::NerveKeeper *(__fastcall *)(const al::IUseNerve *self)"
+size = 0x8

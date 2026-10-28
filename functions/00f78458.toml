@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:38.779949Z
+addr = 0xf78458
+size = 0x64
+name = "_ZNK6Hopper18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK6Hopper18getRuntimeTypeInfoEv"
+addr = 0xf78458
+
+[header.args]

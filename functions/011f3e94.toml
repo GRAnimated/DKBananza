@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.542097Z
+addr = 0x11f3e94
+size = 0x34
+name = "_ZN15Npc2VoxelAmiibo8calcAnimEv"
+
+[header]
+name = "_ZN15Npc2VoxelAmiibo8calcAnimEv"
+addr = 0x11f3e94
+
+[header.args]

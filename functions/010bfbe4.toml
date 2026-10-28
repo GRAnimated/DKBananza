@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:04.644400Z
+addr = 0x10bfbe4
+size = 0x64
+name = "_ZNK18ExtraLargeFruitObj18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK18ExtraLargeFruitObj18getRuntimeTypeInfoEv"
+addr = 0x10bfbe4
+
+[header.args]

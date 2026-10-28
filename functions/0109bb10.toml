@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.436497Z
+addr = 0x109bb10
+size = 0x94
+name = "_ZN11CrackGround8exeCrackEv"
+
+[header]
+name = "_ZN11CrackGround8exeCrackEv"
+addr = 0x109bb10
+
+[header.args]

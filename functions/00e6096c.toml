@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.251955Z
+addr = 0xe6096c
+size = 0x4
+name = "_ZNK2al14ActorStateBase27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+type = "long long"
+
+[header]
+name = "_ZNK2al14ActorStateBase27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0xe6096c
+type = "long long"
+
+[header.args]

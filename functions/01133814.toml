@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:16.642462Z
+addr = 0x1133814
+size = 0x614
+name = "_ZN10PullOutObj10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN10PullOutObj10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x1133814
+
+[header.args]

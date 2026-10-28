@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:58:29.380033Z
+addr = 0xed865c
+size = 0x68
+name = "sub_7100ED865C"
+type = "long long *"
+
+[header]
+name = "sub_7100ED865C"
+addr = 0xed865c
+type = "long long *"
+
+[header.args]

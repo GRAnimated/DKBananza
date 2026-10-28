@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:09.982180Z
+last_change = 2026-10-28T04:58:22.080370Z
 addr = 0xe678b4
 size = 0xf8
 name = "_ZN11BossMimichiC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN11BossMimichiC2EPKc"
 addr = 0xe678b4
 type = "unsigned long long *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

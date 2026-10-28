@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.448989Z
+addr = 0x10c66ec
+size = 0x1c4
+name = "_ZN10FlyUnitFix18initAfterPlacementEv"
+
+[header]
+name = "_ZN10FlyUnitFix18initAfterPlacementEv"
+addr = 0x10c66ec
+
+[header.args]

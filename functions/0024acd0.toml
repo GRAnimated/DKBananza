@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:57:28.698686Z
+addr = 0x24acd0
+size = 0x1d8
+name = "sub_710024ACD0"
+type = "long long"
+
+[header]
+name = "sub_710024ACD0"
+addr = 0x24acd0
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "const char **"
+size = 0x8

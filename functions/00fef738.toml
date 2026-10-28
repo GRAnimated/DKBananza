@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.380827Z
+addr = 0xfef738
+size = 0x14
+name = "_ZNK12_GLOBAL__N_116StateNrvVoidWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_116StateNrvVoidWait11getNameHashEv"
+addr = 0xfef738
+
+[header.args]

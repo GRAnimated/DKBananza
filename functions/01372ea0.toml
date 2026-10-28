@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.671834Z
+addr = 0x1372ea0
+size = 0x3c
+name = "VoxelKeyMoveMapPartsConnectable_updateCollider"
+
+[header]
+name = "VoxelKeyMoveMapPartsConnectable_updateCollider"
+addr = 0x1372ea0
+
+[header.args]

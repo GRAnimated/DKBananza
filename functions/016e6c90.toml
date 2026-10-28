@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:10.005848Z
+last_change = 2026-10-28T04:56:43.883794Z
 addr = 0x16e6c90
 size = 0xd4
 name = "_ZN12SurfMapPartsC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN12SurfMapPartsC2EPKc"
 addr = 0x16e6c90
 type = "unsigned long long *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

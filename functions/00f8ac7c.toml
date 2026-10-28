@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:40.007576Z
+addr = 0xf8ac7c
+size = 0x1b4
+name = "_ZN8MiniShio8movementEv"
+
+[header]
+name = "_ZN8MiniShio8movementEv"
+addr = 0xf8ac7c
+
+[header.args]

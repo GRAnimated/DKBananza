@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.905374Z
+addr = 0x1726b98
+size = 0x5c
+name = "_ZN13ModelOceanObjD1Ev"
+
+[header]
+name = "_ZN13ModelOceanObjD1Ev"
+addr = 0x1726b98
+
+[header.args]

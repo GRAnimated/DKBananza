@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:38.225307Z
+addr = 0xf6cf50
+size = 0xe0
+name = "_ZN4Gush7exeRiseEv"
+
+[header]
+name = "_ZN4Gush7exeRiseEv"
+addr = 0xf6cf50
+
+[header.args]

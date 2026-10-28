@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.497161Z
+addr = 0x1167edc
+size = 0x5c
+name = "_ZN11StoneStatue18initAfterPlacementEv"
+
+[header]
+name = "_ZN11StoneStatue18initAfterPlacementEv"
+addr = 0x1167edc
+
+[header.args]

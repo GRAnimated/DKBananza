@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.556160Z
+addr = 0x1221528
+size = 0x174
+name = "_ZN11TadoruyaNpc7exeTurnEv"
+
+[header]
+name = "_ZN11TadoruyaNpc7exeTurnEv"
+addr = 0x1221528
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.461551Z
+addr = 0x10edec0
+size = 0x8
+name = "IceMaker__ZNK12_GLOBAL__N_123HostTypeNrvReactionWait7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "IceMaker__ZNK12_GLOBAL__N_123HostTypeNrvReactionWait7executeEPN2al11NerveKeeperE"
+addr = 0x10edec0
+
+[header.args]

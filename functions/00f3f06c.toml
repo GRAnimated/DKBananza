@@ -1,12 +1,16 @@
-last_change = 2026-10-26T00:37:09.984154Z
+last_change = 2026-10-28T04:56:43.325746Z
 addr = 0xf3f06c
 size = 0x4
-name = "j_al_LiveActor_kill_4"
-type = "long long"
+name = "_ZN28ReactBreakObjLightAttenuator4killEv"
+type = "void"
 
 [header]
-name = "j_al_LiveActor_kill_4"
+name = "_ZN28ReactBreakObjLightAttenuator4killEv"
 addr = 0xf3f06c
-type = "long long"
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::LiveActor *"
+size = 0x8

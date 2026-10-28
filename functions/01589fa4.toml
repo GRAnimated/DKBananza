@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.779571Z
+addr = 0x1589fa4
+size = 0x68
+name = "sub_7101589FA4"
+type = "long long"
+
+[header]
+name = "sub_7101589FA4"
+addr = 0x1589fa4
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "unsigned long long"
+size = 0x8

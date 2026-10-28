@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.857286Z
+addr = 0x16ae690
+size = 0x4c
+name = "_ZThn64_N2al11LayoutActorD1Ev"
+type = "unsigned long long *"
+
+[header]
+name = "_ZThn64_N2al11LayoutActorD1Ev"
+addr = 0x16ae690
+type = "unsigned long long *"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "unsigned long long *"
+size = 0x8

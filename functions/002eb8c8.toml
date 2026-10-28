@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:29.714851Z
+addr = 0x2eb8c8
+size = 0x348
+name = "sub_71002EB8C8"
+type = "long long"
+
+[header]
+name = "sub_71002EB8C8"
+addr = 0x2eb8c8
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x1]
+offset = 0x1
+name = "s1"
+type = "char *"
+size = 0x8

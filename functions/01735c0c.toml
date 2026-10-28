@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.910278Z
+addr = 0x1735c0c
+size = 0x8
+name = "_ZNK12_GLOBAL__N_137CameraAngleVerticalCtrlNrvSnapPrepare7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_137CameraAngleVerticalCtrlNrvSnapPrepare7executeEPN2al11NerveKeeperE"
+addr = 0x1735c0c
+
+[header.args]

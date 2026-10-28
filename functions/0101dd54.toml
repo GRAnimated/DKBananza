@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:50.335675Z
+addr = 0x101dd54
+size = 0x5c
+name = "_ZN14FakeCreditLogo6exeEndEv"
+
+[header]
+name = "_ZN14FakeCreditLogo6exeEndEv"
+addr = 0x101dd54
+
+[header.args]

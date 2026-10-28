@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:11.298578Z
+addr = 0x10ffb70
+size = 0x64
+name = "_ZNK10LaunchRope18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK10LaunchRope18getRuntimeTypeInfoEv"
+addr = 0x10ffb70
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.530762Z
+addr = 0x11d744c
+size = 0x4
+name = "_ZN12Npc2Banaroot6appearEv"
+
+[header]
+name = "_ZN12Npc2Banaroot6appearEv"
+addr = 0x11d744c
+
+[header.args]

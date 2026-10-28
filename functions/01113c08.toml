@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:13.360223Z
+addr = 0x1113c08
+size = 0x944
+name = "_ZN8Minecart10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN8Minecart10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x1113c08
+
+[header.args]

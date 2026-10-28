@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.501806Z
+addr = 0x1175478
+size = 0x48
+name = "_ZN14SwitchMaterial7controlEv"
+
+[header]
+name = "_ZN14SwitchMaterial7controlEv"
+addr = 0x1175478
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:05.362523Z
+addr = 0x10c4764
+size = 0x64
+name = "_ZNK15FloatingDisplay18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK15FloatingDisplay18getRuntimeTypeInfoEv"
+addr = 0x10c4764
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.447713Z
+addr = 0x10c2b2c
+size = 0x8
+name = "_ZN11FerrisWheel10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN11FerrisWheel10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x10c2b2c
+
+[header.args]

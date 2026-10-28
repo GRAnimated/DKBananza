@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.401002Z
+addr = 0x1029350
+size = 0x14
+name = "_ZNK12_GLOBAL__N_114ItemShopNrvBuy11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_114ItemShopNrvBuy11getNameHashEv"
+addr = 0x1029350
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.803795Z
+addr = 0x1606f3c
+size = 0x4
+name = "_ZN5phive12WorldBackEndD0Ev"
+type = "void"
+
+[header]
+name = "_ZN5phive12WorldBackEndD0Ev"
+addr = 0x1606f3c
+type = "void"
+
+[header.args]

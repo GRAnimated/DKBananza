@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:56:43.202946Z
+addr = 0xb3d960
+size = 0x12a4
+name = "havok_7100B3D960"
+type = "long long"
+
+[header]
+name = "havok_7100B3D960"
+addr = 0xb3d960
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "long long"
+size = 0x8

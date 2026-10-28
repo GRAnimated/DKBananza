@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.497499Z
+addr = 0x1169dec
+size = 0x8
+name = "_ZNK12_GLOBAL__N_123StoneStatueNrvStateTalk7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_123StoneStatueNrvStateTalk7executeEPN2al11NerveKeeperE"
+addr = 0x1169dec
+
+[header.args]

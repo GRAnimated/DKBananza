@@ -1,0 +1,82 @@
+last_change = 2026-10-28T04:58:37.826386Z
+addr = 0xf65b48
+size = 0x5a0
+name = "sub_7100F65B48"
+type = "bool"
+
+[header]
+name = "sub_7100F65B48"
+addr = 0xf65b48
+type = "bool"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "char"
+size = 0x1
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "char"
+size = 0x1
+
+[header.args.0x4]
+offset = 0x4
+name = ""
+type = "char"
+size = 0x1
+
+[header.args.0x5]
+offset = 0x5
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x6]
+offset = 0x6
+name = ""
+type = "char"
+size = 0x1
+
+[header.args.0x7]
+offset = 0x7
+name = ""
+type = "float"
+size = 0x4
+
+[header.args.0x8]
+offset = 0x8
+name = ""
+type = "float"
+size = 0x4
+
+[header.args.0x9]
+offset = 0x9
+name = ""
+type = "float"
+size = 0x4
+
+[header.args.0xa]
+offset = 0xa
+name = ""
+type = "float"
+size = 0x4
+
+[header.args.0xb]
+offset = 0xb
+name = ""
+type = "float"
+size = 0x4

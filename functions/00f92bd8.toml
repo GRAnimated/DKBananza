@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:40.651578Z
+addr = 0xf92bd8
+size = 0x120
+name = "_ZN7RockBee7exeWaitEv"
+type = "long long"
+
+[header]
+name = "_ZN7RockBee7exeWaitEv"
+addr = 0xf92bd8
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

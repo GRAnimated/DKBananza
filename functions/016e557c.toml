@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.883245Z
+addr = 0x16e557c
+size = 0x5c
+name = "_ZN17ShadowFixMapPartsD1Ev"
+
+[header]
+name = "_ZN17ShadowFixMapPartsD1Ev"
+addr = 0x16e557c
+
+[header.args]

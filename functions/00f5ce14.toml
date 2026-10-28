@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:37.223025Z
+addr = 0xf5ce14
+size = 0x1d8
+name = "_ZN11DonZainCore8calcAnimEv"
+
+[header]
+name = "_ZN11DonZainCore8calcAnimEv"
+addr = 0xf5ce14
+
+[header.args]

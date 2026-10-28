@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:42.998416Z
+addr = 0x5afdc4
+size = 0xe4
+name = "sub_71005AFDC4"
+type = "long long"
+
+[header]
+name = "sub_71005AFDC4"
+addr = 0x5afdc4
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int *"
+size = 0x8

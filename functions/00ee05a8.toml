@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.294984Z
+addr = 0xee05a8
+size = 0x4
+name = "_ZNK8ShioShio27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK8ShioShio27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0xee05a8
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.523139Z
+addr = 0x11bc7c0
+size = 0x34
+name = "_ZN7ZipLine6appearEv"
+
+[header]
+name = "_ZN7ZipLine6appearEv"
+addr = 0x11bc7c0
+
+[header.args]

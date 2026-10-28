@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:23.543160Z
+addr = 0xe7ccfc
+size = 0x12c
+name = "UnknownHost_7102267738_exeAttackStartFirst"
+type = "long long"
+
+[header]
+name = "UnknownHost_7102267738_exeAttackStartFirst"
+addr = 0xe7ccfc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

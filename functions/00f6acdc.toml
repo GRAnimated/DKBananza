@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:38.039427Z
+addr = 0xf6acdc
+size = 0x74
+name = "_ZN6Gororo9exeAppearEv"
+
+[header]
+name = "_ZN6Gororo9exeAppearEv"
+addr = 0xf6acdc
+
+[header.args]

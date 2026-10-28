@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.382474Z
+addr = 0xff5090
+size = 0x14
+name = "_ZNK12_GLOBAL__N_132KeyItemNrvWaitEndCameraInterpole11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_132KeyItemNrvWaitEndCameraInterpole11getNameHashEv"
+addr = 0xff5090
+
+[header.args]

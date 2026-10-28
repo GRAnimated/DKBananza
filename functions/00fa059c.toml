@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.357104Z
+addr = 0xfa059c
+size = 0x4
+name = "_ZNK14UeyowaidaLaser27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK14UeyowaidaLaser27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0xfa059c
+
+[header.args]

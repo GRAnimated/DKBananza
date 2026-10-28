@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:22.165067Z
+addr = 0xe68828
+size = 0xbc
+name = "_ZN11BossMimichi13exeDemoAppearEv"
+
+[header]
+name = "_ZN11BossMimichi13exeDemoAppearEv"
+addr = 0xe68828
+
+[header.args]

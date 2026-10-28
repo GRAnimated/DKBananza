@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:10.005663Z
+last_change = 2026-10-28T04:56:43.878907Z
 addr = 0x16d95f0
 size = 0x4
-name = "nullsub_3551"
+name = "_ZN13ClockMapParts7controlEv"
 
 [header]
-name = "nullsub_3551"
+name = "_ZN13ClockMapParts7controlEv"
 addr = 0x16d95f0
 
 [header.args]

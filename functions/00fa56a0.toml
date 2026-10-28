@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:41.702787Z
+addr = 0xfa56a0
+size = 0x100
+name = "_ZN4Zain6appearEv"
+
+[header]
+name = "_ZN4Zain6appearEv"
+addr = 0xfa56a0
+
+[header.args]

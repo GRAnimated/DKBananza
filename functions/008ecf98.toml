@@ -1,10 +1,12 @@
-last_change = 2026-10-26T00:37:09.979278Z
+last_change = 2026-10-28T04:56:43.130321Z
 addr = 0x8ecf98
 size = 0x4
 name = "j_nullsub_844_12"
+type = "void"
 
 [header]
 name = "j_nullsub_844_12"
 addr = 0x8ecf98
+type = "void"
 
 [header.args]

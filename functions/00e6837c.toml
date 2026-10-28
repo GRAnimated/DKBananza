@@ -1,12 +1,16 @@
-last_change = 2026-10-26T00:37:09.982184Z
+last_change = 2026-10-28T04:56:43.254672Z
 addr = 0xe6837c
 size = 0x4
-name = "j_al_LiveActor_kill_1"
-type = "long long"
+name = "_ZN11BossMimichi4killEv"
+type = "void"
 
 [header]
-name = "j_al_LiveActor_kill_1"
+name = "_ZN11BossMimichi4killEv"
 addr = 0xe6837c
-type = "long long"
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::LiveActor *"
+size = 0x8

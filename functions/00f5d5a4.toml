@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:37.270217Z
+addr = 0xf5d5a4
+size = 0x74
+name = "_ZN11DonZainCore15exeReAttackSignEv"
+type = "long long"
+
+[header]
+name = "_ZN11DonZainCore15exeReAttackSignEv"
+addr = 0xf5d5a4
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

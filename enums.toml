@@ -10,6 +10,10 @@ name = "$BDF88968CAE1EA74E42809B9AE857E7C"
 last_change = 2026-10-26T00:47:00.399545Z
 name = "_Unwind_Reason_Code"
 
+["sead::Framework::ProcessPriority"]
+last_change = 2026-10-28T04:57:00.582474Z
+name = "sead::Framework::ProcessPriority"
+
 [memory_order.members]
 memory_order_relaxed = 0x0
 memory_order_consume = 0x1
@@ -39,3 +43,9 @@ _URC_END_OF_STACK = 0x5
 _URC_HANDLER_FOUND = 0x6
 _URC_INSTALL_CONTEXT = 0x7
 _URC_CONTINUE_UNWIND = 0x8
+
+["sead::Framework::ProcessPriority".members]
+cProcessPriority_Idle = 0x0
+cProcessPriority_Normal = 0x1
+cProcessPriority_High = 0x2
+cProcessPriority_RealTime = 0x3

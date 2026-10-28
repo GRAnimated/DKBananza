@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.251297Z
+addr = 0xe5e60c
+size = 0x4
+name = "_ZNK13BioThornRoute27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK13BioThornRoute27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0xe5e60c
+
+[header.args]

@@ -1,0 +1,52 @@
+last_change = 2026-10-28T04:57:36.980770Z
+addr = 0x5ff948
+size = 0x184
+name = "SequenceStateStage_ctor"
+type = "long long"
+
+[header]
+name = "SequenceStateStage_ctor"
+addr = 0x5ff948
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "SequenceStateStage *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "sequence"
+type = "ProductSequence *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = "a3"
+type = "long long"
+size = 0x8
+
+[header.args.0x3]
+offset = 0x3
+name = "a4"
+type = "long long"
+size = 0x8
+
+[header.args.0x4]
+offset = 0x4
+name = "a5"
+type = "long long"
+size = 0x8
+
+[header.args.0x5]
+offset = 0x5
+name = "a6"
+type = "long long"
+size = 0x8
+
+[header.args.0x6]
+offset = 0x6
+name = "layoutInfo"
+type = "const SequenceLayoutInfo *"
+size = 0x8

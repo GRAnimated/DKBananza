@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.458927Z
+addr = 0x10e6da0
+size = 0xc4
+name = "_ZN18HeightChangeBridge18initAfterPlacementEv"
+
+[header]
+name = "_ZN18HeightChangeBridge18initAfterPlacementEv"
+addr = 0x10e6da0
+
+[header.args]

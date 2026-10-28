@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.974061Z
+addr = 0x184cefc
+size = 0xa0
+name = "sub_710184CEFC"
+
+[header]
+name = "sub_710184CEFC"
+addr = 0x184cefc
+
+[header.args]

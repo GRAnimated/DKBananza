@@ -1,11 +1,22 @@
-last_change = 2026-10-25T23:11:42.660226Z
+last_change = 2026-10-28T04:56:43.233096Z
 addr = 0xe29174
 size = 0x4
-name = "sub_7100E29174"
+name = "_ZNK2al9LiveActor27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+type = "void *"
 
 [header]
-last_change = 2026-10-25T23:11:42.660226Z
-name = "sub_7100E29174"
+name = "_ZNK2al9LiveActor27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
 addr = 0xe29174
+type = "void *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "const al::LiveActor *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "typeInfo"
+type = "const sead::RuntimeTypeInfo::Interface *"
+size = 0x8

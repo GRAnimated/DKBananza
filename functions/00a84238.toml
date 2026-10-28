@@ -1,10 +1,12 @@
-last_change = 2026-10-26T00:37:09.980318Z
+last_change = 2026-10-28T04:56:43.183717Z
 addr = 0xa84238
 size = 0x4
-name = "nullsub_1006"
+name = "_ZN12hknpModifier23modifyMotionIntegrationERK27hknpSimulationThreadContext12hknpMotionIdR10hknpMotionRNS_8VelocityE"
+type = "void"
 
 [header]
-name = "nullsub_1006"
+name = "_ZN12hknpModifier23modifyMotionIntegrationERK27hknpSimulationThreadContext12hknpMotionIdR10hknpMotionRNS_8VelocityE"
 addr = 0xa84238
+type = "void"
 
 [header.args]

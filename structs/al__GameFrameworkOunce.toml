@@ -1,0 +1,27 @@
+last_change = 2026-10-28T04:57:00.587235Z
+name = "al::GameFrameworkOunce"
+size = 0x220
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "sead::GameFrameworkOunce"
+size = 0x208
+
+[members.0x208]
+name = ""
+offset = 0x208
+type = "al::HioNode"
+size = 0x8
+
+[members.0x210]
+name = "field_210"
+offset = 0x210
+type = "void *"
+size = 0x8
+
+[members.0x218]
+name = "field_218"
+offset = 0x218
+type = "void *"
+size = 0x8

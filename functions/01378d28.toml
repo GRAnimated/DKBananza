@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.673634Z
+addr = 0x1378d28
+size = 0x40
+name = "_ZN14VoxelMoneyRail18initAfterPlacementEv"
+
+[header]
+name = "_ZN14VoxelMoneyRail18initAfterPlacementEv"
+addr = 0x1378d28
+
+[header.args]

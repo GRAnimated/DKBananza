@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.185889Z
+addr = 0xa978bc
+size = 0xc
+name = "havok_7100A978BC"
+type = "void"
+
+[header]
+name = "havok_7100A978BC"
+addr = 0xa978bc
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

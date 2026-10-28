@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.070149Z
+addr = 0x772b90
+size = 0xd4
+name = "_ZN27Npc2AnimalTalkerMonkeyMiner12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN27Npc2AnimalTalkerMonkeyMiner12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x772b90
+
+[header.args]

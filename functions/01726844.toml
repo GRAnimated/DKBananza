@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.905349Z
+addr = 0x1726844
+size = 0x7c
+name = "_ZN13ModelOceanObj4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN13ModelOceanObj4initERKN2al13ActorInitInfoE"
+addr = 0x1726844
+
+[header.args]

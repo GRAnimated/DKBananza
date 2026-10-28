@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.591843Z
+addr = 0x129495c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_124PlayerStateDamageNrvBlow11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_124PlayerStateDamageNrvBlow11getNameHashEv"
+addr = 0x129495c
+
+[header.args]

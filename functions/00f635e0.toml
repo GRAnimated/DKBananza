@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:37.676042Z
+addr = 0xf635e0
+size = 0xf8
+name = "_ZN6Flydon12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN6Flydon12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xf635e0
+
+[header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-10-26T00:37:09.985825Z
+last_change = 2026-10-28T04:56:43.393010Z
 addr = 0x1014320
 size = 0x4
 name = "nullsub_1574"
+type = "void"
 
 [header]
 name = "nullsub_1574"
 addr = 0x1014320
+type = "void"
 
 [header.args]

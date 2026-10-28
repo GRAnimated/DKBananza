@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:39.057022Z
+addr = 0xf7ce14
+size = 0x50
+name = "_ZN7Kageski6appearEv"
+
+[header]
+name = "_ZN7Kageski6appearEv"
+addr = 0xf7ce14
+
+[header.args]

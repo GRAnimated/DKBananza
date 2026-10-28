@@ -1,14 +1,154 @@
-last_change = 2026-10-26T14:28:49.200678Z
+last_change = 2026-10-28T04:57:35.903426Z
 addr = 0x5ad430
 size = 0x5bc
+name = "_ZN11Application4initEiPPc"
 type = "void"
 
 [header]
-last_change = 2026-10-26T14:28:49.200678Z
+name = "_ZN11Application4initEiPPc"
 addr = 0x5ad430
 type = "void"
 
+[stack_vars.-0x218]
+offset = -536
+name = "v42"
+type = "const char *"
+size = 0x8
+addr = 0x5ad430
+
+[stack_vars.-0x210]
+offset = -528
+name = "v43"
+type = "const char *"
+size = 0x8
+addr = 0x5ad430
+
+[stack_vars.-0x208]
+offset = -520
+name = "v44"
+type = "short"
+size = 0x2
+addr = 0x5ad430
+
+[stack_vars.-0x206]
+offset = -518
+name = "v45"
+type = "char"
+size = 0x1
+addr = 0x5ad430
+
+[stack_vars.-0x200]
+offset = -512
+name = "v46"
+type = "long long"
+size = 0x8
+addr = 0x5ad430
+
+[stack_vars.-0x1f8]
+offset = -504
+name = "v47"
+type = "char"
+size = 0x1
+addr = 0x5ad430
+
+[stack_vars.-0x1f0]
+offset = -496
+name = "v48"
+type = "long long"
+size = 0x8
+addr = 0x5ad430
+
+[stack_vars.-0x1e8]
+offset = -488
+name = "v49"
+type = "long long"
+size = 0x8
+addr = 0x5ad430
+
+[stack_vars.-0x1e0]
+offset = -480
+name = "v50"
+type = "long long"
+size = 0x8
+addr = 0x5ad430
+
+[stack_vars.-0x1d8]
+offset = -472
+name = "v51"
+type = "const char *"
+size = 0x8
+addr = 0x5ad430
+
+[stack_vars.-0x1d0]
+offset = -464
+name = "v52"
+type = "short"
+size = 0x2
+addr = 0x5ad430
+
+[stack_vars.-0x1ce]
+offset = -462
+name = "v53"
+type = "char"
+size = 0x1
+addr = 0x5ad430
+
+[stack_vars.-0x1c8]
+offset = -456
+name = "v54"
+type = "long long"
+size = 0x8
+addr = 0x5ad430
+
+[stack_vars.-0x1c0]
+offset = -448
+name = "v55"
+type = "char"
+size = 0x1
+addr = 0x5ad430
+
+[stack_vars.-0x1b8]
+offset = -440
+name = "v56"
+type = "long long"
+size = 0x8
+addr = 0x5ad430
+
+[stack_vars.-0x1b0]
+offset = -432
+name = "v57"
+type = "long long"
+size = 0x8
+addr = 0x5ad430
+
+[stack_vars.-0x1a8]
+offset = -424
+name = "v58"
+type = "long long"
+size = 0x8
+addr = 0x5ad430
+
+[stack_vars.-0x1a0]
+offset = -416
+name = "arg"
+type = "sead::GameFrameworkOunce::CreateArg"
+size = 0x5c
+addr = 0x5ad430
+
 [header.args.0x0]
 offset = 0x0
+name = "this"
 type = "Application *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "a2"
+type = "int"
+size = 0x4
+
+[header.args.0x2]
+offset = 0x2
+name = "a3"
+type = "char **"
 size = 0x8

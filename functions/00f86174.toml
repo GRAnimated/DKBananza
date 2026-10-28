@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.346905Z
+addr = 0xf86174
+size = 0x14
+name = "_ZNK12_GLOBAL__N_124MimichiNrvPopOutHandSlap11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_124MimichiNrvPopOutHandSlap11getNameHashEv"
+addr = 0xf86174
+
+[header.args]

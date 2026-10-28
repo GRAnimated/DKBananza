@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.884900Z
+addr = 0x16e9728
+size = 0xf8
+name = "_ZN13WheelMapParts10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN13WheelMapParts10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x16e9728
+
+[header.args]

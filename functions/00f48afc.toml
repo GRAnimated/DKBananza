@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:35.962990Z
+addr = 0xf48afc
+size = 0x4c
+name = "_ZNK12_GLOBAL__N_113ChaserNrvIdle7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_113ChaserNrvIdle7executeEPN2al11NerveKeeperE"
+addr = 0xf48afc
+
+[header.args]

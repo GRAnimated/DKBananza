@@ -1,11 +1,22 @@
-last_change = 2026-10-26T18:01:57.188915Z
+last_change = 2026-10-28T04:57:30.295039Z
 addr = 0x3681e4
 size = 0x100
+name = "StageScene_71003681E4"
 type = "void"
 
 [header]
-last_change = 2026-10-26T18:01:57.188915Z
+name = "StageScene_71003681E4"
 addr = 0x3681e4
 type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "StageScene *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "initInfo"
+type = "const void *"
+size = 0x8

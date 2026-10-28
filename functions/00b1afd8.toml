@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:57:57.384019Z
+addr = 0xb1afd8
+size = 0xa8
+name = "_ZN19hkMemoryMeshTexture7setDataEPhiN13hkMeshTexture6FormatE"
+type = "long long"
+
+[header]
+name = "_ZN19hkMemoryMeshTexture7setDataEPhiN13hkMeshTexture6FormatE"
+addr = 0xb1afd8
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x1]
+offset = 0x1
+name = "src"
+type = "void *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = "n"
+type = "size_t"
+size = 0x8

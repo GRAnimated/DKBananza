@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.263156Z
+addr = 0xe8212c
+size = 0x8
+name = "Nerve_7100E8212C"
+type = "long long"
+
+[header]
+name = "Nerve_7100E8212C"
+addr = 0xe8212c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

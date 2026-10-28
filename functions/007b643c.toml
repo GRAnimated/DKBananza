@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.084734Z
+addr = 0x7b643c
+size = 0x94
+name = "_ZN18Npc2VoxelConcierge8calcAnimEv"
+
+[header]
+name = "_ZN18Npc2VoxelConcierge8calcAnimEv"
+addr = 0x7b643c
+
+[header.args]

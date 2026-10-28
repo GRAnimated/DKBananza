@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:09.972810Z
+last_change = 2026-10-28T04:56:42.430205Z
 addr = 0x154540
 size = 0x4
 name = "j_memset_0"
@@ -9,4 +9,20 @@ name = "j_memset_0"
 addr = 0x154540
 type = "void *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "s"
+type = "void *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "c"
+type = "int"
+size = 0x4
+
+[header.args.0x2]
+offset = 0x2
+name = "n"
+type = "size_t"
+size = 0x8

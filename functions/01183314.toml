@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.506431Z
+addr = 0x1183314
+size = 0x204
+name = "_ZN16ThrowableItemBox10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN16ThrowableItemBox10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x1183314
+
+[header.args]

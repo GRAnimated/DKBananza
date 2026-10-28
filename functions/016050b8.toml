@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.803374Z
+addr = 0x16050b8
+size = 0x4
+name = "j__ZNK18hkReferencedObject15removeReferenceEv"
+type = "long long"
+
+[header]
+name = "j__ZNK18hkReferencedObject15removeReferenceEv"
+addr = 0x16050b8
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "long long"
+size = 0x8

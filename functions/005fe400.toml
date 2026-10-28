@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.011252Z
+addr = 0x5fe400
+size = 0x10
+name = "sub_71005FE400"
+type = "void *"
+
+[header]
+name = "sub_71005FE400"
+addr = 0x5fe400
+type = "void *"
+
+[header.args]

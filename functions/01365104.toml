@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.666996Z
+addr = 0x1365104
+size = 0x14
+name = "_ZN17Voxel2dCoverParts18initAfterPlacementEv"
+
+[header]
+name = "_ZN17Voxel2dCoverParts18initAfterPlacementEv"
+addr = 0x1365104
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.528879Z
+addr = 0x11d066c
+size = 0x78
+name = "_ZN33Npc2AnimalTalkerMonkeyFisherClimbD1Ev"
+
+[header]
+name = "_ZN33Npc2AnimalTalkerMonkeyFisherClimbD1Ev"
+addr = 0x11d066c
+
+[header.args]

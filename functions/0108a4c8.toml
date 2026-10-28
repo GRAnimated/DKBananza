@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:59.317492Z
+addr = 0x108a4c8
+size = 0xd0
+name = "_ZN18CannonBarrelTarget16exeDemoAppearOutEv"
+
+[header]
+name = "_ZN18CannonBarrelTarget16exeDemoAppearOutEv"
+addr = 0x108a4c8
+
+[header.args]

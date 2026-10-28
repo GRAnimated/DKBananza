@@ -1,0 +1,9 @@
+last_change = 2026-10-28T04:57:00.608909Z
+name = "vtbl_71021778A0"
+size = 0x8
+
+[members.0x0]
+name = "getAudioKeeper"
+offset = 0x0
+type = "long long (__fastcall *)(long long)"
+size = 0x8

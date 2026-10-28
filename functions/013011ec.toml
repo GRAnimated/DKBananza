@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.620144Z
+addr = 0x13011ec
+size = 0x2d4
+name = "_ZN10StageScene19exeBattleStageRetryEv"
+type = "void"
+
+[header]
+name = "_ZN10StageScene19exeBattleStageRetryEv"
+addr = 0x13011ec
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "StageScene *"
+size = 0x8

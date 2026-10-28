@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:29.329278Z
+addr = 0xed7538
+size = 0xb8
+name = "_ZN9PoppyKong16exeDemoBattleEndEv"
+
+[header]
+name = "_ZN9PoppyKong16exeDemoBattleEndEv"
+addr = 0xed7538
+
+[header.args]

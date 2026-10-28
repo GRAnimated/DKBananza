@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.273911Z
+addr = 0xea18a4
+size = 0x58
+name = "_ZN28KingKRoolCannonBallStateMove14exeWaitDemoEndEv"
+
+[header]
+name = "_ZN28KingKRoolCannonBallStateMove14exeWaitDemoEndEv"
+addr = 0xea18a4
+
+[header.args]

@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:41.821187Z
+addr = 0xfa8a3c
+size = 0x1a8
+name = "_ZN4Zain7exeLookEv"
+type = "long long"
+
+[header]
+name = "_ZN4Zain7exeLookEv"
+addr = 0xfa8a3c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

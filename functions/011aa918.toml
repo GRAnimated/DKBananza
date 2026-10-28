@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.517578Z
+addr = 0x11aa918
+size = 0x1cc
+name = "_ZN17VoxelMimichiParts14makeActorAliveEv"
+
+[header]
+name = "_ZN17VoxelMimichiParts14makeActorAliveEv"
+addr = 0x11aa918
+
+[header.args]

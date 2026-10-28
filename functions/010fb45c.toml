@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:10.833134Z
+addr = 0x10fb45c
+size = 0xcc
+name = "_ZN8Landmine7controlEv"
+
+[header]
+name = "_ZN8Landmine7controlEv"
+addr = 0x10fb45c
+
+[header.args]

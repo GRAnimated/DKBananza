@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.378147Z
+addr = 0xfe52a0
+size = 0x4
+name = "_ZNK11CollectChip27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK11CollectChip27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0xfe52a0
+
+[header.args]

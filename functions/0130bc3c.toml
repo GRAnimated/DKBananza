@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.622991Z
+addr = 0x130bc3c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_134StageSceneStatePauseMenuNrvSetting11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_134StageSceneStatePauseMenuNrvSetting11getNameHashEv"
+addr = 0x130bc3c
+
+[header.args]

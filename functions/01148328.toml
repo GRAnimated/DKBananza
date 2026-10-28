@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:18.631178Z
+addr = 0x1148328
+size = 0x64
+name = "_ZNK12SinkholeGate18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK12SinkholeGate18getRuntimeTypeInfoEv"
+addr = 0x1148328
+
+[header.args]

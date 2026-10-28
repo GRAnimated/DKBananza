@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.476292Z
+addr = 0x1121ba0
+size = 0x4
+name = "_ZNK12MissionPoint27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK12MissionPoint27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x1121ba0
+
+[header.args]

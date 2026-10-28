@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.547770Z
+addr = 0x1206424
+size = 0x34
+name = "_ZN15Npc2VoxelSinger14makeActorAliveEv"
+
+[header]
+name = "_ZN15Npc2VoxelSinger14makeActorAliveEv"
+addr = 0x1206424
+
+[header.args]

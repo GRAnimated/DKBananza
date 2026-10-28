@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.545468Z
+addr = 0x11feb70
+size = 0x64
+name = "_ZNK16Npc2VoxelMyHouse18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK16Npc2VoxelMyHouse18getRuntimeTypeInfoEv"
+addr = 0x11feb70
+
+[header.args]

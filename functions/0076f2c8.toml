@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:42.770086Z
+addr = 0x76f2c8
+size = 0x7e4
+name = "_ZN21Npc2VoxelConstruction4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN21Npc2VoxelConstruction4initERKN2al13ActorInitInfoE"
+addr = 0x76f2c8
+
+[header.args]

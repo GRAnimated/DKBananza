@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:38:22.177927Z
+last_change = 2026-10-28T04:59:18.163673Z
 addr = 0x1143b20
 size = 0xa8
 name = "_ZN2al19createActorFunctionI11RisingStormEEPNS_9LiveActorEPKc"
@@ -9,4 +9,8 @@ name = "_ZN2al19createActorFunctionI11RisingStormEEPNS_9LiveActorEPKc"
 addr = 0x1143b20
 type = "al::LiveActor *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "const char *"
+size = 0x8

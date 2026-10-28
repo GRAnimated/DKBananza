@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:58:17.989897Z
+addr = 0xe269cc
+size = 0x60
+name = "sub_7100E269CC"
+type = "long long *"
+
+[header]
+name = "sub_7100E269CC"
+addr = 0xe269cc
+type = "long long *"
+
+[header.args]

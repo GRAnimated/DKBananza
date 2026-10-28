@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.883436Z
+addr = 0x16e5e00
+size = 0x1ec
+name = "_ZN13SlideMapParts4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN13SlideMapParts4initERKN2al13ActorInitInfoE"
+addr = 0x16e5e00
+
+[header.args]

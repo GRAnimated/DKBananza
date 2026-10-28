@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:59:04.753025Z
+addr = 0x10c052c
+size = 0x50
+name = "Nerve_71010C052C"
+type = "long long"
+
+[header]
+name = "Nerve_71010C052C"
+addr = 0x10c052c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

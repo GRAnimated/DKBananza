@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:01.145280Z
+addr = 0x109badc
+size = 0x34
+name = "_ZN11CrackGround4killEv"
+
+[header]
+name = "_ZN11CrackGround4killEv"
+addr = 0x109badc
+
+[header.args]

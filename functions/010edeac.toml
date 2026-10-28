@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.461544Z
+addr = 0x10edeac
+size = 0x14
+name = "IceMaker__ZNK12_GLOBAL__N_113HostTypeNrvOn11getNameHashEv"
+
+[header]
+name = "IceMaker__ZNK12_GLOBAL__N_113HostTypeNrvOn11getNameHashEv"
+addr = 0x10edeac
+
+[header.args]

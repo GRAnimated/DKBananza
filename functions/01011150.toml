@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:58:49.416639Z
+addr = 0x1011150
+size = 0x68
+name = "_ZNK2al14NerveStateBase18getRuntimeTypeInfoEv"
+type = "long long *"
+
+[header]
+name = "_ZNK2al14NerveStateBase18getRuntimeTypeInfoEv"
+addr = 0x1011150
+type = "long long *"
+
+[header.args]

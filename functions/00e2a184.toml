@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:58:18.198327Z
+addr = 0xe2a184
+size = 0x68
+name = "al_IUseCamera_getRuntimeTypeInfo"
+type = "long long *"
+
+[header]
+name = "al_IUseCamera_getRuntimeTypeInfo"
+addr = 0xe2a184
+type = "long long *"
+
+[header.args]

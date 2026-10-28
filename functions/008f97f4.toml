@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.132925Z
+addr = 0x8f97f4
+size = 0xe4
+name = "havok_71008F97F4"
+
+[header]
+name = "havok_71008F97F4"
+addr = 0x8f97f4
+
+[header.args]

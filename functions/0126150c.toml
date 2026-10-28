@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.573034Z
+addr = 0x126150c
+size = 0x134
+name = "_ZN13PlayerGorilla9exeDamageEv"
+
+[header]
+name = "_ZN13PlayerGorilla9exeDamageEv"
+addr = 0x126150c
+
+[header.args]

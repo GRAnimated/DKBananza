@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.542840Z
+addr = 0x11f6280
+size = 0xd8
+name = "_ZN25Npc2VoxelBreakAchievement9exeDamageEv"
+
+[header]
+name = "_ZN25Npc2VoxelBreakAchievement9exeDamageEv"
+addr = 0x11f6280
+
+[header.args]

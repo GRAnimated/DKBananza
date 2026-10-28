@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:36.549495Z
+addr = 0xf511b4
+size = 0x10c
+name = "_ZN7Dangoro10exeRecoverEv"
+
+[header]
+name = "_ZN7Dangoro10exeRecoverEv"
+addr = 0xf511b4
+
+[header.args]

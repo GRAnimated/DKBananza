@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:56:43.792345Z
+addr = 0x15cb354
+size = 0x21c
+name = "sub_71015CB354"
+type = "void"
+
+[header]
+name = "sub_71015CB354"
+addr = 0x15cb354
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "char"
+size = 0x1

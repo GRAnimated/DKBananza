@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:37.766203Z
+addr = 0xf64684
+size = 0xc8
+name = "_ZN6Flydon10exeRecoverEv"
+
+[header]
+name = "_ZN6Flydon10exeRecoverEv"
+addr = 0xf64684
+
+[header.args]

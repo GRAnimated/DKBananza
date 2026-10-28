@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:57:38.591042Z
+addr = 0x676210
+size = 0x318
+name = "sub_7100676210"
+type = "long long"
+
+[header]
+name = "sub_7100676210"
+addr = 0x676210
+type = "long long"
+
+[header.args]

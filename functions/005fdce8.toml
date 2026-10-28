@@ -1,0 +1,36 @@
+last_change = 2026-10-28T04:57:36.934308Z
+addr = 0x5fdce8
+size = 0x70c
+name = "_ZN15ProductSequence4initERKN2al16SequenceInitInfoE"
+type = "void"
+
+[header]
+name = "_ZN15ProductSequence4initERKN2al16SequenceInitInfoE"
+addr = 0x5fdce8
+type = "void"
+
+[stack_vars.-0x100]
+offset = -256
+name = "layoutInfo"
+type = "SequenceLayoutInfo"
+size = 0x38
+addr = 0x5fdce8
+
+[stack_vars.-0xc8]
+offset = -200
+name = "infoa"
+type = "unsigned long long[17]"
+size = 0x88
+addr = 0x5fdce8
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "ProductSequence *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "info"
+type = "void **"
+size = 0x8

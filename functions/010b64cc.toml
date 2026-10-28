@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:59:03.183071Z
+addr = 0x10b64cc
+size = 0x1c0
+name = "UnknownHost_710223F368_exeDemoGetOut"
+type = "long long"
+
+[header]
+name = "UnknownHost_710223F368_exeDemoGetOut"
+addr = 0x10b64cc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

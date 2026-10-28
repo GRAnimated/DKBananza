@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.307877Z
+addr = 0xf07314
+size = 0xd0
+name = "_ZN4VoidD1Ev"
+
+[header]
+name = "_ZN4VoidD1Ev"
+addr = 0xf07314
+
+[header.args]

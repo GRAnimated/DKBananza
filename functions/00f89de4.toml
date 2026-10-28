@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.349407Z
+addr = 0xf89de4
+size = 0x8
+name = "_ZNK12_GLOBAL__N_126MimichiStateAppearNrvPress7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_126MimichiStateAppearNrvPress7executeEPN2al11NerveKeeperE"
+addr = 0xf89de4
+
+[header.args]

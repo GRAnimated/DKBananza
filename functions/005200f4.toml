@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:42.529144Z
+addr = 0x5200f4
+size = 0x40
+name = "sub_71005200F4"
+type = "long long"
+
+[header]
+name = "sub_71005200F4"
+addr = 0x5200f4
+type = "long long"
+
+[header.args]

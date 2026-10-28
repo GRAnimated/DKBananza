@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.622753Z
+addr = 0x130b37c
+size = 0xc0
+name = "_ZN24StageSceneStatePauseMenu14exeContentsOutEv"
+
+[header]
+name = "_ZN24StageSceneStatePauseMenu14exeContentsOutEv"
+addr = 0x130b37c
+
+[header.args]

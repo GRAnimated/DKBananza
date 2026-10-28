@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:21.187803Z
+addr = 0xe568b4
+size = 0x4c
+name = "UnknownHost_7102267388_exeNoBattle"
+
+[header]
+name = "UnknownHost_7102267388_exeNoBattle"
+addr = 0xe568b4
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.675909Z
+addr = 0x137f760
+size = 0x3c
+name = "_ZN21VoxelRailMoveMapParts8calcAnimEv"
+
+[header]
+name = "_ZN21VoxelRailMoveMapParts8calcAnimEv"
+addr = 0x137f760
+
+[header.args]

@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.355144Z
+addr = 0xf9b694
+size = 0x48
+name = "_ZN8Togemole12exeFallSwoonEv"
+type = "void"
+
+[header]
+name = "_ZN8Togemole12exeFallSwoonEv"
+addr = 0xf9b694
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

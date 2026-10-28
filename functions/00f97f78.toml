@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.354228Z
+addr = 0xf97f78
+size = 0x8
+name = "_ZNK12_GLOBAL__N_124SneakingManGoldenNrvWait7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_124SneakingManGoldenNrvWait7executeEPN2al11NerveKeeperE"
+addr = 0xf97f78
+
+[header.args]

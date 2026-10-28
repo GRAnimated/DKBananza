@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.909258Z
+addr = 0x1732afc
+size = 0xfc
+name = "sub_7101732AFC"
+type = "long long"
+
+[header]
+name = "sub_7101732AFC"
+addr = 0x1732afc
+type = "long long"
+
+[header.args]

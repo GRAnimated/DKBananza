@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.397615Z
+addr = 0x1021690
+size = 0x6c
+name = "_ZN8HintIconD1Ev"
+
+[header]
+name = "_ZN8HintIconD1Ev"
+addr = 0x1021690
+
+[header.args]

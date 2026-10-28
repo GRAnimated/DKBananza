@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:31.970357Z
+addr = 0x45180c
+size = 0x2ee0
+name = "_ZN8Minecart4initERKN2al13ActorInitInfoE"
+type = "long long"
+
+[header]
+name = "_ZN8Minecart4initERKN2al13ActorInitInfoE"
+addr = 0x45180c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "al::LiveActor *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "al::ActorInitInfo *"
+size = 0x8

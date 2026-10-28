@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:58.468855Z
+addr = 0x1083280
+size = 0x190
+name = "_ZN12CannonBarrel10exeRestartEv"
+
+[header]
+name = "_ZN12CannonBarrel10exeRestartEv"
+addr = 0x1083280
+
+[header.args]

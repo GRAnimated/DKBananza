@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.550958Z
+addr = 0x121008c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_124NpcRaceReceptionNrvEvent11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_124NpcRaceReceptionNrvEvent11getNameHashEv"
+addr = 0x121008c
+
+[header.args]

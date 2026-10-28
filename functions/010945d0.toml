@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.434163Z
+addr = 0x10945d0
+size = 0x14
+name = "_ZNK12_GLOBAL__N_117ClosetNrvOpenMove11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_117ClosetNrvOpenMove11getNameHashEv"
+addr = 0x10945d0
+
+[header.args]

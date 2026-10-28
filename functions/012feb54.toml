@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.619434Z
+addr = 0x12feb54
+size = 0x430
+name = "_ZN14StaffRollScene7exePlayEv"
+
+[header]
+name = "_ZN14StaffRollScene7exePlayEv"
+addr = 0x12feb54
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.433257Z
+addr = 0x1092c5c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_131ClimbRopeStateClimbNrvClimbLand11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_131ClimbRopeStateClimbNrvClimbLand11getNameHashEv"
+addr = 0x1092c5c
+
+[header.args]

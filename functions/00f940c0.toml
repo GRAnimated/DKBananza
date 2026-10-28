@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.352801Z
+addr = 0xf940c0
+size = 0x5c
+name = "_ZN7RockBeeD1Ev"
+
+[header]
+name = "_ZN7RockBeeD1Ev"
+addr = 0xf940c0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.674583Z
+addr = 0x137c3e0
+size = 0x14
+name = "_ZNK12_GLOBAL__N_136VoxelPartsBrokenRateCheckerNrvFailed11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_136VoxelPartsBrokenRateCheckerNrvFailed11getNameHashEv"
+addr = 0x137c3e0
+
+[header.args]

@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:39.369916Z
+addr = 0xf8068c
+size = 0x148
+name = "_ZN8Marksman16exeInterruptShotEv"
+type = "long long"
+
+[header]
+name = "_ZN8Marksman16exeInterruptShotEv"
+addr = 0xf8068c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:56:43.578553Z
+addr = 0x1269a04
+size = 0x68
+name = "sub_7101269A04"
+type = "bool"
+
+[header]
+name = "sub_7101269A04"
+addr = 0x1269a04
+type = "bool"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "long long"
+size = 0x8

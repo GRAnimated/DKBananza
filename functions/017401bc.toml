@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.912880Z
+addr = 0x17401bc
+size = 0x8
+name = "_ZNK12_GLOBAL__N_135CameraVerticalAbsorberNrvFollowSlow7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_135CameraVerticalAbsorberNrvFollowSlow7executeEPN2al11NerveKeeperE"
+addr = 0x17401bc
+
+[header.args]

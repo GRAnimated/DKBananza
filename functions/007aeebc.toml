@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:43.800083Z
+addr = 0x7aeebc
+size = 0x120
+name = "_ZN16VoxelFragmentObj8calcAnimEv"
+
+[header]
+name = "_ZN16VoxelFragmentObj8calcAnimEv"
+addr = 0x7aeebc
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.680343Z
+addr = 0x138a540
+size = 0x64
+name = "_ZNK25WaterVoxelKeyMoveMapParts18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK25WaterVoxelKeyMoveMapParts18getRuntimeTypeInfoEv"
+addr = 0x138a540
+
+[header.args]

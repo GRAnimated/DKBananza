@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:57:37.003994Z
+addr = 0x600710
+size = 0x350
+name = "FakeCreditLogo_ctor"
+type = "void"
+
+[header]
+name = "FakeCreditLogo_ctor"
+addr = 0x600710
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "FakeCreditLogo *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "name"
+type = "const char *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = "info"
+type = "const void *"
+size = 0x8

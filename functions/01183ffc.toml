@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.506625Z
+addr = 0x1183ffc
+size = 0x14
+name = "_ZNK12_GLOBAL__N_123ThrowableItemBoxNrvWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_123ThrowableItemBoxNrvWait11getNameHashEv"
+addr = 0x1183ffc
+
+[header.args]

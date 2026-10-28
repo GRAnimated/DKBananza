@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.789911Z
+addr = 0x15c23cc
+size = 0x4
+name = "_ZNK5phive6System27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+type = "long long"
+
+[header]
+name = "_ZNK5phive6System27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x15c23cc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long *"
+size = 0x8

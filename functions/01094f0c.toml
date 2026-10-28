@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:00.479993Z
+addr = 0x1094f0c
+size = 0x64
+name = "_ZNK10CloudShape18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK10CloudShape18getRuntimeTypeInfoEv"
+addr = 0x1094f0c
+
+[header.args]

@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:56:43.232911Z
+addr = 0xe28b30
+size = 0xf0
+name = "sub_7100E28B30"
+type = "bool"
+
+[header]
+name = "sub_7100E28B30"
+addr = 0xe28b30
+type = "bool"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "float *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "float"
+size = 0x4

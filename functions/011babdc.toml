@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.522723Z
+addr = 0x11babdc
+size = 0x60
+name = "_ZN16YocchiController16exeAfterCompleteEv"
+
+[header]
+name = "_ZN16YocchiController16exeAfterCompleteEv"
+addr = 0x11babdc
+
+[header.args]

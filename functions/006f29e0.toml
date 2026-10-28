@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:40.523580Z
+addr = 0x6f29e0
+size = 0x8
+name = "_ZThn312_N2al10WipeSimple13startCloseEndEv"
+
+[header]
+name = "_ZThn312_N2al10WipeSimple13startCloseEndEv"
+addr = 0x6f29e0
+
+[header.args]

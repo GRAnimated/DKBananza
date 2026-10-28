@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.255779Z
+addr = 0xe6b48c
+size = 0x18
+name = "_ZN18BossMimichiPitfall13makeActorDeadEv"
+
+[header]
+name = "_ZN18BossMimichiPitfall13makeActorDeadEv"
+addr = 0xe6b48c
+
+[header.args]

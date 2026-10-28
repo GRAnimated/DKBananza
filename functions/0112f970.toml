@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.480602Z
+addr = 0x112f970
+size = 0x14
+name = "_ZNK12_GLOBAL__N_126ProceduralMoneyRushNrvWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_126ProceduralMoneyRushNrvWait11getNameHashEv"
+addr = 0x112f970
+
+[header.args]

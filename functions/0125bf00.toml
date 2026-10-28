@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.572786Z
+addr = 0x125bf00
+size = 0x638
+name = "_ZN13PlayerGorilla10exeTurn180Ev"
+
+[header]
+name = "_ZN13PlayerGorilla10exeTurn180Ev"
+addr = 0x125bf00
+
+[header.args]

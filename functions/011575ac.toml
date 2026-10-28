@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:59:19.948766Z
+addr = 0x11575ac
+size = 0x4c
+name = "UnknownHost_71022401F8__ZNK12_GLOBAL__N_124HostTypeNrvAfterReaction7executeEPN2al11NerveKeeperE"
+type = "long long"
+
+[header]
+name = "UnknownHost_71022401F8__ZNK12_GLOBAL__N_124HostTypeNrvAfterReaction7executeEPN2al11NerveKeeperE"
+addr = 0x11575ac
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

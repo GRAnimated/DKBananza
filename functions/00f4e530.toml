@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.984297Z
+last_change = 2026-10-28T04:56:43.329954Z
 addr = 0xf4e530
 size = 0x4
-name = "nullsub_1470"
+name = "_ZNK12_GLOBAL__N_133ChaserNeckSegmentNrvChaseFinished7executeEPN2al11NerveKeeperE"
 
 [header]
-name = "nullsub_1470"
+name = "_ZNK12_GLOBAL__N_133ChaserNeckSegmentNrvChaseFinished7executeEPN2al11NerveKeeperE"
 addr = 0xf4e530
 
 [header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.255328Z
+addr = 0xe6a6cc
+size = 0x14
+name = "_ZNK12_GLOBAL__N_124BossMimichiNrvDemoAppear11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_124BossMimichiNrvDemoAppear11getNameHashEv"
+addr = 0xe6a6cc
+
+[header.args]

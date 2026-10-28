@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:11.079877Z
+addr = 0x10fdd10
+size = 0x1a4
+name = "_ZN13LaserLauncher12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN13LaserLauncher12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x10fdd10
+
+[header.args]

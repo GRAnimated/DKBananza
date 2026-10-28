@@ -1,13 +1,28 @@
-last_change = 2026-10-26T15:00:07.276371Z
+last_change = 2026-10-28T04:57:30.321608Z
 addr = 0x36a58c
 size = 0x94
 name = "_ZN2al14SensorHitGroupC2EiPKc"
 type = "void"
 
 [header]
-last_change = 2026-10-26T15:00:07.276371Z
 name = "_ZN2al14SensorHitGroupC2EiPKc"
 addr = 0x36a58c
 type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::SensorHitGroup *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "maxSensors"
+type = "s32"
+size = 0x4
+
+[header.args.0x2]
+offset = 0x2
+name = "sensorName"
+type = "const char *"
+size = 0x8

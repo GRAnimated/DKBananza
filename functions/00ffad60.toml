@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.384922Z
+addr = 0xffad60
+size = 0x154
+name = "_ZN9MoneyItem10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN9MoneyItem10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xffad60
+
+[header.args]

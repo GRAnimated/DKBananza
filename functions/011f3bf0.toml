@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.542062Z
+addr = 0x11f3bf0
+size = 0xd0
+name = "_ZN15Npc2VoxelAmiibo12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN15Npc2VoxelAmiibo12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x11f3bf0
+
+[header.args]

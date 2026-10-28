@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.342848Z
+addr = 0xf7b530
+size = 0x14
+name = "_ZNK12_GLOBAL__N_123HopperCoreNrvRepairSign11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_123HopperCoreNrvRepairSign11getNameHashEv"
+addr = 0xf7b530
+
+[header.args]

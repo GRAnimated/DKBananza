@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.388370Z
+addr = 0x1004078
+size = 0x8
+name = "_ZNK12_GLOBAL__N_119ReturnBalloonNrvGet7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_119ReturnBalloonNrvGet7executeEPN2al11NerveKeeperE"
+addr = 0x1004078
+
+[header.args]

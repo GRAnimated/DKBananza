@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:19.529701Z
+addr = 0x1153918
+size = 0x7c
+name = "_ZN8SmallBat4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN8SmallBat4initERKN2al13ActorInitInfoE"
+addr = 0x1153918
+
+[header.args]

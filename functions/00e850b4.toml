@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.264622Z
+addr = 0xe850b4
+size = 0x68
+name = "_ZN7Gorongo11exeHideWaitEv"
+
+[header]
+name = "_ZN7Gorongo11exeHideWaitEv"
+addr = 0xe850b4
+
+[header.args]

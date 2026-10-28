@@ -1,12 +1,16 @@
-last_change = 2026-10-26T00:37:09.994227Z
+last_change = 2026-10-28T04:56:43.618475Z
 addr = 0x12facd8
 size = 0x4
-name = "j_al_LiveActor_appear_11"
-type = "long long"
+name = "_ZN16SmallBirdWatcher6appearEv"
+type = "void"
 
 [header]
-name = "j_al_LiveActor_appear_11"
+name = "_ZN16SmallBirdWatcher6appearEv"
 addr = 0x12facd8
-type = "long long"
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::LiveActor *"
+size = 0x8

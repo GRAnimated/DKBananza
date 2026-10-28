@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.926797Z
+addr = 0x1776ac8
+size = 0x5c
+name = "_ZN21AtmosScatterRequesterD1Ev"
+
+[header]
+name = "_ZN21AtmosScatterRequesterD1Ev"
+addr = 0x1776ac8
+
+[header.args]

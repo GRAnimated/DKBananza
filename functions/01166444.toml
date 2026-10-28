@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.496797Z
+addr = 0x1166444
+size = 0x6c
+name = "_ZN13StoneMonumentD1Ev"
+
+[header]
+name = "_ZN13StoneMonumentD1Ev"
+addr = 0x1166444
+
+[header.args]

@@ -1,0 +1,46 @@
+last_change = 2026-10-28T04:56:43.184297Z
+addr = 0xa8a958
+size = 0x28
+name = "_ZN23hknpSoftContactModifier24manifoldFullCastCallbackERK27hknpSimulationThreadContextRK22hknpModifierSharedDataRK10hknpCdBodyS8_PN12hknpModifier29ManifoldFullCastCallbackInputE"
+type = "void"
+
+[header]
+name = "_ZN23hknpSoftContactModifier24manifoldFullCastCallbackERK27hknpSimulationThreadContextRK22hknpModifierSharedDataRK10hknpCdBodyS8_PN12hknpModifier29ManifoldFullCastCallbackInputE"
+addr = 0xa8a958
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x4]
+offset = 0x4
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x5]
+offset = 0x5
+name = ""
+type = "long long"
+size = 0x8

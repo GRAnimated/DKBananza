@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.076557Z
+addr = 0x79ece8
+size = 0x108
+name = "_ZN10Bananamond4killEv"
+
+[header]
+name = "_ZN10Bananamond4killEv"
+addr = 0x79ece8
+
+[header.args]

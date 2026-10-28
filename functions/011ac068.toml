@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.990015Z
+last_change = 2026-10-28T04:56:43.518134Z
 addr = 0x11ac068
 size = 0x4
-name = "nullsub_1803"
+name = "_ZN17VoxelMiniatureMap7controlEv"
 
 [header]
-name = "nullsub_1803"
+name = "_ZN17VoxelMiniatureMap7controlEv"
 addr = 0x11ac068
 
 [header.args]

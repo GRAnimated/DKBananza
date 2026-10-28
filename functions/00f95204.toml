@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:40.799102Z
+addr = 0xf95204
+size = 0x64
+name = "_ZNK19SkydivingRouteGuide18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK19SkydivingRouteGuide18getRuntimeTypeInfoEv"
+addr = 0xf95204
+
+[header.args]

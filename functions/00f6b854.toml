@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.338760Z
+addr = 0xf6b854
+size = 0x14
+name = "Gororo__ZNK12_GLOBAL__N_124HostTypeNrvRegenerateEnd11getNameHashEv"
+
+[header]
+name = "Gororo__ZNK12_GLOBAL__N_124HostTypeNrvRegenerateEnd11getNameHashEv"
+addr = 0xf6b854
+
+[header.args]

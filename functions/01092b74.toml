@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.433210Z
+addr = 0x1092b74
+size = 0x50
+name = "_ZN19ClimbRopeStateClimb12exeClimbLeftEv"
+
+[header]
+name = "_ZN19ClimbRopeStateClimb12exeClimbLeftEv"
+addr = 0x1092b74
+
+[header.args]

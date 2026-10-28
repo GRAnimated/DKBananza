@@ -1,0 +1,52 @@
+last_change = 2026-10-28T04:56:43.182545Z
+addr = 0xa7a660
+size = 0x448
+name = "havok_7100A7A660"
+type = "int8x16_t *"
+
+[header]
+name = "havok_7100A7A660"
+addr = 0xa7a660
+type = "int8x16_t *"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "int8x16_t *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "float32x4_t *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "float32x4_t *"
+size = 0x8
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "float32x4_t *"
+size = 0x8
+
+[header.args.0x4]
+offset = 0x4
+name = ""
+type = "int32x4_t *"
+size = 0x8
+
+[header.args.0x5]
+offset = 0x5
+name = ""
+type = "_OWORD *"
+size = 0x8
+
+[header.args.0x6]
+offset = 0x6
+name = ""
+type = "_OWORD *"
+size = 0x8

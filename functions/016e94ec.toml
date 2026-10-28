@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:39:28.211450Z
+last_change = 2026-10-28T04:56:43.884879Z
 addr = 0x16e94ec
 size = 0xa8
 name = "_ZN13WheelMapPartsC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN13WheelMapPartsC2EPKc"
 addr = 0x16e94ec
 type = "void *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

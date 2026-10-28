@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.127588Z
+addr = 0x8e6620
+size = 0xbc
+name = "havok_71008E6620"
+type = "unsigned long long *"
+
+[header]
+name = "havok_71008E6620"
+addr = 0x8e6620
+type = "unsigned long long *"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

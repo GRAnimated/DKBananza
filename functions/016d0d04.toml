@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.872189Z
+addr = 0x16d0d04
+size = 0x8
+name = "_ZN2al19ActorPoseKeeperBase10getQuatPtrEv"
+type = "sead::Quatf *"
+
+[header]
+name = "_ZN2al19ActorPoseKeeperBase10getQuatPtrEv"
+addr = 0x16d0d04
+type = "sead::Quatf *"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::ActorPoseKeeperBase *"
+size = 0x8

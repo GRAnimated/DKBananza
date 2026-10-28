@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:12.028208Z
+addr = 0x1106838
+size = 0x64
+name = "_ZNK8LionGate18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK8LionGate18getRuntimeTypeInfoEv"
+addr = 0x1106838
+
+[header.args]

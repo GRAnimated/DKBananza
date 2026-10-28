@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:44.114948Z
+addr = 0x7c0fbc
+size = 0xec
+name = "_ZNK12_GLOBAL__N_123BootSceneNrvContentsOut7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_123BootSceneNrvContentsOut7executeEPN2al11NerveKeeperE"
+addr = 0x7c0fbc
+
+[header.args]

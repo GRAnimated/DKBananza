@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.084448Z
+addr = 0x7b415c
+size = 0x8c
+name = "_ZN24Npc2KongTalkerCrankyKong8calcAnimEv"
+
+[header]
+name = "_ZN24Npc2KongTalkerCrankyKong8calcAnimEv"
+addr = 0x7b415c
+
+[header.args]

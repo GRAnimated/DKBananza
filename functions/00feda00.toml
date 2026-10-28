@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.380536Z
+addr = 0xfeda00
+size = 0x14
+name = "_ZNK12_GLOBAL__N_119StateNrvWaitThunder11getNameHashEv_7100FEDA00"
+
+[header]
+name = "_ZNK12_GLOBAL__N_119StateNrvWaitThunder11getNameHashEv_7100FEDA00"
+addr = 0xfeda00
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.539679Z
+addr = 0x11ecee8
+size = 0x14
+name = "_ZNK12_GLOBAL__N_130Npc2KongTalkerDixieKongNrvLand11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_130Npc2KongTalkerDixieKongNrvLand11getNameHashEv"
+addr = 0x11ecee8
+
+[header.args]

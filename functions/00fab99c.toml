@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.359683Z
+addr = 0xfab99c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_117ZainNrvBattleLand11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_117ZainNrvBattleLand11getNameHashEv"
+addr = 0xfab99c
+
+[header.args]

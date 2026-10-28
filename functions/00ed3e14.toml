@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:29.069369Z
+addr = 0xed3e14
+size = 0x5c
+name = "_ZN12MinecartBoss11exePlayNameEv"
+
+[header]
+name = "_ZN12MinecartBoss11exePlayNameEv"
+addr = 0xed3e14
+
+[header.args]

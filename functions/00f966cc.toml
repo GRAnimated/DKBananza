@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:40.876328Z
+addr = 0xf966cc
+size = 0x1c0
+name = "_ZN17SneakingManGolden10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN17SneakingManGolden10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xf966cc
+
+[header.args]

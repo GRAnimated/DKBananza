@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:37.111196Z
+addr = 0xf5acd8
+size = 0x134
+name = "_ZN7DonZain16exeBreakDownSignEv"
+type = "long long"
+
+[header]
+name = "_ZN7DonZain16exeBreakDownSignEv"
+addr = 0xf5acd8
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:43.480467Z
+addr = 0x798930
+size = 0x310
+name = "_ZN6Fossil8calcAnimEv"
+
+[header]
+name = "_ZN6Fossil8calcAnimEv"
+addr = 0x798930
+
+[header.args]

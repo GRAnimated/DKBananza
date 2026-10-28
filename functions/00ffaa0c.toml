@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.384832Z
+addr = 0xffaa0c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_128MinecartBombItemNrvDisappear11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_128MinecartBombItemNrvDisappear11getNameHashEv"
+addr = 0xffaa0c
+
+[header.args]

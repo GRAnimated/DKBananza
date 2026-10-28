@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.597903Z
+addr = 0x12b649c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_132PlayerStateTackleChargeNrvTackle11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_132PlayerStateTackleChargeNrvTackle11getNameHashEv"
+addr = 0x12b649c
+
+[header.args]

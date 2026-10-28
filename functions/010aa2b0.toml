@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.439504Z
+addr = 0x10aa2b0
+size = 0x8
+name = "_ZN15DeformLiftGroup10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN15DeformLiftGroup10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x10aa2b0
+
+[header.args]

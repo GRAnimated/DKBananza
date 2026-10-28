@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:41.120851Z
+addr = 0xf9b884
+size = 0x64
+name = "_ZNK8Togemole18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK8Togemole18getRuntimeTypeInfoEv"
+addr = 0xf9b884
+
+[header.args]

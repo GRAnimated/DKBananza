@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.340809Z
+addr = 0xf74020
+size = 0x8
+name = "_ZN9Hikariski10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN9Hikariski10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xf74020
+
+[header.args]

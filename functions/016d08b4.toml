@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.871844Z
+addr = 0x16d08b4
+size = 0x44
+name = "_ZN2al20ActorPoseKeeperTQGSV13updatePoseMtxEPKN4sead8Matrix34IfEE"
+type = "void"
+
+[header]
+name = "_ZN2al20ActorPoseKeeperTQGSV13updatePoseMtxEPKN4sead8Matrix34IfEE"
+addr = 0x16d08b4
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::ActorPoseKeeperTQGSV *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "mtx"
+type = "const sead::Matrix34f *"
+size = 0x8

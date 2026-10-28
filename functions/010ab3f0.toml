@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.439924Z
+addr = 0x10ab3f0
+size = 0x4c
+name = "_ZN25DeformLiftRisingCollision10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN25DeformLiftRisingCollision10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x10ab3f0
+
+[header.args]

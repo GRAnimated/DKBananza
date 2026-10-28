@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:38.027784Z
+addr = 0xf6ab0c
+size = 0xc4
+name = "_ZN6Gororo10exeRecoverEv"
+
+[header]
+name = "_ZN6Gororo10exeRecoverEv"
+addr = 0xf6ab0c
+
+[header.args]

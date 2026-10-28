@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:29.090735Z
+addr = 0xed4368
+size = 0x64
+name = "_ZNK12MinecartBoss18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK12MinecartBoss18getRuntimeTypeInfoEv"
+addr = 0xed4368
+
+[header.args]

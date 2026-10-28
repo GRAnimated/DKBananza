@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:22.348997Z
+addr = 0xe6bc88
+size = 0x64
+name = "_ZNK18BossMimichiPitfall18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK18BossMimichiPitfall18getRuntimeTypeInfoEv"
+addr = 0xe6bc88
+
+[header.args]

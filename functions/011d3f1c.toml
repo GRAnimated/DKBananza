@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.529836Z
+addr = 0x11d3f1c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_130Npc2AnimalTalkerOstrichNrvLand11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_130Npc2AnimalTalkerOstrichNrvLand11getNameHashEv"
+addr = 0x11d3f1c
+
+[header.args]

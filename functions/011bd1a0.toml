@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.523178Z
+addr = 0x11bd1a0
+size = 0x154
+name = "_ZN7ZipLine7exeGoalEv"
+
+[header]
+name = "_ZN7ZipLine7exeGoalEv"
+addr = 0x11bd1a0
+
+[header.args]

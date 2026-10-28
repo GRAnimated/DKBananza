@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.464089Z
+addr = 0x10f6744
+size = 0x8
+name = "_ZNK12_GLOBAL__N_117ItemBarrelNrvDead7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_117ItemBarrelNrvDead7executeEPN2al11NerveKeeperE"
+addr = 0x10f6744
+
+[header.args]

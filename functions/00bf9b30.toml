@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.219228Z
+addr = 0xbf9b30
+size = 0x19c8
+name = "havok_7100BF9B30"
+type = "unsigned long long *"
+
+[header]
+name = "havok_7100BF9B30"
+addr = 0xbf9b30
+type = "unsigned long long *"
+
+[header.args]

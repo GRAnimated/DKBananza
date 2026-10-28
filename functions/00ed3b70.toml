@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:29.055740Z
+addr = 0xed3b70
+size = 0x120
+name = "_ZN12MinecartBoss7exeDeadEv"
+
+[header]
+name = "_ZN12MinecartBoss7exeDeadEv"
+addr = 0xed3b70
+
+[header.args]

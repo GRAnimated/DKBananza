@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:30.138770Z
+addr = 0x34ef80
+size = 0x1a8
+name = "_ZNK12_GLOBAL__N_128VoxelConveyorMapPartsNrvMove7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_128VoxelConveyorMapPartsNrvMove7executeEPN2al11NerveKeeperE"
+addr = 0x34ef80
+
+[header.args]

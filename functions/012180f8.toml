@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.553469Z
+addr = 0x12180f8
+size = 0x68
+name = "_ZNK9RambiBase18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK9RambiBase18getRuntimeTypeInfoEv"
+addr = 0x12180f8
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:15.631818Z
+addr = 0x112725c
+size = 0x80
+name = "_ZN11PaulineCage10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN11PaulineCage10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x112725c
+
+[header.args]

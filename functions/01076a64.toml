@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.424060Z
+addr = 0x1076a64
+size = 0x5c
+name = "_ZN4BirdD1Ev"
+
+[header]
+name = "_ZN4BirdD1Ev"
+addr = 0x1076a64
+
+[header.args]

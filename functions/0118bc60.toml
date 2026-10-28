@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.508795Z
+addr = 0x118bc60
+size = 0x34
+name = "_ZN7Tornado6appearEv"
+
+[header]
+name = "_ZN7Tornado6appearEv"
+addr = 0x118bc60
+
+[header.args]

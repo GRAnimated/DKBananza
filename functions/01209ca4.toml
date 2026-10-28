@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.548878Z
+addr = 0x1209ca4
+size = 0x14
+name = "_ZNK12_GLOBAL__N_125Npc2VoxelSunbathNrvDamage11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_125Npc2VoxelSunbathNrvDamage11getNameHashEv"
+addr = 0x1209ca4
+
+[header.args]

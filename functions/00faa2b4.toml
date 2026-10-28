@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:41.889452Z
+addr = 0xfaa2b4
+size = 0x64
+name = "_ZNK4Zain18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK4Zain18getRuntimeTypeInfoEv"
+addr = 0xfaa2b4
+
+[header.args]

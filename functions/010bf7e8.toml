@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:04.616261Z
+addr = 0x10bf7e8
+size = 0x64
+name = "_ZN18ExtraLargeFruitObj21exeDemoWaitAfterCrashEv"
+
+[header]
+name = "_ZN18ExtraLargeFruitObj21exeDemoWaitAfterCrashEv"
+addr = 0x10bf7e8
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.545330Z
+addr = 0x11fe448
+size = 0xc4
+name = "_ZN16Npc2VoxelMyHouse10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN16Npc2VoxelMyHouse10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x11fe448
+
+[header.args]

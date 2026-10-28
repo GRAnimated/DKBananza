@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.588779Z
+addr = 0x12894a4
+size = 0x70
+name = "_ZN18PlayerStateAirMove16exeHeadAttackHitEv"
+
+[header]
+name = "_ZN18PlayerStateAirMove16exeHeadAttackHitEv"
+addr = 0x12894a4
+
+[header.args]

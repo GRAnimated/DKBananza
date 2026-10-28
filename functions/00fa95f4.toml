@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:41.856604Z
+addr = 0xfa95f4
+size = 0x1f0
+name = "_ZN4Zain10exeExplodeEv"
+
+[header]
+name = "_ZN4Zain10exeExplodeEv"
+addr = 0xfa95f4
+
+[header.args]

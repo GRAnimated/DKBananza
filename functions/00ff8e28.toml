@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:47.703228Z
+addr = 0xff8e28
+size = 0x64
+name = "_ZNK23LifeVoxelItemRegenerate18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK23LifeVoxelItemRegenerate18getRuntimeTypeInfoEv"
+addr = 0xff8e28
+
+[header.args]

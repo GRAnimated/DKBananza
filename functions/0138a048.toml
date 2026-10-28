@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.680183Z
+addr = 0x138a048
+size = 0x2c
+name = "_ZN25WaterVoxelKeyMoveMapParts10endClippedEv"
+
+[header]
+name = "_ZN25WaterVoxelKeyMoveMapParts10endClippedEv"
+addr = 0x138a048
+
+[header.args]

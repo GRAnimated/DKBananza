@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.533381Z
+addr = 0x11db730
+size = 0x44
+name = "sub_71011DB730"
+type = "long long"
+
+[header]
+name = "sub_71011DB730"
+addr = 0x11db730
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8

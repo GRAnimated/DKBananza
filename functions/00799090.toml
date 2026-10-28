@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.075007Z
+addr = 0x799090
+size = 0xa4
+name = "sub_7100799090"
+type = "float *"
+
+[header]
+name = "sub_7100799090"
+addr = 0x799090
+type = "float *"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "float *"
+size = 0x8

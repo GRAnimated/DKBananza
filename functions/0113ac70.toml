@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:17.358796Z
+addr = 0x113ac70
+size = 0x68
+name = "_ZN12RecordPlayer8exeEventEv"
+
+[header]
+name = "_ZN12RecordPlayer8exeEventEv"
+addr = 0x113ac70
+
+[header.args]

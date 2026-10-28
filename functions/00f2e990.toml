@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:34.345962Z
+addr = 0xf2e990
+size = 0xd4
+name = "_ZN12DemoStartObj13exeWaitButtonEv"
+
+[header]
+name = "_ZN12DemoStartObj13exeWaitButtonEv"
+addr = 0xf2e990
+
+[header.args]

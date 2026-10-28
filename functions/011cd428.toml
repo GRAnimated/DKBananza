@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.527902Z
+addr = 0x11cd428
+size = 0xa0
+name = "_ZN24Npc2AnimalTalkerElephant16exeReactionOtherEv"
+
+[header]
+name = "_ZN24Npc2AnimalTalkerElephant16exeReactionOtherEv"
+addr = 0x11cd428
+
+[header.args]

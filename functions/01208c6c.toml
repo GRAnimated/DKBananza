@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.548553Z
+addr = 0x1208c6c
+size = 0x174
+name = "_ZN16Npc2VoxelSunbath14exeDemoBloomOnEv"
+
+[header]
+name = "_ZN16Npc2VoxelSunbath14exeDemoBloomOnEv"
+addr = 0x1208c6c
+
+[header.args]

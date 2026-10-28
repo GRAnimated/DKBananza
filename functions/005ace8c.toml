@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:42.996636Z
+addr = 0x5ace8c
+size = 0x5c
+name = "_ZN4sead7ExpHeap9tryCreateEPvmRKNS_14SafeStringBaseIcEEPNS_4HeapEb"
+type = "long long"
+
+[header]
+name = "_ZN4sead7ExpHeap9tryCreateEPvmRKNS_14SafeStringBaseIcEEPNS_4HeapEb"
+addr = 0x5ace8c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

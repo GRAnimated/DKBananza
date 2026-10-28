@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.681231Z
+addr = 0x138ba88
+size = 0x14
+name = "_ZNK4sead18GameFrameworkOunce20getMethodFrameBufferEi"
+type = "sead::FrameBuffer *"
+
+[header]
+name = "_ZNK4sead18GameFrameworkOunce20getMethodFrameBufferEi"
+addr = 0x138ba88
+type = "sead::FrameBuffer *"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "const sead::GameFrameworkOunce *const"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4

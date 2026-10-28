@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.514830Z
+addr = 0x11a10f0
+size = 0x60
+name = "_ZN10VoidPillar8exeBreakEv"
+type = "long long"
+
+[header]
+name = "_ZN10VoidPillar8exeBreakEv"
+addr = 0x11a10f0
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

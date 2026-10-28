@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.197668Z
+addr = 0xb17a60
+size = 0x8
+name = "_ZN20hkMemoryMeshMaterial11setUserDataEy"
+type = "long long"
+
+[header]
+name = "_ZN20hkMemoryMeshMaterial11setUserDataEy"
+addr = 0xb17a60
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

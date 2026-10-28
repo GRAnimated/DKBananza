@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.121800Z
+addr = 0x8d1c4c
+size = 0x74
+name = "havok_71008D1C4C"
+type = "bool"
+
+[header]
+name = "havok_71008D1C4C"
+addr = 0x8d1c4c
+type = "bool"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4

@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:42.996611Z
+addr = 0x5ace1c
+size = 0x70
+name = "_ZN4sead7HeapMgr15createRootHeap_Ev"
+type = "long long"
+
+[header]
+name = "_ZN4sead7HeapMgr15createRootHeap_Ev"
+addr = 0x5ace1c
+type = "long long"
+
+[header.args]

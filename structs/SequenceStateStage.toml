@@ -1,0 +1,183 @@
+last_change = 2026-10-28T04:57:00.606866Z
+name = "SequenceStateStage"
+size = 0x150
+
+[members.0x0]
+name = "al::NerveStateBase"
+offset = 0x0
+type = "al::NerveStateBase"
+size = 0x20
+
+[members.0x20]
+name = "mSequence"
+offset = 0x20
+type = "al::Sequence *"
+size = 0x8
+
+[members.0x28]
+name = "mScene"
+offset = 0x28
+type = "al::Scene *"
+size = 0x8
+
+[members.0x30]
+name = "field_30"
+offset = 0x30
+type = "int"
+size = 0x4
+
+[members.0x38]
+name = "field_38"
+offset = 0x38
+type = "void *"
+size = 0x8
+
+[members.0x40]
+name = "field_40"
+offset = 0x40
+type = "void *"
+size = 0x8
+
+[members.0x48]
+name = "field_48"
+offset = 0x48
+type = "char *"
+size = 0x8
+
+[members.0x50]
+name = "field_50"
+offset = 0x50
+type = "int"
+size = 0x4
+
+[members.0x54]
+name = "field_54"
+offset = 0x54
+type = "char"
+size = 0x1
+
+[members.0x55]
+name = "field_55"
+offset = 0x55
+type = "char[75]"
+size = 0x4b
+
+[members.0xa0]
+name = "field_A0"
+offset = 0xa0
+type = "void *"
+size = 0x8
+
+[members.0xa8]
+name = "field_A8"
+offset = 0xa8
+type = "char[43]"
+size = 0x2b
+
+[members.0xd3]
+name = "field_D3"
+offset = 0xd3
+type = "char"
+size = 0x1
+
+[members.0xd4]
+name = "field_D4"
+offset = 0xd4
+type = "char[4]"
+size = 0x4
+
+[members.0xd8]
+name = "field_D8"
+offset = 0xd8
+type = "int"
+size = 0x4
+
+[members.0xe0]
+name = "field_E0"
+offset = 0xe0
+type = "void *"
+size = 0x8
+
+[members.0xe8]
+name = "field_E8"
+offset = 0xe8
+type = "int"
+size = 0x4
+
+[members.0xec]
+name = "field_EC"
+offset = 0xec
+type = "char[4]"
+size = 0x4
+
+[members.0xf0]
+name = "field_F0"
+offset = 0xf0
+type = "char"
+size = 0x1
+
+[members.0xf8]
+name = "field_F8"
+offset = 0xf8
+type = "void *"
+size = 0x8
+
+[members.0x100]
+name = "mLoadLayout"
+offset = 0x100
+type = "void *"
+size = 0x8
+
+[members.0x108]
+name = "mCounterWipe"
+offset = 0x108
+type = "void *"
+size = 0x8
+
+[members.0x110]
+name = "mBattleArenaLayout"
+offset = 0x110
+type = "void *"
+size = 0x8
+
+[members.0x118]
+name = "mTipsLayout"
+offset = 0x118
+type = "void *"
+size = 0x8
+
+[members.0x120]
+name = "mThankYouLayout"
+offset = 0x120
+type = "void *"
+size = 0x8
+
+[members.0x128]
+name = "field_128"
+offset = 0x128
+type = "int"
+size = 0x4
+
+[members.0x130]
+name = "mWipeHolder"
+offset = 0x130
+type = "al::WipeHolder *"
+size = 0x8
+
+[members.0x138]
+name = "mContinueMenu"
+offset = 0x138
+type = "void *"
+size = 0x8
+
+[members.0x140]
+name = "field_140"
+offset = 0x140
+type = "void *"
+size = 0x8
+
+[members.0x148]
+name = "field_148"
+offset = 0x148
+type = "void *"
+size = 0x8

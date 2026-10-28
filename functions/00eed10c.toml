@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:30.443876Z
+addr = 0xeed10c
+size = 0x268
+name = "_ZN9Stomperor7controlEv"
+type = "long long"
+
+[header]
+name = "_ZN9Stomperor7controlEv"
+addr = 0xeed10c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

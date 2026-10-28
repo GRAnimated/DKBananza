@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:05.603049Z
+addr = 0x10c632c
+size = 0x3c0
+name = "_ZN10FlyUnitFix4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN10FlyUnitFix4initERKN2al13ActorInitInfoE"
+addr = 0x10c632c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.589269Z
+addr = 0x128aed4
+size = 0x15c
+name = "_ZN23PlayerStateClimbCeiling10exeMoveEndEv"
+
+[header]
+name = "_ZN23PlayerStateClimbCeiling10exeMoveEndEv"
+addr = 0x128aed4
+
+[header.args]

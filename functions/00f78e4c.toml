@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.342013Z
+addr = 0xf78e4c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_112HopperNrvHop11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_112HopperNrvHop11getNameHashEv"
+addr = 0xf78e4c
+
+[header.args]

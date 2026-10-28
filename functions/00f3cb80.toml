@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.324338Z
+addr = 0xf3cb80
+size = 0x490
+name = "sub_7100F3CB80"
+type = "__n128"
+
+[header]
+name = "sub_7100F3CB80"
+addr = 0xf3cb80
+type = "__n128"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "unsigned long long *"
+size = 0x8

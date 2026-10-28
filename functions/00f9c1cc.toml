@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.355526Z
+addr = 0xf9c1cc
+size = 0x14
+name = "_ZNK12_GLOBAL__N_116TogemoleNrvSwoon11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_116TogemoleNrvSwoon11getNameHashEv"
+addr = 0xf9c1cc
+
+[header.args]

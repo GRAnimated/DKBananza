@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.334873Z
+addr = 0xf5e568
+size = 0x8
+name = "_ZNK12_GLOBAL__N_119DonZainCoreNrvSleep7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_119DonZainCoreNrvSleep7executeEPN2al11NerveKeeperE"
+addr = 0xf5e568
+
+[header.args]

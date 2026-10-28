@@ -1,0 +1,64 @@
+last_change = 2026-10-28T04:57:48.460286Z
+addr = 0x8d06c0
+size = 0x70
+name = "havok_71008D06C0"
+type = "long long"
+
+[header]
+name = "havok_71008D06C0"
+addr = 0x8d06c0
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x3]
+offset = 0x3
+name = "format"
+type = "char *"
+size = 0x8
+
+[header.args.0x4]
+offset = 0x4
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x5]
+offset = 0x5
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x6]
+offset = 0x6
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x7]
+offset = 0x7
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x8]
+offset = 0x8
+name = ""
+type = "char"
+size = 0x1

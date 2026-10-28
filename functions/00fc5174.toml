@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.370311Z
+addr = 0xfc5174
+size = 0x14
+name = "_ZNK12_GLOBAL__N_138SimplePaulineEventExecuteActorNrvEvent11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_138SimplePaulineEventExecuteActorNrvEvent11getNameHashEv"
+addr = 0xfc5174
+
+[header.args]

@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:49.671851Z
+addr = 0x10157f8
+size = 0x78
+name = "_ZN3Cue5exeInEv"
+type = "void"
+
+[header]
+name = "_ZN3Cue5exeInEv"
+addr = 0x10157f8
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "const al::IUseNerve *"
+size = 0x8

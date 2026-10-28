@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.264617Z
+addr = 0xe85060
+size = 0x54
+name = "_ZN7Gorongo8calcAnimEv"
+
+[header]
+name = "_ZN7Gorongo8calcAnimEv"
+addr = 0xe85060
+
+[header.args]

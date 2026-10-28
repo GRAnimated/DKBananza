@@ -1,11 +1,16 @@
-last_change = 2026-10-26T17:52:44.798681Z
+last_change = 2026-10-28T04:56:43.642053Z
 addr = 0x1339cb0
 size = 0xe8
+name = "sub_7101339CB0"
 type = "float"
 
 [header]
-last_change = 2026-10-26T17:52:44.798681Z
+name = "sub_7101339CB0"
 addr = 0x1339cb0
 type = "float"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

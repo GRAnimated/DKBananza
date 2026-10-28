@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:42.429884Z
+addr = 0x153110
+size = 0x8
+name = "phive_RigidBodyEntity_7100153110"
+type = "long long"
+
+[header]
+name = "phive_RigidBodyEntity_7100153110"
+addr = 0x153110
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

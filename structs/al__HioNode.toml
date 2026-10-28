@@ -1,0 +1,9 @@
+last_change = 2026-10-28T04:57:00.587060Z
+name = "al::HioNode"
+size = 0x8
+
+[members.0x0]
+name = "__vftable"
+offset = 0x0
+type = "al::HioNode_vtbl *"
+size = 0x8

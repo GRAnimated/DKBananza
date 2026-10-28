@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.359743Z
+addr = 0xfaba3c
+size = 0x8
+name = "_ZNK12_GLOBAL__N_113ZainNrvUnbind7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_113ZainNrvUnbind7executeEPN2al11NerveKeeperE"
+addr = 0xfaba3c
+
+[header.args]

@@ -1,12 +1,22 @@
-last_change = 2026-10-26T00:37:10.006786Z
+last_change = 2026-10-28T04:56:43.902802Z
 addr = 0x171faa8
 size = 0x94
 name = "_ZN14AllDeadWatcherC2EPKc"
-type = "unsigned long long *"
+type = "void"
 
 [header]
 name = "_ZN14AllDeadWatcherC2EPKc"
 addr = 0x171faa8
-type = "unsigned long long *"
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "const char *"
+size = 0x8

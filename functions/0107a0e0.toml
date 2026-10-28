@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.425085Z
+addr = 0x107a0e0
+size = 0x3c
+name = "Boat_updateCollider"
+
+[header]
+name = "Boat_updateCollider"
+addr = 0x107a0e0
+
+[header.args]

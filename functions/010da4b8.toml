@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.455215Z
+addr = 0x10da4b8
+size = 0x8
+name = "_ZN7Gondola10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+type = "long long"
+
+[header]
+name = "_ZN7Gondola10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x10da4b8
+type = "long long"
+
+[header.args]

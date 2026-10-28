@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.473573Z
+addr = 0x111b10c
+size = 0x8
+name = "_ZNK12_GLOBAL__N_118MinecartNrvDiveOff7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_118MinecartNrvDiveOff7executeEPN2al11NerveKeeperE"
+addr = 0x111b10c
+
+[header.args]

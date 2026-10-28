@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.828540Z
+addr = 0x16641fc
+size = 0x108
+name = "_ZN2al17CameraPoseUpdater7exeStopEv"
+type = "void *"
+
+[header]
+name = "_ZN2al17CameraPoseUpdater7exeStopEv"
+addr = 0x16641fc
+type = "void *"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

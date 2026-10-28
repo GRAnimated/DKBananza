@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.556485Z
+addr = 0x1222278
+size = 0x14
+name = "_ZNK12_GLOBAL__N_118TadoruyaNpcNrvWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_118TadoruyaNpcNrvWait11getNameHashEv"
+addr = 0x1222278
+
+[header.args]

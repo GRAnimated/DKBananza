@@ -1,0 +1,255 @@
+last_change = 2026-10-28T04:57:00.587825Z
+name = "al::GameFrameworkOunce_vtbl_layout"
+size = 0x150
+
+[members.0x0]
+name = "thisOffset"
+offset = 0x0
+type = "long long"
+size = 0x8
+
+[members.0x8]
+name = "rtti"
+offset = 0x8
+type = "void *"
+size = 0x8
+
+[members.0x10]
+name = "checkDerivedRuntimeTypeInfo"
+offset = 0x10
+type = "void *(*)(const al::GameFrameworkOunce *const __hidden this, const sead::RuntimeTypeInfo::Interface *)"
+size = 0x8
+
+[members.0x18]
+name = "getRuntimeTypeInfo"
+offset = 0x18
+type = "const sead::RuntimeTypeInfo::Interface *(*)(const al::GameFrameworkOunce *const __hidden this)"
+size = 0x8
+
+[members.0x20]
+name = "dtr_GameFrameworkOunce"
+offset = 0x20
+type = "void (*)(al::GameFrameworkOunce *__hidden this)"
+size = 0x8
+
+[members.0x28]
+name = "dtr_GameFrameworkOunce_2"
+offset = 0x28
+type = "void (*)(al::GameFrameworkOunce *__hidden this)"
+size = 0x8
+
+[members.0x30]
+name = "run"
+offset = 0x30
+type = "void (*)(sead::Framework *__hidden this, sead::Heap *, const sead::TaskBase::CreateArg *, const sead::Framework::RunArg *)"
+size = 0x8
+
+[members.0x38]
+name = "createSystemTasks"
+offset = 0x38
+type = "void (*)(sead::GameFramework *__hidden this, sead::TaskBase *, const sead::Framework::CreateSystemTaskArg *)"
+size = 0x8
+
+[members.0x40]
+name = "getMethodFrameBuffer"
+offset = 0x40
+type = "sead::FrameBuffer *(*)(const sead::GameFrameworkOunce *const __hidden this, int)"
+size = 0x8
+
+[members.0x48]
+name = "getMethodLogicalFrameBuffer"
+offset = 0x48
+type = "sead::LogicalFrameBuffer *(*)(const sead::GameFrameworkOunce *const __hidden this, int)"
+size = 0x8
+
+[members.0x50]
+name = "setProcessPriority"
+offset = 0x50
+type = "bool (*)(sead::Framework *__hidden this, sead::Framework::ProcessPriority)"
+size = 0x8
+
+[members.0x58]
+name = "reserveReset"
+offset = 0x58
+type = "void (*)(sead::Framework *__hidden this, void *)"
+size = 0x8
+
+[members.0x60]
+name = "initRun_"
+offset = 0x60
+type = "void (*)(sead::GameFrameworkOunce *__hidden this, sead::Heap *)"
+size = 0x8
+
+[members.0x68]
+name = "quitRun_"
+offset = 0x68
+type = "void (*)(sead::GameFramework *__hidden this, sead::Heap *)"
+size = 0x8
+
+[members.0x70]
+name = "runImpl_"
+offset = 0x70
+type = "void (*)(sead::GameFrameworkOunce *__hidden this)"
+size = 0x8
+
+[members.0x78]
+name = "createMethodTreeMgr_"
+offset = 0x78
+type = "sead::MethodTreeMgr *(*)(sead::GameFrameworkOunce *__hidden this, sead::Heap *)"
+size = 0x8
+
+[members.0x80]
+name = "procReset_"
+offset = 0x80
+type = "void (*)(sead::Framework *__hidden this)"
+size = 0x8
+
+[members.0x88]
+name = "createControllerMgr"
+offset = 0x88
+type = "void (*)(al::GameFrameworkOunce *__hidden this, sead::TaskBase *)"
+size = 0x8
+
+[members.0x90]
+name = "createHostIOMgr"
+offset = 0x90
+type = "void (*)(al::GameFrameworkOunce *__hidden this, sead::TaskBase *, sead::HostIOMgr::Parameter *, sead::Heap *)"
+size = 0x8
+
+[members.0x98]
+name = "createProcessMeter"
+offset = 0x98
+type = "void (*)(sead::GameFramework *__hidden this, sead::TaskBase *)"
+size = 0x8
+
+[members.0xa0]
+name = "createSeadMenuMgr"
+offset = 0xa0
+type = "void (*)(sead::GameFramework *__hidden this, sead::TaskBase *)"
+size = 0x8
+
+[members.0xa8]
+name = "createInfLoopChecker"
+offset = 0xa8
+type = "void (*)(al::GameFrameworkOunce *__hidden this, sead::TaskBase *, const sead::TickSpan *, int, ...)"
+size = 0x8
+
+[members.0xb0]
+name = "createCuckooClock"
+offset = 0xb0
+type = "void (*)(sead::GameFramework *__hidden this, sead::TaskBase *)"
+size = 0x8
+
+[members.0xb8]
+name = "calcFps"
+offset = 0xb8
+type = "float (*)(sead::GameFrameworkOunce *__hidden this)"
+size = 0x8
+
+[members.0xc0]
+name = "saveScreenShot"
+offset = 0xc0
+type = "void (*)(sead::GameFramework *__hidden this, const SafeStringBase<char> *)"
+size = 0x8
+
+[members.0xc8]
+name = "isScreenShotBusy"
+offset = 0xc8
+type = "bool (*)(const sead::GameFramework *const __hidden this)"
+size = 0x8
+
+[members.0xd0]
+name = "waitStartDisplayLoop_"
+offset = 0xd0
+type = "void (*)(sead::GameFramework *__hidden this)"
+size = 0x8
+
+[members.0xd8]
+name = "initHostIO_"
+offset = 0xd8
+type = "void (*)(sead::GameFramework *__hidden this)"
+size = 0x8
+
+[members.0xe0]
+name = "setCaption"
+offset = 0xe0
+type = "void (*)(sead::GameFrameworkOunce *__hidden this, const SafeStringBase<char> *)"
+size = 0x8
+
+[members.0xe8]
+name = "mainLoop_"
+offset = 0xe8
+type = "void (*)(sead::GameFrameworkOunce *__hidden this)"
+size = 0x8
+
+[members.0xf0]
+name = "procFrame_"
+offset = 0xf0
+type = "void (*)(al::GameFrameworkOunce *__hidden this)"
+size = 0x8
+
+[members.0xf8]
+name = "procDraw_"
+offset = 0xf8
+type = "void (*)(sead::GameFrameworkOunce *__hidden this)"
+size = 0x8
+
+[members.0x100]
+name = "procCalc_"
+offset = 0x100
+type = "void (*)(al::GameFrameworkOunce *__hidden this)"
+size = 0x8
+
+[members.0x108]
+name = "present_"
+offset = 0x108
+type = "void (*)(sead::GameFrameworkOunce *__hidden this)"
+size = 0x8
+
+[members.0x110]
+name = "swapBuffer_"
+offset = 0x110
+type = "void (*)(sead::GameFrameworkOunce *__hidden this)"
+size = 0x8
+
+[members.0x118]
+name = "clearFrameBuffers_"
+offset = 0x118
+type = "void (*)(sead::GameFrameworkOunce *__hidden this, ...)"
+size = 0x8
+
+[members.0x120]
+name = "waitForGpuDone_"
+offset = 0x120
+type = "void (*)(sead::GameFrameworkOunce *__hidden this)"
+size = 0x8
+
+[members.0x128]
+name = "setGpuTimeStamp_"
+offset = 0x128
+type = "void (*)(sead::GameFrameworkOunce *__hidden this)"
+size = 0x8
+
+[members.0x130]
+name = "thisOffset_2"
+offset = 0x130
+type = "long long"
+size = 0x8
+
+[members.0x138]
+name = "rtti_2"
+offset = 0x138
+type = "void *"
+size = 0x8
+
+[members.0x140]
+name = "checkDerivedRuntimeTypeInfo_2"
+offset = 0x140
+type = "void *(*)(const al::GameFrameworkOunce *const __hidden this, const sead::RuntimeTypeInfo::Interface *)"
+size = 0x8
+
+[members.0x148]
+name = "getRuntimeTypeInfo_2"
+offset = 0x148
+type = "const sead::RuntimeTypeInfo::Interface *(*)(const al::GameFrameworkOunce *const __hidden this)"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.544118Z
+addr = 0x11faa50
+size = 0x14
+name = "_ZNK12_GLOBAL__N_128Npc2VoxelConstructionNrvWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_128Npc2VoxelConstructionNrvWait11getNameHashEv"
+addr = 0x11faa50
+
+[header.args]

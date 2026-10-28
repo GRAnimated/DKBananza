@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.702594Z
+addr = 0x13f0880
+size = 0x264
+name = "sub_71013F0880"
+
+[header]
+name = "sub_71013F0880"
+addr = 0x13f0880
+
+[header.args]

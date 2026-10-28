@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.481307Z
+addr = 0x1135210
+size = 0x14
+name = "_ZNK12_GLOBAL__N_121PullOutObjNrvReaction11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_121PullOutObjNrvReaction11getNameHashEv"
+addr = 0x1135210
+
+[header.args]

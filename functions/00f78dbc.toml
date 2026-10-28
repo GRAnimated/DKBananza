@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.341945Z
+addr = 0xf78dbc
+size = 0x8
+name = "Nerve_7100F78DBC"
+
+[header]
+name = "Nerve_7100F78DBC"
+addr = 0xf78dbc
+
+[header.args]

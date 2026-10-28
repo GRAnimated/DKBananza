@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.415802Z
+addr = 0x105e9e8
+size = 0x14
+name = "AttractionCounter__ZNK12_GLOBAL__N_117HostTypeNrvOnWait11getNameHashEv"
+
+[header]
+name = "AttractionCounter__ZNK12_GLOBAL__N_117HostTypeNrvOnWait11getNameHashEv"
+addr = 0x105e9e8
+
+[header.args]

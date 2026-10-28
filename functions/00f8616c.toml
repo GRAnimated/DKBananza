@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.346899Z
+addr = 0xf8616c
+size = 0x8
+name = "_ZNK12_GLOBAL__N_124MimichiNrvPopOutHandSlap7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_124MimichiNrvPopOutHandSlap7executeEPN2al11NerveKeeperE"
+addr = 0xf8616c
+
+[header.args]

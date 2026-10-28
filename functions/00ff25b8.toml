@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.381888Z
+addr = 0xff25b8
+size = 0x8
+name = "_ZNK12_GLOBAL__N_119StateNrvWaitInWater7executeEPN2al11NerveKeeperE_7100FF25B8"
+
+[header]
+name = "_ZNK12_GLOBAL__N_119StateNrvWaitInWater7executeEPN2al11NerveKeeperE_7100FF25B8"
+addr = 0xff25b8
+
+[header.args]

@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.987136Z
+last_change = 2026-10-28T04:56:43.439913Z
 addr = 0x10ab3ec
 size = 0x4
-name = "nullsub_1650"
+name = "_ZN25DeformLiftRisingCollision12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
 
 [header]
-name = "nullsub_1650"
+name = "_ZN25DeformLiftRisingCollision12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
 addr = 0x10ab3ec
 
 [header.args]

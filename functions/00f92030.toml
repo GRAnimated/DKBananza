@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:40.617313Z
+addr = 0xf92030
+size = 0x3dc
+name = "_ZN7RockBee4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN7RockBee4initERKN2al13ActorInitInfoE"
+addr = 0xf92030
+
+[header.args]

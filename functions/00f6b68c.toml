@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.338578Z
+addr = 0xf6b68c
+size = 0x8
+name = "Gororo__ZNK12_GLOBAL__N_115HostTypeNrvBlow7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "Gororo__ZNK12_GLOBAL__N_115HostTypeNrvBlow7executeEPN2al11NerveKeeperE"
+addr = 0xf6b68c
+
+[header.args]

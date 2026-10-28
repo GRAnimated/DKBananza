@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.350705Z
+addr = 0xf8d330
+size = 0x14
+name = "_ZNK12_GLOBAL__N_121MiniShioNrvAttackSign11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_121MiniShioNrvAttackSign11getNameHashEv"
+addr = 0xf8d330
+
+[header.args]

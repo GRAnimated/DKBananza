@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:02.577522Z
+addr = 0x10b06c8
+size = 0x15c
+name = "_ZN20DesertLevelShieldObj15exeSwitchCameraEv"
+
+[header]
+name = "_ZN20DesertLevelShieldObj15exeSwitchCameraEv"
+addr = 0x10b06c8
+
+[header.args]

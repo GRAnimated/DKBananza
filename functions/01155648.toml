@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:59:19.707393Z
+addr = 0x1155648
+size = 0xfc
+name = "sub_7101155648"
+type = "long long"
+
+[header]
+name = "sub_7101155648"
+addr = 0x1155648
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long double"
+size = 0x10

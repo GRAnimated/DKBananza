@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:43.129236Z
+addr = 0x784e2c
+size = 0x238
+name = "_ZN25Npc2VoxelShopChipExchange4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN25Npc2VoxelShopChipExchange4initERKN2al13ActorInitInfoE"
+addr = 0x784e2c
+
+[header.args]

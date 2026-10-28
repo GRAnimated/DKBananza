@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.802664Z
+addr = 0x15fff40
+size = 0xa8
+name = "phive_CustomFrictionConstraintData_ctor"
+type = "long double"
+
+[header]
+name = "phive_CustomFrictionConstraintData_ctor"
+addr = 0x15fff40
+type = "long double"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

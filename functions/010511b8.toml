@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.411873Z
+addr = 0x10511b8
+size = 0x14
+name = "_ZNK12_GLOBAL__N_117TransitionHpNrvIn11getNameHashEv"
+type = "long long"
+
+[header]
+name = "_ZNK12_GLOBAL__N_117TransitionHpNrvIn11getNameHashEv"
+addr = 0x10511b8
+type = "long long"
+
+[header.args]

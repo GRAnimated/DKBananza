@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:56:43.145278Z
+addr = 0x928cf4
+size = 0xc
+name = "havok_7100928CF4"
+type = "long long"
+
+[header]
+name = "havok_7100928CF4"
+addr = 0x928cf4
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "double"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "double *"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.491061Z
+addr = 0x11541a0
+size = 0x3f4
+name = "_ZN8SmallBat10exeFlyAwayEv"
+
+[header]
+name = "_ZN8SmallBat10exeFlyAwayEv"
+addr = 0x11541a0
+
+[header.args]

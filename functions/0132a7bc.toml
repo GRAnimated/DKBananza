@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.635428Z
+addr = 0x132a7bc
+size = 0x14
+name = "_ZNK12_GLOBAL__N_117GameSystemNrvPlay11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_117GameSystemNrvPlay11getNameHashEv"
+addr = 0x132a7bc
+
+[header.args]

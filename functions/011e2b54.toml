@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.536046Z
+addr = 0x11e2b54
+size = 0x64
+name = "_ZNK33Npc2KongConstructionBossKongSound18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK33Npc2KongConstructionBossKongSound18getRuntimeTypeInfoEv"
+addr = 0x11e2b54
+
+[header.args]

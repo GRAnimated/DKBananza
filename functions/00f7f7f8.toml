@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.344465Z
+addr = 0xf7f7f8
+size = 0x110
+name = "_ZN8Marksman18initAfterPlacementEv"
+
+[header]
+name = "_ZN8Marksman18initAfterPlacementEv"
+addr = 0xf7f7f8
+
+[header.args]

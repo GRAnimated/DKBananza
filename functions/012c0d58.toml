@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.601048Z
+addr = 0x12c0d58
+size = 0x14
+name = "_ZNK12_GLOBAL__N_122PlayerUpperBodyNrvHold11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_122PlayerUpperBodyNrvHold11getNameHashEv"
+addr = 0x12c0d58
+
+[header.args]

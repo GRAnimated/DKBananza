@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.609216Z
+addr = 0x12ded80
+size = 0x9c
+name = "_ZN11ClosetScene11exeOpenWipeEv"
+
+[header]
+name = "_ZN11ClosetScene11exeOpenWipeEv"
+addr = 0x12ded80
+
+[header.args]

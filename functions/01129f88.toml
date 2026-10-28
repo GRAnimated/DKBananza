@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.478719Z
+addr = 0x1129f88
+size = 0xfc
+name = "_ZN16PaulineCagePartsD1Ev"
+
+[header]
+name = "_ZN16PaulineCagePartsD1Ev"
+addr = 0x1129f88
+
+[header.args]

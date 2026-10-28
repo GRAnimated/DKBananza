@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:25.171899Z
+addr = 0xe9cbb0
+size = 0x64
+name = "_ZNK19KingKRoolCannonBall18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK19KingKRoolCannonBall18getRuntimeTypeInfoEv"
+addr = 0xe9cbb0
+
+[header.args]

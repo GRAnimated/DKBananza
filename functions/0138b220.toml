@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:09.996047Z
+last_change = 2026-10-28T04:56:43.680864Z
 addr = 0x138b220
 size = 0x8
 name = "_ZdaPvRKSt9nothrow_t"
@@ -9,4 +9,14 @@ name = "_ZdaPvRKSt9nothrow_t"
 addr = 0x138b220
 type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "void *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "const std::nothrow_t *"
+size = 0x8

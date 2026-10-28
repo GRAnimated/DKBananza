@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.682005Z
+addr = 0x138c460
+size = 0x5c
+name = "_ZN4sead13GameFramework19createControllerMgrEPNS_8TaskBaseE"
+type = "void"
+
+[header]
+name = "_ZN4sead13GameFramework19createControllerMgrEPNS_8TaskBaseE"
+addr = 0x138c460
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "sead::GameFramework *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "sead::TaskBase *"
+size = 0x8

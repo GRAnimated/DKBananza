@@ -1,0 +1,34 @@
+last_change = 2026-10-28T04:56:43.704351Z
+addr = 0x13f6a68
+size = 0x230
+name = "sub_71013F6A68"
+type = "long long"
+
+[header]
+name = "sub_71013F6A68"
+addr = 0x13f6a68
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "unsigned long long"
+size = 0x8

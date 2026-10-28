@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.380631Z
+addr = 0xfeea9c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_121StateNrvWaitSkyDiving11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_121StateNrvWaitSkyDiving11getNameHashEv"
+addr = 0xfeea9c
+
+[header.args]

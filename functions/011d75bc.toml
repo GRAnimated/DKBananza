@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.530789Z
+addr = 0x11d75bc
+size = 0x4
+name = "_ZN12Npc2Banaroot8calcAnimEv"
+
+[header]
+name = "_ZN12Npc2Banaroot8calcAnimEv"
+addr = 0x11d75bc
+
+[header.args]

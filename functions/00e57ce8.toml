@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.248979Z
+addr = 0xe57ce8
+size = 0x8
+name = "BioThorn__ZNK12_GLOBAL__N_117HostTypeNrvBattle7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "BioThorn__ZNK12_GLOBAL__N_117HostTypeNrvBattle7executeEPN2al11NerveKeeperE"
+addr = 0xe57ce8
+
+[header.args]

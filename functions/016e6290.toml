@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.883479Z
+addr = 0x16e6290
+size = 0x5c
+name = "_ZN13SlideMapPartsD1Ev"
+
+[header]
+name = "_ZN13SlideMapPartsD1Ev"
+addr = 0x16e6290
+
+[header.args]

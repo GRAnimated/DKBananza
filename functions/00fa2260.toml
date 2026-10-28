@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:41.510256Z
+addr = 0xfa2260
+size = 0x170
+name = "_ZN20UeyowaidaStateAttack10exeStretchEv"
+type = "long long"
+
+[header]
+name = "_ZN20UeyowaidaStateAttack10exeStretchEv"
+addr = 0xfa2260
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

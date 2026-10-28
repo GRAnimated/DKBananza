@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.033257Z
+addr = 0x694298
+size = 0x34
+name = "_ZN25Npc2VoxelBreakAchievement14makeActorAliveEv"
+
+[header]
+name = "_ZN25Npc2VoxelBreakAchievement14makeActorAliveEv"
+addr = 0x694298
+
+[header.args]

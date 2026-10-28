@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.538890Z
+addr = 0x11ea55c
+size = 0x64
+name = "_ZNK23Npc2KongTalkerDiddyKong18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK23Npc2KongTalkerDiddyKong18getRuntimeTypeInfoEv"
+addr = 0x11ea55c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.327961Z
+addr = 0xf4803c
+size = 0x8
+name = "_ZNK12_GLOBAL__N_115ChaserNrvAppear7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_115ChaserNrvAppear7executeEPN2al11NerveKeeperE"
+addr = 0xf4803c
+
+[header.args]

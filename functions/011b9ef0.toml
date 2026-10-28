@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.522435Z
+addr = 0x11b9ef0
+size = 0x14
+name = "_ZNK12_GLOBAL__N_116YocchiNrvRespawn11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_116YocchiNrvRespawn11getNameHashEv"
+addr = 0x11b9ef0
+
+[header.args]

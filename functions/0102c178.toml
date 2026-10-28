@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.402345Z
+addr = 0x102c178
+size = 0x14
+name = "_ZNK12_GLOBAL__N_117MenuLayoutNrvWait11getNameHashEv"
+type = "long long"
+
+[header]
+name = "_ZNK12_GLOBAL__N_117MenuLayoutNrvWait11getNameHashEv"
+addr = 0x102c178
+type = "long long"
+
+[header.args]

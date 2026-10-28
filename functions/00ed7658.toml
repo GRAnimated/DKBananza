@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.291910Z
+addr = 0xed7658
+size = 0xd0
+name = "_ZN9PoppyKongD1Ev"
+
+[header]
+name = "_ZN9PoppyKongD1Ev"
+addr = 0xed7658
+
+[header.args]

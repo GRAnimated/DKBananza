@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:42.533111Z
+addr = 0x52d64c
+size = 0x30
+name = "sub_710052D64C"
+type = "long long"
+
+[header]
+name = "sub_710052D64C"
+addr = 0x52d64c
+type = "long long"
+
+[header.args]

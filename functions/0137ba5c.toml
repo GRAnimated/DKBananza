@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.674335Z
+addr = 0x137ba5c
+size = 0x64
+name = "_ZN27VoxelPartsBrokenRateChecker18exeAppearBananaEndEv"
+
+[header]
+name = "_ZN27VoxelPartsBrokenRateChecker18exeAppearBananaEndEv"
+addr = 0x137ba5c
+
+[header.args]

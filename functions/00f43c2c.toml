@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:35.622412Z
+addr = 0xf43c2c
+size = 0x88
+name = "_ZN10BattanWall12exeMimicWaitEv"
+type = "long long"
+
+[header]
+name = "_ZN10BattanWall12exeMimicWaitEv"
+addr = 0xf43c2c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

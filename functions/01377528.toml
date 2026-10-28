@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.673272Z
+addr = 0x1377528
+size = 0x208
+name = "_ZN13VoxelMoneyObj18initAfterPlacementEv"
+
+[header]
+name = "_ZN13VoxelMoneyObj18initAfterPlacementEv"
+addr = 0x1377528
+
+[header.args]

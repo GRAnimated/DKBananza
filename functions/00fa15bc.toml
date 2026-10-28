@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.357465Z
+addr = 0xfa15bc
+size = 0x5c
+name = "_ZN24UeyowaidaLaserController7exeWaitEv"
+
+[header]
+name = "_ZN24UeyowaidaLaserController7exeWaitEv"
+addr = 0xfa15bc
+
+[header.args]

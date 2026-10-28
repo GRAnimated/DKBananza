@@ -1,0 +1,135 @@
+last_change = 2026-10-28T04:57:00.600497Z
+name = "ProductSequence"
+size = 0x168
+
+[members.0x0]
+name = "al::Sequence"
+offset = 0x0
+type = "al::Sequence"
+size = 0xc0
+
+[members.0xc0]
+name = "field_C0"
+offset = 0xc0
+type = "void *"
+size = 0x8
+
+[members.0xc8]
+name = "field_C8"
+offset = 0xc8
+type = "SequenceStateBoot *"
+size = 0x8
+
+[members.0xd0]
+name = "field_D0"
+offset = 0xd0
+type = "void *"
+size = 0x8
+
+[members.0xd8]
+name = "field_D8"
+offset = 0xd8
+type = "void *"
+size = 0x8
+
+[members.0xe0]
+name = "field_E0"
+offset = 0xe0
+type = "void *"
+size = 0x8
+
+[members.0xe8]
+name = "field_E8"
+offset = 0xe8
+type = "void *"
+size = 0x8
+
+[members.0xf0]
+name = "field_F0"
+offset = 0xf0
+type = "void *"
+size = 0x8
+
+[members.0xf8]
+name = "field_F8"
+offset = 0xf8
+type = "void *"
+size = 0x8
+
+[members.0x100]
+name = "mWipeHolder"
+offset = 0x100
+type = "al::WipeHolder *"
+size = 0x8
+
+[members.0x108]
+name = "mLoadLayout"
+offset = 0x108
+type = "void *"
+size = 0x8
+
+[members.0x110]
+name = "field_110"
+offset = 0x110
+type = "void *"
+size = 0x8
+
+[members.0x118]
+name = "mCounterWipe"
+offset = 0x118
+type = "void *"
+size = 0x8
+
+[members.0x120]
+name = "mBattleArenaLayout"
+offset = 0x120
+type = "void *"
+size = 0x8
+
+[members.0x128]
+name = "mTipsLayout"
+offset = 0x128
+type = "void *"
+size = 0x8
+
+[members.0x130]
+name = "field_130"
+offset = 0x130
+type = "void *"
+size = 0x8
+
+[members.0x138]
+name = "mContinueMenu"
+offset = 0x138
+type = "void *"
+size = 0x8
+
+[members.0x140]
+name = "field_140"
+offset = 0x140
+type = "void *"
+size = 0x8
+
+[members.0x148]
+name = "field_148"
+offset = 0x148
+type = "void *"
+size = 0x8
+
+[members.0x150]
+name = "field_150"
+offset = 0x150
+type = "void *"
+size = 0x8
+
+[members.0x158]
+name = "field_158"
+offset = 0x158
+type = "void *"
+size = 0x8
+
+[members.0x160]
+name = "field_160"
+offset = 0x160
+type = "void *"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.469364Z
+addr = 0x110769c
+size = 0x140
+name = "_ZN6Lizard18initAfterPlacementEv"
+
+[header]
+name = "_ZN6Lizard18initAfterPlacementEv"
+addr = 0x110769c
+
+[header.args]

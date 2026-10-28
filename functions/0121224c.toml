@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.551638Z
+addr = 0x121224c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_126NpcTaxiReceptionNrvRespawn11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_126NpcTaxiReceptionNrvRespawn11getNameHashEv"
+addr = 0x121224c
+
+[header.args]

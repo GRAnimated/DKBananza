@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:11.648464Z
+addr = 0x110396c
+size = 0x6c
+name = "_ZN11LightCandle17exeRegenerateWaitEv"
+
+[header]
+name = "_ZN11LightCandle17exeRegenerateWaitEv"
+addr = 0x110396c
+
+[header.args]

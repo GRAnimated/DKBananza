@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:59:00.721016Z
+addr = 0x1097bb4
+size = 0x58
+name = "_ZN11CopyFooting6appearEv"
+type = "long long"
+
+[header]
+name = "_ZN11CopyFooting6appearEv"
+addr = 0x1097bb4
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

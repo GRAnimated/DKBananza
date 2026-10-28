@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:04.559977Z
+addr = 0x10bf254
+size = 0x284
+name = "_ZN18ExtraLargeFruitObj12exeDemoCrackEv"
+
+[header]
+name = "_ZN18ExtraLargeFruitObj12exeDemoCrackEv"
+addr = 0x10bf254
+
+[header.args]

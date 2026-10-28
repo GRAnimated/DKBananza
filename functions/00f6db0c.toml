@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:38.256804Z
+addr = 0xf6db0c
+size = 0x58
+name = "_ZN4Gush11exeHandSlapEv"
+
+[header]
+name = "_ZN4Gush11exeHandSlapEv"
+addr = 0xf6db0c
+
+[header.args]

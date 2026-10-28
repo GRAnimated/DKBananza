@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:43.534686Z
+addr = 0x79c8fc
+size = 0x260
+name = "_ZNK12_GLOBAL__N_119LoadMenuLayoutNrvIn7executeEPN2al11NerveKeeperE"
+type = "void"
+
+[header]
+name = "_ZNK12_GLOBAL__N_119LoadMenuLayoutNrvIn7executeEPN2al11NerveKeeperE"
+addr = 0x79c8fc
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

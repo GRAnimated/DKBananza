@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.523121Z
+addr = 0x11bc1ac
+size = 0x20c
+name = "_ZN7ZipLine10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN7ZipLine10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x11bc1ac
+
+[header.args]

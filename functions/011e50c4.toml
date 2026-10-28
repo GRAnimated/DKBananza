@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.536912Z
+addr = 0x11e50c4
+size = 0x130
+name = "_ZN26Npc2KongTalkerBossKongDown4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN26Npc2KongTalkerBossKongDown4initERKN2al13ActorInitInfoE"
+addr = 0x11e50c4
+
+[header.args]

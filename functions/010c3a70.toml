@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.448038Z
+addr = 0x10c3a70
+size = 0x4
+name = "_ZNK17FinalTrialChecker27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK17FinalTrialChecker27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x10c3a70
+
+[header.args]

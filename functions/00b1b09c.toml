@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.199133Z
+addr = 0xb1b09c
+size = 0x10
+name = "_ZNK19hkMemoryMeshTexture13getHasMipMapsEv"
+type = "bool"
+
+[header]
+name = "_ZNK19hkMemoryMeshTexture13getHasMipMapsEv"
+addr = 0xb1b09c
+type = "bool"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

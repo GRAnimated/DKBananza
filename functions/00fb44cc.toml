@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.363110Z
+addr = 0xfb44cc
+size = 0x264
+name = "sub_7100FB44CC"
+
+[header]
+name = "sub_7100FB44CC"
+addr = 0xfb44cc
+
+[header.args]

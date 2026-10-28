@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.346391Z
+addr = 0xf85584
+size = 0x74
+name = "_ZN7MimichiD1Ev"
+
+[header]
+name = "_ZN7MimichiD1Ev"
+addr = 0xf85584
+
+[header.args]

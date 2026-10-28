@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:42.456065Z
+addr = 0x29c62c
+size = 0x20
+name = "_ZNK5phive9RigidBody29getChangePropertiesIfChanged_ENS_17RigidBodyPropertyE"
+type = "long long"
+
+[header]
+name = "_ZNK5phive9RigidBody29getChangePropertiesIfChanged_ENS_17RigidBodyPropertyE"
+addr = 0x29c62c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "char"
+size = 0x1

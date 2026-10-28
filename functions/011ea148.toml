@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.538777Z
+addr = 0x11ea148
+size = 0x4
+name = "_ZN23Npc2KongTalkerDiddyKong18initAfterPlacementEv"
+
+[header]
+name = "_ZN23Npc2KongTalkerDiddyKong18initAfterPlacementEv"
+addr = 0x11ea148
+
+[header.args]

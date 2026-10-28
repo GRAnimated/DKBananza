@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:46.314456Z
+addr = 0xfe24cc
+size = 0x64
+name = "_ZNK14BananamondChip18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK14BananamondChip18getRuntimeTypeInfoEv"
+addr = 0xfe24cc
+
+[header.args]

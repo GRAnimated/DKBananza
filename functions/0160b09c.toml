@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:56:43.804443Z
+addr = 0x160b09c
+size = 0x1f4
+name = "phive_CollectManifoldModifier_ctor"
+type = "long long"
+
+[header]
+name = "phive_CollectManifoldModifier_ctor"
+addr = 0x160b09c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "long long"
+size = 0x8

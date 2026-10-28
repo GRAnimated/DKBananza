@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:57:30.272088Z
+addr = 0x365c20
+size = 0xb8
+name = "al_LiveActorKit_initPhysics"
+type = "void"
+
+[header]
+name = "al_LiveActorKit_initPhysics"
+addr = 0x365c20
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::LiveActorKit *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "sceneResource"
+type = "void *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = "timing"
+type = "ScenePhysicsTiming *"
+size = 0x8

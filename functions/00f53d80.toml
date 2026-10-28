@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.331271Z
+addr = 0xf53d80
+size = 0x2c
+name = "_ZN10Debrischan12startClippedEv"
+
+[header]
+name = "_ZN10Debrischan12startClippedEv"
+addr = 0xf53d80
+
+[header.args]

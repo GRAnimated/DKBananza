@@ -1,12 +1,16 @@
-last_change = 2026-10-26T00:37:09.975524Z
+last_change = 2026-10-28T04:56:43.016974Z
 addr = 0x6294ac
 size = 0xc
 name = "_ZN2al9LiveActor6appearEv"
-type = "long long"
+type = "void"
 
 [header]
 name = "_ZN2al9LiveActor6appearEv"
 addr = 0x6294ac
-type = "long long"
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::LiveActor *"
+size = 0x8

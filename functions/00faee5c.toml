@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.360634Z
+addr = 0xfaee5c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_126ZainStateAttackNrvVertical11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_126ZainStateAttackNrvVertical11getNameHashEv"
+addr = 0xfaee5c
+
+[header.args]

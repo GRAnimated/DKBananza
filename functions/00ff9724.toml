@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.384316Z
+addr = 0xff9724
+size = 0x14
+name = "_ZNK12_GLOBAL__N_136LifeVoxelItemRegenerateNrvRegenerate11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_136LifeVoxelItemRegenerateNrvRegenerate11getNameHashEv"
+addr = 0xff9724
+
+[header.args]

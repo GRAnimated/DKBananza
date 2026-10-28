@@ -1,10 +1,12 @@
-last_change = 2026-10-26T00:37:09.985992Z
+last_change = 2026-10-28T04:56:43.402292Z
 addr = 0x102c154
 size = 0x4
-name = "nullsub_1588"
+name = "MenuLayout_710102C154"
+type = "void"
 
 [header]
-name = "nullsub_1588"
+name = "MenuLayout_710102C154"
 addr = 0x102c154
+type = "void"
 
 [header.args]

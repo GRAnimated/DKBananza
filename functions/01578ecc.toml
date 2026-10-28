@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.776063Z
+addr = 0x1578ecc
+size = 0x30
+name = "sub_7101578ECC"
+type = "void"
+
+[header]
+name = "sub_7101578ECC"
+addr = 0x1578ecc
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

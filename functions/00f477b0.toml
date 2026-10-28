@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:35.866767Z
+addr = 0xf477b0
+size = 0x88
+name = "_ZN6Chaser7exeDeadEv"
+
+[header]
+name = "_ZN6Chaser7exeDeadEv"
+addr = 0xf477b0
+
+[header.args]

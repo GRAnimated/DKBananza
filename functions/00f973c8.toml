@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:40.921161Z
+addr = 0xf973c8
+size = 0x24c
+name = "_ZN17SneakingManGolden11exeStruggleEv"
+type = "long long"
+
+[header]
+name = "_ZN17SneakingManGolden11exeStruggleEv"
+addr = 0xf973c8
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

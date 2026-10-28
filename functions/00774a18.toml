@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:35.264984Z
+last_change = 2026-10-28T04:57:42.873213Z
 addr = 0x774a18
 size = 0x190
 name = "_ZN16HandSlapVoxelObjC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN16HandSlapVoxelObjC2EPKc"
 addr = 0x774a18
 type = "void *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "const char *"
+size = 0x8

@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:38:01.836638Z
+last_change = 2026-10-28T04:58:29.224647Z
 addr = 0xed6a9c
 size = 0x10c
 name = "_ZN9PoppyKongC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN9PoppyKongC2EPKc"
 addr = 0xed6a9c
 type = "void *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

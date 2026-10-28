@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.272970Z
+addr = 0xe9e618
+size = 0x4
+name = "_ZNK28KingKRoolCannonBallGenerator27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK28KingKRoolCannonBallGenerator27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0xe9e618
+
+[header.args]

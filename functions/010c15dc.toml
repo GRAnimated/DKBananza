@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:04.878345Z
+addr = 0x10c15dc
+size = 0x64
+name = "_ZNK12FastTraveler18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK12FastTraveler18getRuntimeTypeInfoEv"
+addr = 0x10c15dc
+
+[header.args]

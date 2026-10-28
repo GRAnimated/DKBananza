@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.627564Z
+addr = 0x1318278
+size = 0x2c
+name = "sub_7101318278"
+type = "void"
+
+[header]
+name = "sub_7101318278"
+addr = 0x1318278
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "SequenceStateBoot *"
+size = 0x8

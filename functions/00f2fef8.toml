@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:34.402692Z
+addr = 0xf2fef8
+size = 0x64
+name = "_ZNK23DemoStartObjPaulineRock18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK23DemoStartObjPaulineRock18getRuntimeTypeInfoEv"
+addr = 0xf2fef8
+
+[header.args]

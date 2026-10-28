@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.327248Z
+addr = 0xf46868
+size = 0x3c
+name = "BattanWall__ZNK12_GLOBAL__N_117HostTypeNrvAttack12executeOnEndEPN2al11NerveKeeperE"
+
+[header]
+name = "BattanWall__ZNK12_GLOBAL__N_117HostTypeNrvAttack12executeOnEndEPN2al11NerveKeeperE"
+addr = 0xf46868
+
+[header.args]

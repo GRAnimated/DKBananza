@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.248953Z
+addr = 0xe57ccc
+size = 0x14
+name = "BioThorn__ZNK12_GLOBAL__N_126HostTypeNrvDemoBattleStart11getNameHashEv"
+
+[header]
+name = "BioThorn__ZNK12_GLOBAL__N_126HostTypeNrvDemoBattleStart11getNameHashEv"
+addr = 0xe57ccc
+
+[header.args]

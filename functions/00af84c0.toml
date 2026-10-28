@@ -1,0 +1,40 @@
+last_change = 2026-10-28T04:56:43.194066Z
+addr = 0xaf84c0
+size = 0xa8
+name = "havok_7100AF84C0"
+type = "void"
+
+[header]
+name = "havok_7100AF84C0"
+addr = 0xaf84c0
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x4]
+offset = 0x4
+name = ""
+type = "char *"
+size = 0x8

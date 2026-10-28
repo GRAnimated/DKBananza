@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.544496Z
+addr = 0x11fbcc8
+size = 0xd8
+name = "_ZN20Npc2VoxelHideAndSeek19exeDemoFoundRecoverEv"
+
+[header]
+name = "_ZN20Npc2VoxelHideAndSeek19exeDemoFoundRecoverEv"
+addr = 0x11fbcc8
+
+[header.args]

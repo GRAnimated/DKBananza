@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:09.987103Z
+last_change = 2026-10-28T04:59:01.844862Z
 addr = 0x10a6d88
 size = 0xa8
 name = "_ZN10DeformLiftC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN10DeformLiftC2EPKc"
 addr = 0x10a6d88
 type = "unsigned long long *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

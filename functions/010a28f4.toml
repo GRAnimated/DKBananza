@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.438029Z
+addr = 0x10a28f4
+size = 0x4
+name = "_ZNK10DangleRope27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK10DangleRope27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x10a28f4
+
+[header.args]

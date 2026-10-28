@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:29.776420Z
+addr = 0xedfd50
+size = 0x168
+name = "_ZN8ShioShio7exeMeltEv"
+
+[header]
+name = "_ZN8ShioShio7exeMeltEv"
+addr = 0xedfd50
+
+[header.args]

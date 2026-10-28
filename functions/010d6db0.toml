@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.453831Z
+addr = 0x10d6db0
+size = 0x5c
+name = "_ZN8FruitObj7controlEv"
+
+[header]
+name = "_ZN8FruitObj7controlEv"
+addr = 0x10d6db0
+
+[header.args]

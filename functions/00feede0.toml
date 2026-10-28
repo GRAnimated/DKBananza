@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.380728Z
+addr = 0xfeede0
+size = 0x90
+name = "_ZN5State11exeVoidWaitEv"
+
+[header]
+name = "_ZN5State11exeVoidWaitEv"
+addr = 0xfeede0
+
+[header.args]

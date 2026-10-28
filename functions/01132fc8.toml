@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.481094Z
+addr = 0x1132fc8
+size = 0x60
+name = "_ZN10PullOutObj12exePopUpItemEv"
+
+[header]
+name = "_ZN10PullOutObj12exePopUpItemEv"
+addr = 0x1132fc8
+
+[header.args]

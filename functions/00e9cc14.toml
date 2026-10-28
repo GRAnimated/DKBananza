@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.272339Z
+addr = 0xe9cc14
+size = 0x5c
+name = "_ZN19KingKRoolCannonBallD1Ev"
+
+[header]
+name = "_ZN19KingKRoolCannonBallD1Ev"
+addr = 0xe9cc14
+
+[header.args]

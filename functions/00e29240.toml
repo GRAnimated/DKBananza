@@ -1,11 +1,11 @@
-last_change = 2026-10-26T00:37:09.981188Z
+last_change = 2026-10-28T04:56:43.233348Z
 addr = 0xe29240
 size = 0x4
-name = "nullsub_1192"
+name = "al_LiveActor_attackCollider"
 type = "void"
 
 [header]
-name = "nullsub_1192"
+name = "al_LiveActor_attackCollider"
 addr = 0xe29240
 type = "void"
 

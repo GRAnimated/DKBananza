@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.287389Z
+addr = 0xec6aa8
+size = 0x178
+name = "_ZN20KingKRoolVoxelBullet11exeBlowDownEv"
+type = "long long"
+
+[header]
+name = "_ZN20KingKRoolVoxelBullet11exeBlowDownEv"
+addr = 0xec6aa8
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

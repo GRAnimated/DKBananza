@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:10.003975Z
+last_change = 2026-10-28T04:56:43.830924Z
 addr = 0x166a77c
 size = 0x4
-name = "nullsub_3397"
+name = "_ZNK12_GLOBAL__N_129SnapShotCameraCtrlNrvDeactive7executeEPN2al11NerveKeeperE"
 
 [header]
-name = "nullsub_3397"
+name = "_ZNK12_GLOBAL__N_129SnapShotCameraCtrlNrvDeactive7executeEPN2al11NerveKeeperE"
 addr = 0x166a77c
 
 [header.args]

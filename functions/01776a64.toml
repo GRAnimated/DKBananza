@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.926791Z
+addr = 0x1776a64
+size = 0x64
+name = "_ZN2al21AtmosScatterRequester5exeOnEv"
+type = "long long"
+
+[header]
+name = "_ZN2al21AtmosScatterRequester5exeOnEv"
+addr = 0x1776a64
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

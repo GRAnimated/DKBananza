@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.529953Z
+addr = 0x11d4130
+size = 0x20c
+name = "_ZN21Npc2AnimalTalkerSnake12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN21Npc2AnimalTalkerSnake12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x11d4130
+
+[header.args]

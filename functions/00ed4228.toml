@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:29.086726Z
+addr = 0xed4228
+size = 0x74
+name = "_ZN12MinecartBoss18exeDemoRisingModelEv"
+
+[header]
+name = "_ZN12MinecartBoss18exeDemoRisingModelEv"
+addr = 0xed4228
+
+[header.args]

@@ -1,0 +1,58 @@
+last_change = 2026-10-28T04:56:43.035855Z
+addr = 0x69fab0
+size = 0x170
+name = "sub_710069FAB0"
+type = "__n128"
+
+[header]
+name = "sub_710069FAB0"
+addr = 0x69fab0
+type = "__n128"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "unsigned int"
+size = 0x4
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "unsigned int"
+size = 0x4
+
+[header.args.0x4]
+offset = 0x4
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x5]
+offset = 0x5
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x6]
+offset = 0x6
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x7]
+offset = 0x7
+name = ""
+type = "int"
+size = 0x4

@@ -1,10 +1,12 @@
-last_change = 2026-10-26T00:37:10.001723Z
+last_change = 2026-10-28T04:56:43.786201Z
 addr = 0x15a904c
 size = 0x4
-name = "nullsub_3048"
+name = "_ZN5phive9RigidBody19callbackAddToWorld_Ev"
+type = "void"
 
 [header]
-name = "nullsub_3048"
+name = "_ZN5phive9RigidBody19callbackAddToWorld_Ev"
 addr = 0x15a904c
+type = "void"
 
 [header.args]

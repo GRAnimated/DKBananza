@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.881949Z
+addr = 0x16e16f4
+size = 0x64
+name = "_ZNK19RollingCubeMapParts18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK19RollingCubeMapParts18getRuntimeTypeInfoEv"
+addr = 0x16e16f4
+
+[header.args]

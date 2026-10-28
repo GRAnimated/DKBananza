@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.342233Z
+addr = 0xf79450
+size = 0x2c
+name = "_ZN10HopperCore12startClippedEv"
+
+[header]
+name = "_ZN10HopperCore12startClippedEv"
+addr = 0xf79450
+
+[header.args]

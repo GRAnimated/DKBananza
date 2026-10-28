@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:09.982404Z
+last_change = 2026-10-28T04:58:23.877782Z
 addr = 0xe84844
 size = 0xdc
 name = "_ZN7GorongoC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN7GorongoC2EPKc"
 addr = 0xe84844
 type = "unsigned long long *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:38.556120Z
+addr = 0xf7496c
+size = 0x48
+name = "_ZNK12_GLOBAL__N_118HikariskiNrvActive7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_118HikariskiNrvActive7executeEPN2al11NerveKeeperE"
+addr = 0xf7496c
+
+[header.args]

@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:56:43.863310Z
+addr = 0x16c3a30
+size = 0xfc
+name = "sub_71016C3A30"
+type = "long long"
+
+[header]
+name = "sub_71016C3A30"
+addr = 0x16c3a30
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "char *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "unsigned int"
+size = 0x4

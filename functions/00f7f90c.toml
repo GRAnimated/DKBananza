@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:39.291916Z
+addr = 0xf7f90c
+size = 0x98
+name = "_ZN8Marksman7controlEv"
+
+[header]
+name = "_ZN8Marksman7controlEv"
+addr = 0xf7f90c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.928426Z
+addr = 0x177c1e0
+size = 0x50
+name = "_ZNK12_GLOBAL__N_126ThunderRendererNrvFlushDir7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_126ThunderRendererNrvFlushDir7executeEPN2al11NerveKeeperE"
+addr = 0x177c1e0
+
+[header.args]

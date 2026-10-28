@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.332541Z
+addr = 0xf583b8
+size = 0xf8
+name = "_ZN7DonZain18initAfterPlacementEv"
+
+[header]
+name = "_ZN7DonZain18initAfterPlacementEv"
+addr = 0xf583b8
+
+[header.args]

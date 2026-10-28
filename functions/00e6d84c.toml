@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:22.478009Z
+addr = 0xe6d84c
+size = 0x48
+name = "_ZN22BossMimichiStateAttack7exeWaitEv"
+
+[header]
+name = "_ZN22BossMimichiStateAttack7exeWaitEv"
+addr = 0xe6d84c
+
+[header.args]

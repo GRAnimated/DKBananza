@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.497518Z
+addr = 0x1169e0c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_129StoneStatueNrvFitActionBefore11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_129StoneStatueNrvFitActionBefore11getNameHashEv"
+addr = 0x1169e0c
+
+[header.args]

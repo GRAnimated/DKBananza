@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:03.264666Z
+addr = 0x10b792c
+size = 0x48
+name = "DoorChallengeCourse__ZNK12_GLOBAL__N_115HostTypeNrvVoid7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "DoorChallengeCourse__ZNK12_GLOBAL__N_115HostTypeNrvVoid7executeEPN2al11NerveKeeperE"
+addr = 0x10b792c
+
+[header.args]

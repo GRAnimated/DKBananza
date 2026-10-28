@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.916151Z
+addr = 0x1752a5c
+size = 0x10c
+name = "_ZN2al10WipeSimple13tryStartCloseEi"
+type = "void"
+
+[header]
+name = "_ZN2al10WipeSimple13tryStartCloseEi"
+addr = 0x1752a5c
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::WipeSimple *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "frames"
+type = "int"
+size = 0x4

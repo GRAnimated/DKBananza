@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.554600Z
+addr = 0x121c4f0
+size = 0x14
+name = "RambiPlayer__ZNK12_GLOBAL__N_114HostTypeNrvRun11getNameHashEv"
+
+[header]
+name = "RambiPlayer__ZNK12_GLOBAL__N_114HostTypeNrvRun11getNameHashEv"
+addr = 0x121c4f0
+
+[header.args]

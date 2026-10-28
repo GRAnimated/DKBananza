@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.749985Z
+addr = 0x14ff99c
+size = 0x30
+name = "sub_71014FF99C"
+type = "long long"
+
+[header]
+name = "sub_71014FF99C"
+addr = 0x14ff99c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4

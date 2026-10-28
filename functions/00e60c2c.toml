@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.252138Z
+addr = 0xe60c2c
+size = 0x8
+name = "Nerve_HostTypeNrvMoveCore_slot3_7100E60C2C"
+type = "long long"
+
+[header]
+name = "Nerve_HostTypeNrvMoveCore_slot3_7100E60C2C"
+addr = 0xe60c2c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

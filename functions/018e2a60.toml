@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.994162Z
+addr = 0x18e2a60
+size = 0x200
+name = "sub_71018E2A60"
+
+[header]
+name = "sub_71018E2A60"
+addr = 0x18e2a60
+
+[header.args]

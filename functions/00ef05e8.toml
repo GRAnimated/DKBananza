@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:30.602072Z
+addr = 0xef05e8
+size = 0x48
+name = "_ZNK12_GLOBAL__N_132StomperorNrvDemoBattleStartDelay7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_132StomperorNrvDemoBattleStartDelay7executeEPN2al11NerveKeeperE"
+addr = 0xef05e8
+
+[header.args]

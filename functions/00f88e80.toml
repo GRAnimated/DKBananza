@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:58:39.843621Z
+addr = 0xf88e80
+size = 0x1c
+name = "sub_7100F88E80"
+type = "long long"
+
+[header]
+name = "sub_7100F88E80"
+addr = 0xf88e80
+type = "long long"
+
+[header.args]

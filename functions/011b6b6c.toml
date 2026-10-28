@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.521514Z
+addr = 0x11b6b6c
+size = 0x30
+name = "_ZN12WeightSwitch8calcAnimEv"
+
+[header]
+name = "_ZN12WeightSwitch8calcAnimEv"
+addr = 0x11b6b6c
+
+[header.args]

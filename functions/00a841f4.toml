@@ -1,10 +1,12 @@
-last_change = 2026-10-26T00:37:09.980267Z
+last_change = 2026-10-28T04:56:43.183343Z
 addr = 0xa841f4
 size = 0x4
-name = "nullsub_991"
+name = "havok_nullsub_991"
+type = "void"
 
 [header]
-name = "nullsub_991"
+name = "havok_nullsub_991"
 addr = 0xa841f4
+type = "void"
 
 [header.args]

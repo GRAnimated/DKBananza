@@ -1,0 +1,34 @@
+last_change = 2026-10-28T04:56:43.337762Z
+addr = 0xf682c4
+size = 0x9c
+name = "Gororo_receiveMsgCollider"
+type = "long long"
+
+[header]
+name = "Gororo_receiveMsgCollider"
+addr = 0xf682c4
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long (__fastcall ***)(unsigned long long, long long *)"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "long long"
+size = 0x8

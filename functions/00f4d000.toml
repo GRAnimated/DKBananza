@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:36.286410Z
+addr = 0xf4d000
+size = 0x444
+name = "_ZN17ChaserNeckSegment16exeChaseContinueEv"
+
+[header]
+name = "_ZN17ChaserNeckSegment16exeChaseContinueEv"
+addr = 0xf4d000
+
+[header.args]

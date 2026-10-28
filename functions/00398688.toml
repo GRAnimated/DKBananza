@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:30.834362Z
+addr = 0x398688
+size = 0x21c
+name = "sub_7100398688"
+type = "long long"
+
+[header]
+name = "sub_7100398688"
+addr = 0x398688
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x1]
+offset = 0x1
+name = "dest"
+type = "void *"
+size = 0x8

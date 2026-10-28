@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.248582Z
+addr = 0xe5652c
+size = 0x6c
+name = "_ZN8BioThorn18initAfterPlacementEv"
+
+[header]
+name = "_ZN8BioThorn18initAfterPlacementEv"
+addr = 0xe5652c
+
+[header.args]

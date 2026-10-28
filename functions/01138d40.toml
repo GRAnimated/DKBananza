@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:17.178605Z
+addr = 0x1138d40
+size = 0x80
+name = "_ZN13RandomShelterD0Ev"
+
+[header]
+name = "_ZN13RandomShelterD0Ev"
+addr = 0x1138d40
+
+[header.args]

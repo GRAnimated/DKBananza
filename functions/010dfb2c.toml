@@ -1,12 +1,16 @@
-last_change = 2026-10-26T00:37:09.987807Z
+last_change = 2026-10-28T04:56:43.456995Z
 addr = 0x10dfb2c
 size = 0x4
-name = "j__ZdlPv_797"
+name = "_ZN15GroundRoomMakerD0Ev"
 type = "void"
 
 [header]
-name = "j__ZdlPv_797"
+name = "_ZN15GroundRoomMakerD0Ev"
 addr = 0x10dfb2c
 type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "void *"
+size = 0x8

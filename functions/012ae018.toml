@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.596349Z
+addr = 0x12ae018
+size = 0x250
+name = "_ZN15PlayerStateSpin7exeJumpEv"
+
+[header]
+name = "_ZN15PlayerStateSpin7exeJumpEv"
+addr = 0x12ae018
+
+[header.args]

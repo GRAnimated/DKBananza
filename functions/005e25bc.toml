@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:57:36.529058Z
+addr = 0x5e25bc
+size = 0x938
+name = "sub_71005E25BC"
+type = "long long"
+
+[header]
+name = "sub_71005E25BC"
+addr = 0x5e25bc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8

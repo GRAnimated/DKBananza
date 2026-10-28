@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.675254Z
+addr = 0x137d89c
+size = 0x2c
+name = "_ZN15VoxelPrisonGrid10endClippedEv"
+
+[header]
+name = "_ZN15VoxelPrisonGrid10endClippedEv"
+addr = 0x137d89c
+
+[header.args]

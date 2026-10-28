@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:42.997240Z
+addr = 0x5adc10
+size = 0x20
+name = "sub_71005ADC10"
+type = "long long"
+
+[header]
+name = "sub_71005ADC10"
+addr = 0x5adc10
+type = "long long"
+
+[header.args]

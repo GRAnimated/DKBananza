@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.906534Z
+addr = 0x172a61c
+size = 0x5c
+name = "_ZN16SuccessSePlayObjD1Ev"
+
+[header]
+name = "_ZN16SuccessSePlayObjD1Ev"
+addr = 0x172a61c
+
+[header.args]

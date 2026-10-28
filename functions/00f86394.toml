@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.347274Z
+addr = 0xf86394
+size = 0x8
+name = "Nerve_MimichiNrvRespond_slot3_7100F86394"
+type = "long long"
+
+[header]
+name = "Nerve_MimichiNrvRespond_slot3_7100F86394"
+addr = 0xf86394
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

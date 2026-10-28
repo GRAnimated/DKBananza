@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.333420Z
+addr = 0xf5c724
+size = 0x14
+name = "_ZNK12_GLOBAL__N_125DonZainNrvDemoBattleStart11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_125DonZainNrvDemoBattleStart11getNameHashEv"
+addr = 0xf5c724
+
+[header.args]

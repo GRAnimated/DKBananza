@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.094577Z
+addr = 0x7ef720
+size = 0x5c
+name = "sub_71007EF720"
+type = "long long"
+
+[header]
+name = "sub_71007EF720"
+addr = 0x7ef720
+type = "long long"
+
+[header.args]

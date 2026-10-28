@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.421436Z
+addr = 0x106f2b0
+size = 0x14
+name = "_ZNK12_GLOBAL__N_118BioFountainNrvWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_118BioFountainNrvWait11getNameHashEv"
+addr = 0x106f2b0
+
+[header.args]

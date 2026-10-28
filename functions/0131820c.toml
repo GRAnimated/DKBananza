@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.627519Z
+addr = 0x131820c
+size = 0x8
+name = "_ZNK12_GLOBAL__N_127ProductSequenceNrvStaffRoll7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_127ProductSequenceNrvStaffRoll7executeEPN2al11NerveKeeperE"
+addr = 0x131820c
+
+[header.args]

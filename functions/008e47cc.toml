@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.126874Z
+addr = 0x8e47cc
+size = 0x70
+name = "_ZN9hkOstreamlsEPKc"
+type = "long long"
+
+[header]
+name = "_ZN9hkOstreamlsEPKc"
+addr = 0x8e47cc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "const char *"
+size = 0x8

@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.414373Z
+addr = 0x1059c9c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_126WipeWhiteBlackNrvKeepWhite11getNameHashEv"
+type = "unsigned long long"
+
+[header]
+name = "_ZNK12_GLOBAL__N_126WipeWhiteBlackNrvKeepWhite11getNameHashEv"
+addr = 0x1059c9c
+type = "unsigned long long"
+
+[header.args]

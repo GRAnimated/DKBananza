@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.463543Z
+addr = 0x10f4a1c
+size = 0x2c
+name = "_ZN5Ingot12startClippedEv"
+
+[header]
+name = "_ZN5Ingot12startClippedEv"
+addr = 0x10f4a1c
+
+[header.args]

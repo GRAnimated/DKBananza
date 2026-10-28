@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.676473Z
+addr = 0x1380c38
+size = 0x4c
+name = "_ZN24VoxelRisingAbyssMapParts6appearEv"
+
+[header]
+name = "_ZN24VoxelRisingAbyssMapParts6appearEv"
+addr = 0x1380c38
+
+[header.args]

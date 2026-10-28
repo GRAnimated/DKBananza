@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.332565Z
+addr = 0xf58554
+size = 0x4c
+name = "_ZN7DonZain10endClippedEv"
+
+[header]
+name = "_ZN7DonZain10endClippedEv"
+addr = 0xf58554
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.535774Z
+addr = 0x11e2344
+size = 0x14
+name = "_ZNK12_GLOBAL__N_136Npc2KongConstructionBossKongNrvEvent11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_136Npc2KongConstructionBossKongNrvEvent11getNameHashEv"
+addr = 0x11e2344
+
+[header.args]

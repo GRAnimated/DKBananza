@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:18.116592Z
+addr = 0xe28314
+size = 0x44c
+name = "_ZN14LightShaftArea4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN14LightShaftArea4initERKN2al13ActorInitInfoE"
+addr = 0xe28314
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.330716Z
+addr = 0xf52398
+size = 0x5c
+name = "_ZN7DangoroD1Ev"
+
+[header]
+name = "_ZN7DangoroD1Ev"
+addr = 0xf52398
+
+[header.args]

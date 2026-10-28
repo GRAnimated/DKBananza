@@ -1,11 +1,22 @@
-last_change = 2026-10-26T17:10:44.134866Z
+last_change = 2026-10-28T04:56:43.627288Z
 addr = 0x1317b24
 size = 0xa0
+name = "sub_7101317B24"
 type = "void"
 
 [header]
-last_change = 2026-10-26T17:10:44.134866Z
+name = "sub_7101317B24"
 addr = 0x1317b24
 type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long *"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.549816Z
+addr = 0x120ca1c
+size = 0x64
+name = "_ZN21Npc2VoxelYocchiParent10exeRespawnEv"
+
+[header]
+name = "_ZN21Npc2VoxelYocchiParent10exeRespawnEv"
+addr = 0x120ca1c
+
+[header.args]

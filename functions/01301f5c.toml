@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.620704Z
+addr = 0x1301f5c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_129StageSceneNrvBattleStageRetry11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_129StageSceneNrvBattleStageRetry11getNameHashEv"
+addr = 0x1301f5c
+
+[header.args]

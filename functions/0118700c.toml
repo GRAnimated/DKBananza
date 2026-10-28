@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.507420Z
+addr = 0x118700c
+size = 0xd0
+name = "_ZN15ThunderDirectorD1Ev"
+
+[header]
+name = "_ZN15ThunderDirectorD1Ev"
+addr = 0x118700c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.636664Z
+addr = 0x132f4cc
+size = 0x8
+name = "_ZN15SampleWalkEnemy12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN15SampleWalkEnemy12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x132f4cc
+
+[header.args]

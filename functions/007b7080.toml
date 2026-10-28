@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:43.905969Z
+addr = 0x7b7080
+size = 0x3ec
+name = "_ZN16Npc2VoxelMyHouse4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN16Npc2VoxelMyHouse4initERKN2al13ActorInitInfoE"
+addr = 0x7b7080
+
+[header.args]

@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.803966Z
+addr = 0x1607384
+size = 0x38
+name = "phive_7101607384"
+type = "long long"
+
+[header]
+name = "phive_7101607384"
+addr = 0x1607384
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

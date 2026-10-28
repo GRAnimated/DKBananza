@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.200265Z
+addr = 0xb217cc
+size = 0x88
+name = "havok_7100B217CC"
+type = "long long"
+
+[header]
+name = "havok_7100B217CC"
+addr = 0xb217cc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "unsigned long long *"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.547297Z
+addr = 0x12048ac
+size = 0x34
+name = "_ZN17Npc2VoxelShopHint13makeActorDeadEv"
+
+[header]
+name = "_ZN17Npc2VoxelShopHint13makeActorDeadEv"
+addr = 0x12048ac
+
+[header.args]

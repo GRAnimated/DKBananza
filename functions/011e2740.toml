@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.535940Z
+addr = 0x11e2740
+size = 0x184
+name = "_ZN33Npc2KongConstructionBossKongSound10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN33Npc2KongConstructionBossKongSound10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x11e2740
+
+[header.args]

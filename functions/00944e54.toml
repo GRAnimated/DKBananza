@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.150642Z
+addr = 0x944e54
+size = 0xc
+name = "havok_7100944E54"
+type = "void"
+
+[header]
+name = "havok_7100944E54"
+addr = 0x944e54
+type = "void"
+
+[header.args]

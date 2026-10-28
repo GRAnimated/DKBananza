@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.533976Z
+addr = 0x11dd29c
+size = 0x4
+name = "_ZNK16Npc2FastTraveler27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK16Npc2FastTraveler27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x11dd29c
+
+[header.args]

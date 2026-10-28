@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:42.494547Z
+addr = 0x3fa860
+size = 0x274
+name = "sub_71003FA860"
+
+[header]
+name = "sub_71003FA860"
+addr = 0x3fa860
+
+[header.args]

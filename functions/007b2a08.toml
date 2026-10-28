@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:43.851033Z
+addr = 0x7b2a08
+size = 0x8c
+name = "_ZN27Npc2AnimalTalkerMonkeyMiner18initAfterPlacementEv"
+
+[header]
+name = "_ZN27Npc2AnimalTalkerMonkeyMiner18initAfterPlacementEv"
+addr = 0x7b2a08
+
+[header.args]

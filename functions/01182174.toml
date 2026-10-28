@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.506115Z
+addr = 0x1182174
+size = 0x5c
+name = "_ZN9ThornWallD1Ev"
+
+[header]
+name = "_ZN9ThornWallD1Ev"
+addr = 0x1182174
+
+[header.args]

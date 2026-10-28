@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.354891Z
+addr = 0xf9a4e4
+size = 0x2c
+name = "_ZN8Togemole10endClippedEv"
+
+[header]
+name = "_ZN8Togemole10endClippedEv"
+addr = 0xf9a4e4
+
+[header.args]

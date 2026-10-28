@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.879917Z
+addr = 0x16db9b8
+size = 0xd8
+name = "_ZN12FallMapParts10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN12FallMapParts10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x16db9b8
+
+[header.args]

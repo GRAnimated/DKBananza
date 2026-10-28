@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:42.426727Z
+addr = 0x125e6c
+size = 0x1b0
+name = "_ZNK12_GLOBAL__N_112StateNrvWait7executeEPN2al11NerveKeeperE_7100125E6C"
+
+[header]
+name = "_ZNK12_GLOBAL__N_112StateNrvWait7executeEPN2al11NerveKeeperE_7100125E6C"
+addr = 0x125e6c
+
+[header.args]

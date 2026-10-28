@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.539312Z
+addr = 0x11ebbb0
+size = 0x34
+name = "_ZN23Npc2KongTalkerDixieKong7controlEv"
+
+[header]
+name = "_ZN23Npc2KongTalkerDixieKong7controlEv"
+addr = 0x11ebbb0
+
+[header.args]

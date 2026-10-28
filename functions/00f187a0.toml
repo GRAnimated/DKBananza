@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.313490Z
+addr = 0xf187a0
+size = 0xe0
+name = "sub_7100F187A0"
+
+[header]
+name = "sub_7100F187A0"
+addr = 0xf187a0
+
+[header.args]

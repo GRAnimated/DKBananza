@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.468272Z
+addr = 0x110493c
+size = 0x40
+name = "_ZN15LightShaftCover7controlEv"
+type = "float"
+
+[header]
+name = "_ZN15LightShaftCover7controlEv"
+addr = 0x110493c
+type = "float"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

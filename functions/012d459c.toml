@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.605871Z
+addr = 0x12d459c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_131ReturnBalloonPlayerNrvEndSign2D11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_131ReturnBalloonPlayerNrvEndSign2D11getNameHashEv"
+addr = 0x12d459c
+
+[header.args]

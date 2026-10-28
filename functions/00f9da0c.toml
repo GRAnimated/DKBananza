@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:41.218604Z
+addr = 0xf9da0c
+size = 0xa8
+name = "_ZN9Ueyowaida4killEv"
+type = "long long"
+
+[header]
+name = "_ZN9Ueyowaida4killEv"
+addr = 0xf9da0c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8

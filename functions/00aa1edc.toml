@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.187329Z
+addr = 0xaa1edc
+size = 0xc
+name = "havok_7100AA1EDC"
+type = "const char *"
+
+[header]
+name = "havok_7100AA1EDC"
+addr = 0xaa1edc
+type = "const char *"
+
+[header.args]

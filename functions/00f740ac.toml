@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.340828Z
+addr = 0xf740ac
+size = 0x2c
+name = "_ZN9Hikariski8calcAnimEv"
+
+[header]
+name = "_ZN9Hikariski8calcAnimEv"
+addr = 0xf740ac
+
+[header.args]

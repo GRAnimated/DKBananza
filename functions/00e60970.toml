@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:58:21.694345Z
+addr = 0xe60970
+size = 0x64
+name = "_ZNK2al14ActorStateBase18getRuntimeTypeInfoEv"
+type = "long long *"
+
+[header]
+name = "_ZNK2al14ActorStateBase18getRuntimeTypeInfoEv"
+addr = 0xe60970
+type = "long long *"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.545935Z
+addr = 0x12002a4
+size = 0x64
+name = "_ZN17Npc2VoxelQuizChan10exeRespawnEv"
+
+[header]
+name = "_ZN17Npc2VoxelQuizChan10exeRespawnEv"
+addr = 0x12002a4
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.198730Z
+addr = 0xb1a4f0
+size = 0x5c
+name = "_ZN20hkMemoryMeshMaterial10setTextureEiP13hkMeshTexture"
+
+[header]
+name = "_ZN20hkMemoryMeshMaterial10setTextureEiP13hkMeshTexture"
+addr = 0xb1a4f0
+
+[header.args]

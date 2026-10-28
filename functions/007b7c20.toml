@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:43.914540Z
+addr = 0x7b7c20
+size = 0xdc
+name = "_ZNK12_GLOBAL__N_132Npc2VoxelShopChipExchangeNrvWait7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_132Npc2VoxelShopChipExchangeNrvWait7executeEPN2al11NerveKeeperE"
+addr = 0x7b7c20
+
+[header.args]

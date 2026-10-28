@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.515541Z
+addr = 0x11a3038
+size = 0x3c
+name = "_ZN24VoxelForwardBackMapParts8calcAnimEv"
+
+[header]
+name = "_ZN24VoxelForwardBackMapParts8calcAnimEv"
+addr = 0x11a3038
+
+[header.args]

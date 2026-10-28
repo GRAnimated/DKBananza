@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.232093Z
+addr = 0xe26b18
+size = 0x4
+name = "sub_7100E26B18"
+type = "void"
+
+[header]
+name = "sub_7100E26B18"
+addr = 0xe26b18
+type = "void"
+
+[header.args]

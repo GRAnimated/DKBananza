@@ -1,0 +1,9 @@
+last_change = 2026-10-28T04:57:00.582214Z
+name = "sead::TickSpan"
+size = 0x8
+
+[members.0x0]
+name = "mSpan"
+offset = 0x0
+type = "long long"
+size = 0x8

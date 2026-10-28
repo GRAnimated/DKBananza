@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:42.996947Z
+addr = 0x5ada80
+size = 0xc
+name = "sub_71005ADA80"
+type = "float"
+
+[header]
+name = "sub_71005ADA80"
+addr = 0x5ada80
+type = "float"
+
+[header.args]

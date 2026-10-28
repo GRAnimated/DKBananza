@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.356837Z
+addr = 0xf9fcd0
+size = 0x2c
+name = "_ZN14UeyowaidaLaser13makeActorDeadEv"
+
+[header]
+name = "_ZN14UeyowaidaLaser13makeActorDeadEv"
+addr = 0xf9fcd0
+
+[header.args]

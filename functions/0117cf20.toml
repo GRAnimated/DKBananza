@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.504760Z
+addr = 0x117cf20
+size = 0x14
+name = "_ZNK12_GLOBAL__N_117TankSwitchNrvWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_117TankSwitchNrvWait11getNameHashEv"
+addr = 0x117cf20
+
+[header.args]

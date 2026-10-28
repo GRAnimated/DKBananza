@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.521872Z
+addr = 0x11b78c4
+size = 0x14
+name = "_ZNK12_GLOBAL__N_118WeightSwitchNrvPut11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_118WeightSwitchNrvPut11getNameHashEv"
+addr = 0x11b78c4
+
+[header.args]

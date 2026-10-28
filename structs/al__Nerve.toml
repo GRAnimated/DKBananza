@@ -1,0 +1,9 @@
+last_change = 2026-10-28T04:57:00.593051Z
+name = "al::Nerve"
+size = 0x8
+
+[members.0x0]
+name = "__vftable"
+offset = 0x0
+type = "al::Nerve_vtbl *"
+size = 0x8

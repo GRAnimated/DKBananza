@@ -1,11 +1,22 @@
-last_change = 2026-10-26T18:03:20.995603Z
+last_change = 2026-10-28T04:56:43.620397Z
 addr = 0x1301cf0
 size = 0x8
 name = "StageScene_7101301CF0"
+type = "void *"
 
 [header]
-last_change = 2026-10-26T18:03:20.995603Z
 name = "StageScene_7101301CF0"
 addr = 0x1301cf0
+type = "void *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "const al::HioNode *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "typeInfo"
+type = "const sead::RuntimeTypeInfo::Interface *"
+size = 0x8

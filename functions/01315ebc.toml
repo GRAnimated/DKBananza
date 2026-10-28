@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.626667Z
+addr = 0x1315ebc
+size = 0x5c
+name = "sub_7101315EBC"
+type = "long long"
+
+[header]
+name = "sub_7101315EBC"
+addr = 0x1315ebc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "long long"
+size = 0x8

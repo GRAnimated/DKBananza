@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.497483Z
+addr = 0x1169dbc
+size = 0x14
+name = "_ZNK12_GLOBAL__N_121StoneStatueNrvFitWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_121StoneStatueNrvFitWait11getNameHashEv"
+addr = 0x1169dbc
+
+[header.args]

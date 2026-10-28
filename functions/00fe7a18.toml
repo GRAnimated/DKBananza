@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:46.764521Z
+addr = 0xfe7a18
+size = 0xb8
+name = "_ZN24CollectChipWatcherRecord11exeCompleteEv"
+
+[header]
+name = "_ZN24CollectChipWatcherRecord11exeCompleteEv"
+addr = 0xfe7a18
+
+[header.args]

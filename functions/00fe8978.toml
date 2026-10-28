@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.379270Z
+addr = 0xfe8978
+size = 0x58
+name = "_ZN6Fossil7controlEv"
+
+[header]
+name = "_ZN6Fossil7controlEv"
+addr = 0xfe8978
+
+[header.args]

@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.789836Z
+addr = 0x15c2388
+size = 0x2c
+name = "_ZN5phive6SystemD0Ev"
+type = "void"
+
+[header]
+name = "_ZN5phive6SystemD0Ev"
+addr = 0x15c2388
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "void *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

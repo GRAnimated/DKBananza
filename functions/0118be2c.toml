@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.508825Z
+addr = 0x118be2c
+size = 0x60
+name = "_ZN7Tornado14makeActorAliveEv"
+
+[header]
+name = "_ZN7Tornado14makeActorAliveEv"
+addr = 0x118be2c
+
+[header.args]

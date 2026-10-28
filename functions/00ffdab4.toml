@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:48.101662Z
+addr = 0xffdab4
+size = 0x48
+name = "_ZNK12_GLOBAL__N_116MoneyLineNrvDead7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_116MoneyLineNrvDead7executeEPN2al11NerveKeeperE"
+addr = 0xffdab4
+
+[header.args]

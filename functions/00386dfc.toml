@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:57:30.652894Z
+addr = 0x386dfc
+size = 0x338
+name = "sub_7100386DFC"
+type = "long long"
+
+[header]
+name = "sub_7100386DFC"
+addr = 0x386dfc
+type = "long long"
+
+[header.args]

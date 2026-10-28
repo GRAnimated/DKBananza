@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:30.550063Z
+addr = 0xeef0e8
+size = 0xf0
+name = "_ZN9Stomperor16exeDemoBattleEndEv"
+
+[header]
+name = "_ZN9Stomperor16exeDemoBattleEndEv"
+addr = 0xeef0e8
+
+[header.args]

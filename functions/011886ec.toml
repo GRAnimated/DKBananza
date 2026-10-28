@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.507707Z
+addr = 0x11886ec
+size = 0x90
+name = "_ZN12TimerBreaker10exeOffWaitEv"
+type = "long long"
+
+[header]
+name = "_ZN12TimerBreaker10exeOffWaitEv"
+addr = 0x11886ec
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

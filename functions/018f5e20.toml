@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:44.000930Z
+addr = 0x18f5e20
+size = 0x2b8
+name = "sub_71018F5E20"
+type = "long long"
+
+[header]
+name = "sub_71018F5E20"
+addr = 0x18f5e20
+type = "long long"
+
+[header.args]

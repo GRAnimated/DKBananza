@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.356911Z
+addr = 0xfa01e4
+size = 0x2c
+name = "_ZN14UeyowaidaLaser10endClippedEv"
+
+[header]
+name = "_ZN14UeyowaidaLaser10endClippedEv"
+addr = 0xfa01e4
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:46.677863Z
+addr = 0xfe692c
+size = 0x6c
+name = "_ZN18CollectChipWatcher20exeSecondCameraStartEv"
+
+[header]
+name = "_ZN18CollectChipWatcher20exeSecondCameraStartEv"
+addr = 0xfe692c
+
+[header.args]

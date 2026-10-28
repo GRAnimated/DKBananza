@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.327548Z
+addr = 0xf47114
+size = 0x24
+name = "_ZN6Chaser18initAfterPlacementEv"
+
+[header]
+name = "_ZN6Chaser18initAfterPlacementEv"
+addr = 0xf47114
+
+[header.args]

@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.687074Z
+addr = 0x139dc90
+size = 0x2c
+name = "_ZN4sead15CriticalSectionD0Ev"
+type = "void"
+
+[header]
+name = "_ZN4sead15CriticalSectionD0Ev"
+addr = 0x139dc90
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "sead::CriticalSection *"
+size = 0x8

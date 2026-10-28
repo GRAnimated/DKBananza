@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.625022Z
+addr = 0x130ed50
+size = 0x184
+name = "_ZN25StageSceneStateRaceResult11exeResultInEv"
+
+[header]
+name = "_ZN25StageSceneStateRaceResult11exeResultInEv"
+addr = 0x130ed50
+
+[header.args]

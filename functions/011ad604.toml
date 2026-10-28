@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.518706Z
+addr = 0x11ad604
+size = 0x230
+name = "_ZN18VoxelRegenerateObj7controlEv"
+
+[header]
+name = "_ZN18VoxelRegenerateObj7controlEv"
+addr = 0x11ad604
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.546688Z
+addr = 0x1202ec8
+size = 0x8
+name = "_ZNK12_GLOBAL__N_133Npc2VoxelShopChipExchangeNrvEvent12executeOnEndEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_133Npc2VoxelShopChipExchangeNrvEvent12executeOnEndEPN2al11NerveKeeperE"
+addr = 0x1202ec8
+
+[header.args]

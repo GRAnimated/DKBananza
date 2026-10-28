@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.523401Z
+addr = 0x11bdd58
+size = 0x8
+name = "_ZNK12_GLOBAL__N_114ZipLineNrvWait7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_114ZipLineNrvWait7executeEPN2al11NerveKeeperE"
+addr = 0x11bdd58
+
+[header.args]

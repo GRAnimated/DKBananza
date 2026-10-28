@@ -1,0 +1,9 @@
+last_change = 2026-10-28T04:57:00.591264Z
+name = "sead::Vector3<unsigned int>"
+size = 0xc
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "sead::Vector3<unsigned int>::$57DA7994216C979F6CCE8D02AB010CEC"
+size = 0xc

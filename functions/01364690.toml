@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.666679Z
+addr = 0x1364690
+size = 0x68
+name = "_ZN24SculptureSceneVoxelParts7controlEv"
+
+[header]
+name = "_ZN24SculptureSceneVoxelParts7controlEv"
+addr = 0x1364690
+
+[header.args]

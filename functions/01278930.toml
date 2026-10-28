@@ -1,12 +1,16 @@
-last_change = 2026-10-26T00:37:09.993078Z
+last_change = 2026-10-28T04:56:43.583584Z
 addr = 0x1278930
 size = 0x4
 name = "j_al_LiveActor_calcAnim_4"
-type = "long long"
+type = "void"
 
 [header]
 name = "j_al_LiveActor_calcAnim_4"
 addr = 0x1278930
-type = "long long"
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::LiveActor *"
+size = 0x8

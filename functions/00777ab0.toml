@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:42.928897Z
+addr = 0x777ab0
+size = 0x1c0
+name = "_ZNK12_GLOBAL__N_140VoxelKeyMoveMapPartsGeneratorNrvGenerate7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_140VoxelKeyMoveMapPartsGeneratorNrvGenerate7executeEPN2al11NerveKeeperE"
+addr = 0x777ab0
+
+[header.args]

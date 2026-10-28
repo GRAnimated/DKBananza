@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.345160Z
+addr = 0xf81638
+size = 0x8
+name = "_ZNK12_GLOBAL__N_124MarksmanNrvInterruptShot7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_124MarksmanNrvInterruptShot7executeEPN2al11NerveKeeperE"
+addr = 0xf81638
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.903971Z
+addr = 0x1722a08
+size = 0x10
+name = "_ZN22EffectObjGroundEmitter4killEv"
+
+[header]
+name = "_ZN22EffectObjGroundEmitter4killEv"
+addr = 0x1722a08
+
+[header.args]

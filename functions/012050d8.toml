@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.547402Z
+addr = 0x12050d8
+size = 0x64
+name = "_ZN17Npc2VoxelShopHint10exeRespawnEv"
+
+[header]
+name = "_ZN17Npc2VoxelShopHint10exeRespawnEv"
+addr = 0x12050d8
+
+[header.args]

@@ -1,0 +1,183 @@
+last_change = 2026-10-28T04:57:00.584715Z
+name = "sead::GameFrameworkOunce"
+size = 0x208
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "sead::GameFramework"
+size = 0x88
+
+[members.0x88]
+name = "mCreateArg"
+offset = 0x88
+type = "sead::GameFrameworkOunce::CreateArg"
+size = 0x5c
+
+[members.0xe4]
+name = "field_E4"
+offset = 0xe4
+type = "unsigned char[4]"
+size = 0x4
+
+[members.0xe8]
+name = "mFrameDuration"
+offset = 0xe8
+type = "long long"
+size = 0x8
+
+[members.0xf0]
+name = "mPrevFrameTick"
+offset = 0xf0
+type = "long long"
+size = 0x8
+
+[members.0xf8]
+name = "mMethodFrameBuffer"
+offset = 0xf8
+type = "sead::FrameBuffer *"
+size = 0x8
+
+[members.0x100]
+name = "mMethodLogicalFrameBuffer"
+offset = 0x100
+type = "sead::LogicalFrameBuffer"
+size = 0x20
+
+[members.0x120]
+name = "mVBlankWaitTicks"
+offset = 0x120
+type = "long long"
+size = 0x8
+
+[members.0x128]
+name = "field_128"
+offset = 0x128
+type = "long long"
+size = 0x8
+
+[members.0x130]
+name = "field_130"
+offset = 0x130
+type = "long long"
+size = 0x8
+
+[members.0x138]
+name = "field_138"
+offset = 0x138
+type = "long long"
+size = 0x8
+
+[members.0x140]
+name = "field_140"
+offset = 0x140
+type = "long long"
+size = 0x8
+
+[members.0x148]
+name = "field_148"
+offset = 0x148
+type = "long long"
+size = 0x8
+
+[members.0x150]
+name = "field_150"
+offset = 0x150
+type = "unsigned char[40]"
+size = 0x28
+
+[members.0x178]
+name = "mDisplay"
+offset = 0x178
+type = "void *"
+size = 0x8
+
+[members.0x180]
+name = "mLayer"
+offset = 0x180
+type = "nn::vi::Layer *"
+size = 0x8
+
+[members.0x188]
+name = "mPresentationThread"
+offset = 0x188
+type = "void *"
+size = 0x8
+
+[members.0x190]
+name = "field_190"
+offset = 0x190
+type = "const char *"
+size = 0x8
+
+[members.0x198]
+name = "field_198"
+offset = 0x198
+type = "unsigned char[48]"
+size = 0x30
+
+[members.0x1c8]
+name = "field_1C8"
+offset = 0x1c8
+type = "unsigned char[8]"
+size = 0x8
+
+[members.0x1d0]
+name = "field_1D0"
+offset = 0x1d0
+type = "unsigned short"
+size = 0x2
+
+[members.0x1d2]
+name = "field_1D2"
+offset = 0x1d2
+type = "unsigned short"
+size = 0x2
+
+[members.0x1d4]
+name = "field_1D4"
+offset = 0x1d4
+type = "unsigned short"
+size = 0x2
+
+[members.0x1d6]
+name = "field_1D6"
+offset = 0x1d6
+type = "unsigned short"
+size = 0x2
+
+[members.0x1d8]
+name = "field_1D8"
+offset = 0x1d8
+type = "unsigned short"
+size = 0x2
+
+[members.0x1da]
+name = "field_1DA"
+offset = 0x1da
+type = "unsigned char[2]"
+size = 0x2
+
+[members.0x1dc]
+name = "field_1DC"
+offset = 0x1dc
+type = "float"
+size = 0x4
+
+[members.0x1e0]
+name = "field_1E0"
+offset = 0x1e0
+type = "unsigned char[8]"
+size = 0x8
+
+[members.0x1e8]
+name = "field_1E8"
+offset = 0x1e8
+type = "sead::GameFrameworkOunceField1E8_vtbl *"
+size = 0x8
+
+[members.0x1f0]
+name = "field_1F0"
+offset = 0x1f0
+type = "unsigned char[24]"
+size = 0x18

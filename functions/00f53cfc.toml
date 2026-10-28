@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:36.717203Z
+addr = 0xf53cfc
+size = 0x34
+name = "_ZN10Debrischan13makeActorDeadEv"
+
+[header]
+name = "_ZN10Debrischan13makeActorDeadEv"
+addr = 0xf53cfc
+
+[header.args]

@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:37.637319Z
+last_change = 2026-10-28T04:57:43.594039Z
 addr = 0x7a0e00
 size = 0x160
 name = "_ZN2al19createActorFunctionI17BlowBreakMapPartsEEPNS_9LiveActorEPKc"
@@ -9,4 +9,8 @@ name = "_ZN2al19createActorFunctionI17BlowBreakMapPartsEEPNS_9LiveActorEPKc"
 addr = 0x7a0e00
 type = "al::LiveActor *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "const char *"
+size = 0x8

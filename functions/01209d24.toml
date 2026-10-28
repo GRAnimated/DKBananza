@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.548908Z
+addr = 0x1209d24
+size = 0x14
+name = "_ZNK12_GLOBAL__N_128Npc2VoxelSunbathNrvDemoFocus11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_128Npc2VoxelSunbathNrvDemoFocus11getNameHashEv"
+addr = 0x1209d24
+
+[header.args]

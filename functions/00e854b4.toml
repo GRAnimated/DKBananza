@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.264663Z
+addr = 0xe854b4
+size = 0xd0
+name = "_ZN7GorongoD1Ev"
+
+[header]
+name = "_ZN7GorongoD1Ev"
+addr = 0xe854b4
+
+[header.args]

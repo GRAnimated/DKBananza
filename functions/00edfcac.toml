@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:29.772136Z
+addr = 0xedfcac
+size = 0xa4
+name = "_ZN8ShioShio9exeAttackEv"
+
+[header]
+name = "_ZN8ShioShio9exeAttackEv"
+addr = 0xedfcac
+
+[header.args]

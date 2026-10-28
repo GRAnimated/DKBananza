@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:47.950565Z
+addr = 0xffb6d8
+size = 0xe0
+name = "_ZN9MoneyItem7exeWaitEv"
+
+[header]
+name = "_ZN9MoneyItem7exeWaitEv"
+addr = 0xffb6d8
+
+[header.args]

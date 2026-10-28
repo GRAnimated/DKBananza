@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:57:29.624451Z
+addr = 0x2dfd1c
+size = 0x1b0
+name = "sub_71002DFD1C"
+type = "int *"
+
+[header]
+name = "sub_71002DFD1C"
+addr = 0x2dfd1c
+type = "int *"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "int *"
+size = 0x8

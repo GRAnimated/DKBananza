@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.500586Z
+addr = 0x1172004
+size = 0xe8
+name = "_ZN9SunSwitch20exeDemoSkipWipeCloseEv"
+
+[header]
+name = "_ZN9SunSwitch20exeDemoSkipWipeCloseEv"
+addr = 0x1172004
+
+[header.args]

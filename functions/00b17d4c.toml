@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.197918Z
+addr = 0xb17d4c
+size = 0x10
+name = "havok_7100B17D4C"
+type = "bool"
+
+[header]
+name = "havok_7100B17D4C"
+addr = 0xb17d4c
+type = "bool"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

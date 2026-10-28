@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:58.170159Z
+addr = 0x107eb14
+size = 0x64
+name = "_ZNK11BurgerTower18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK11BurgerTower18getRuntimeTypeInfoEv"
+addr = 0x107eb14
+
+[header.args]

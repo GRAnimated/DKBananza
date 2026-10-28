@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.618514Z
+addr = 0x12fad7c
+size = 0x23c
+name = "_ZN16SmallBirdWatcher7exeCallEv"
+
+[header]
+name = "_ZN16SmallBirdWatcher7exeCallEv"
+addr = 0x12fad7c
+
+[header.args]

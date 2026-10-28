@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.478115Z
+addr = 0x11283b8
+size = 0x4
+name = "_ZNK11PaulineCage27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK11PaulineCage27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x11283b8
+
+[header.args]

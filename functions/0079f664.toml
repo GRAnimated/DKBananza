@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.076710Z
+addr = 0x79f664
+size = 0x300
+name = "_ZNK12_GLOBAL__N_115BanaRootNrvWait7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_115BanaRootNrvWait7executeEPN2al11NerveKeeperE"
+addr = 0x79f664
+
+[header.args]

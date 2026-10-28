@@ -1,0 +1,33 @@
+last_change = 2026-10-28T04:57:00.607310Z
+name = "vtbl_71021684F0"
+size = 0x28
+
+[members.0x0]
+name = "checkDerivedRuntimeTypeInfo"
+offset = 0x0
+type = "void (*)()"
+size = 0x8
+
+[members.0x8]
+name = "getRuntimeTypeInfo"
+offset = 0x8
+type = "long long *(*)()"
+size = 0x8
+
+[members.0x10]
+name = "destructor"
+offset = 0x10
+type = "void (__fastcall *)(al::NerveExecutor *this)"
+size = 0x8
+
+[members.0x18]
+name = "deletingDestructor"
+offset = 0x18
+type = "void (__fastcall *)(al::NerveExecutor *this)"
+size = 0x8
+
+[members.0x20]
+name = "getNerveKeeper"
+offset = 0x20
+type = "al::NerveKeeper *(__fastcall *)(const al::NerveExecutor *)"
+size = 0x8

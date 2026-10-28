@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.225704Z
+addr = 0xdef138
+size = 0xc
+name = "sub_7100DEF138"
+type = "void"
+
+[header]
+name = "sub_7100DEF138"
+addr = 0xdef138
+type = "void"
+
+[header.args]

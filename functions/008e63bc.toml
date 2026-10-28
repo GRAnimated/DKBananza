@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.127461Z
+addr = 0x8e63bc
+size = 0x10
+name = "_ZN22hkBufferedStreamReader19isSeekTellSupportedEv"
+type = "long long"
+
+[header]
+name = "_ZN22hkBufferedStreamReader19isSeekTellSupportedEv"
+addr = 0x8e63bc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "long long"
+size = 0x8

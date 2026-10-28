@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:09.759470Z
+addr = 0x10f1788
+size = 0x270
+name = "_ZN7Icicles4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN7Icicles4initERKN2al13ActorInitInfoE"
+addr = 0x10f1788
+
+[header.args]

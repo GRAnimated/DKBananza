@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.884888Z
+addr = 0x16e9594
+size = 0xd4
+name = "_ZN13WheelMapParts4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN13WheelMapParts4initERKN2al13ActorInitInfoE"
+addr = 0x16e9594
+
+[header.args]

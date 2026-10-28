@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.430238Z
+addr = 0x108ad98
+size = 0x8
+name = "_ZNK12_GLOBAL__N_130CannonBarrelTargetNrvWaitShoot7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_130CannonBarrelTargetNrvWaitShoot7executeEPN2al11NerveKeeperE"
+addr = 0x108ad98
+
+[header.args]

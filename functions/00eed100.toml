@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.299555Z
+addr = 0xeed100
+size = 0xc
+name = "_ZN9Stomperor18initAfterPlacementEv"
+
+[header]
+name = "_ZN9Stomperor18initAfterPlacementEv"
+addr = 0xeed100
+
+[header.args]

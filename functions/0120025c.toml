@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.545929Z
+addr = 0x120025c
+size = 0x48
+name = "_ZN17Npc2VoxelQuizChan8exeEventEv"
+
+[header]
+name = "_ZN17Npc2VoxelQuizChan8exeEventEv"
+addr = 0x120025c
+
+[header.args]

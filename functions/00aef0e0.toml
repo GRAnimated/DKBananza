@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:56:43.192673Z
+addr = 0xaef0e0
+size = 0x94
+name = "_ZNK30hknpVehicleRayCastWheelCollide14calcWheelsAABBEPK19hknpVehicleInstanceR6hkAabb"
+type = "float32x4_t"
+
+[header]
+name = "_ZNK30hknpVehicleRayCastWheelCollide14calcWheelsAABBEPK19hknpVehicleInstanceR6hkAabb"
+addr = 0xaef0e0
+type = "float32x4_t"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "float32x4_t *"
+size = 0x8

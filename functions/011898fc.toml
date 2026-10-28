@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.508074Z
+addr = 0x11898fc
+size = 0x14
+name = "_ZNK12_GLOBAL__N_127TimerBreakerNrvOnCameraWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_127TimerBreakerNrvOnCameraWait11getNameHashEv"
+addr = 0x11898fc
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.503993Z
+addr = 0x117afb8
+size = 0x4
+name = "_ZNK4Tank27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK4Tank27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x117afb8
+
+[header.args]

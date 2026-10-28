@@ -1,0 +1,34 @@
+last_change = 2026-10-28T04:56:42.488413Z
+addr = 0x3a9e0c
+size = 0xbc
+name = "_ZN9hkSignal2IRK21hknpEventHandlerInputRK9hknpEventE9subscribeIN5phive33ConstraintForceExceededEventHavokEMS9_FvS2_S5_EEEPNS6_4SlotEPT_T0_PKc"
+type = "long long"
+
+[header]
+name = "_ZN9hkSignal2IRK21hknpEventHandlerInputRK9hknpEventE9subscribeIN5phive33ConstraintForceExceededEventHavokEMS9_FvS2_S5_EEEPNS6_4SlotEPT_T0_PKc"
+addr = 0x3a9e0c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "long long"
+size = 0x8

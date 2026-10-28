@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.513878Z
+addr = 0x119e3ac
+size = 0xe0
+name = "_ZN15VoidMaterialObjD1Ev"
+
+[header]
+name = "_ZN15VoidMaterialObjD1Ev"
+addr = 0x119e3ac
+
+[header.args]

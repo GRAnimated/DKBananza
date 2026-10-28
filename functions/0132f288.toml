@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.636547Z
+addr = 0x132f288
+size = 0x14
+name = "SampleVoxelEnemy__ZNK12_GLOBAL__N_117HostTypeNrvDamage11getNameHashEv"
+
+[header]
+name = "SampleVoxelEnemy__ZNK12_GLOBAL__N_117HostTypeNrvDamage11getNameHashEv"
+addr = 0x132f288
+
+[header.args]

@@ -1,11 +1,22 @@
-last_change = 2026-10-26T16:58:35.108217Z
+last_change = 2026-10-28T04:56:43.616423Z
 addr = 0x12f3548
 size = 0x750
 name = "_ZN14SculptureScene4initERKN2al13SceneInitInfoE"
+type = "void"
 
 [header]
-last_change = 2026-10-26T16:58:35.108217Z
 name = "_ZN14SculptureScene4initERKN2al13SceneInitInfoE"
 addr = 0x12f3548
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "SculptureScene *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "info"
+type = "const al::SceneInitInfo *"
+size = 0x8

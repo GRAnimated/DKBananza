@@ -1,0 +1,21 @@
+last_change = 2026-10-28T04:57:00.582269Z
+name = "sead::LogicalFrameBuffer"
+size = 0x20
+
+[members.0x0]
+name = "__vftable"
+offset = 0x0
+type = "sead::LogicalFrameBuffer_vtbl *"
+size = 0x8
+
+[members.0x8]
+name = "mVirtualSize"
+offset = 0x8
+type = "float[2]"
+size = 0x8
+
+[members.0x10]
+name = "mPhysicalArea"
+offset = 0x10
+type = "float[4]"
+size = 0x10

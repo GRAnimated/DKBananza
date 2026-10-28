@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:09.767925Z
+addr = 0x10f1cac
+size = 0xfc
+name = "_ZN7Icicles7controlEv"
+
+[header]
+name = "_ZN7Icicles7controlEv"
+addr = 0x10f1cac
+
+[header.args]

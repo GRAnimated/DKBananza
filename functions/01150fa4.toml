@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:19.301603Z
+addr = 0x1150fa4
+size = 0x50
+name = "_ZN13SkydivingGold8exeStartEv"
+
+[header]
+name = "_ZN13SkydivingGold8exeStartEv"
+addr = 0x1150fa4
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:19.856522Z
+addr = 0x1156808
+size = 0x1b8
+name = "_ZN9SonarGate10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN9SonarGate10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x1156808
+
+[header.args]

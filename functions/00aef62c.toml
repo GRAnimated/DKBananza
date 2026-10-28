@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.192890Z
+addr = 0xaef62c
+size = 0x8
+name = "_ZN30hknpVehicleRayCastWheelCollide22setCollisionFilterInfoEj"
+type = "long long"
+
+[header]
+name = "_ZN30hknpVehicleRayCastWheelCollide22setCollisionFilterInfoEj"
+addr = 0xaef62c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4

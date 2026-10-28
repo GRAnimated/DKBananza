@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.327295Z
+addr = 0xf46a0c
+size = 0x14
+name = "BattanWall__ZNK12_GLOBAL__N_115HostTypeNrvFind11getNameHashEv"
+
+[header]
+name = "BattanWall__ZNK12_GLOBAL__N_115HostTypeNrvFind11getNameHashEv"
+addr = 0xf46a0c
+
+[header.args]

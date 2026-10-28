@@ -1,0 +1,34 @@
+last_change = 2026-10-28T04:57:36.940754Z
+addr = 0x5fe99c
+size = 0x84
+name = "al_Sequence_71005FE99C"
+type = "long long"
+
+[header]
+name = "al_Sequence_71005FE99C"
+addr = 0x5fe99c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::Sequence *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "info"
+type = "void *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = "flag"
+type = "bool"
+size = 0x1
+
+[header.args.0x3]
+offset = 0x3
+name = "rate"
+type = "unsigned int"
+size = 0x4

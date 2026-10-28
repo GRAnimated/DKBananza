@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:57:27.086693Z
+addr = 0xce780
+size = 0x10b0
+name = "sub_71000CE780"
+type = "long long"
+
+[header]
+name = "sub_71000CE780"
+addr = 0xce780
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long double"
+size = 0x10

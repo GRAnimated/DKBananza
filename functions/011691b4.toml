@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:21.543688Z
+addr = 0x11691b4
+size = 0x68
+name = "_ZNK11StoneStatue18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK11StoneStatue18getRuntimeTypeInfoEv"
+addr = 0x11691b4
+
+[header.args]

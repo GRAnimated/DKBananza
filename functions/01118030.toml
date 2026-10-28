@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:13.631643Z
+addr = 0x1118030
+size = 0xe0
+name = "_ZN8Minecart10exeRunFallEv"
+
+[header]
+name = "_ZN8Minecart10exeRunFallEv"
+addr = 0x1118030
+
+[header.args]

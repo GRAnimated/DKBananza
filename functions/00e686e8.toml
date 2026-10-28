@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:22.162685Z
+addr = 0xe686e8
+size = 0x94
+name = "_ZN11BossMimichi22exeDemoVoidGroupAppearEv"
+
+[header]
+name = "_ZN11BossMimichi22exeDemoVoidGroupAppearEv"
+addr = 0xe686e8
+
+[header.args]

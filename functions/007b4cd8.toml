@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.084594Z
+addr = 0x7b4cd8
+size = 0x4
+name = "_ZN15Npc2TalkerRambi6appearEv"
+
+[header]
+name = "_ZN15Npc2TalkerRambi6appearEv"
+addr = 0x7b4cd8
+
+[header.args]

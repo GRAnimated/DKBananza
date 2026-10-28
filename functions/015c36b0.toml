@@ -1,10 +1,12 @@
-last_change = 2026-10-26T00:37:10.001822Z
+last_change = 2026-10-28T04:56:43.790874Z
 addr = 0x15c36b0
 size = 0x4
-name = "nullsub_3061"
+name = "phive_World_71015C36B0"
+type = "void"
 
 [header]
-name = "nullsub_3061"
+name = "phive_World_71015C36B0"
 addr = 0x15c36b0
+type = "void"
 
 [header.args]

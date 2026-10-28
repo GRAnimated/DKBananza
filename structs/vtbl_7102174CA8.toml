@@ -1,0 +1,33 @@
+last_change = 2026-10-28T04:57:00.610547Z
+name = "vtbl_7102174CA8"
+size = 0x28
+
+[members.0x0]
+name = "field_0"
+offset = 0x0
+type = "void (*)()"
+size = 0x8
+
+[members.0x8]
+name = "field_8"
+offset = 0x8
+type = "void (*)()"
+size = 0x8
+
+[members.0x10]
+name = "destructor"
+offset = 0x10
+type = "void (*)()"
+size = 0x8
+
+[members.0x18]
+name = "deletingDestructor"
+offset = 0x18
+type = "void (*)()"
+size = 0x8
+
+[members.0x20]
+name = "getNerveKeeper"
+offset = 0x20
+type = "void (*)()"
+size = 0x8

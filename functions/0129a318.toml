@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.593056Z
+addr = 0x129a318
+size = 0x114
+name = "_ZN20PlayerStateFallPunch8exeStartEv"
+
+[header]
+name = "_ZN20PlayerStateFallPunch8exeStartEv"
+addr = 0x129a318
+
+[header.args]

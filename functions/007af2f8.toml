@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.082858Z
+addr = 0x7af2f8
+size = 0x2c
+name = "_ZN18VoxelRegenerateObj12startClippedEv"
+
+[header]
+name = "_ZN18VoxelRegenerateObj12startClippedEv"
+addr = 0x7af2f8
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.488551Z
+addr = 0x114b060
+size = 0x8
+name = "_ZNK12_GLOBAL__N_133SinkholeGeneratorNrvWaitAfterCage7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_133SinkholeGeneratorNrvWaitAfterCage7executeEPN2al11NerveKeeperE"
+addr = 0x114b060
+
+[header.args]

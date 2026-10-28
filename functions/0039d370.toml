@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:57:30.879955Z
+addr = 0x39d370
+size = 0x160
+name = "sub_710039D370"
+type = "bool"
+
+[header]
+name = "sub_710039D370"
+addr = 0x39d370
+type = "bool"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "long long"
+size = 0x8

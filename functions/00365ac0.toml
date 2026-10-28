@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:42.474272Z
+addr = 0x365ac0
+size = 0x60
+name = "sub_7100365AC0"
+type = "bool"
+
+[header]
+name = "sub_7100365AC0"
+addr = 0x365ac0
+type = "bool"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "unsigned int"
+size = 0x4

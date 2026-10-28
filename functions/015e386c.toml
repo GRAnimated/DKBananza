@@ -1,0 +1,46 @@
+last_change = 2026-10-28T04:56:43.797038Z
+addr = 0x15e386c
+size = 0x380
+name = "phive_BackendErrorHandler_message"
+type = "bool"
+
+[header]
+name = "phive_BackendErrorHandler_message"
+addr = 0x15e386c
+type = "bool"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "unsigned int"
+size = 0x4
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "const char *"
+size = 0x8
+
+[header.args.0x4]
+offset = 0x4
+name = ""
+type = "const char *"
+size = 0x8
+
+[header.args.0x5]
+offset = 0x5
+name = ""
+type = "int"
+size = 0x4

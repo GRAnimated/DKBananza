@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.542527Z
+addr = 0x11f533c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_122Npc2VoxelAmiiboNrvVoid11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_122Npc2VoxelAmiiboNrvVoid11getNameHashEv"
+addr = 0x11f533c
+
+[header.args]

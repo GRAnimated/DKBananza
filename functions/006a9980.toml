@@ -1,11 +1,22 @@
-last_change = 2026-10-26T17:00:35.820656Z
+last_change = 2026-10-28T04:57:39.368286Z
 addr = 0x6a9980
 size = 0xf0
 name = "_ZN2al5SceneC2EPKc"
+type = "void"
 
 [header]
-last_change = 2026-10-26T17:00:35.820656Z
 name = "_ZN2al5SceneC2EPKc"
 addr = 0x6a9980
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::Scene *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "name"
+type = "const char *"
+size = 0x8

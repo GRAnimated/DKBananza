@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.319871Z
+addr = 0xf2ebc4
+size = 0x4
+name = "_ZNK12DemoStartObj27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK12DemoStartObj27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0xf2ebc4
+
+[header.args]

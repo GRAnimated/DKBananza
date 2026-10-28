@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.294967Z
+addr = 0xee0220
+size = 0x240
+name = "_ZN8ShioShio10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN8ShioShio10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xee0220
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.306576Z
+addr = 0xf02638
+size = 0x14
+name = "_ZNK12_GLOBAL__N_119TowerKRoolNrvAttack11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_119TowerKRoolNrvAttack11getNameHashEv"
+addr = 0xf02638
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.502763Z
+addr = 0x117801c
+size = 0x4c
+name = "_ZNK12_GLOBAL__N_119SwitchSolarNrvDelay7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_119SwitchSolarNrvDelay7executeEPN2al11NerveKeeperE"
+addr = 0x117801c
+
+[header.args]

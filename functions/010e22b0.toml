@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.457796Z
+addr = 0x10e22b0
+size = 0x8
+name = "_ZNK12_GLOBAL__N_119HandSlapSwitchNrvOn7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_119HandSlapSwitchNrvOn7executeEPN2al11NerveKeeperE"
+addr = 0x10e22b0
+
+[header.args]

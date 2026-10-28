@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.879369Z
+addr = 0x16da62c
+size = 0x64
+name = "_ZNK2al16ConveyerMapParts18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK2al16ConveyerMapParts18getRuntimeTypeInfoEv"
+addr = 0x16da62c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.517645Z
+addr = 0x11aad0c
+size = 0x2c
+name = "_ZN17VoxelMimichiParts8calcAnimEv"
+
+[header]
+name = "_ZN17VoxelMimichiParts8calcAnimEv"
+addr = 0x11aad0c
+
+[header.args]

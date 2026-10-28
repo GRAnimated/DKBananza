@@ -1,12 +1,16 @@
-last_change = 2026-10-26T00:37:09.990830Z
+last_change = 2026-10-28T04:56:43.538402Z
 addr = 0x11e8f7c
 size = 0x4
-name = "j_al_LiveActor_movement_21"
+name = "_ZN24Npc2KongTalkerCrankyKong8movementEv"
 type = "void"
 
 [header]
-name = "j_al_LiveActor_movement_21"
+name = "_ZN24Npc2KongTalkerCrankyKong8movementEv"
 addr = 0x11e8f7c
 type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::LiveActor *"
+size = 0x8

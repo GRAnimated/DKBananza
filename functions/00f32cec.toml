@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.321705Z
+addr = 0xf32cec
+size = 0xec
+name = "_ZN18TitleLogoDemoActor10exeLogoOutEv"
+
+[header]
+name = "_ZN18TitleLogoDemoActor10exeLogoOutEv"
+addr = 0xf32cec
+
+[header.args]

@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.681313Z
+addr = 0x138bab4
+size = 0x64
+name = "_ZNK4sead18GameFrameworkOunce18getRuntimeTypeInfoEv"
+type = "const sead::RuntimeTypeInfo::Interface *"
+
+[header]
+name = "_ZNK4sead18GameFrameworkOunce18getRuntimeTypeInfoEv"
+addr = 0x138bab4
+type = "const sead::RuntimeTypeInfo::Interface *"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "const sead::GameFrameworkOunce *const"
+size = 0x8

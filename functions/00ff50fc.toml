@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.382505Z
+addr = 0xff50fc
+size = 0x14
+name = "_ZNK12_GLOBAL__N_119KeyItemNrvDisappear11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_119KeyItemNrvDisappear11getNameHashEv"
+addr = 0xff50fc
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.589280Z
+addr = 0x128b170
+size = 0x120
+name = "_ZN23PlayerStateClimbCeiling10exeJumpEndEv"
+
+[header]
+name = "_ZN23PlayerStateClimbCeiling10exeJumpEndEv"
+addr = 0x128b170
+
+[header.args]

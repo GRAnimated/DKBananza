@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.500004Z
+addr = 0x117066c
+size = 0x64
+name = "_ZNK19StormLevelSoundCtrl18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK19StormLevelSoundCtrl18getRuntimeTypeInfoEv"
+addr = 0x117066c
+
+[header.args]

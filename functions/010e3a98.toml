@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:08.223750Z
+addr = 0x10e3a98
+size = 0x88
+name = "_ZN16HandSlapVoxelObjD0Ev"
+
+[header]
+name = "_ZN16HandSlapVoxelObjD0Ev"
+addr = 0x10e3a98
+
+[header.args]

@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.313526Z
+addr = 0xf18a90
+size = 0x3c
+name = "sub_7100F18A90"
+type = "long long"
+
+[header]
+name = "sub_7100F18A90"
+addr = 0xf18a90
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "char *"
+size = 0x8

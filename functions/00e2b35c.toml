@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:58:18.295307Z
+addr = 0xe2b35c
+size = 0x7c
+name = "sub_7100E2B35C"
+type = "__n128"
+
+[header]
+name = "sub_7100E2B35C"
+addr = 0xe2b35c
+type = "__n128"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

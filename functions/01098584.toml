@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:00.814241Z
+addr = 0x1098584
+size = 0x264
+name = "_ZN11CopyFooting10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN11CopyFooting10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x1098584
+
+[header.args]

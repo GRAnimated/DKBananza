@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:42.512776Z
+addr = 0x4b8318
+size = 0x14
+name = "_ZN8BanaRoot18initAfterPlacementEv"
+
+[header]
+name = "_ZN8BanaRoot18initAfterPlacementEv"
+addr = 0x4b8318
+
+[header.args]

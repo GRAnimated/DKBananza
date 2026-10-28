@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.873046Z
+addr = 0x16d0f74
+size = 0x8
+name = "_ZN2al21ActorPoseKeeperTRGMSV12getRotatePtrEv"
+type = "sead::Vector3f *"
+
+[header]
+name = "_ZN2al21ActorPoseKeeperTRGMSV12getRotatePtrEv"
+addr = 0x16d0f74
+type = "sead::Vector3f *"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::ActorPoseKeeperTRGMSV *"
+size = 0x8

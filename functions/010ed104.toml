@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:09.307030Z
+addr = 0x10ed104
+size = 0x13c
+name = "_ZN8IceMaker10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN8IceMaker10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x10ed104
+
+[header.args]

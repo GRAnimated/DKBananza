@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.536396Z
+addr = 0x11e399c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_140Npc2KongConstructionBossKongSoundNrvFall11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_140Npc2KongConstructionBossKongSoundNrvFall11getNameHashEv"
+addr = 0x11e399c
+
+[header.args]

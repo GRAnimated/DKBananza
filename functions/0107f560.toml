@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.427094Z
+addr = 0x107f560
+size = 0x4
+name = "_ZNK23BurgerTowerDemoDirector27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK23BurgerTowerDemoDirector27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x107f560
+
+[header.args]

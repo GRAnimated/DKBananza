@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.480854Z
+addr = 0x1131508
+size = 0x14
+name = "_ZNK12_GLOBAL__N_118PuddlePartsNrvDead11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_118PuddlePartsNrvDead11getNameHashEv"
+addr = 0x1131508
+
+[header.args]

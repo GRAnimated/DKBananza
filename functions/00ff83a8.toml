@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.383918Z
+addr = 0xff83a8
+size = 0x64
+name = "_ZN23LifeVoxelItemRegenerate6appearEv"
+
+[header]
+name = "_ZN23LifeVoxelItemRegenerate6appearEv"
+addr = 0xff83a8
+
+[header.args]

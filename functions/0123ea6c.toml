@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.563294Z
+addr = 0x123ea6c
+size = 0x98
+name = "OstrichEgg_updateCollider"
+
+[header]
+name = "OstrichEgg_updateCollider"
+addr = 0x123ea6c
+
+[header.args]

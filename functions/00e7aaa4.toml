@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.261403Z
+addr = 0xe7aaa4
+size = 0x684
+name = "_ZN9BossStorm12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN9BossStorm12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xe7aaa4
+
+[header.args]

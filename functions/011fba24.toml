@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.544468Z
+addr = 0x11fba24
+size = 0x80
+name = "_ZN20Npc2VoxelHideAndSeek8exeEventEv"
+
+[header]
+name = "_ZN20Npc2VoxelHideAndSeek8exeEventEv"
+addr = 0x11fba24
+
+[header.args]

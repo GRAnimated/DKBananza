@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.616678Z
+addr = 0x12f4bd4
+size = 0x494
+name = "_ZN14SculptureScene11exeSnapShotEv"
+type = "long long"
+
+[header]
+name = "_ZN14SculptureScene11exeSnapShotEv"
+addr = 0x12f4bd4
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

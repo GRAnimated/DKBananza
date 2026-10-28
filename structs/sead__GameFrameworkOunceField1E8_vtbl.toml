@@ -1,0 +1,21 @@
+last_change = 2026-10-28T04:57:00.584278Z
+name = "sead::GameFrameworkOunceField1E8_vtbl"
+size = 0x18
+
+[members.0x0]
+name = "field_00"
+offset = 0x0
+type = "void (*)(void *)"
+size = 0x8
+
+[members.0x8]
+name = "field_08"
+offset = 0x8
+type = "unsigned long long (*)(void *)"
+size = 0x8
+
+[members.0x10]
+name = "field_10"
+offset = 0x10
+type = "unsigned long long (*)(void *)"
+size = 0x8

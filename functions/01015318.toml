@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:49.640320Z
+addr = 0x1015318
+size = 0x54
+name = "_ZN3Cue6appearEv"
+
+[header]
+name = "_ZN3Cue6appearEv"
+addr = 0x1015318
+
+[header.args]

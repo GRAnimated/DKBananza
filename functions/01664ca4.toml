@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.828768Z
+addr = 0x1664ca4
+size = 0x418
+name = "_ZN2al15CameraInterpole20exeActiveRotateAxisYEv"
+
+[header]
+name = "_ZN2al15CameraInterpole20exeActiveRotateAxisYEv"
+addr = 0x1664ca4
+
+[header.args]

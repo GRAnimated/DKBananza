@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.426555Z
+addr = 0x107dc7c
+size = 0x8
+name = "BurgerSwitch__ZNK12_GLOBAL__N_123HostTypeNrvReactionSide7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "BurgerSwitch__ZNK12_GLOBAL__N_123HostTypeNrvReactionSide7executeEPN2al11NerveKeeperE"
+addr = 0x107dc7c
+
+[header.args]

@@ -1,0 +1,93 @@
+last_change = 2026-10-28T04:57:00.600244Z
+name = "al::Sequence"
+size = 0xc0
+
+[members.0x0]
+name = "al::NerveExecutor"
+offset = 0x0
+type = "al::NerveExecutor"
+size = 0x18
+
+[members.0x18]
+name = "field_18"
+offset = 0x18
+type = "void *"
+size = 0x8
+
+[members.0x20]
+name = "field_20"
+offset = 0x20
+type = "void *"
+size = 0x8
+
+[members.0x28]
+name = "field_28"
+offset = 0x28
+type = "void *"
+size = 0x8
+
+[members.0x30]
+name = "field_30"
+offset = 0x30
+type = "void *"
+size = 0x8
+
+[members.0x38]
+name = "field_38"
+offset = 0x38
+type = "void *"
+size = 0x8
+
+[members.0x40]
+name = "field_40"
+offset = 0x40
+type = "void *"
+size = 0x8
+
+[members.0x48]
+name = "field_48"
+offset = 0x48
+type = "int"
+size = 0x4
+
+[members.0x4c]
+name = "field_4C"
+offset = 0x4c
+type = "char[64]"
+size = 0x40
+
+[members.0x90]
+name = "field_90"
+offset = 0x90
+type = "void *"
+size = 0x8
+
+[members.0x98]
+name = "field_98"
+offset = 0x98
+type = "al::Scene *"
+size = 0x8
+
+[members.0xa0]
+name = "field_A0"
+offset = 0xa0
+type = "void *"
+size = 0x8
+
+[members.0xa8]
+name = "field_A8"
+offset = 0xa8
+type = "void *"
+size = 0x8
+
+[members.0xb0]
+name = "field_B0"
+offset = 0xb0
+type = "al::AudioKeeper *"
+size = 0x8
+
+[members.0xb8]
+name = "field_B8"
+offset = 0xb8
+type = "bool"
+size = 0x1

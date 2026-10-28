@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.196844Z
+addr = 0xb169c0
+size = 0x44
+name = "havok_7100B169C0"
+
+[header]
+name = "havok_7100B169C0"
+addr = 0xb169c0
+
+[header.args]

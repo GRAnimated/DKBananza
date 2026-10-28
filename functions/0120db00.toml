@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.550129Z
+addr = 0x120db00
+size = 0x14
+name = "_ZNK12_GLOBAL__N_128Npc2VoxelYocchiParentNrvVoid7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_128Npc2VoxelYocchiParentNrvVoid7executeEPN2al11NerveKeeperE"
+addr = 0x120db00
+
+[header.args]

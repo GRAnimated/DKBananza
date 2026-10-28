@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.083879Z
+addr = 0x7b3168
+size = 0xa4
+name = "_ZN21Npc2AnimalTalkerSnake6appearEv"
+
+[header]
+name = "_ZN21Npc2AnimalTalkerSnake6appearEv"
+addr = 0x7b3168
+
+[header.args]

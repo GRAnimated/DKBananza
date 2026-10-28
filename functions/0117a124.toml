@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.503613Z
+addr = 0x117a124
+size = 0x14
+name = "_ZNK12_GLOBAL__N_119SyncSwitchNrvOnWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_119SyncSwitchNrvOnWait11getNameHashEv"
+addr = 0x117a124
+
+[header.args]

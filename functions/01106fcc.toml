@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.469195Z
+addr = 0x1106fcc
+size = 0x8
+name = "LionGate__ZNK12_GLOBAL__N_120HostTypeNrvWaitClose7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "LionGate__ZNK12_GLOBAL__N_120HostTypeNrvWaitClose7executeEPN2al11NerveKeeperE"
+addr = 0x1106fcc
+
+[header.args]

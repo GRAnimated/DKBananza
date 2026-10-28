@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:21.636495Z
+addr = 0x116a220
+size = 0x64
+name = "_ZNK17StoneStatueCamera18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK17StoneStatueCamera18getRuntimeTypeInfoEv"
+addr = 0x116a220
+
+[header.args]

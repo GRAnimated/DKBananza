@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:57:34.403842Z
+addr = 0x5333a8
+size = 0xb0
+name = "sub_71005333A8"
+type = "long long"
+
+[header]
+name = "sub_71005333A8"
+addr = 0x5333a8
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8

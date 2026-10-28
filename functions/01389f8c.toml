@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.680166Z
+addr = 0x1389f8c
+size = 0x4c
+name = "_ZN25WaterVoxelKeyMoveMapParts14makeActorAliveEv"
+
+[header]
+name = "_ZN25WaterVoxelKeyMoveMapParts14makeActorAliveEv"
+addr = 0x1389f8c
+
+[header.args]

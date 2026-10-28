@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.483178Z
+addr = 0x113a130
+size = 0x5c
+name = "_ZN14ReactionObjectD1Ev"
+
+[header]
+name = "_ZN14ReactionObjectD1Ev"
+addr = 0x113a130
+
+[header.args]

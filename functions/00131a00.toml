@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:42.427587Z
+addr = 0x131a00
+size = 0x2c4
+name = "sub_7100131A00"
+type = "long long"
+
+[header]
+name = "sub_7100131A00"
+addr = 0x131a00
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8

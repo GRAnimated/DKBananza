@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.670759Z
+addr = 0x136fd9c
+size = 0x1a8
+name = "_ZN23VoxelHopperLiftMapParts7exeMoveEv"
+type = "long long"
+
+[header]
+name = "_ZN23VoxelHopperLiftMapParts7exeMoveEv"
+addr = 0x136fd9c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

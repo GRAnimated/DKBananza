@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:29.761638Z
+addr = 0xedfb24
+size = 0xbc
+name = "_ZN8ShioShio7exeWaitEv"
+
+[header]
+name = "_ZN8ShioShio7exeWaitEv"
+addr = 0xedfb24
+
+[header.args]

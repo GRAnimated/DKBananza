@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.085493Z
+addr = 0x7b921c
+size = 0x68
+name = "_ZN21Npc2VoxelYocchiParent18initAfterPlacementEv"
+
+[header]
+name = "_ZN21Npc2VoxelYocchiParent18initAfterPlacementEv"
+addr = 0x7b921c
+
+[header.args]

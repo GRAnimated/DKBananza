@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:57:41.182476Z
+addr = 0x725680
+size = 0x7c
+name = "sub_7100725680"
+type = "float"
+
+[header]
+name = "sub_7100725680"
+addr = 0x725680
+type = "float"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8

@@ -1,12 +1,22 @@
-last_change = 2026-10-26T00:37:09.981315Z
+last_change = 2026-10-28T04:56:43.235703Z
 addr = 0xe2ddf0
 size = 0x4
-name = "something_27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+name = "_ZNK2al11IUseHioNode27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
 type = "long long"
 
 [header]
-name = "something_27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+name = "_ZNK2al11IUseHioNode27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
 addr = 0xe2ddf0
 type = "long long"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long *"
+size = 0x8

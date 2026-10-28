@@ -1,0 +1,46 @@
+last_change = 2026-10-28T04:56:42.525832Z
+addr = 0x51e02c
+size = 0x4
+name = "j__ZN2al5Scene16initLiveActorKitERKNS_13SceneInitInfoEiii"
+type = "void"
+
+[header]
+name = "j__ZN2al5Scene16initLiveActorKitERKNS_13SceneInitInfoEiii"
+addr = 0x51e02c
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::Scene *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "info"
+type = "const al::SceneInitInfo *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = "maxActors"
+type = "int"
+size = 0x4
+
+[header.args.0x3]
+offset = 0x3
+name = "maxPlayers"
+type = "int"
+size = 0x4
+
+[header.args.0x4]
+offset = 0x4
+name = "maxCameras"
+type = "int"
+size = 0x4
+
+[header.args.0x5]
+offset = 0x5
+name = "executorMode"
+type = "bool"
+size = 0x1

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.343060Z
+addr = 0xf7c0e0
+size = 0x14
+name = "_ZNK12_GLOBAL__N_125HopperStateAttackNrvPress11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_125HopperStateAttackNrvPress11getNameHashEv"
+addr = 0xf7c0e0
+
+[header.args]

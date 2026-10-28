@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:55.005913Z
+addr = 0x10606c0
+size = 0x64
+name = "_ZNK21BallCountAreaObserver18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK21BallCountAreaObserver18getRuntimeTypeInfoEv"
+addr = 0x10606c0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.575389Z
+addr = 0x1263dac
+size = 0x8
+name = "sub_7101263DAC"
+
+[header]
+name = "sub_7101263DAC"
+addr = 0x1263dac
+
+[header.args]

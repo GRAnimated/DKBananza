@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:39.713459Z
+addr = 0xf84f2c
+size = 0x88
+name = "_ZN7Mimichi17exePopOutHandSlapEv"
+
+[header]
+name = "_ZN7Mimichi17exePopOutHandSlapEv"
+addr = 0xf84f2c
+
+[header.args]

@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:39.869886Z
+addr = 0x6c8a24
+size = 0xb4
+name = "_ZNK12_GLOBAL__N_120TreasureBoxNrvAppear7executeEPN2al11NerveKeeperE"
+type = "long long"
+
+[header]
+name = "_ZNK12_GLOBAL__N_120TreasureBoxNrvAppear7executeEPN2al11NerveKeeperE"
+addr = 0x6c8a24
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

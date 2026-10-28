@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.871792Z
+addr = 0x16d07c0
+size = 0xe8
+name = "_ZN2al20ActorPoseKeeperTQGSV16updatePoseRotateERKN4sead7Vector3IfEE"
+type = "void"
+
+[header]
+name = "_ZN2al20ActorPoseKeeperTQGSV16updatePoseRotateERKN4sead7Vector3IfEE"
+addr = 0x16d07c0
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::ActorPoseKeeperTQGSV *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "rotate"
+type = "const sead::Vector3f *"
+size = 0x8

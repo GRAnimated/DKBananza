@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:34.336865Z
+addr = 0xf2e5c8
+size = 0xac
+name = "_ZN12DemoStartObj6appearEv"
+
+[header]
+name = "_ZN12DemoStartObj6appearEv"
+addr = 0xf2e5c8
+
+[header.args]

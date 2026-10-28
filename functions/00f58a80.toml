@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.332651Z
+addr = 0xf58a80
+size = 0xdc
+name = "DonZain_attackCollider"
+
+[header]
+name = "DonZain_attackCollider"
+addr = 0xf58a80
+
+[header.args]

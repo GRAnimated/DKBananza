@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.359964Z
+addr = 0xfac03c
+size = 0x2c
+name = "_ZN8ZainCart10endClippedEv"
+
+[header]
+name = "_ZN8ZainCart10endClippedEv"
+addr = 0xfac03c
+
+[header.args]

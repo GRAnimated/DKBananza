@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.269116Z
+addr = 0xe94df8
+size = 0x14
+name = "UnknownHost_710223B790__ZNK12_GLOBAL__N_131HostTypeNrvEscapeEndCameraDelay11getNameHashEv"
+
+[header]
+name = "UnknownHost_710223B790__ZNK12_GLOBAL__N_131HostTypeNrvEscapeEndCameraDelay11getNameHashEv"
+addr = 0xe94df8
+
+[header.args]

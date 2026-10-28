@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.248971Z
+addr = 0xe57ce0
+size = 0x8
+name = "Nerve_HostTypeNrvDemoBattleStart_slot3_7100E57CE0"
+type = "long long"
+
+[header]
+name = "Nerve_HostTypeNrvDemoBattleStart_slot3_7100E57CE0"
+addr = 0xe57ce0
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

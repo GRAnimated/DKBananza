@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.522711Z
+addr = 0x11baaa4
+size = 0x8c
+name = "_ZN16YocchiController23exeDemoBananamondAppearEv"
+
+[header]
+name = "_ZN16YocchiController23exeDemoBananamondAppearEv"
+addr = 0x11baaa4
+
+[header.args]

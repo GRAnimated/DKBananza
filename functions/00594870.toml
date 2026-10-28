@@ -1,12 +1,28 @@
-last_change = 2026-10-26T00:37:09.974013Z
+last_change = 2026-10-28T04:57:35.656870Z
 addr = 0x594870
 size = 0x90
 name = "_ZN2al14LiveActorGroupC2EPKci"
-type = "long long"
+type = "unsigned long long"
 
 [header]
 name = "_ZN2al14LiveActorGroupC2EPKci"
 addr = 0x594870
-type = "long long"
+type = "unsigned long long"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "sead::IDisposer *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "sead::Heap *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "int"
+size = 0x4

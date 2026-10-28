@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.495015Z
+addr = 0x1160c8c
+size = 0x30
+name = "_ZN15SoundSubSpeaker7controlEv"
+
+[header]
+name = "_ZN15SoundSubSpeaker7controlEv"
+addr = 0x1160c8c
+
+[header.args]

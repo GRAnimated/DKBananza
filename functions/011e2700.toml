@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.535928Z
+addr = 0x11e2700
+size = 0x4
+name = "_ZN33Npc2KongConstructionBossKongSound4killEv"
+
+[header]
+name = "_ZN33Npc2KongConstructionBossKongSound4killEv"
+addr = 0x11e2700
+
+[header.args]

@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.984861Z
+last_change = 2026-10-28T04:56:43.352999Z
 addr = 0xf9487c
 size = 0x4
-name = "nullsub_1512"
+name = "RockBee__ZNK12_GLOBAL__N_115HostTypeNrvHide7executeEPN2al11NerveKeeperE"
 
 [header]
-name = "nullsub_1512"
+name = "RockBee__ZNK12_GLOBAL__N_115HostTypeNrvHide7executeEPN2al11NerveKeeperE"
 addr = 0xf9487c
 
 [header.args]

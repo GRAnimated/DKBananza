@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.786056Z
+addr = 0x15a8c9c
+size = 0x248
+name = "_ZN5phive9RigidBody20processOnPostUpdate_Ev"
+type = "long double"
+
+[header]
+name = "_ZN5phive9RigidBody20processOnPostUpdate_Ev"
+addr = 0x15a8c9c
+type = "long double"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

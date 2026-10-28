@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.572934Z
+addr = 0x125ef94
+size = 0x374
+name = "_ZN13PlayerGorilla7exeSpinEv"
+
+[header]
+name = "_ZN13PlayerGorilla7exeSpinEv"
+addr = 0x125ef94
+
+[header.args]

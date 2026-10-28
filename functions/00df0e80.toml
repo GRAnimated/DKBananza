@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.226327Z
+addr = 0xdf0e80
+size = 0xc
+name = "sub_7100DF0E80"
+type = "void"
+
+[header]
+name = "sub_7100DF0E80"
+addr = 0xdf0e80
+type = "void"
+
+[header.args]

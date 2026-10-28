@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:57:28.148318Z
+addr = 0x1e9dc4
+size = 0x350
+name = "_ZN4sead18GameFrameworkOunce9procDraw_Ev"
+type = "void"
+
+[header]
+name = "_ZN4sead18GameFrameworkOunce9procDraw_Ev"
+addr = 0x1e9dc4
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "sead::GameFrameworkOunce *"
+size = 0x8

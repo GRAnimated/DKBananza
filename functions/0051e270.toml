@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:56:42.526180Z
+addr = 0x51e270
+size = 0x64
+name = "sub_710051E270"
+type = "long long"
+
+[header]
+name = "sub_710051E270"
+addr = 0x51e270
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "float"
+size = 0x4

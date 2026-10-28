@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:42.496572Z
+addr = 0x41c1a0
+size = 0x60
+name = "_ZN2al8setNerveEPNS_9IUseNerveEPKNS_5NerveE"
+type = "void"
+
+[header]
+name = "_ZN2al8setNerveEPNS_9IUseNerveEPKNS_5NerveE"
+addr = 0x41c1a0
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "user"
+type = "al::IUseNerve *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "nerve"
+type = "const al::Nerve *"
+size = 0x8

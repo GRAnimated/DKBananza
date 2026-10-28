@@ -1,0 +1,27 @@
+last_change = 2026-10-28T04:57:00.593319Z
+name = "al::Nerve_vtbl"
+size = 0x20
+
+[members.0x0]
+name = "execute"
+offset = 0x0
+type = "void (__fastcall *)(const al::Nerve *, al::NerveKeeper *)"
+size = 0x8
+
+[members.0x8]
+name = "executeOnEnd"
+offset = 0x8
+type = "void (__fastcall *)(const al::Nerve *, al::NerveKeeper *)"
+size = 0x8
+
+[members.0x10]
+name = "getNameHash"
+offset = 0x10
+type = "unsigned long long (__fastcall *)(const al::Nerve *)"
+size = 0x8
+
+[members.0x18]
+name = "field_18"
+offset = 0x18
+type = "void *"
+size = 0x8

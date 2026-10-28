@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:59:11.775808Z
+addr = 0x110497c
+size = 0x44
+name = "_ZN15LightShaftCover4killEv"
+type = "long long"
+
+[header]
+name = "_ZN15LightShaftCover4killEv"
+addr = 0x110497c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "al::LiveActor *"
+size = 0x8

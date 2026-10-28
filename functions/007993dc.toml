@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.075064Z
+addr = 0x7993dc
+size = 0x2c
+name = "_ZN13LifeVoxelItem12startClippedEv"
+
+[header]
+name = "_ZN13LifeVoxelItem12startClippedEv"
+addr = 0x7993dc
+
+[header.args]

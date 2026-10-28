@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.878220Z
+addr = 0x16d7b88
+size = 0xa8
+name = "sub_71016D7B88"
+type = "void"
+
+[header]
+name = "sub_71016D7B88"
+addr = 0x16d7b88
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "al::LiveActor *"
+size = 0x8

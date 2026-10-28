@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.486796Z
+addr = 0x1145af0
+size = 0x14
+name = "RouteGuide__ZNK12_GLOBAL__N_120HostTypeNrvMoneyRush11getNameHashEv"
+
+[header]
+name = "RouteGuide__ZNK12_GLOBAL__N_120HostTypeNrvMoneyRush11getNameHashEv"
+addr = 0x1145af0
+
+[header.args]

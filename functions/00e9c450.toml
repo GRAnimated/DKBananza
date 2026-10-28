@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:25.153398Z
+addr = 0xe9c450
+size = 0x68
+name = "_ZN19KingKRoolCannonBall7exeStopEv"
+
+[header]
+name = "_ZN19KingKRoolCannonBall7exeStopEv"
+addr = 0xe9c450
+
+[header.args]

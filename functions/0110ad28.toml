@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:12.468468Z
+addr = 0x110ad28
+size = 0x64
+name = "_ZNK14LongHoleCamera18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK14LongHoleCamera18getRuntimeTypeInfoEv"
+addr = 0x110ad28
+
+[header.args]

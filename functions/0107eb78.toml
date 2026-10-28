@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.426818Z
+addr = 0x107eb78
+size = 0x5c
+name = "_ZN11BurgerTowerD1Ev"
+
+[header]
+name = "_ZN11BurgerTowerD1Ev"
+addr = 0x107eb78
+
+[header.args]

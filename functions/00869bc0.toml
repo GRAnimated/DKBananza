@@ -1,0 +1,46 @@
+last_change = 2026-10-28T04:57:46.777154Z
+addr = 0x869bc0
+size = 0x90c
+name = "sub_7100869BC0"
+type = "float"
+
+[header]
+name = "sub_7100869BC0"
+addr = 0x869bc0
+type = "float"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "unsigned int"
+size = 0x4
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x4]
+offset = 0x4
+name = ""
+type = "unsigned int *"
+size = 0x8
+
+[header.args.0x5]
+offset = 0x5
+name = ""
+type = "long long"
+size = 0x8

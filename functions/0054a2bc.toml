@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:42.990366Z
+addr = 0x54a2bc
+size = 0x124
+name = "sub_710054A2BC"
+type = "unsigned int *"
+
+[header]
+name = "sub_710054A2BC"
+addr = 0x54a2bc
+type = "unsigned int *"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "unsigned int *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "char"
+size = 0x1

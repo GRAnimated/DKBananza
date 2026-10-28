@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.483836Z
+addr = 0x113b93c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_119RecordPlayerNrvWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_119RecordPlayerNrvWait11getNameHashEv"
+addr = 0x113b93c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:53.659999Z
+addr = 0x1050b1c
+size = 0x64
+name = "_ZNK12TransitionHp18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK12TransitionHp18getRuntimeTypeInfoEv"
+addr = 0x1050b1c
+
+[header.args]

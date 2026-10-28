@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:57:30.080591Z
+addr = 0x33a77c
+size = 0x138
+name = "sub_710033A77C"
+type = "long long"
+
+[header]
+name = "sub_710033A77C"
+addr = 0x33a77c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x2]
+offset = 0x2
+name = "s"
+type = "char *"
+size = 0x8

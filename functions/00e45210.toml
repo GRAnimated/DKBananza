@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.242297Z
+addr = 0xe45210
+size = 0x44
+name = "al_Sequence_7100E45210"
+type = "void"
+
+[header]
+name = "al_Sequence_7100E45210"
+addr = 0xe45210
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::Sequence *"
+size = 0x8

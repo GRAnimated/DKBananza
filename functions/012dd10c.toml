@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.608255Z
+addr = 0x12dd10c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_116BootSceneNrvData11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_116BootSceneNrvData11getNameHashEv"
+addr = 0x12dd10c
+
+[header.args]

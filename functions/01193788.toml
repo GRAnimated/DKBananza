@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.510723Z
+addr = 0x1193788
+size = 0x78
+name = "_ZN18TowerLevelFragment12startClippedEv"
+
+[header]
+name = "_ZN18TowerLevelFragment12startClippedEv"
+addr = 0x1193788
+
+[header.args]

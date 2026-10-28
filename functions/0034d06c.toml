@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:42.468236Z
+addr = 0x34d06c
+size = 0x2c
+name = "_ZN8BanaRoot12startClippedEv"
+
+[header]
+name = "_ZN8BanaRoot12startClippedEv"
+addr = 0x34d06c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:23.975848Z
+addr = 0xe85278
+size = 0xd4
+name = "_ZN7Gorongo18exeDemoBattleStartEv"
+
+[header]
+name = "_ZN7Gorongo18exeDemoBattleStartEv"
+addr = 0xe85278
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.356869Z
+addr = 0xf9fd90
+size = 0x5c
+name = "_ZN14UeyowaidaLaser12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN14UeyowaidaLaser12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xf9fd90
+
+[header.args]

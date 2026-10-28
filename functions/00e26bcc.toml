@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:58:18.004801Z
+addr = 0xe26bcc
+size = 0x90
+name = "sub_7100E26BCC"
+type = "long long"
+
+[header]
+name = "sub_7100E26BCC"
+addr = 0xe26bcc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long *"
+size = 0x8

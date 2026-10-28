@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:42.513148Z
+addr = 0x4bdf78
+size = 0x180
+name = "_ZN4Tips8movementEv"
+
+[header]
+name = "_ZN4Tips8movementEv"
+addr = 0x4bdf78
+
+[header.args]

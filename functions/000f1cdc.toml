@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:27.254321Z
+addr = 0xf1cdc
+size = 0x22c
+name = "sub_71000F1CDC"
+type = "float"
+
+[header]
+name = "sub_71000F1CDC"
+addr = 0xf1cdc
+type = "float"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "float *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "float *"
+size = 0x8

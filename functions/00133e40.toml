@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:42.427825Z
+addr = 0x133e40
+size = 0x1c4
+name = "sub_7100133E40"
+type = "long long"
+
+[header]
+name = "sub_7100133E40"
+addr = 0x133e40
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long *"
+size = 0x8

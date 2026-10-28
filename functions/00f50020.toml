@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:36.508870Z
+addr = 0xf50020
+size = 0xec
+name = "_ZN7Dangoro9exeChargeEv"
+type = "long long"
+
+[header]
+name = "_ZN7Dangoro9exeChargeEv"
+addr = 0xf50020
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

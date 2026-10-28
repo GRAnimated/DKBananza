@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.338984Z
+addr = 0xf6ca30
+size = 0x30
+name = "_ZN4Gush8calcAnimEv"
+
+[header]
+name = "_ZN4Gush8calcAnimEv"
+addr = 0xf6ca30
+
+[header.args]

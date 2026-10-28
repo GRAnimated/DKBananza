@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:02.764165Z
+addr = 0x10b2a4c
+size = 0x248
+name = "_ZN17DistantViewAnimal4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN17DistantViewAnimal4initERKN2al13ActorInitInfoE"
+addr = 0x10b2a4c
+
+[header.args]

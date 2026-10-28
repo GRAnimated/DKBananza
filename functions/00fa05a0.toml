@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:41.384492Z
+addr = 0xfa05a0
+size = 0x64
+name = "_ZNK14UeyowaidaLaser18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK14UeyowaidaLaser18getRuntimeTypeInfoEv"
+addr = 0xfa05a0
+
+[header.args]

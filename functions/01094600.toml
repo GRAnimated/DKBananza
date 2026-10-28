@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.434180Z
+addr = 0x1094600
+size = 0x8
+name = "_ZNK12_GLOBAL__N_117ClosetNrvReaction7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_117ClosetNrvReaction7executeEPN2al11NerveKeeperE"
+addr = 0x1094600
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.515506Z
+addr = 0x11a29e8
+size = 0x3ac
+name = "_ZN24VoxelForwardBackMapParts4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN24VoxelForwardBackMapParts4initERKN2al13ActorInitInfoE"
+addr = 0x11a29e8
+
+[header.args]

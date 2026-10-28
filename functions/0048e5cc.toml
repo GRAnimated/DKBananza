@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:42.510494Z
+addr = 0x48e5cc
+size = 0x64
+name = "_ZN4sead6Random4initEv"
+type = "long long"
+
+[header]
+name = "_ZN4sead6Random4initEv"
+addr = 0x48e5cc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "nn::os *"
+size = 0x8

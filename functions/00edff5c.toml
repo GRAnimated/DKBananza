@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:29.791493Z
+addr = 0xedff5c
+size = 0x7c
+name = "_ZN8ShioShio13exeDemoDamageEv"
+
+[header]
+name = "_ZN8ShioShio13exeDemoDamageEv"
+addr = 0xedff5c
+
+[header.args]

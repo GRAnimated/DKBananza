@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:42.441647Z
+addr = 0x1f6bf0
+size = 0x2ac
+name = "_ZN15Npc2VoxelTalker12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+type = "long long"
+
+[header]
+name = "_ZN15Npc2VoxelTalker12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x1f6bf0
+type = "long long"
+
+[header.args]

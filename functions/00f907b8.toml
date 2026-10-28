@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.351807Z
+addr = 0xf907b8
+size = 0x14
+name = "_ZNK12_GLOBAL__N_136PettanStateAttackNrvAttackAfterMorph11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_136PettanStateAttackNrvAttackAfterMorph11getNameHashEv"
+addr = 0xf907b8
+
+[header.args]

@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:57:27.667708Z
+addr = 0x1577d8
+size = 0x16b8
+name = "sub_71001577D8"
+type = "bool"
+
+[header]
+name = "sub_71001577D8"
+addr = 0x1577d8
+type = "bool"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "char"
+size = 0x1

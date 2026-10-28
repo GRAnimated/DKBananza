@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.789924Z
+addr = 0x15c23d0
+size = 0x64
+name = "_ZNK5phive6System18getRuntimeTypeInfoEv"
+type = "long long *"
+
+[header]
+name = "_ZNK5phive6System18getRuntimeTypeInfoEv"
+addr = 0x15c23d0
+type = "long long *"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:39.595878Z
+addr = 0xf82ae0
+size = 0x2a4
+name = "_ZN7Mimichi4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN7Mimichi4initERKN2al13ActorInitInfoE"
+addr = 0xf82ae0
+
+[header.args]

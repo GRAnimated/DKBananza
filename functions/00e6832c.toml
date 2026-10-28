@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.254652Z
+addr = 0xe6832c
+size = 0x50
+name = "_ZN11BossMimichi14makeActorAliveEv"
+
+[header]
+name = "_ZN11BossMimichi14makeActorAliveEv"
+addr = 0xe6832c
+
+[header.args]

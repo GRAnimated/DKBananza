@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.232861Z
+addr = 0xe28830
+size = 0x5c
+name = "_ZN14LightShaftArea18initAfterPlacementEv"
+
+[header]
+name = "_ZN14LightShaftArea18initAfterPlacementEv"
+addr = 0xe28830
+
+[header.args]

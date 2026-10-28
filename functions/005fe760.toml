@@ -1,0 +1,46 @@
+last_change = 2026-10-28T04:57:36.938911Z
+addr = 0x5fe760
+size = 0xd4
+name = "sub_71005FE760"
+type = "long long *"
+
+[header]
+name = "sub_71005FE760"
+addr = 0x5fe760
+type = "long long *"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "src"
+type = "const char *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x4]
+offset = 0x4
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x5]
+offset = 0x5
+name = ""
+type = "long long"
+size = 0x8

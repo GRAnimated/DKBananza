@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.261497Z
+addr = 0xe7ba28
+size = 0x2c
+name = "_ZN9BossStorm8calcAnimEv"
+
+[header]
+name = "_ZN9BossStorm8calcAnimEv"
+addr = 0xe7ba28
+
+[header.args]

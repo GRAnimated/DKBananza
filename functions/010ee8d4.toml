@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:09.519573Z
+addr = 0x10ee8d4
+size = 0x88
+name = "_ZN14IceMakerSwitch8calcAnimEv"
+
+[header]
+name = "_ZN14IceMakerSwitch8calcAnimEv"
+addr = 0x10ee8d4
+
+[header.args]

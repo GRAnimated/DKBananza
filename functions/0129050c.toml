@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.589949Z
+addr = 0x129050c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_136PlayerStateClimbPoleNrvTopStartRight11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_136PlayerStateClimbPoleNrvTopStartRight11getNameHashEv"
+addr = 0x129050c
+
+[header.args]

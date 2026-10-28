@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:59:08.153230Z
+addr = 0x10e2b30
+size = 0x11c
+name = "_ZN16HandSlapVoxelObj7exeWaitEv"
+type = "void"
+
+[header]
+name = "_ZN16HandSlapVoxelObj7exeWaitEv"
+addr = 0x10e2b30
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

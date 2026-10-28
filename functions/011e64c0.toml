@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.537337Z
+addr = 0x11e64c0
+size = 0x54
+name = "_ZNK12_GLOBAL__N_142Npc2KongTalkerBossKongDownNrvReactionOther7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_142Npc2KongTalkerBossKongDownNrvReactionOther7executeEPN2al11NerveKeeperE"
+addr = 0x11e64c0
+
+[header.args]

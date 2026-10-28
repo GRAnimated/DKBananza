@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.378590Z
+addr = 0xfe6a00
+size = 0x5c
+name = "_ZN18CollectChipWatcherD1Ev"
+
+[header]
+name = "_ZN18CollectChipWatcherD1Ev"
+addr = 0xfe6a00
+
+[header.args]

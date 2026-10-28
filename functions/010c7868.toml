@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.449135Z
+addr = 0x10c7868
+size = 0x4
+name = "_ZNK10FlyUnitFix27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK10FlyUnitFix27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x10c7868
+
+[header.args]

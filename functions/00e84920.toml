@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:58:23.938659Z
+addr = 0xe84920
+size = 0x448
+name = "_ZN7Gorongo4initERKN2al13ActorInitInfoE"
+type = "long long"
+
+[header]
+name = "_ZN7Gorongo4initERKN2al13ActorInitInfoE"
+addr = 0xe84920
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long *"
+size = 0x8

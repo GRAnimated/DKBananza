@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.592097Z
+addr = 0x1295d0c
+size = 0x224
+name = "_ZN24PlayerStateDamageCollide7exeJumpEv"
+
+[header]
+name = "_ZN24PlayerStateDamageCollide7exeJumpEv"
+addr = 0x1295d0c
+
+[header.args]

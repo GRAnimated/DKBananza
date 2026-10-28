@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:05.328737Z
+addr = 0x10c4568
+size = 0xfc
+name = "_ZN15FloatingDisplay7controlEv"
+
+[header]
+name = "_ZN15FloatingDisplay7controlEv"
+addr = 0x10c4568
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.600461Z
+addr = 0x12c011c
+size = 0x6c
+name = "_ZN15PlayerUpperBody7exeHoldEv"
+
+[header]
+name = "_ZN15PlayerUpperBody7exeHoldEv"
+addr = 0x12c011c
+
+[header.args]

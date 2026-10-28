@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.349863Z
+addr = 0xf8a85c
+size = 0x58
+name = "sub_7100F8A85C"
+type = "long long"
+
+[header]
+name = "sub_7100F8A85C"
+addr = 0xf8a85c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "unsigned long long"
+size = 0x8

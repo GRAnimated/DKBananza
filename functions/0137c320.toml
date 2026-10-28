@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:38:47.956423Z
+last_change = 2026-10-28T04:56:43.674541Z
 addr = 0x137c320
 size = 0x38
 name = "_ZN2al19createActorFunctionI27VoxelPartsBrokenRateCheckerEEPNS_9LiveActorEPKc"
@@ -9,4 +9,8 @@ name = "_ZN2al19createActorFunctionI27VoxelPartsBrokenRateCheckerEEPNS_9LiveActo
 addr = 0x137c320
 type = "al::LiveActor *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "const char *"
+size = 0x8

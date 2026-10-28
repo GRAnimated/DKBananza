@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.329111Z
+addr = 0xf4bd6c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_122ChaserHeadNrvChaseSign11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_122ChaserHeadNrvChaseSign11getNameHashEv"
+addr = 0xf4bd6c
+
+[header.args]

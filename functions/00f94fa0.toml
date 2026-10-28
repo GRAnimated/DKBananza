@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:40.782202Z
+addr = 0xf94fa0
+size = 0xb4
+name = "_ZN19SkydivingRouteGuide7exeMoveEv"
+
+[header]
+name = "_ZN19SkydivingRouteGuide7exeMoveEv"
+addr = 0xf94fa0
+
+[header.args]

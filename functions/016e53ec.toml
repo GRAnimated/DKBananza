@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.883198Z
+addr = 0x16e53ec
+size = 0xc4
+name = "_ZN17ShadowFixMapParts4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN17ShadowFixMapParts4initERKN2al13ActorInitInfoE"
+addr = 0x16e53ec
+
+[header.args]

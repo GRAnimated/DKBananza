@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.261531Z
+addr = 0xe7c314
+size = 0xf0
+name = "_ZN9BossStorm11exeWaitHideEv"
+
+[header]
+name = "_ZN9BossStorm11exeWaitHideEv"
+addr = 0xe7c314
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:57:42.321442Z
+addr = 0x756cdc
+size = 0x98
+name = "sub_7100756CDC"
+type = "long long (__fastcall ***)(unsigned long long, long long *)"
+
+[header]
+name = "sub_7100756CDC"
+addr = 0x756cdc
+type = "long long (__fastcall ***)(unsigned long long, long long *)"
+
+[header.args]

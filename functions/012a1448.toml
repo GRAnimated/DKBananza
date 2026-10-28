@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.594555Z
+addr = 0x12a1448
+size = 0xdc
+name = "_ZN18PlayerStateRolling9exeDamageEv"
+
+[header]
+name = "_ZN18PlayerStateRolling9exeDamageEv"
+addr = 0x12a1448
+
+[header.args]

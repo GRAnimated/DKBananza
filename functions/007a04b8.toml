@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:43.588891Z
+addr = 0x7a04b8
+size = 0x280
+name = "_ZN4Bird10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN4Bird10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x7a04b8
+
+[header.args]

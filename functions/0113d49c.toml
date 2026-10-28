@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:38:21.941430Z
+last_change = 2026-10-28T04:59:17.644593Z
 addr = 0x113d49c
 size = 0xf0
 name = "_ZN12RecycleVoxelC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN12RecycleVoxelC2EPKc"
 addr = 0x113d49c
 type = "long long"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.509566Z
+addr = 0x118f89c
+size = 0x64
+name = "_ZNK21TornadoBossStormField18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK21TornadoBossStormField18getRuntimeTypeInfoEv"
+addr = 0x118f89c
+
+[header.args]

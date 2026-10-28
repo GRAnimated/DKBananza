@@ -1,0 +1,171 @@
+last_change = 2026-10-28T04:57:00.603036Z
+name = "al::LiveActorKit"
+size = 0xd8
+
+[members.0x0]
+name = "__vftable"
+offset = 0x0
+type = "void **"
+size = 0x8
+
+[members.0x8]
+name = "mScenePhysics"
+offset = 0x8
+type = "al::ScenePhysics *"
+size = 0x8
+
+[members.0x10]
+name = "mMaxActors"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "field_14"
+offset = 0x14
+type = "unsigned char[4]"
+size = 0x4
+
+[members.0x18]
+name = "field_18"
+offset = 0x18
+type = "void *"
+size = 0x8
+
+[members.0x20]
+name = "mAreaObjDirector"
+offset = 0x20
+type = "al::AreaObjDirector *"
+size = 0x8
+
+[members.0x28]
+name = "mExecuteDirector"
+offset = 0x28
+type = "al::ExecuteDirector *"
+size = 0x8
+
+[members.0x30]
+name = "field_30"
+offset = 0x30
+type = "void *"
+size = 0x8
+
+[members.0x38]
+name = "field_38"
+offset = 0x38
+type = "void *"
+size = 0x8
+
+[members.0x40]
+name = "field_40"
+offset = 0x40
+type = "void *"
+size = 0x8
+
+[members.0x48]
+name = "mCameraDirector"
+offset = 0x48
+type = "al::CameraDirector *"
+size = 0x8
+
+[members.0x50]
+name = "mClippingDirector"
+offset = 0x50
+type = "al::ClippingDirector *"
+size = 0x8
+
+[members.0x58]
+name = "mCollisionDirector"
+offset = 0x58
+type = "al::CollisionDirector *"
+size = 0x8
+
+[members.0x60]
+name = "field_60"
+offset = 0x60
+type = "void *"
+size = 0x8
+
+[members.0x68]
+name = "mPlayerHolder"
+offset = 0x68
+type = "al::PlayerHolder *"
+size = 0x8
+
+[members.0x70]
+name = "field_70"
+offset = 0x70
+type = "void *"
+size = 0x8
+
+[members.0x78]
+name = "field_78"
+offset = 0x78
+type = "void *"
+size = 0x8
+
+[members.0x80]
+name = "field_80"
+offset = 0x80
+type = "void *"
+size = 0x8
+
+[members.0x88]
+name = "mStageSwitchDirector"
+offset = 0x88
+type = "al::StageSwitchDirector *"
+size = 0x8
+
+[members.0x90]
+name = "field_90"
+offset = 0x90
+type = "void *"
+size = 0x8
+
+[members.0x98]
+name = "mLiveActorGroupAllActors"
+offset = 0x98
+type = "al::LiveActorGroup *"
+size = 0x8
+
+[members.0xa0]
+name = "field_A0"
+offset = 0xa0
+type = "void *"
+size = 0x8
+
+[members.0xa8]
+name = "field_A8"
+offset = 0xa8
+type = "void *"
+size = 0x8
+
+[members.0xb0]
+name = "mPadRumbleDirector"
+offset = 0xb0
+type = "al::PadRumbleDirector *"
+size = 0x8
+
+[members.0xb8]
+name = "field_B8"
+offset = 0xb8
+type = "void *"
+size = 0x8
+
+[members.0xc0]
+name = "field_C0"
+offset = 0xc0
+type = "void *"
+size = 0x8
+
+[members.0xc8]
+name = "field_C8"
+offset = 0xc8
+type = "void *"
+size = 0x8
+
+[members.0xd0]
+name = "field_D0"
+offset = 0xd0
+type = "void *"
+size = 0x8

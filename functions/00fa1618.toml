@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.357471Z
+addr = 0xfa1618
+size = 0xc4
+name = "_ZN24UeyowaidaLaserController10exeStretchEv"
+
+[header]
+name = "_ZN24UeyowaidaLaserController10exeStretchEv"
+addr = 0xfa1618
+
+[header.args]

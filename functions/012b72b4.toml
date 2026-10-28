@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.598154Z
+addr = 0x12b72b4
+size = 0xb0
+name = "_ZN15PlayerStateWait15exeAreaAnimWaitEv"
+
+[header]
+name = "_ZN15PlayerStateWait15exeAreaAnimWaitEv"
+addr = 0x12b72b4
+
+[header.args]

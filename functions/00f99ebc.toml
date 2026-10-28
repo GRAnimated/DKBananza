@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:41.015631Z
+addr = 0xf99ebc
+size = 0x3c
+name = "_ZN8Togemole6appearEv"
+
+[header]
+name = "_ZN8Togemole6appearEv"
+addr = 0xf99ebc
+
+[header.args]

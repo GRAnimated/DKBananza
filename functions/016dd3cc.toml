@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.880450Z
+addr = 0x16dd3cc
+size = 0x5c
+name = "_ZN15FloaterMapPartsD1Ev"
+
+[header]
+name = "_ZN15FloaterMapPartsD1Ev"
+addr = 0x16dd3cc
+
+[header.args]

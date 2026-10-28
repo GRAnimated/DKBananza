@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.352488Z
+addr = 0xf9297c
+size = 0x50
+name = "RockBee_receiveMsgCollider"
+
+[header]
+name = "RockBee_receiveMsgCollider"
+addr = 0xf9297c
+
+[header.args]

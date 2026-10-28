@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:56:43.193467Z
+addr = 0xaf6f64
+size = 0x30
+name = "havok_7100AF6F64"
+type = "long double"
+
+[header]
+name = "havok_7100AF6F64"
+addr = 0xaf6f64
+type = "long double"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "long long"
+size = 0x8

@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.199070Z
+addr = 0xb1b080
+size = 0x8
+name = "_ZNK19hkMemoryMeshTexture9getFormatEv"
+type = "long long"
+
+[header]
+name = "_ZNK19hkMemoryMeshTexture9getFormatEv"
+addr = 0xb1b080
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

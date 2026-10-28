@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:10.005823Z
+last_change = 2026-10-28T04:56:43.883217Z
 addr = 0x16e54b4
 size = 0x4
-name = "nullsub_3561"
+name = "_ZN17ShadowFixMapParts8calcAnimEv"
 
 [header]
-name = "nullsub_3561"
+name = "_ZN17ShadowFixMapParts8calcAnimEv"
 addr = 0x16e54b4
 
 [header.args]

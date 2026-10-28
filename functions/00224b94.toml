@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:28.422339Z
+addr = 0x224b94
+size = 0x164
+name = "sub_7100224B94"
+type = "long long"
+
+[header]
+name = "sub_7100224B94"
+addr = 0x224b94
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x1]
+offset = 0x1
+name = "s1"
+type = "char *"
+size = 0x8

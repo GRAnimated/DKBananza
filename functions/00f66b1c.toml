@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:37.878173Z
+addr = 0xf66b1c
+size = 0x524
+name = "_ZN6Gororo4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN6Gororo4initERKN2al13ActorInitInfoE"
+addr = 0xf66b1c
+
+[header.args]

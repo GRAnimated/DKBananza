@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.883851Z
+addr = 0x16e7038
+size = 0x5c
+name = "_ZN12SurfMapPartsD1Ev"
+
+[header]
+name = "_ZN12SurfMapPartsD1Ev"
+addr = 0x16e7038
+
+[header.args]

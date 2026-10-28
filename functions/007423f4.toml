@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:41.871281Z
+addr = 0x7423f4
+size = 0x148
+name = "sub_71007423F4"
+type = "__n128"
+
+[header]
+name = "sub_71007423F4"
+addr = 0x7423f4
+type = "__n128"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "unsigned int *"
+size = 0x8

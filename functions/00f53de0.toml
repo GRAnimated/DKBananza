@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:36.729536Z
+addr = 0xf53de0
+size = 0xec
+name = "_ZN10Debrischan16exePrepareAppearEv"
+
+[header]
+name = "_ZN10Debrischan16exePrepareAppearEv"
+addr = 0xf53de0
+
+[header.args]

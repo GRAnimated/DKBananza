@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:56.196007Z
+addr = 0x106ead4
+size = 0x64
+name = "_ZNK11BioFountain18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK11BioFountain18getRuntimeTypeInfoEv"
+addr = 0x106ead4
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.500011Z
+addr = 0x11706d0
+size = 0x5c
+name = "_ZN19StormLevelSoundCtrlD1Ev"
+
+[header]
+name = "_ZN19StormLevelSoundCtrlD1Ev"
+addr = 0x11706d0
+
+[header.args]

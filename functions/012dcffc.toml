@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.608171Z
+addr = 0x12dcffc
+size = 0x8
+name = "_ZNK2al5Scene17getSceneObjHolderEv"
+type = "al::SceneObjHolder *"
+
+[header]
+name = "_ZNK2al5Scene17getSceneObjHolderEv"
+addr = 0x12dcffc
+type = "al::SceneObjHolder *"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "const al::Scene *"
+size = 0x8

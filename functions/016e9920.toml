@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.884917Z
+addr = 0x16e9920
+size = 0x4
+name = "_ZNK13WheelMapParts27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK13WheelMapParts27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x16e9920
+
+[header.args]

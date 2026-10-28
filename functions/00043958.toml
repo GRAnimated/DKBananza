@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:57:26.752157Z
+addr = 0x43958
+size = 0x31c
+name = "_ZN2al14NerveStateBase6updateEv"
+type = "bool"
+
+[header]
+name = "_ZN2al14NerveStateBase6updateEv"
+addr = 0x43958
+type = "bool"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::NerveStateBase *"
+size = 0x8

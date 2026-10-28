@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.511278Z
+addr = 0x1195d7c
+size = 0x78
+name = "sub_7101195D7C"
+type = "long long"
+
+[header]
+name = "sub_7101195D7C"
+addr = 0x1195d7c
+type = "long long"
+
+[header.args]

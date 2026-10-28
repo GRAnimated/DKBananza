@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:35.266847Z
+addr = 0xf3f0d8
+size = 0x64
+name = "_ZNK28ReactBreakObjLightAttenuator18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK28ReactBreakObjLightAttenuator18getRuntimeTypeInfoEv"
+addr = 0xf3f0d8
+
+[header.args]

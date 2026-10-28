@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.352541Z
+addr = 0xf92b2c
+size = 0x2c
+name = "_ZN7RockBee12startClippedEv"
+
+[header]
+name = "_ZN7RockBee12startClippedEv"
+addr = 0xf92b2c
+
+[header.args]

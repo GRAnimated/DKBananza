@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.619428Z
+addr = 0x12fea9c
+size = 0xb8
+name = "_ZN14StaffRollScene16exeGraphicsReadyEv"
+
+[header]
+name = "_ZN14StaffRollScene16exeGraphicsReadyEv"
+addr = 0x12fea9c
+
+[header.args]

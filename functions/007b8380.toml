@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:43.924690Z
+addr = 0x7b8380
+size = 0x38
+name = "_ZN20Npc2VoxelShopCostume12startClippedEv"
+
+[header]
+name = "_ZN20Npc2VoxelShopCostume12startClippedEv"
+addr = 0x7b8380
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.547906Z
+addr = 0x1206a9c
+size = 0x64
+name = "_ZN15Npc2VoxelSinger10exeRespawnEv"
+
+[header]
+name = "_ZN15Npc2VoxelSinger10exeRespawnEv"
+addr = 0x1206a9c
+
+[header.args]

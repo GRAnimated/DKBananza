@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.415534Z
+addr = 0x105e0e0
+size = 0x14
+name = "_ZNK12_GLOBAL__N_132SyncClockMapPartsDirectorNrvWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_132SyncClockMapPartsDirectorNrvWait11getNameHashEv"
+addr = 0x105e0e0
+
+[header.args]

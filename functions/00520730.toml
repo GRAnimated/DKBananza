@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:57:34.114027Z
+addr = 0x520730
+size = 0x1a4
+name = "_ZN2al12LiveActorKit4initEib"
+type = "void"
+
+[header]
+name = "_ZN2al12LiveActorKit4initEib"
+addr = 0x520730
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::LiveActorKit *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "maxCameras"
+type = "int"
+size = 0x4
+
+[header.args.0x2]
+offset = 0x2
+name = "executorMode"
+type = "bool"
+size = 0x1

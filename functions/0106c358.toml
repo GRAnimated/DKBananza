@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.420483Z
+addr = 0x106c358
+size = 0x8
+name = "BattleStageSetting__ZNK12_GLOBAL__N_115HostTypeNrvWait7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "BattleStageSetting__ZNK12_GLOBAL__N_115HostTypeNrvWait7executeEPN2al11NerveKeeperE"
+addr = 0x106c358
+
+[header.args]

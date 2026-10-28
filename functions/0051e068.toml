@@ -1,11 +1,16 @@
-last_change = 2026-10-26T17:38:02.888374Z
+last_change = 2026-10-28T04:57:34.048304Z
 addr = 0x51e068
 size = 0xc
+name = "sub_710051E068"
 type = "void *"
 
 [header]
-last_change = 2026-10-26T17:38:02.888374Z
+name = "sub_710051E068"
 addr = 0x51e068
 type = "void *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "void *"
+size = 0x8

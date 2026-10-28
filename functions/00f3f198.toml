@@ -1,12 +1,16 @@
-last_change = 2026-10-26T00:37:09.984165Z
+last_change = 2026-10-28T04:56:43.325786Z
 addr = 0xf3f198
 size = 0x4
-name = "j__ZdlPv_394"
+name = "_ZN28ReactBreakObjLightAttenuatorD0Ev"
 type = "void"
 
 [header]
-name = "j__ZdlPv_394"
+name = "_ZN28ReactBreakObjLightAttenuatorD0Ev"
 addr = 0xf3f198
 type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "void *"
+size = 0x8

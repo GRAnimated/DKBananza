@@ -1,14 +1,22 @@
-last_change = 2026-10-26T14:36:28.036639Z
+last_change = 2026-10-28T04:57:35.903661Z
 addr = 0x5adc5c
 size = 0x44
 name = "_ZN2al9SystemKit20createSaveDataSystemEj"
+type = "void *"
 
 [header]
-last_change = 2026-10-26T14:36:28.036639Z
 name = "_ZN2al9SystemKit20createSaveDataSystemEj"
 addr = 0x5adc5c
+type = "void *"
 
 [header.args.0x0]
 offset = 0x0
+name = "a1"
 type = "al::SystemKit *"
 size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "a2"
+type = "unsigned int"
+size = 0x4

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:29.784442Z
+addr = 0xedff14
+size = 0x48
+name = "_ZN8ShioShio8exeSwoonEv"
+
+[header]
+name = "_ZN8ShioShio8exeSwoonEv"
+addr = 0xedff14
+
+[header.args]

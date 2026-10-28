@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.518143Z
+addr = 0x11ac06c
+size = 0x88
+name = "_ZN17VoxelMiniatureMap7exeOpenEv"
+
+[header]
+name = "_ZN17VoxelMiniatureMap7exeOpenEv"
+addr = 0x11ac06c
+
+[header.args]

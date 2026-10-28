@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:59:11.656565Z
+addr = 0x11039d8
+size = 0xc4
+name = "_ZN11LightCandle14exeDemoOnLightEv"
+type = "long long"
+
+[header]
+name = "_ZN11LightCandle14exeDemoOnLightEv"
+addr = 0x11039d8
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

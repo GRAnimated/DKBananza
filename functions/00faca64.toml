@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.360222Z
+addr = 0xfaca64
+size = 0x60
+name = "sub_7100FACA64"
+
+[header]
+name = "sub_7100FACA64"
+addr = 0xfaca64
+
+[header.args]

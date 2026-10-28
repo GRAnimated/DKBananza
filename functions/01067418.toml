@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:55.624455Z
+addr = 0x1067418
+size = 0x64
+name = "_ZNK8BanaRoot18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK8BanaRoot18getRuntimeTypeInfoEv"
+addr = 0x1067418
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.914000Z
+addr = 0x174433c
+size = 0x434
+name = "_ZN2al16CameraPoserTower9exeFollowEv"
+
+[header]
+name = "_ZN2al16CameraPoserTower9exeFollowEv"
+addr = 0x174433c
+
+[header.args]

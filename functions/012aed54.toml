@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.596528Z
+addr = 0x12aed54
+size = 0x148
+name = "_ZN15PlayerStateSwim7exeMoveEv"
+
+[header]
+name = "_ZN15PlayerStateSwim7exeMoveEv"
+addr = 0x12aed54
+
+[header.args]

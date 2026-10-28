@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.591782Z
+addr = 0x1294764
+size = 0x74
+name = "_ZN17PlayerStateDamage9exeWakeUpEv"
+
+[header]
+name = "_ZN17PlayerStateDamage9exeWakeUpEv"
+addr = 0x1294764
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.459200Z
+addr = 0x10e7c8c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_125HeightChangeBridgeNrvMove11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_125HeightChangeBridgeNrvMove11getNameHashEv"
+addr = 0x10e7c8c
+
+[header.args]

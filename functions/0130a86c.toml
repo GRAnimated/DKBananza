@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.622568Z
+addr = 0x130a86c
+size = 0x84
+name = "_ZN24StageSceneStateMusicList5exeInEv"
+
+[header]
+name = "_ZN24StageSceneStateMusicList5exeInEv"
+addr = 0x130a86c
+
+[header.args]

@@ -1,11 +1,12 @@
-last_change = 2026-10-26T14:31:29.311943Z
+last_change = 2026-10-28T04:56:42.996860Z
 addr = 0x5ada00
 size = 0x8
 name = "_ZN2al23getVirtualDisplayHeightEv"
+type = "long long"
 
 [header]
-last_change = 2026-10-26T14:31:29.311943Z
 name = "_ZN2al23getVirtualDisplayHeightEv"
 addr = 0x5ada00
+type = "long long"
 
 [header.args]

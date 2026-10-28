@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:26.700098Z
+addr = 0x12a20
+size = 0xd8
+name = "_ZN2al11LayoutActor8calcAnimEb"
+type = "void"
+
+[header]
+name = "_ZN2al11LayoutActor8calcAnimEb"
+addr = 0x12a20
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::LayoutActor *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "recursive"
+type = "bool"
+size = 0x1

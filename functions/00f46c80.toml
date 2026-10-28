@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:09.984227Z
+last_change = 2026-10-28T04:58:35.740761Z
 addr = 0xf46c80
 size = 0xb0
 name = "_ZN6ChaserC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN6ChaserC2EPKc"
 addr = 0xf46c80
 type = "unsigned long long *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

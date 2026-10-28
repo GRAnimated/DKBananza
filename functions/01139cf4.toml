@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.482910Z
+addr = 0x1139cf4
+size = 0x8
+name = "RandomShelter__ZNK12_GLOBAL__N_122HostTypeNrvOpenBarrier7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "RandomShelter__ZNK12_GLOBAL__N_122HostTypeNrvOpenBarrier7executeEPN2al11NerveKeeperE"
+addr = 0x1139cf4
+
+[header.args]

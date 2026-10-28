@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.522118Z
+addr = 0x11b8710
+size = 0x7c
+name = "_ZN6Yocchi7exeFallEv"
+
+[header]
+name = "_ZN6Yocchi7exeFallEv"
+addr = 0x11b8710
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.325767Z
+addr = 0xf3f13c
+size = 0x5c
+name = "_ZN28ReactBreakObjLightAttenuatorD1Ev"
+
+[header]
+name = "_ZN28ReactBreakObjLightAttenuatorD1Ev"
+addr = 0xf3f13c
+
+[header.args]

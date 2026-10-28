@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:40.273481Z
+addr = 0xf8e0c4
+size = 0xd4
+name = "_ZN6Pettan9exeAttackEv"
+
+[header]
+name = "_ZN6Pettan9exeAttackEv"
+addr = 0xf8e0c4
+
+[header.args]

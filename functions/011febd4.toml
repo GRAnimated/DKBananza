@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.545474Z
+addr = 0x11febd4
+size = 0x78
+name = "_ZN16Npc2VoxelMyHouseD1Ev"
+
+[header]
+name = "_ZN16Npc2VoxelMyHouseD1Ev"
+addr = 0x11febd4
+
+[header.args]

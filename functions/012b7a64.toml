@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.598608Z
+addr = 0x12b7a64
+size = 0x14
+name = "_ZNK12_GLOBAL__N_132PlayerStateWaitNrvWaitRhythmArea11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_132PlayerStateWaitNrvWaitRhythmArea11getNameHashEv"
+addr = 0x12b7a64
+
+[header.args]

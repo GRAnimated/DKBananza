@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:00.125775Z
+addr = 0x1091508
+size = 0x64
+name = "_ZNK9ClimbRope18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK9ClimbRope18getRuntimeTypeInfoEv"
+addr = 0x1091508
+
+[header.args]

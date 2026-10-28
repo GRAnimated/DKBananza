@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.427984Z
+addr = 0x10836f0
+size = 0x5c
+name = "_ZN12CannonBarrelD1Ev"
+
+[header]
+name = "_ZN12CannonBarrelD1Ev"
+addr = 0x10836f0
+
+[header.args]

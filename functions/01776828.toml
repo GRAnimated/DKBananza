@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:10.007598Z
+last_change = 2026-10-28T04:56:43.926721Z
 addr = 0x1776828
 size = 0x94
 name = "_ZN21AtmosScatterRequesterC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN21AtmosScatterRequesterC2EPKc"
 addr = 0x1776828
 type = "unsigned long long *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

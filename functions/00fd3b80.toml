@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.373495Z
+addr = 0xfd3b80
+size = 0x10
+name = "sub_7100FD3B80"
+
+[header]
+name = "sub_7100FD3B80"
+addr = 0xfd3b80
+
+[header.args]

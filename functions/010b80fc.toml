@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.444271Z
+addr = 0x10b80fc
+size = 0x5c
+name = "_ZN14DoorDemoSimpleD1Ev"
+
+[header]
+name = "_ZN14DoorDemoSimpleD1Ev"
+addr = 0x10b80fc
+
+[header.args]

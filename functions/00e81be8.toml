@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.262265Z
+addr = 0xe81be8
+size = 0x8
+name = "BossStorm__ZNK12_GLOBAL__N_119HostTypeNrvWaitHide7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "BossStorm__ZNK12_GLOBAL__N_119HostTypeNrvWaitHide7executeEPN2al11NerveKeeperE"
+addr = 0xe81be8
+
+[header.args]

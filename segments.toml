@@ -1,0 +1,119 @@
+[".text"]
+name = ".text"
+start_addr = 0x7100000000
+end_addr = 0x7101985010
+
+[".plt"]
+name = ".plt"
+start_addr = 0x7101985010
+end_addr = 0x71019881a0
+
+[".rodata"]
+name = ".rodata"
+start_addr = 0x7101989000
+end_addr = 0x71019890a0
+
+[".rela.dyn"]
+name = ".rela.dyn"
+start_addr = 0x71019890a0
+end_addr = 0x710199d1e8
+
+[".rela.plt"]
+name = ".rela.plt"
+start_addr = 0x710199d1e8
+end_addr = 0x71019a1c40
+
+[".relr.dyn"]
+name = ".relr.dyn"
+start_addr = 0x71019a1c40
+end_addr = 0x71019ac540
+
+[".hash"]
+name = ".hash"
+start_addr = 0x71019ac540
+end_addr = 0x71019ae1f8
+
+[".gnu.hash"]
+name = ".gnu.hash"
+start_addr = 0x71019ae1f8
+end_addr = 0x71019ae4dc
+
+[".rodata.1"]
+name = ".rodata.1"
+start_addr = 0x71019ae4dc
+end_addr = 0x71019ae4e0
+
+[".dynsym"]
+name = ".dynsym"
+start_addr = 0x71019ae4e0
+end_addr = 0x71019b3af0
+
+[".dynstr"]
+name = ".dynstr"
+start_addr = 0x71019b3af0
+end_addr = 0x71019bf717
+
+[".rodata.2"]
+name = ".rodata.2"
+start_addr = 0x71019bf717
+end_addr = 0x7101aeb890
+
+[".eh_frame_hdr"]
+name = ".eh_frame_hdr"
+start_addr = 0x7101aeb890
+end_addr = 0x7101bef3dc
+
+[".rodata.3"]
+name = ".rodata.3"
+start_addr = 0x7101bef3dc
+end_addr = 0x7101bef3e0
+
+[".eh_frame"]
+name = ".eh_frame"
+start_addr = 0x7101bef3e0
+end_addr = 0x7101f74b6c
+
+[".rodata.4"]
+name = ".rodata.4"
+start_addr = 0x7101f74b6c
+end_addr = 0x7101f75000
+
+[".init_array"]
+name = ".init_array"
+start_addr = 0x7101f75000
+end_addr = 0x7101f79698
+
+[".data"]
+name = ".data"
+start_addr = 0x7101f79698
+end_addr = 0x71021a7cb0
+
+[".dynamic"]
+name = ".dynamic"
+start_addr = 0x71021a7cb0
+end_addr = 0x71021a7e50
+
+[".data.1"]
+name = ".data.1"
+start_addr = 0x71021a7e50
+end_addr = 0x71021c3fe8
+
+[".got.plt"]
+name = ".got.plt"
+start_addr = 0x71021c3fe8
+end_addr = 0x71021c58c8
+
+[".data.2"]
+name = ".data.2"
+start_addr = 0x71021c58c8
+end_addr = 0x710224a280
+
+[".bss"]
+name = ".bss"
+start_addr = 0x710224a280
+end_addr = 0x710244e1b0
+
+[UNDEF]
+name = "UNDEF"
+start_addr = 0x710244f008
+end_addr = 0x71024509c0

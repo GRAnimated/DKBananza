@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.265796Z
+addr = 0xe88454
+size = 0x8
+name = "UnknownHost_710223B4A8__ZNK12_GLOBAL__N_121HostTypeNrvRegenerate7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "UnknownHost_710223B4A8__ZNK12_GLOBAL__N_121HostTypeNrvRegenerate7executeEPN2al11NerveKeeperE"
+addr = 0xe88454
+
+[header.args]

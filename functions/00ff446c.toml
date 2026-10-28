@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:47.344633Z
+addr = 0xff446c
+size = 0x68
+name = "_ZN7KeyItem25exeWaitEndCameraInterpoleEv"
+
+[header]
+name = "_ZN7KeyItem25exeWaitEndCameraInterpoleEv"
+addr = 0xff446c
+
+[header.args]

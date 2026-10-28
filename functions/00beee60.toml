@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.218239Z
+addr = 0xbeee60
+size = 0x30
+name = "havok_7100BEEE60"
+type = "long long"
+
+[header]
+name = "havok_7100BEEE60"
+addr = 0xbeee60
+type = "long long"
+
+[header.args]

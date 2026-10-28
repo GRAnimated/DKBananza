@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.523876Z
+addr = 0x11bf0fc
+size = 0x220
+name = "sub_71011BF0FC"
+type = "long long"
+
+[header]
+name = "sub_71011BF0FC"
+addr = 0x11bf0fc
+type = "long long"
+
+[header.args]

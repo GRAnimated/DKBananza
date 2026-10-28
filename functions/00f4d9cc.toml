@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.329620Z
+addr = 0xf4d9cc
+size = 0x158
+name = "_ZN17ChaserNeckSegment11exeBlowDownEv"
+
+[header]
+name = "_ZN17ChaserNeckSegment11exeBlowDownEv"
+addr = 0xf4d9cc
+
+[header.args]

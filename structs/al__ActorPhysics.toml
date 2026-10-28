@@ -1,0 +1,135 @@
+last_change = 2026-10-28T04:57:00.604928Z
+name = "al::ActorPhysics"
+size = 0x98
+
+[members.0x0]
+name = "field_00"
+offset = 0x0
+type = "long long"
+size = 0x8
+
+[members.0x8]
+name = "field_08"
+offset = 0x8
+type = "long long"
+size = 0x8
+
+[members.0x10]
+name = "field_10"
+offset = 0x10
+type = "char"
+size = 0x1
+
+[members.0x11]
+name = "field_11"
+offset = 0x11
+type = "char"
+size = 0x1
+
+[members.0x12]
+name = "gap_12"
+offset = 0x12
+type = "char[6]"
+size = 0x6
+
+[members.0x18]
+name = "field_18"
+offset = 0x18
+type = "long long"
+size = 0x8
+
+[members.0x20]
+name = "field_20"
+offset = 0x20
+type = "long long"
+size = 0x8
+
+[members.0x28]
+name = "field_28"
+offset = 0x28
+type = "long long"
+size = 0x8
+
+[members.0x30]
+name = "field_30"
+offset = 0x30
+type = "int"
+size = 0x4
+
+[members.0x34]
+name = "gap_34"
+offset = 0x34
+type = "char[4]"
+size = 0x4
+
+[members.0x38]
+name = "field_38"
+offset = 0x38
+type = "int"
+size = 0x4
+
+[members.0x3c]
+name = "field_3C"
+offset = 0x3c
+type = "short"
+size = 0x2
+
+[members.0x3e]
+name = "gap_3E"
+offset = 0x3e
+type = "char[2]"
+size = 0x2
+
+[members.0x40]
+name = "field_40"
+offset = 0x40
+type = "long long"
+size = 0x8
+
+[members.0x48]
+name = "field_48"
+offset = 0x48
+type = "long long"
+size = 0x8
+
+[members.0x50]
+name = "field_50"
+offset = 0x50
+type = "long long"
+size = 0x8
+
+[members.0x58]
+name = "field_58"
+offset = 0x58
+type = "char"
+size = 0x1
+
+[members.0x59]
+name = "gap_59"
+offset = 0x59
+type = "char[7]"
+size = 0x7
+
+[members.0x60]
+name = "field_60"
+offset = 0x60
+type = "long long"
+size = 0x8
+
+[members.0x68]
+name = "field_68"
+offset = 0x68
+type = "long long"
+size = 0x8
+
+[members.0x70]
+name = "gap_70"
+offset = 0x70
+type = "char[32]"
+size = 0x20
+
+[members.0x90]
+name = "field_90"
+offset = 0x90
+type = "long long"
+size = 0x8

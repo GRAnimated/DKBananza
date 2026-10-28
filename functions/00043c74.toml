@@ -1,10 +1,12 @@
-last_change = 2026-10-26T00:37:09.972650Z
+last_change = 2026-10-28T04:56:42.415086Z
 addr = 0x43c74
 size = 0x4
-name = "nullsub_8"
+name = "_ZN2al14NerveStateBase7controlEv"
+type = "void"
 
 [header]
-name = "nullsub_8"
+name = "_ZN2al14NerveStateBase7controlEv"
 addr = 0x43c74
+type = "void"
 
 [header.args]

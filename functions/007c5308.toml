@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:57:44.236167Z
+addr = 0x7c5308
+size = 0x2c
+name = "sub_71007C5308"
+type = "void"
+
+[header]
+name = "sub_71007C5308"
+addr = 0x7c5308
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "SequenceStateBoot *"
+size = 0x8

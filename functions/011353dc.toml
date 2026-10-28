@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.481352Z
+addr = 0x11353dc
+size = 0x8
+name = "_ZNK12_GLOBAL__N_121PullOutObjNrvPullLast7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_121PullOutObjNrvPullLast7executeEPN2al11NerveKeeperE"
+addr = 0x11353dc
+
+[header.args]

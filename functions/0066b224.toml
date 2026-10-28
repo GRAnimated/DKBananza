@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.026306Z
+addr = 0x66b224
+size = 0x4
+name = "_ZN21Npc2VoxelYocchiParent6appearEv"
+
+[header]
+name = "_ZN21Npc2VoxelYocchiParent6appearEv"
+addr = 0x66b224
+
+[header.args]

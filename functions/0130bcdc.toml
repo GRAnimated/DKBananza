@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.994342Z
+last_change = 2026-10-28T04:56:43.623056Z
 addr = 0x130bcdc
 size = 0x4
-name = "nullsub_2059"
+name = "_ZNK12_GLOBAL__N_136StageSceneStatePauseMenuNrvDoNothing7executeEPN2al11NerveKeeperE"
 
 [header]
-name = "nullsub_2059"
+name = "_ZNK12_GLOBAL__N_136StageSceneStatePauseMenuNrvDoNothing7executeEPN2al11NerveKeeperE"
 addr = 0x130bcdc
 
 [header.args]

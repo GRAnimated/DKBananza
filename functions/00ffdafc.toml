@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.386172Z
+addr = 0xffdafc
+size = 0x14
+name = "_ZNK12_GLOBAL__N_116MoneyLineNrvDead11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_116MoneyLineNrvDead11getNameHashEv"
+addr = 0xffdafc
+
+[header.args]

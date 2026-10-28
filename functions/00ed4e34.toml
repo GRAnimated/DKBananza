@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.291058Z
+addr = 0xed4e34
+size = 0x14
+name = "_ZNK12_GLOBAL__N_130MinecartBossNrvDemoRisingModel11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_130MinecartBossNrvDemoRisingModel11getNameHashEv"
+addr = 0xed4e34
+
+[header.args]

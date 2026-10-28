@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.593594Z
+addr = 0x129c390
+size = 0x14
+name = "_ZNK12_GLOBAL__N_130PlayerStateLandNrvLandMinecart11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_130PlayerStateLandNrvLandMinecart11getNameHashEv"
+addr = 0x129c390
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.331086Z
+addr = 0xf52d0c
+size = 0x8
+name = "_ZNK12_GLOBAL__N_114DangoroNrvBlow7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_114DangoroNrvBlow7executeEPN2al11NerveKeeperE"
+addr = 0xf52d0c
+
+[header.args]

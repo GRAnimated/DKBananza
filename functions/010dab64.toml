@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:07.238263Z
+addr = 0x10dab64
+size = 0x78
+name = "sub_71010DAB64"
+
+[header]
+name = "sub_71010DAB64"
+addr = 0x10dab64
+
+[header.args]

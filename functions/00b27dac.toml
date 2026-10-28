@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.201434Z
+addr = 0xb27dac
+size = 0x4
+name = "havok_7100B27DAC"
+
+[header]
+name = "havok_7100B27DAC"
+addr = 0xb27dac
+
+[header.args]

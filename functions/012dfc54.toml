@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.609422Z
+addr = 0x12dfc54
+size = 0x14
+name = "_ZNK12_GLOBAL__N_118ClosetSceneNrvMenu11getNameHashEv"
+type = "long long"
+
+[header]
+name = "_ZNK12_GLOBAL__N_118ClosetSceneNrvMenu11getNameHashEv"
+addr = 0x12dfc54
+type = "long long"
+
+[header.args]

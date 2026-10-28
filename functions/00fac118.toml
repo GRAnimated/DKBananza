@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.359996Z
+addr = 0xfac118
+size = 0x8
+name = "_ZN8ZainCart10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN8ZainCart10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xfac118
+
+[header.args]

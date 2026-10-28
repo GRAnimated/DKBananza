@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.543848Z
+addr = 0x11f9848
+size = 0x38
+name = "_ZN21Npc2VoxelConstruction10endClippedEv"
+
+[header]
+name = "_ZN21Npc2VoxelConstruction10endClippedEv"
+addr = 0x11f9848
+
+[header.args]

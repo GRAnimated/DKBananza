@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.379448Z
+addr = 0xfe94d4
+size = 0x1c0
+name = "_ZN6Fossil10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN6Fossil10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xfe94d4
+
+[header.args]

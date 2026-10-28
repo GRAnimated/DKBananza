@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.140080Z
+addr = 0x9151a4
+size = 0x24
+name = "_ZNK18hkSimpleLocalFrame17getLocalTransformER12hkTransformf"
+type = "long double"
+
+[header]
+name = "_ZNK18hkSimpleLocalFrame17getLocalTransformER12hkTransformf"
+addr = 0x9151a4
+type = "long double"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

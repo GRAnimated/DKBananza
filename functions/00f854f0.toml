@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.346346Z
+addr = 0xf854f0
+size = 0x8
+name = "sub_7100F854F0"
+type = "float"
+
+[header]
+name = "sub_7100F854F0"
+addr = 0xf854f0
+type = "float"
+
+[header.args]

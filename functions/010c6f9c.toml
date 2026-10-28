@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:59:05.624525Z
+addr = 0x10c6f9c
+size = 0x90
+name = "_ZN10FlyUnitFix11exeReactionEv"
+type = "long long"
+
+[header]
+name = "_ZN10FlyUnitFix11exeReactionEv"
+addr = 0x10c6f9c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

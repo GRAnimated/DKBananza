@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.414000Z
+addr = 0x10594b8
+size = 0x10
+name = "_ZNK14WipeWhiteBlack9isOpenEndEv"
+
+[header]
+name = "_ZNK14WipeWhiteBlack9isOpenEndEv"
+addr = 0x10594b8
+
+[header.args]

@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.346953Z
+addr = 0xf861ec
+size = 0x8
+name = "Nerve_MimichiNrvAttach_slot3_7100F861EC"
+type = "long long"
+
+[header]
+name = "Nerve_MimichiNrvAttach_slot3_7100F861EC"
+addr = 0xf861ec
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

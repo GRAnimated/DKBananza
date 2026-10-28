@@ -1,12 +1,16 @@
-last_change = 2026-10-26T00:37:09.985539Z
+last_change = 2026-10-28T04:56:43.385878Z
 addr = 0xffcdc4
 size = 0x4
-name = "j_al_LiveActor_endClipped_4"
-type = "long long"
+name = "_ZN9MoneyLine10endClippedEv"
+type = "void"
 
 [header]
-name = "j_al_LiveActor_endClipped_4"
+name = "_ZN9MoneyLine10endClippedEv"
 addr = 0xffcdc4
-type = "long long"
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::LiveActor *"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.543394Z
+addr = 0x11f82f0
+size = 0x64
+name = "_ZNK18Npc2VoxelConcierge18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK18Npc2VoxelConcierge18getRuntimeTypeInfoEv"
+addr = 0x11f82f0
+
+[header.args]

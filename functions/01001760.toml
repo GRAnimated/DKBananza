@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:48.398791Z
+addr = 0x1001760
+size = 0x17c
+name = "_ZN10RecordItem14exeWaitInWaterEv"
+type = "long long"
+
+[header]
+name = "_ZN10RecordItem14exeWaitInWaterEv"
+addr = 0x1001760
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

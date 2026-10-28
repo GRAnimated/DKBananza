@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:57:32.157459Z
+addr = 0x46b880
+size = 0x104
+name = "sub_710046B880"
+type = "long long"
+
+[header]
+name = "sub_710046B880"
+addr = 0x46b880
+type = "long long"
+
+[header.args]

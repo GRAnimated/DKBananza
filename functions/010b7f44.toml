@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:59:03.342044Z
+addr = 0x10b7f44
+size = 0xe8
+name = "_ZN14DoorDemoSimple7exeOpenEv"
+type = "long long"
+
+[header]
+name = "_ZN14DoorDemoSimple7exeOpenEv"
+addr = 0x10b7f44
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

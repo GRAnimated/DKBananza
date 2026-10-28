@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.572870Z
+addr = 0x125daf0
+size = 0x310
+name = "_ZN13PlayerGorilla12exeFallPunchEv"
+
+[header]
+name = "_ZN13PlayerGorilla12exeFallPunchEv"
+addr = 0x125daf0
+
+[header.args]

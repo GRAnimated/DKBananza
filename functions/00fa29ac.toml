@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:41.546702Z
+addr = 0xfa29ac
+size = 0x12c
+name = "sub_7100FA29AC"
+type = "void"
+
+[header]
+name = "sub_7100FA29AC"
+addr = 0xfa29ac
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

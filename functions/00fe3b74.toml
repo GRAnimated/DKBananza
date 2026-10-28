@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.377660Z
+addr = 0xfe3b74
+size = 0x50
+name = "_ZN10BottleItem12exeDisappearEv"
+
+[header]
+name = "_ZN10BottleItem12exeDisappearEv"
+addr = 0xfe3b74
+
+[header.args]

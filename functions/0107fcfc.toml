@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.427252Z
+addr = 0x107fcfc
+size = 0x14
+name = "_ZNK12_GLOBAL__N_130BurgerTowerDemoDirectorNrvWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_130BurgerTowerDemoDirectorNrvWait11getNameHashEv"
+addr = 0x107fcfc
+
+[header.args]

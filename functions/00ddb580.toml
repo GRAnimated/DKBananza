@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.223309Z
+addr = 0xddb580
+size = 0xc
+name = "sub_7100DDB580"
+
+[header]
+name = "sub_7100DDB580"
+addr = 0xddb580
+
+[header.args]

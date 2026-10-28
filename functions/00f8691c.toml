@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.347507Z
+addr = 0xf8691c
+size = 0x3d8
+name = "sub_7100F8691C"
+type = "long long"
+
+[header]
+name = "sub_7100F8691C"
+addr = 0xf8691c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

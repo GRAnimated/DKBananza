@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.547154Z
+addr = 0x1204658
+size = 0x14
+name = "_ZNK12_GLOBAL__N_127Npc2VoxelShopCostumeNrvLand7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_127Npc2VoxelShopCostumeNrvLand7executeEPN2al11NerveKeeperE"
+addr = 0x1204658
+
+[header.args]

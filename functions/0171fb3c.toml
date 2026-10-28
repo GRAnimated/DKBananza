@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.902831Z
+addr = 0x171fb3c
+size = 0x138
+name = "_ZN14AllDeadWatcher4initERKN2al13ActorInitInfoE"
+type = "long long"
+
+[header]
+name = "_ZN14AllDeadWatcher4initERKN2al13ActorInitInfoE"
+addr = 0x171fb3c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long *"
+size = 0x8

@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:57:43.093272Z
+addr = 0x782e80
+size = 0x70
+name = "sub_7100782E80"
+type = "long long"
+
+[header]
+name = "sub_7100782E80"
+addr = 0x782e80
+type = "long long"
+
+[header.args]

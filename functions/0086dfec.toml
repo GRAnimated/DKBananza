@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.111805Z
+addr = 0x86dfec
+size = 0x8
+name = "sub_710086DFEC"
+
+[header]
+name = "sub_710086DFEC"
+addr = 0x86dfec
+
+[header.args]

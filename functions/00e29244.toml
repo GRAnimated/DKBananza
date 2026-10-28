@@ -1,11 +1,12 @@
-last_change = 2026-10-25T23:11:42.366588Z
+last_change = 2026-10-28T04:56:43.233372Z
 addr = 0xe29244
 size = 0x8
-name = "sub_7100E29244"
+name = "al_LiveActor_receiveMsgCollider"
+type = "long long"
 
 [header]
-last_change = 2026-10-25T23:11:42.366588Z
-name = "sub_7100E29244"
+name = "al_LiveActor_receiveMsgCollider"
 addr = 0xe29244
+type = "long long"
 
 [header.args]

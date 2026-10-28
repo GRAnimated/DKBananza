@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.866192Z
+addr = 0x16c7c00
+size = 0x18
+name = "_ZN2al20initExecutorWatchObjEPNS_9LiveActorERKNS_13ActorInitInfoE"
+type = "long long"
+
+[header]
+name = "_ZN2al20initExecutorWatchObjEPNS_9LiveActorERKNS_13ActorInitInfoE"
+addr = 0x16c7c00
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

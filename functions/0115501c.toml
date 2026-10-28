@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:19.638158Z
+addr = 0x115501c
+size = 0x264
+name = "_ZN19SoftBoundBreakParts10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN19SoftBoundBreakParts10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x115501c
+
+[header.args]

@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:37:09.998593Z
+last_change = 2026-10-28T04:56:43.724453Z
 addr = 0x147e32c
 size = 0x4
 name = "j__ZdlPv_2101"
@@ -9,4 +9,8 @@ name = "j__ZdlPv_2101"
 addr = 0x147e32c
 type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "void *"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:54.283419Z
+addr = 0x10589a8
+size = 0x78
+name = "_ZN9WipeClose8exeCloseEv"
+
+[header]
+name = "_ZN9WipeClose8exeCloseEv"
+addr = 0x10589a8
+
+[header.args]

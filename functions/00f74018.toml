@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.340803Z
+addr = 0xf74018
+size = 0x8
+name = "_ZN9Hikariski12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN9Hikariski12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xf74018
+
+[header.args]

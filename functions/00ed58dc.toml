@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:29.154366Z
+addr = 0xed58dc
+size = 0x194
+name = "sub_7100ED58DC"
+type = "long long"
+
+[header]
+name = "sub_7100ED58DC"
+addr = 0xed58dc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

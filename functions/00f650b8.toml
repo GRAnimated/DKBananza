@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.337104Z
+addr = 0xf650b8
+size = 0x14
+name = "_ZNK12_GLOBAL__N_113FlydonNrvFind11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_113FlydonNrvFind11getNameHashEv"
+addr = 0xf650b8
+
+[header.args]

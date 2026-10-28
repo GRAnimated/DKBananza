@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.034462Z
+addr = 0x69994c
+size = 0x10
+name = "_ZN4sead13GameFramework18createProcessMeterEPNS_8TaskBaseE"
+type = "void"
+
+[header]
+name = "_ZN4sead13GameFramework18createProcessMeterEPNS_8TaskBaseE"
+addr = 0x69994c
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "sead::GameFramework *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "sead::TaskBase *"
+size = 0x8

@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.989019Z
+last_change = 2026-10-28T04:56:43.491848Z
 addr = 0x1156a8c
 size = 0x4
-name = "nullsub_1747"
+name = "_ZN9SonarGate7controlEv"
 
 [header]
-name = "nullsub_1747"
+name = "_ZN9SonarGate7controlEv"
 addr = 0x1156a8c
 
 [header.args]

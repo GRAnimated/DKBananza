@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:23.602413Z
+addr = 0xe7e13c
+size = 0x174
+name = "_ZN9BossStorm16exeAttackThunderEv"
+type = "long long"
+
+[header]
+name = "_ZN9BossStorm16exeAttackThunderEv"
+addr = 0xe7e13c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

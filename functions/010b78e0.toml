@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.443970Z
+addr = 0x10b78e0
+size = 0x14
+name = "DoorChallengeCourse__ZNK12_GLOBAL__N_123HostTypeNrvCloseBarrier11getNameHashEv"
+
+[header]
+name = "DoorChallengeCourse__ZNK12_GLOBAL__N_123HostTypeNrvCloseBarrier11getNameHashEv"
+addr = 0x10b78e0
+
+[header.args]

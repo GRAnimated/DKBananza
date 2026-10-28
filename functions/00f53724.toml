@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:36.703908Z
+addr = 0xf53724
+size = 0x150
+name = "_ZN10Debrischan8calcAnimEv"
+
+[header]
+name = "_ZN10Debrischan8calcAnimEv"
+addr = 0xf53724
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:19.128834Z
+addr = 0x114f384
+size = 0x5c
+name = "_ZN15SkydivingDebris18initAfterPlacementEv"
+
+[header]
+name = "_ZN15SkydivingDebris18initAfterPlacementEv"
+addr = 0x114f384
+
+[header.args]

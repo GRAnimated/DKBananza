@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:38:16.835755Z
+last_change = 2026-10-28T04:59:03.798257Z
 addr = 0x10bb6c0
 size = 0xc4
 name = "_ZN2al19createActorFunctionI18EffectObjRailGuideEEPNS_9LiveActorEPKc"
@@ -9,4 +9,8 @@ name = "_ZN2al19createActorFunctionI18EffectObjRailGuideEEPNS_9LiveActorEPKc"
 addr = 0x10bb6c0
 type = "al::LiveActor *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "const char *"
+size = 0x8

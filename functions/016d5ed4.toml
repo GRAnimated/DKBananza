@@ -1,11 +1,22 @@
-last_change = 2026-10-25T23:11:42.527804Z
+last_change = 2026-10-28T04:56:43.877003Z
 addr = 0x16d5ed4
 size = 0x11c
-name = "sub_71016D5ED4"
+name = "al_LiveActor_updateFromPhysics"
+type = "long long"
 
 [header]
-last_change = 2026-10-25T23:11:42.527804Z
-name = "sub_71016D5ED4"
+name = "al_LiveActor_updateFromPhysics"
 addr = 0x16d5ed4
+type = "long long"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "a1"
+type = "al::LiveActor *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "a2"
+type = "al::ActorPhysics *"
+size = 0x8

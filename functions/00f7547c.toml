@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:38.650006Z
+addr = 0xf7547c
+size = 0x34
+name = "_ZN6Hopper6appearEv"
+
+[header]
+name = "_ZN6Hopper6appearEv"
+addr = 0xf7547c
+
+[header.args]

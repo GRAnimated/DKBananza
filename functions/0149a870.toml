@@ -1,0 +1,76 @@
+last_change = 2026-10-28T04:56:43.729812Z
+addr = 0x149a870
+size = 0x168
+name = "sub_710149A870"
+type = "long long"
+
+[header]
+name = "sub_710149A870"
+addr = 0x149a870
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x1]
+offset = 0x1
+name = "src"
+type = "void *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = "dest"
+type = "void *"
+size = 0x8
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x4]
+offset = 0x4
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x5]
+offset = 0x5
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x6]
+offset = 0x6
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x7]
+offset = 0x7
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x8]
+offset = 0x8
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x9]
+offset = 0x9
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0xa]
+offset = 0xa
+name = ""
+type = "int"
+size = 0x4

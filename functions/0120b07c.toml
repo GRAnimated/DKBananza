@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.549090Z
+addr = 0x120b07c
+size = 0xd8
+name = "_ZN15Npc2VoxelTalker9exeDamageEv"
+
+[header]
+name = "_ZN15Npc2VoxelTalker9exeDamageEv"
+addr = 0x120b07c
+
+[header.args]

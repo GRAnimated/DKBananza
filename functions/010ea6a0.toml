@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:59:09.026192Z
+addr = 0x10ea6a0
+size = 0x2bc
+name = "UnknownHost_710223F7C8_exeWait"
+type = "long long"
+
+[header]
+name = "UnknownHost_710223F7C8_exeWait"
+addr = 0x10ea6a0
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

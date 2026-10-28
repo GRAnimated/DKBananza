@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.353543Z
+addr = 0xf95a48
+size = 0x14
+name = "_ZNK12_GLOBAL__N_126SkydivingRouteGuideNrvWait11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_126SkydivingRouteGuideNrvWait11getNameHashEv"
+addr = 0xf95a48
+
+[header.args]

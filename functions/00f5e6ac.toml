@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.334992Z
+addr = 0xf5e6ac
+size = 0x8
+name = "_ZNK12_GLOBAL__N_120DonZainCoreNrvAttack7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_120DonZainCoreNrvAttack7executeEPN2al11NerveKeeperE"
+addr = 0xf5e6ac
+
+[header.args]

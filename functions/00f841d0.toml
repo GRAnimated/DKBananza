@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:39.665162Z
+addr = 0xf841d0
+size = 0x58
+name = "_ZN7Mimichi14exeAppearMimicEv"
+
+[header]
+name = "_ZN7Mimichi14exeAppearMimicEv"
+addr = 0xf841d0
+
+[header.args]

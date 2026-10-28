@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.331196Z
+addr = 0xf53710
+size = 0x14
+name = "_ZN10Debrischan18initAfterPlacementEv"
+
+[header]
+name = "_ZN10Debrischan18initAfterPlacementEv"
+addr = 0xf53710
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.254184Z
+addr = 0xe67138
+size = 0x4
+name = "_ZNK2al13NerveExecutor27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+type = "void"
+
+[header]
+name = "_ZNK2al13NerveExecutor27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0xe67138
+type = "void"
+
+[header.args]

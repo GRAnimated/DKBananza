@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.501992Z
+addr = 0x1175f0c
+size = 0x64
+name = "_ZNK14SwitchMaterial18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK14SwitchMaterial18getRuntimeTypeInfoEv"
+addr = 0x1175f0c
+
+[header.args]

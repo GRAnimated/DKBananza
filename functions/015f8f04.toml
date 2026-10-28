@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.800390Z
+addr = 0x15f8f04
+size = 0x204
+name = "phive_CustomBallAndSocketConstraintData_ctor"
+type = "float"
+
+[header]
+name = "phive_CustomBallAndSocketConstraintData_ctor"
+addr = 0x15f8f04
+type = "float"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

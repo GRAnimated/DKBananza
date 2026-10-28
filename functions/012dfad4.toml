@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.609284Z
+addr = 0x12dfad4
+size = 0x4
+name = "_ZNK11ClosetScene27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+type = "void *"
+
+[header]
+name = "_ZNK11ClosetScene27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x12dfad4
+type = "void *"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "const ClosetScene *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "typeInfo"
+type = "const sead::RuntimeTypeInfo::Interface *"
+size = 0x8

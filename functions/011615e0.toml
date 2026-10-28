@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:38:23.384340Z
+last_change = 2026-10-28T04:59:20.833162Z
 addr = 0x11615e0
 size = 0xa4
 name = "_ZN2al19createActorFunctionI15SoundSubSpeakerEEPNS_9LiveActorEPKc"
@@ -9,4 +9,8 @@ name = "_ZN2al19createActorFunctionI15SoundSubSpeakerEEPNS_9LiveActorEPKc"
 addr = 0x11615e0
 type = "al::LiveActor *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "const char *"
+size = 0x8

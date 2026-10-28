@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:57.987871Z
+addr = 0x107d448
+size = 0x64
+name = "_ZNK12BurgerSwitch18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK12BurgerSwitch18getRuntimeTypeInfoEv"
+addr = 0x107d448
+
+[header.args]

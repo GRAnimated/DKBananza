@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:25.165551Z
+addr = 0xe9c590
+size = 0x88
+name = "_ZN19KingKRoolCannonBall13exeVoxelWriteEv"
+
+[header]
+name = "_ZN19KingKRoolCannonBall13exeVoxelWriteEv"
+addr = 0xe9c590
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.294902Z
+addr = 0xedfa28
+size = 0x5c
+name = "_ZN8ShioShio8exeSleepEv"
+
+[header]
+name = "_ZN8ShioShio8exeSleepEv"
+addr = 0xedfa28
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.510588Z
+addr = 0x1192cfc
+size = 0x14
+name = "_ZNK12_GLOBAL__N_142TowerLevelBackgroundDirectorNrvChangePhase11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_142TowerLevelBackgroundDirectorNrvChangePhase11getNameHashEv"
+addr = 0x1192cfc
+
+[header.args]

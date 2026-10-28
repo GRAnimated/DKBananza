@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.507337Z
+addr = 0x1186d4c
+size = 0xcc
+name = "_ZN15ThunderDirector10exeRequestEv"
+
+[header]
+name = "_ZN15ThunderDirector10exeRequestEv"
+addr = 0x1186d4c
+
+[header.args]

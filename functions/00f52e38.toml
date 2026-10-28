@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:38:06.638138Z
+last_change = 2026-10-28T04:58:36.626576Z
 addr = 0xf52e38
 size = 0xac
 name = "_ZN10DebrischanC2EPKc"
@@ -9,4 +9,14 @@ name = "_ZN10DebrischanC2EPKc"
 addr = 0xf52e38
 type = "void *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

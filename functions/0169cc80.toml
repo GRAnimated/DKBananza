@@ -1,10 +1,34 @@
-last_change = 2026-10-26T00:37:10.004858Z
+last_change = 2026-10-28T04:56:43.849094Z
 addr = 0x169cc80
 size = 0x4
-name = "nullsub_3503"
+name = "_ZN2al18GameFrameworkOunce15createHostIOMgrEPN4sead8TaskBaseEPNS1_9HostIOMgr9ParameterEPNS1_4HeapE"
+type = "void"
 
 [header]
-name = "nullsub_3503"
+name = "_ZN2al18GameFrameworkOunce15createHostIOMgrEPN4sead8TaskBaseEPNS1_9HostIOMgr9ParameterEPNS1_4HeapE"
 addr = 0x169cc80
+type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::GameFrameworkOunce *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "sead::TaskBase *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "sead::HostIOMgr::Parameter *"
+size = 0x8
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "sead::Heap *"
+size = 0x8

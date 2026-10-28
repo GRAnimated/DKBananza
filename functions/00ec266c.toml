@@ -1,11 +1,22 @@
-last_change = 2026-10-25T23:11:42.701750Z
+last_change = 2026-10-28T04:56:43.286074Z
 addr = 0xec266c
 size = 0x8
 name = "sub_7100EC266C"
+type = "void *"
 
 [header]
-last_change = 2026-10-25T23:11:42.701750Z
 name = "sub_7100EC266C"
 addr = 0xec266c
+type = "void *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "const void *__shifted(al::LiveActor,0x30)"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "typeInfo"
+type = "const sead::RuntimeTypeInfo::Interface *"
+size = 0x8

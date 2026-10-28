@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.094627Z
+addr = 0x7efa30
+size = 0xc4
+name = "sub_71007EFA30"
+type = "long long"
+
+[header]
+name = "sub_71007EFA30"
+addr = 0x7efa30
+type = "long long"
+
+[header.args]

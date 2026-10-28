@@ -1,0 +1,9 @@
+last_change = 2026-10-28T04:57:00.593013Z
+name = "al::IUseNerve"
+size = 0x8
+
+[members.0x0]
+name = "__vftable"
+offset = 0x0
+type = "al::NerveExecutor_Vtable_primary"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.622770Z
+addr = 0x130b52c
+size = 0xa0
+name = "_ZN24StageSceneStatePauseMenu12exeModeFirstEv"
+
+[header]
+name = "_ZN24StageSceneStatePauseMenu12exeModeFirstEv"
+addr = 0x130b52c
+
+[header.args]

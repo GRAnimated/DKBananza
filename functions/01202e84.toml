@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.546667Z
+addr = 0x1202e84
+size = 0x14
+name = "_ZNK12_GLOBAL__N_138Npc2VoxelShopChipExchangeNrvMoveOnRail11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_138Npc2VoxelShopChipExchangeNrvMoveOnRail11getNameHashEv"
+addr = 0x1202e84
+
+[header.args]

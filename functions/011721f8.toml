@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.500622Z
+addr = 0x11721f8
+size = 0x5c
+name = "_ZN9SunSwitchD1Ev"
+
+[header]
+name = "_ZN9SunSwitchD1Ev"
+addr = 0x11721f8
+
+[header.args]

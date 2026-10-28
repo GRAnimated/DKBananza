@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.297262Z
+addr = 0xee5940
+size = 0x68
+name = "_ZN19ShioShioStateAttack8exeTiredEv"
+
+[header]
+name = "_ZN19ShioShioStateAttack8exeTiredEv"
+addr = 0xee5940
+
+[header.args]

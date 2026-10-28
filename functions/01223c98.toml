@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.557066Z
+addr = 0x1223c98
+size = 0x100
+name = "_ZNK12_GLOBAL__N_130VoxelNpcHideGameWatcherNrvWait7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_130VoxelNpcHideGameWatcherNrvWait7executeEPN2al11NerveKeeperE"
+addr = 0x1223c98
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.446597Z
+addr = 0x10becf0
+size = 0x1a4
+name = "_ZN18ExtraLargeFruitObj18initAfterPlacementEv"
+
+[header]
+name = "_ZN18ExtraLargeFruitObj18initAfterPlacementEv"
+addr = 0x10becf0
+
+[header.args]

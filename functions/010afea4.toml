@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.441711Z
+addr = 0x10afea4
+size = 0x14
+name = "_ZNK12_GLOBAL__N_120DemoSinkhole2NrvDead11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_120DemoSinkhole2NrvDead11getNameHashEv"
+addr = 0x10afea4
+
+[header.args]

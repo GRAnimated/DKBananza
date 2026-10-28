@@ -1,11 +1,34 @@
-last_change = 2026-10-26T16:58:45.876500Z
+last_change = 2026-10-28T04:57:39.360444Z
 addr = 0x6a8f3c
 size = 0x144
+name = "sub_71006A8F3C"
 type = "void *"
 
 [header]
-last_change = 2026-10-26T16:58:45.876500Z
+name = "sub_71006A8F3C"
 addr = 0x6a8f3c
 type = "void *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "long long *"
+size = 0x8
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "long long *"
+size = 0x8

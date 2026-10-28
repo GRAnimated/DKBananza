@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.410846Z
+addr = 0x104f360
+size = 0x14
+name = "Nerve_710104F360"
+type = "unsigned long long"
+
+[header]
+name = "Nerve_710104F360"
+addr = 0x104f360
+type = "unsigned long long"
+
+[header.args]

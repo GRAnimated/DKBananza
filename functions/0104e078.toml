@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:53.429048Z
+addr = 0x104e078
+size = 0xd0
+name = "_ZN11TalkMessage19exeWaitCloseMessageEv"
+
+[header]
+name = "_ZN11TalkMessage19exeWaitCloseMessageEv"
+addr = 0x104e078
+
+[header.args]

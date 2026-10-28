@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.528138Z
+addr = 0x11ce324
+size = 0x1c
+name = "_ZNK12_GLOBAL__N_132Npc2AnimalTalkerElephantNrvEvent7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_132Npc2AnimalTalkerElephantNrvEvent7executeEPN2al11NerveKeeperE"
+addr = 0x11ce324
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.550720Z
+addr = 0x120f420
+size = 0x78
+name = "_ZN16NpcRaceReceptionD1Ev"
+
+[header]
+name = "_ZN16NpcRaceReceptionD1Ev"
+addr = 0x120f420
+
+[header.args]

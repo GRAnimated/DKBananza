@@ -1,10 +1,12 @@
-last_change = 2026-10-26T00:37:09.980301Z
+last_change = 2026-10-28T04:56:43.183620Z
 addr = 0xa84224
 size = 0x4
-name = "nullsub_1001"
+name = "_ZN12hknpModifier30postParticleBodyImpulseAppliedERK35hknpParticleSimulationThreadContextRK21hknpParticlesCollideriRK11hkArrayViewI23hknpParticleBodyContactE"
+type = "void"
 
 [header]
-name = "nullsub_1001"
+name = "_ZN12hknpModifier30postParticleBodyImpulseAppliedERK35hknpParticleSimulationThreadContextRK21hknpParticlesCollideriRK11hkArrayViewI23hknpParticleBodyContactE"
 addr = 0xa84224
+type = "void"
 
 [header.args]

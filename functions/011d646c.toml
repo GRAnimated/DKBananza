@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.530438Z
+addr = 0x11d646c
+size = 0x64
+name = "_ZNK21Npc2AnimalTalkerZebra18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK21Npc2AnimalTalkerZebra18getRuntimeTypeInfoEv"
+addr = 0x11d646c
+
+[header.args]

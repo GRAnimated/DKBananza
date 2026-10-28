@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.533813Z
+addr = 0x11dc630
+size = 0x38
+name = "_ZN16Npc2FastTraveler13makeActorDeadEv"
+
+[header]
+name = "_ZN16Npc2FastTraveler13makeActorDeadEv"
+addr = 0x11dc630
+
+[header.args]

@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.988036Z
+last_change = 2026-10-28T04:56:43.463573Z
 addr = 0x10f4b4c
 size = 0x4
-name = "nullsub_1692"
+name = "Ingot_updateCollider"
 
 [header]
-name = "nullsub_1692"
+name = "Ingot_updateCollider"
 addr = 0x10f4b4c
 
 [header.args]

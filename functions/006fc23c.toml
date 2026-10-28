@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:40.630068Z
+addr = 0x6fc23c
+size = 0x3e8
+name = "_ZN16LevelIntroCamera4initERKN2al13ActorInitInfoE"
+type = "long long"
+
+[header]
+name = "_ZN16LevelIntroCamera4initERKN2al13ActorInitInfoE"
+addr = 0x6fc23c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long *"
+size = 0x8

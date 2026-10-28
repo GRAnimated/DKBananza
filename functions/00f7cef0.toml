@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.343483Z
+addr = 0xf7cef0
+size = 0x2c
+name = "_ZN7Kageski10endClippedEv"
+
+[header]
+name = "_ZN7Kageski10endClippedEv"
+addr = 0xf7cef0
+
+[header.args]

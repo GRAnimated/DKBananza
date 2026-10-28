@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:41.861289Z
+addr = 0xfa97e4
+size = 0x41c
+name = "_ZN4Zain7exeBindEv"
+
+[header]
+name = "_ZN4Zain7exeBindEv"
+addr = 0xfa97e4
+
+[header.args]

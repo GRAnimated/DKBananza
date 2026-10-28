@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.592765Z
+addr = 0x1297f0c
+size = 0xf4
+name = "_ZN19PlayerStateFallHigh11exeFallHighEv"
+
+[header]
+name = "_ZN19PlayerStateFallHigh11exeFallHighEv"
+addr = 0x1297f0c
+
+[header.args]

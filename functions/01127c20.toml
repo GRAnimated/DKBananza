@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:15.653332Z
+addr = 0x1127c20
+size = 0x1bc
+name = "_ZN11PaulineCage13exeCorePhase2Ev"
+
+[header]
+name = "_ZN11PaulineCage13exeCorePhase2Ev"
+addr = 0x1127c20
+
+[header.args]

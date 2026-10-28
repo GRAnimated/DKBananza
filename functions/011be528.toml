@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.523636Z
+addr = 0x11be528
+size = 0x5c
+name = "_ZN11ZipLinePoleD1Ev"
+
+[header]
+name = "_ZN11ZipLinePoleD1Ev"
+addr = 0x11be528
+
+[header.args]

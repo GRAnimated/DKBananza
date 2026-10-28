@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:35.581906Z
+addr = 0xf42be4
+size = 0x40
+name = "_ZN10BattanWall6appearEv"
+
+[header]
+name = "_ZN10BattanWall6appearEv"
+addr = 0xf42be4
+
+[header.args]

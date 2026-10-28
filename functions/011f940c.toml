@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.543793Z
+addr = 0x11f940c
+size = 0x154
+name = "_ZN21Npc2VoxelConstruction12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN21Npc2VoxelConstruction12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x11f940c
+
+[header.args]

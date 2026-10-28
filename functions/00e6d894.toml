@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:22.485749Z
+addr = 0xe6d894
+size = 0x60
+name = "_ZN22BossMimichiStateAttack11exeMoveAwayEv"
+
+[header]
+name = "_ZN22BossMimichiStateAttack11exeMoveAwayEv"
+addr = 0xe6d894
+
+[header.args]

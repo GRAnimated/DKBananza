@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:31.130765Z
+addr = 0xefb3f8
+size = 0x1e8
+name = "sub_7100EFB3F8"
+type = "long long"
+
+[header]
+name = "sub_7100EFB3F8"
+addr = 0xefb3f8
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

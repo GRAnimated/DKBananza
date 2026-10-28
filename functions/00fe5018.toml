@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.378051Z
+addr = 0xfe5018
+size = 0x40
+name = "_ZN11CollectChip8calcAnimEv"
+
+[header]
+name = "_ZN11CollectChip8calcAnimEv"
+addr = 0xfe5018
+
+[header.args]

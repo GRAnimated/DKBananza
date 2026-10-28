@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.381094Z
+addr = 0xff02a8
+size = 0x14
+name = "_ZNK12_GLOBAL__N_112StateNrvWait11getNameHashEv_7100FF02A8"
+
+[header]
+name = "_ZNK12_GLOBAL__N_112StateNrvWait11getNameHashEv_7100FF02A8"
+addr = 0xff02a8
+
+[header.args]

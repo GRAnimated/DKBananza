@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.308150Z
+addr = 0xf08454
+size = 0x14
+name = "_ZNK12_GLOBAL__N_120VoidNrvDemoBattleEnd11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_120VoidNrvDemoBattleEnd11getNameHashEv"
+addr = 0xf08454
+
+[header.args]

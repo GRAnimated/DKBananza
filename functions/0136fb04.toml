@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.670646Z
+addr = 0x136fb04
+size = 0x2c
+name = "_ZN23VoxelHopperLiftMapParts10endClippedEv"
+
+[header]
+name = "_ZN23VoxelHopperLiftMapParts10endClippedEv"
+addr = 0x136fb04
+
+[header.args]

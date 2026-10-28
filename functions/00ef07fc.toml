@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.300527Z
+addr = 0xef07fc
+size = 0x8
+name = "_ZNK12_GLOBAL__N_122StomperorNrvDemoReboot7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_122StomperorNrvDemoReboot7executeEPN2al11NerveKeeperE"
+addr = 0xef07fc
+
+[header.args]

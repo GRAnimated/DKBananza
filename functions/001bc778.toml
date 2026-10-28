@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:28.016045Z
+addr = 0x1bc778
+size = 0x54
+name = "_ZNK12_GLOBAL__N_117GameSystemNrvPlay7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_117GameSystemNrvPlay7executeEPN2al11NerveKeeperE"
+addr = 0x1bc778
+
+[header.args]

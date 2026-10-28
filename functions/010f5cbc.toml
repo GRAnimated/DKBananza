@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:10.275602Z
+addr = 0x10f5cbc
+size = 0x164
+name = "_ZN10ItemBarrel10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN10ItemBarrel10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x10f5cbc
+
+[header.args]

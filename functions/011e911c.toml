@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.538451Z
+addr = 0x11e911c
+size = 0x64
+name = "_ZNK24Npc2KongTalkerCrankyKong18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK24Npc2KongTalkerCrankyKong18getRuntimeTypeInfoEv"
+addr = 0x11e911c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.669026Z
+addr = 0x136aea8
+size = 0x38
+name = "_ZN21VoxelConveyorMapParts10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN21VoxelConveyorMapParts10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x136aea8
+
+[header.args]

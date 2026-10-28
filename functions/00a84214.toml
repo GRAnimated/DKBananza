@@ -1,10 +1,12 @@
-last_change = 2026-10-26T00:37:09.980287Z
+last_change = 2026-10-28T04:56:43.183525Z
 addr = 0xa84214
 size = 0x4
-name = "nullsub_997"
+name = "_ZN12hknpModifier26preConstraintJacobianSetupERK27hknpSimulationThreadContextRK14hknpConstraintR10hkVector4fS7_"
+type = "void"
 
 [header]
-name = "nullsub_997"
+name = "_ZN12hknpModifier26preConstraintJacobianSetupERK27hknpSimulationThreadContextRK14hknpConstraintR10hkVector4fS7_"
 addr = 0xa84214
+type = "void"
 
 [header.args]

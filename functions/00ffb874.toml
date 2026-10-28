@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:47.955144Z
+addr = 0xffb874
+size = 0xb8
+name = "_ZN9MoneyItem10exeOnWaterEv"
+
+[header]
+name = "_ZN9MoneyItem10exeOnWaterEv"
+addr = 0xffb874
+
+[header.args]

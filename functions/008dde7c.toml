@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.125018Z
+addr = 0x8dde7c
+size = 0xc
+name = "havok_71008DDE7C"
+type = "void"
+
+[header]
+name = "havok_71008DDE7C"
+addr = 0x8dde7c
+type = "void"
+
+[header.args]

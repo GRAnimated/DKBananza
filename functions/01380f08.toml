@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.676585Z
+addr = 0x1380f08
+size = 0x240
+name = "_ZN24VoxelRisingAbyssMapParts12exeMoveBoostEv"
+type = "long long"
+
+[header]
+name = "_ZN24VoxelRisingAbyssMapParts12exeMoveBoostEv"
+addr = 0x1380f08
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

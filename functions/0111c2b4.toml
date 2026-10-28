@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:14.073590Z
+addr = 0x111c2b4
+size = 0x64
+name = "_ZNK21MinecartBreakMapParts18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK21MinecartBreakMapParts18getRuntimeTypeInfoEv"
+addr = 0x111c2b4
+
+[header.args]

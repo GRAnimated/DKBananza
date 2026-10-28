@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:42.490130Z
+addr = 0x3b60fc
+size = 0x5c
+name = "sub_71003B60FC"
+type = "long long"
+
+[header]
+name = "sub_71003B60FC"
+addr = 0x3b60fc
+type = "long long"
+
+[header.args]

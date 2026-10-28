@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.271189Z
+addr = 0xe99e94
+size = 0x44
+name = "sub_7100E99E94"
+type = "long long"
+
+[header]
+name = "sub_7100E99E94"
+addr = 0xe99e94
+type = "long long"
+
+[header.args]

@@ -1,0 +1,64 @@
+last_change = 2026-10-28T04:58:16.363613Z
+addr = 0xe06520
+size = 0x3c8
+name = "sub_7100E06520"
+type = "long long"
+
+[header]
+name = "sub_7100E06520"
+addr = 0xe06520
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x4]
+offset = 0x4
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x5]
+offset = 0x5
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x6]
+offset = 0x6
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x7]
+offset = 0x7
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x8]
+offset = 0x8
+name = ""
+type = "char"
+size = 0x1

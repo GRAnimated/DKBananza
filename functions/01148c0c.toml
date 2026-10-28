@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.488007Z
+addr = 0x1148c0c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_124SinkholeGateNrvWaitClose11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_124SinkholeGateNrvWaitClose11getNameHashEv"
+addr = 0x1148c0c
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.226470Z
+addr = 0xdf1320
+size = 0xc
+name = "sub_7100DF1320"
+type = "void"
+
+[header]
+name = "sub_7100DF1320"
+addr = 0xdf1320
+type = "void"
+
+[header.args]

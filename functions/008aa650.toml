@@ -1,0 +1,88 @@
+last_change = 2026-10-28T04:57:47.958673Z
+addr = 0x8aa650
+size = 0xc4
+name = "sub_71008AA650"
+type = "long long"
+
+[header]
+name = "sub_71008AA650"
+addr = 0x8aa650
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x3]
+offset = 0x3
+name = "this"
+type = "nn::util::BinaryFileHeader *"
+size = 0x8
+
+[header.args.0x4]
+offset = 0x4
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x5]
+offset = 0x5
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x6]
+offset = 0x6
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x7]
+offset = 0x7
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x8]
+offset = 0x8
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x9]
+offset = 0x9
+name = ""
+type = "char"
+size = 0x1
+
+[header.args.0xa]
+offset = 0xa
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0xb]
+offset = 0xb
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0xc]
+offset = 0xc
+name = ""
+type = "long long"
+size = 0x8

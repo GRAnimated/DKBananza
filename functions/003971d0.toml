@@ -1,11 +1,22 @@
-last_change = 2026-10-26T14:45:28.495125Z
+last_change = 2026-10-28T04:56:42.484924Z
 addr = 0x3971d0
 size = 0x54
 name = "_ZN2al12addNamedHeapEPN4sead4HeapEPKc"
+type = "long long"
 
 [header]
-last_change = 2026-10-26T14:45:28.495125Z
 name = "_ZN2al12addNamedHeapEPN4sead4HeapEPKc"
 addr = 0x3971d0
+type = "long long"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "char *"
+size = 0x8

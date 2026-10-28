@@ -1,0 +1,9 @@
+last_change = 2026-10-28T04:57:00.584303Z
+name = "sead::GameFrameworkOunce::CreateArg"
+size = 0x5c
+
+[members.0x0]
+name = "field_00"
+offset = 0x0
+type = "unsigned char[92]"
+size = 0x5c

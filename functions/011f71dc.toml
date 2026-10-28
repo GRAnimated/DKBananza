@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.543101Z
+addr = 0x11f71dc
+size = 0x8
+name = "_ZNK12_GLOBAL__N_135Npc2VoxelBreakAchievementNrvRespawn7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_135Npc2VoxelBreakAchievementNrvRespawn7executeEPN2al11NerveKeeperE"
+addr = 0x11f71dc
+
+[header.args]

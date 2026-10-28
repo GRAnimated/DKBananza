@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.533881Z
+addr = 0x11dceec
+size = 0x34
+name = "_ZN16Npc2FastTraveler7controlEv"
+
+[header]
+name = "_ZN16Npc2FastTraveler7controlEv"
+addr = 0x11dceec
+
+[header.args]

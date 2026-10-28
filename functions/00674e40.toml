@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.027539Z
+addr = 0x674e40
+size = 0x68
+name = "_ZN25Npc2VoxelBreakAchievement18initAfterPlacementEv"
+
+[header]
+name = "_ZN25Npc2VoxelBreakAchievement18initAfterPlacementEv"
+addr = 0x674e40
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.542028Z
+addr = 0x11f3acc
+size = 0x68
+name = "_ZN15Npc2VoxelAmiibo18initAfterPlacementEv"
+
+[header]
+name = "_ZN15Npc2VoxelAmiibo18initAfterPlacementEv"
+addr = 0x11f3acc
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.447115Z
+addr = 0x10c0ff4
+size = 0xa0
+name = "_ZN12FastTraveler16exeWipeCloseWaitEv"
+
+[header]
+name = "_ZN12FastTraveler16exeWipeCloseWaitEv"
+addr = 0x10c0ff4
+
+[header.args]

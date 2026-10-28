@@ -1,10 +1,22 @@
-last_change = 2026-10-26T00:37:09.975576Z
+last_change = 2026-10-28T04:56:43.021965Z
 addr = 0x64ca90
 size = 0x4
 name = "nullsub_661"
+type = "long long"
 
 [header]
 name = "nullsub_661"
 addr = 0x64ca90
+type = "long long"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "unsigned long long"
+size = 0x8

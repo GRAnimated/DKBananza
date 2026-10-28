@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.456801Z
+addr = 0x10ded00
+size = 0x14
+name = "_ZNK12_GLOBAL__N_121GroundCrackerNrvPress11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_121GroundCrackerNrvPress11getNameHashEv"
+addr = 0x10ded00
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:39.790716Z
+addr = 0x6c0920
+size = 0x3e8
+name = "_ZN7Gondola4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN7Gondola4initERKN2al13ActorInitInfoE"
+addr = 0x6c0920
+
+[header.args]

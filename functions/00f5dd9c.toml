@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:37.340153Z
+addr = 0xf5dd9c
+size = 0x64
+name = "_ZNK11DonZainCore18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK11DonZainCore18getRuntimeTypeInfoEv"
+addr = 0xf5dd9c
+
+[header.args]

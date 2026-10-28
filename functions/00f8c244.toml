@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:40.056772Z
+addr = 0xf8c244
+size = 0x74
+name = "_ZN8MiniShio7exeFallEv"
+type = "long long"
+
+[header]
+name = "_ZN8MiniShio7exeFallEv"
+addr = 0xf8c244
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

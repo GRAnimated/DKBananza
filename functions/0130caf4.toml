@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.623632Z
+addr = 0x130caf4
+size = 0x8
+name = "_ZNK12_GLOBAL__N_126StageSceneStateRaceNrvPlay7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_126StageSceneStateRaceNrvPlay7executeEPN2al11NerveKeeperE"
+addr = 0x130caf4
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.904189Z
+addr = 0x17234cc
+size = 0x98
+name = "_ZN13JinglePlayObj4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN13JinglePlayObj4initERKN2al13ActorInitInfoE"
+addr = 0x17234cc
+
+[header.args]

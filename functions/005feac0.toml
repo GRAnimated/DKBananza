@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:36.943927Z
+addr = 0x5feac0
+size = 0x88
+name = "ProductSequence_71005FEAC0"
+type = "long long"
+
+[header]
+name = "ProductSequence_71005FEAC0"
+addr = 0x5feac0
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "ProductSequence *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "info"
+type = "void *"
+size = 0x8

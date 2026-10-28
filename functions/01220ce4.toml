@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.556006Z
+addr = 0x1220ce4
+size = 0x74
+name = "_ZN11TadoruyaNpc18initAfterPlacementEv"
+
+[header]
+name = "_ZN11TadoruyaNpc18initAfterPlacementEv"
+addr = 0x1220ce4
+
+[header.args]

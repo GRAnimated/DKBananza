@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:17.514589Z
+addr = 0x113c034
+size = 0x64
+name = "_ZNK22RecordPlayerSoundLevel18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK22RecordPlayerSoundLevel18getRuntimeTypeInfoEv"
+addr = 0x113c034
+
+[header.args]

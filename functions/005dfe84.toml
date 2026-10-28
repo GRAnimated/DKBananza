@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:36.476767Z
+addr = 0x5dfe84
+size = 0x648
+name = "sub_71005DFE84"
+type = "long long"
+
+[header]
+name = "sub_71005DFE84"
+addr = 0x5dfe84
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x1]
+offset = 0x1
+name = "src"
+type = "void *"
+size = 0x8

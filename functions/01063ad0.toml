@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:55.360373Z
+addr = 0x1063ad0
+size = 0x1f8
+name = "UnknownHost_710223EC10_exeDemoPowerUpNoMenu"
+type = "long long"
+
+[header]
+name = "UnknownHost_710223EC10_exeDemoPowerUpNoMenu"
+addr = 0x1063ad0
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

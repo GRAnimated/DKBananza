@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.522265Z
+addr = 0x11b9780
+size = 0x5c
+name = "_ZN6YocchiD1Ev"
+
+[header]
+name = "_ZN6YocchiD1Ev"
+addr = 0x11b9780
+
+[header.args]

@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:56:43.270805Z
+addr = 0xe98fbc
+size = 0x64
+name = "sub_7100E98FBC"
+type = "long long"
+
+[header]
+name = "sub_7100E98FBC"
+addr = 0xe98fbc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "unsigned long long"
+size = 0x8

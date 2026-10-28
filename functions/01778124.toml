@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.927268Z
+addr = 0x1778124
+size = 0x14
+name = "_ZNK12_GLOBAL__N_130AtmosScatterCubeMapNrvDrawFace11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_130AtmosScatterCubeMapNrvDrawFace11getNameHashEv"
+addr = 0x1778124
+
+[header.args]

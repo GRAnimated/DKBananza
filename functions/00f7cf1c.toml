@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.343489Z
+addr = 0xf7cf1c
+size = 0x4
+name = "_ZNK7Kageski27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK7Kageski27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0xf7cf1c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.449041Z
+addr = 0x10c6d4c
+size = 0x3c
+name = "_ZN10FlyUnitFix8calcAnimEv"
+
+[header]
+name = "_ZN10FlyUnitFix8calcAnimEv"
+addr = 0x10c6d4c
+
+[header.args]

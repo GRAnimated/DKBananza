@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.786175Z
+addr = 0x15a903c
+size = 0x8
+name = "_ZNK5phive9RigidBody21getContactCollection_Ev"
+type = "long long"
+
+[header]
+name = "_ZNK5phive9RigidBody21getContactCollection_Ev"
+addr = 0x15a903c
+type = "long long"
+
+[header.args]

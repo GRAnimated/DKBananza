@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.742933Z
+addr = 0x14dc9a0
+size = 0xc
+name = "sub_71014DC9A0"
+type = "const char *"
+
+[header]
+name = "sub_71014DC9A0"
+addr = 0x14dc9a0
+type = "const char *"
+
+[header.args]

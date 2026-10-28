@@ -1,0 +1,52 @@
+last_change = 2026-10-28T04:57:35.639347Z
+addr = 0x5932fc
+size = 0x6a0
+name = "sub_71005932FC"
+type = "long long"
+
+[header]
+name = "sub_71005932FC"
+addr = 0x5932fc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x3]
+offset = 0x3
+name = ""
+type = "unsigned long long"
+size = 0x8
+
+[header.args.0x4]
+offset = 0x4
+name = ""
+type = "float"
+size = 0x4
+
+[header.args.0x5]
+offset = 0x5
+name = ""
+type = "float"
+size = 0x4
+
+[header.args.0x6]
+offset = 0x6
+name = ""
+type = "float"
+size = 0x4

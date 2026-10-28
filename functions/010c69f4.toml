@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.449012Z
+addr = 0x10c69f4
+size = 0x164
+name = "_ZN10FlyUnitFix6appearEv"
+
+[header]
+name = "_ZN10FlyUnitFix6appearEv"
+addr = 0x10c69f4
+
+[header.args]

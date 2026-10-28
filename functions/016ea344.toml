@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.885167Z
+addr = 0x16ea344
+size = 0xdc
+name = "_ZN14WobbleMapParts4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN14WobbleMapParts4initERKN2al13ActorInitInfoE"
+addr = 0x16ea344
+
+[header.args]

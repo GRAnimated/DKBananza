@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.299579Z
+addr = 0xeed374
+size = 0x1b4
+name = "_ZN9Stomperor12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN9Stomperor12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xeed374
+
+[header.args]

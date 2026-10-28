@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.327313Z
+addr = 0xf46a3c
+size = 0x8
+name = "UnknownHost_710223CC20__ZNK12_GLOBAL__N_123HostTypeNrvFaceWaitLook7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "UnknownHost_710223CC20__ZNK12_GLOBAL__N_123HostTypeNrvFaceWaitLook7executeEPN2al11NerveKeeperE"
+addr = 0xf46a3c
+
+[header.args]

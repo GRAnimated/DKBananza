@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.084832Z
+addr = 0x7b6c90
+size = 0x94
+name = "_ZN20Npc2VoxelHideAndSeek8calcAnimEv"
+
+[header]
+name = "_ZN20Npc2VoxelHideAndSeek8calcAnimEv"
+addr = 0x7b6c90
+
+[header.args]

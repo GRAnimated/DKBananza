@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.200952Z
+addr = 0xb231a0
+size = 0x280
+name = "havok_7100B231A0"
+type = "unsigned long long *"
+
+[header]
+name = "havok_7100B231A0"
+addr = 0xb231a0
+type = "unsigned long long *"
+
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "unsigned long long *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

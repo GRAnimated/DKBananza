@@ -1,11 +1,22 @@
-last_change = 2026-10-26T14:22:23.515839Z
+last_change = 2026-10-28T04:56:43.006688Z
 addr = 0x5dca64
 size = 0xd4
 name = "_ZN2al9StringTmpILi64EEC2EPKcz"
+type = "long long"
 
 [header]
-last_change = 2026-10-26T14:22:23.515839Z
 name = "_ZN2al9StringTmpILi64EEC2EPKcz"
 addr = 0x5dca64
+type = "long long"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "result"
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "const char *"
+size = 0x8

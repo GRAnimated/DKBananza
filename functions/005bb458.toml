@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.003453Z
+addr = 0x5bb458
+size = 0x264
+name = "sub_71005BB458"
+
+[header]
+name = "sub_71005BB458"
+addr = 0x5bb458
+
+[header.args]

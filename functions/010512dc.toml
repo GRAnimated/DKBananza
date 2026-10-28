@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.412057Z
+addr = 0x10512dc
+size = 0x14
+name = "_ZNK12_GLOBAL__N_130TransitionHpNrvWaitBeforeBoost11getNameHashEv"
+type = "unsigned long long"
+
+[header]
+name = "_ZNK12_GLOBAL__N_130TransitionHpNrvWaitBeforeBoost11getNameHashEv"
+addr = 0x10512dc
+type = "unsigned long long"
+
+[header.args]

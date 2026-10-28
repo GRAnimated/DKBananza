@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:25.161483Z
+addr = 0xe9c524
+size = 0x6c
+name = "_ZN19KingKRoolCannonBall12exeMoveBoundEv"
+
+[header]
+name = "_ZN19KingKRoolCannonBall12exeMoveBoundEv"
+addr = 0xe9c524
+
+[header.args]

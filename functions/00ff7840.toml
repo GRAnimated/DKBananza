@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.383544Z
+addr = 0xff7840
+size = 0x5c
+name = "_ZN13LifeVoxelItemD1Ev"
+
+[header]
+name = "_ZN13LifeVoxelItemD1Ev"
+addr = 0xff7840
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.505696Z
+addr = 0x118094c
+size = 0x238
+name = "_ZN9ThornPole7exeGrowEv"
+
+[header]
+name = "_ZN9ThornPole7exeGrowEv"
+addr = 0x118094c
+
+[header.args]

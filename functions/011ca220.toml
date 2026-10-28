@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.526844Z
+addr = 0x11ca220
+size = 0x68
+name = "sub_71011CA220"
+
+[header]
+name = "sub_71011CA220"
+addr = 0x11ca220
+
+[header.args]

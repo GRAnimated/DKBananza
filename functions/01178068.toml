@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.502769Z
+addr = 0x1178068
+size = 0x14
+name = "_ZNK12_GLOBAL__N_119SwitchSolarNrvDelay11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_119SwitchSolarNrvDelay11getNameHashEv"
+addr = 0x1178068
+
+[header.args]

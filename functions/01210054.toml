@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.550937Z
+addr = 0x1210054
+size = 0x14
+name = "_ZNK12_GLOBAL__N_123NpcRaceReceptionNrvLand7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_123NpcRaceReceptionNrvLand7executeEPN2al11NerveKeeperE"
+addr = 0x1210054
+
+[header.args]

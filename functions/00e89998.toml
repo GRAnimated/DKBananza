@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:24.261623Z
+addr = 0xe89998
+size = 0x70
+name = "UnknownHost_710223B528_exePhaseEscape"
+type = "long long"
+
+[header]
+name = "UnknownHost_710223B528_exePhaseEscape"
+addr = 0xe89998
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

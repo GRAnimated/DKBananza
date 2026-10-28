@@ -1,10 +1,12 @@
-last_change = 2026-10-26T00:37:09.980280Z
+last_change = 2026-10-28T04:56:43.183485Z
 addr = 0xa8420c
 size = 0x4
-name = "nullsub_995"
+name = "_ZN12hknpModifier16postContactSolveERK27hknpSimulationThreadContextRKNS_26ContactSolverCallbackInputERK10hkVector4ff"
+type = "void"
 
 [header]
-name = "nullsub_995"
+name = "_ZN12hknpModifier16postContactSolveERK27hknpSimulationThreadContextRKNS_26ContactSolverCallbackInputERK10hkVector4ff"
 addr = 0xa8420c
+type = "void"
 
 [header.args]

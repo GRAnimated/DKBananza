@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.870776Z
+addr = 0x16cf638
+size = 0x2c
+name = "_ZN2al19ActorPoseKeeperTRSVC2Ev"
+type = "void"
+
+[header]
+name = "_ZN2al19ActorPoseKeeperTRSVC2Ev"
+addr = 0x16cf638
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::ActorPoseKeeperTRSV *"
+size = 0x8

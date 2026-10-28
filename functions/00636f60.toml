@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.018337Z
+addr = 0x636f60
+size = 0xec
+name = "sub_7100636F60"
+type = "long long"
+
+[header]
+name = "sub_7100636F60"
+addr = 0x636f60
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long"
+size = 0x8

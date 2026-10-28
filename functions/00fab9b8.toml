@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.359694Z
+addr = 0xfab9b8
+size = 0x14
+name = "_ZNK12_GLOBAL__N_111ZainNrvLand11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_111ZainNrvLand11getNameHashEv"
+addr = 0xfab9b8
+
+[header.args]

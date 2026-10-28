@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.309272Z
+addr = 0xf0b48c
+size = 0x8
+name = "_ZNK12_GLOBAL__N_124VoidBattleBulletNrvStick7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_124VoidBattleBulletNrvStick7executeEPN2al11NerveKeeperE"
+addr = 0xf0b48c
+
+[header.args]

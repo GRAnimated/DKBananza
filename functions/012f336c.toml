@@ -1,11 +1,22 @@
-last_change = 2026-10-26T17:00:35.809985Z
+last_change = 2026-10-28T04:56:43.616235Z
 addr = 0x12f336c
 size = 0xc8
 name = "_ZN14SculptureSceneC2EPN2al10WipeHolderE"
+type = "void *"
 
 [header]
-last_change = 2026-10-26T17:00:35.809985Z
 name = "_ZN14SculptureSceneC2EPN2al10WipeHolderE"
 addr = 0x12f336c
+type = "void *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

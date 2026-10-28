@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.115452Z
+addr = 0x89cfdc
+size = 0x10
+name = "sub_710089CFDC"
+
+[header]
+name = "sub_710089CFDC"
+addr = 0x89cfdc
+
+[header.args]

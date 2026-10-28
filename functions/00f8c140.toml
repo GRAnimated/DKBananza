@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:40.052519Z
+addr = 0xf8c140
+size = 0x104
+name = "_ZN8MiniShio16exeAttackEndWaitEv"
+type = "long long"
+
+[header]
+name = "_ZN8MiniShio16exeAttackEndWaitEv"
+addr = 0xf8c140
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

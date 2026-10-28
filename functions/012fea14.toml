@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.619401Z
+addr = 0x12fea14
+size = 0x84
+name = "_ZN14StaffRollScene7controlEv"
+type = "void"
+
+[header]
+name = "_ZN14StaffRollScene7controlEv"
+addr = 0x12fea14
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "StaffRollScene *"
+size = 0x8

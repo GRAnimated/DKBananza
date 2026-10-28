@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:38.688954Z
+addr = 0xf76174
+size = 0x104
+name = "_ZN6Hopper9exeAttackEv"
+
+[header]
+name = "_ZN6Hopper9exeAttackEv"
+addr = 0xf76174
+
+[header.args]

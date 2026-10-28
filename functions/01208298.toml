@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.548401Z
+addr = 0x1208298
+size = 0x68
+name = "_ZN16Npc2VoxelSunbath18initAfterPlacementEv"
+
+[header]
+name = "_ZN16Npc2VoxelSunbath18initAfterPlacementEv"
+addr = 0x1208298
+
+[header.args]

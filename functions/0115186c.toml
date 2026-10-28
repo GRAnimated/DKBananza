@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:19.378314Z
+addr = 0x115186c
+size = 0xfc
+name = "_ZN13SkydivingGold7controlEv"
+
+[header]
+name = "_ZN13SkydivingGold7controlEv"
+addr = 0x115186c
+
+[header.args]

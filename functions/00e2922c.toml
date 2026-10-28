@@ -1,12 +1,22 @@
-last_change = 2026-10-26T00:37:09.981152Z
+last_change = 2026-10-28T04:56:43.233219Z
 addr = 0xe2922c
 size = 0x4
-name = "al_LiveActor_init"
+name = "_ZN2al9LiveActor4initERKN2al13ActorInitInfoE"
 type = "void"
 
 [header]
-name = "al_LiveActor_init"
+name = "_ZN2al9LiveActor4initERKN2al13ActorInitInfoE"
 addr = 0xe2922c
 type = "void"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "al::LiveActor *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "initInfo"
+type = "const al::ActorInitInfo *"
+size = 0x8

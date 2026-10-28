@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.514490Z
+addr = 0x11a0540
+size = 0x64
+name = "_ZNK20VoidMaterialObjStand18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK20VoidMaterialObjStand18getRuntimeTypeInfoEv"
+addr = 0x11a0540
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.331786Z
+addr = 0xf55c78
+size = 0x220
+name = "_ZN10Debrischan12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN10Debrischan12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xf55c78
+
+[header.args]

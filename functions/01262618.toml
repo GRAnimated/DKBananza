@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.573256Z
+addr = 0x1262618
+size = 0x8
+name = "_ZNK12_GLOBAL__N_120PlayerGorillaNrvLand7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_120PlayerGorillaNrvLand7executeEPN2al11NerveKeeperE"
+addr = 0x1262618
+
+[header.args]

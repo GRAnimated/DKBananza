@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.448305Z
+addr = 0x10c443c
+size = 0x70
+name = "_ZN15FloatingDisplay12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN15FloatingDisplay12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x10c443c
+
+[header.args]

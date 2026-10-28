@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.342191Z
+addr = 0xf79364
+size = 0xc
+name = "_ZN10HopperCore18initAfterPlacementEv"
+
+[header]
+name = "_ZN10HopperCore18initAfterPlacementEv"
+addr = 0xf79364
+
+[header.args]

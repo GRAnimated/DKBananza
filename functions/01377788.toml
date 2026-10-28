@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.673290Z
+addr = 0x1377788
+size = 0x168
+name = "_ZN13VoxelMoneyObj12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN13VoxelMoneyObj12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x1377788
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.539823Z
+addr = 0x11ed390
+size = 0x4
+name = "_ZN23Npc2KongTalkerPoppyKong18initAfterPlacementEv"
+
+[header]
+name = "_ZN23Npc2KongTalkerPoppyKong18initAfterPlacementEv"
+addr = 0x11ed390
+
+[header.args]

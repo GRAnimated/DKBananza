@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.548213Z
+addr = 0x1207bac
+size = 0x14
+name = "_ZNK12_GLOBAL__N_122Npc2VoxelSingerNrvVoid7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_122Npc2VoxelSingerNrvVoid7executeEPN2al11NerveKeeperE"
+addr = 0x1207bac
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.518676Z
+addr = 0x11ad530
+size = 0x58
+name = "_ZN18VoxelRegenerateObj19exeRegenerateSimpleEv"
+
+[header]
+name = "_ZN18VoxelRegenerateObj19exeRegenerateSimpleEv"
+addr = 0x11ad530
+
+[header.args]

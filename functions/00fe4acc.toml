@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.378033Z
+addr = 0xfe4acc
+size = 0x178
+name = "_ZN11CollectChip18initAfterPlacementEv"
+
+[header]
+name = "_ZN11CollectChip18initAfterPlacementEv"
+addr = 0xfe4acc
+
+[header.args]

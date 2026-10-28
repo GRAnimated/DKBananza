@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.288686Z
+addr = 0xecc064
+size = 0x5c
+name = "sub_7100ECC064"
+
+[header]
+name = "sub_7100ECC064"
+addr = 0xecc064
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.591758Z
+addr = 0x1294330
+size = 0x90
+name = "_ZN17PlayerStateDamage12exeBlowWaterEv"
+
+[header]
+name = "_ZN17PlayerStateDamage12exeBlowWaterEv"
+addr = 0x1294330
+
+[header.args]

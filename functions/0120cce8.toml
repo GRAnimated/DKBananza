@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.549845Z
+addr = 0x120cce8
+size = 0x4
+name = "_ZNK21Npc2VoxelYocchiParent27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK21Npc2VoxelYocchiParent27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x120cce8
+
+[header.args]

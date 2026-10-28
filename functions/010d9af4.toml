@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.454937Z
+addr = 0x10d9af4
+size = 0x4
+name = "_ZNK9GoalValve27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK9GoalValve27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0x10d9af4
+
+[header.args]

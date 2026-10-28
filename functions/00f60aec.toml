@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.335597Z
+addr = 0xf60aec
+size = 0x14
+name = "_ZNK12_GLOBAL__N_148DonZainStateAttackNrvAttackHorizontalSignJumpEnd11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_148DonZainStateAttackNrvAttackHorizontalSignJumpEnd11getNameHashEv"
+addr = 0xf60aec
+
+[header.args]

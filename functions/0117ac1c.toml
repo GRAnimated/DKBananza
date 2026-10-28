@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.503861Z
+addr = 0x117ac1c
+size = 0x8
+name = "_ZNK12_GLOBAL__N_125SyncSwitchDirectorNrvSync7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_125SyncSwitchDirectorNrvSync7executeEPN2al11NerveKeeperE"
+addr = 0x117ac1c
+
+[header.args]

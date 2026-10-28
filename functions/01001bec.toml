@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.387625Z
+addr = 0x1001bec
+size = 0x58
+name = "_ZN10RecordItem12exeDisappearEv"
+
+[header]
+name = "_ZN10RecordItem12exeDisappearEv"
+addr = 0x1001bec
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.343448Z
+addr = 0xf7ce04
+size = 0x8
+name = "_ZN7Kageski12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN7Kageski12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0xf7ce04
+
+[header.args]

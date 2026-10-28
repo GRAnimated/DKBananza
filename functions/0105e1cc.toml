@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:54.820198Z
+addr = 0x105e1cc
+size = 0x68
+name = "_ZN17AttractionCounter7exeWaitEv"
+type = "long long"
+
+[header]
+name = "_ZN17AttractionCounter7exeWaitEv"
+addr = 0x105e1cc
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

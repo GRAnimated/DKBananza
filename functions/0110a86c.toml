@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:12.426185Z
+addr = 0x110a86c
+size = 0x14c
+name = "_ZN14LongHoleCamera15exeUnderControlEv"
+
+[header]
+name = "_ZN14LongHoleCamera15exeUnderControlEv"
+addr = 0x110a86c
+
+[header.args]

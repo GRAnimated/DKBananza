@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:42.255710Z
+addr = 0x754184
+size = 0x39c
+name = "_ZN27Npc2AnimalTalkerMonkeyMiner4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN27Npc2AnimalTalkerMonkeyMiner4initERKN2al13ActorInitInfoE"
+addr = 0x754184
+
+[header.args]

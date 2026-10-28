@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.327008Z
+addr = 0xf45fac
+size = 0x5c
+name = "_ZN10BattanWallD1Ev"
+
+[header]
+name = "_ZN10BattanWallD1Ev"
+addr = 0xf45fac
+
+[header.args]

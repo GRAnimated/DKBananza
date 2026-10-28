@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.465659Z
+addr = 0x10fb834
+size = 0x78
+name = "Landmine_receiveMsgCollider"
+
+[header]
+name = "Landmine_receiveMsgCollider"
+addr = 0x10fb834
+
+[header.args]

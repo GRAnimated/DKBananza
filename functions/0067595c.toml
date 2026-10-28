@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.027902Z
+addr = 0x67595c
+size = 0xc4
+name = "_ZN4sead13GameFramework21waitStartDisplayLoop_Ev"
+type = "void"
+
+[header]
+name = "_ZN4sead13GameFramework21waitStartDisplayLoop_Ev"
+addr = 0x67595c
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "sead::GameFramework *"
+size = 0x8

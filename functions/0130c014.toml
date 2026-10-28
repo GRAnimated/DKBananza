@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.623247Z
+addr = 0x130c014
+size = 0x14
+name = "_ZNK12_GLOBAL__N_132StageSceneStatePowerUpMenuNrvOut11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_132StageSceneStatePowerUpMenuNrvOut11getNameHashEv"
+addr = 0x130c014
+
+[header.args]

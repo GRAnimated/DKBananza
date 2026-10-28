@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.400162Z
+addr = 0x1026fc8
+size = 0x14
+name = "_ZNK12_GLOBAL__N_114HudRaceNrvHide11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_114HudRaceNrvHide11getNameHashEv"
+addr = 0x1026fc8
+
+[header.args]

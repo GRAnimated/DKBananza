@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:47.753772Z
+addr = 0xff979c
+size = 0x50
+name = "_ZNK12_GLOBAL__N_140LifeVoxelItemRegenerateNrvRegenerateWait7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_140LifeVoxelItemRegenerateNrvRegenerateWait7executeEPN2al11NerveKeeperE"
+addr = 0xff979c
+
+[header.args]

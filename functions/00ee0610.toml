@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.294994Z
+addr = 0xee0610
+size = 0xd8
+name = "_ZN8ShioShioD1Ev"
+
+[header]
+name = "_ZN8ShioShioD1Ev"
+addr = 0xee0610
+
+[header.args]

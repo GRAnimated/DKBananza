@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:02.513917Z
+addr = 0x10afe9c
+size = 0x8
+name = "_ZNK12_GLOBAL__N_120DemoSinkhole2NrvDead7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_120DemoSinkhole2NrvDead7executeEPN2al11NerveKeeperE"
+addr = 0x10afe9c
+
+[header.args]

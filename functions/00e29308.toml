@@ -1,11 +1,16 @@
-last_change = 2026-10-25T23:11:42.697891Z
+last_change = 2026-10-28T04:56:43.233572Z
 addr = 0xe29308
 size = 0x14
 name = "sub_7100E29308"
+type = "const char *"
 
 [header]
-last_change = 2026-10-25T23:11:42.697891Z
 name = "sub_7100E29308"
 addr = 0xe29308
+type = "const char *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "const void *__shifted(al::LiveActor,0x18)"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.910184Z
+addr = 0x1735304
+size = 0xdc
+name = "_ZN23CameraAngleVerticalCtrl14exeSnapPrepareEv"
+
+[header]
+name = "_ZN23CameraAngleVerticalCtrl14exeSnapPrepareEv"
+addr = 0x1735304
+
+[header.args]

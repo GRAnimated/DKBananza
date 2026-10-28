@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:40.401854Z
+addr = 0xf8fac8
+size = 0x32c
+name = "_ZN17PettanStateAttack13exeAttackRiseEv"
+
+[header]
+name = "_ZN17PettanStateAttack13exeAttackRiseEv"
+addr = 0xf8fac8
+
+[header.args]

@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:37.759714Z
+addr = 0xf64600
+size = 0x84
+name = "_ZN6Flydon20exeKnockBackNoDamageEv"
+type = "long long"
+
+[header]
+name = "_ZN6Flydon20exeKnockBackNoDamageEv"
+addr = 0xf64600
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

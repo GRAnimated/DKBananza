@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.354086Z
+addr = 0xf97848
+size = 0x5c
+name = "_ZN17SneakingManGoldenD1Ev"
+
+[header]
+name = "_ZN17SneakingManGoldenD1Ev"
+addr = 0xf97848
+
+[header.args]

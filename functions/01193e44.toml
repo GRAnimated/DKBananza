@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.510774Z
+addr = 0x1193e44
+size = 0x64
+name = "_ZNK18TowerLevelFragment18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK18TowerLevelFragment18getRuntimeTypeInfoEv"
+addr = 0x1193e44
+
+[header.args]

@@ -1,0 +1,147 @@
+last_change = 2026-10-28T04:57:00.598303Z
+name = "al::ActorPoseKeeperTQGSV_vtbl"
+size = 0xc0
+
+[members.0x0]
+name = "checkDerivedRuntimeTypeInfo"
+offset = 0x0
+type = "void *(*)(const al::ActorPoseKeeperTQGSV *this, const sead::RuntimeTypeInfo::Interface *typeInfo)"
+size = 0x8
+
+[members.0x8]
+name = "getRuntimeTypeInfo"
+offset = 0x8
+type = "const sead::RuntimeTypeInfo::Interface *(*)(const al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x10]
+name = "getRotate"
+offset = 0x10
+type = "const sead::Vector3f *(*)(const al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x18]
+name = "getScale"
+offset = 0x18
+type = "const sead::Vector3f *(*)(const al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x20]
+name = "getVelocity"
+offset = 0x20
+type = "const sead::Vector3f *(*)(const al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x28]
+name = "getFront"
+offset = 0x28
+type = "const sead::Vector3f *(*)(const al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x30]
+name = "getUp"
+offset = 0x30
+type = "const sead::Vector3f *(*)(const al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x38]
+name = "getQuat"
+offset = 0x38
+type = "const sead::Quatf *(*)(const al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x40]
+name = "getGravity"
+offset = 0x40
+type = "const sead::Vector3f *(*)(const al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x48]
+name = "getMtx"
+offset = 0x48
+type = "const sead::Matrix34f *(*)(const al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x50]
+name = "getRotatePtr"
+offset = 0x50
+type = "sead::Vector3f *(*)(al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x58]
+name = "getScalePtr"
+offset = 0x58
+type = "sead::Vector3f *(*)(al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x60]
+name = "getVelocityPtr"
+offset = 0x60
+type = "sead::Vector3f *(*)(al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x68]
+name = "getFrontPtr"
+offset = 0x68
+type = "sead::Vector3f *(*)(al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x70]
+name = "getUpPtr"
+offset = 0x70
+type = "sead::Vector3f *(*)(al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x78]
+name = "getQuatPtr"
+offset = 0x78
+type = "sead::Quatf *(*)(al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x80]
+name = "getGravityPtr"
+offset = 0x80
+type = "sead::Vector3f *(*)(al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x88]
+name = "getMtxPtr"
+offset = 0x88
+type = "sead::Matrix34f *(*)(al::ActorPoseKeeperTQGSV *this)"
+size = 0x8
+
+[members.0x90]
+name = "updatePoseTrans"
+offset = 0x90
+type = "void (*)(al::ActorPoseKeeperTQGSV *this, const sead::Vector3f *trans)"
+size = 0x8
+
+[members.0x98]
+name = "updatePoseRotate"
+offset = 0x98
+type = "void (*)(al::ActorPoseKeeperTQGSV *this, const sead::Vector3f *rotate)"
+size = 0x8
+
+[members.0xa0]
+name = "updatePoseQuat"
+offset = 0xa0
+type = "void (*)(al::ActorPoseKeeperTQGSV *this, const sead::Quatf *quat)"
+size = 0x8
+
+[members.0xa8]
+name = "updatePoseMtx"
+offset = 0xa8
+type = "void (*)(al::ActorPoseKeeperTQGSV *this, const sead::Matrix34f *mtx)"
+size = 0x8
+
+[members.0xb0]
+name = "copyPose"
+offset = 0xb0
+type = "void (*)(al::ActorPoseKeeperTQGSV *this, const al::ActorPoseKeeperBase *other)"
+size = 0x8
+
+[members.0xb8]
+name = "calcBaseMtx"
+offset = 0xb8
+type = "void (*)(const al::ActorPoseKeeperTQGSV *this, sead::Matrix34f *mtx)"
+size = 0x8

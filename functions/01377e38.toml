@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.673319Z
+addr = 0x1377e38
+size = 0x64
+name = "_ZNK13VoxelMoneyObj18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK13VoxelMoneyObj18getRuntimeTypeInfoEv"
+addr = 0x1377e38
+
+[header.args]

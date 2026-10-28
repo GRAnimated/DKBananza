@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:55.930241Z
+addr = 0x106ad0c
+size = 0x3e4
+name = "_ZN18BattleStageSetting4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN18BattleStageSetting4initERKN2al13ActorInitInfoE"
+addr = 0x106ad0c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.538349Z
+addr = 0x11e8cc0
+size = 0xc4
+name = "_ZN24Npc2KongTalkerCrankyKong12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN24Npc2KongTalkerCrankyKong12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x11e8cc0
+
+[header.args]

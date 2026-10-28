@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.400181Z
+addr = 0x1026ffc
+size = 0xc
+name = "_ZNK12_GLOBAL__N_113HudRaceNrvOut7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_113HudRaceNrvOut7executeEPN2al11NerveKeeperE"
+addr = 0x1026ffc
+
+[header.args]

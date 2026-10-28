@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:31.360202Z
+addr = 0xf0130c
+size = 0x18c
+name = "_ZN10TowerKRool19exeAttackChargeLastEv"
+type = "long long"
+
+[header]
+name = "_ZN10TowerKRool19exeAttackChargeLastEv"
+addr = 0xf0130c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

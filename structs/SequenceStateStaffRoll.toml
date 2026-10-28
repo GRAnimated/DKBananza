@@ -1,0 +1,51 @@
+last_change = 2026-10-28T04:57:00.609179Z
+name = "SequenceStateStaffRoll"
+size = 0xe0
+
+[members.0x0]
+name = "al::NerveStateBase"
+offset = 0x0
+type = "al::NerveStateBase"
+size = 0x20
+
+[members.0x20]
+name = "field_20"
+offset = 0x20
+type = "al::Sequence *"
+size = 0x8
+
+[members.0x28]
+name = "field_28"
+offset = 0x28
+type = "StaffRollScene *"
+size = 0x8
+
+[members.0x30]
+name = "field_30"
+offset = 0x30
+type = "al::NerveStateBase *"
+size = 0x8
+
+[members.0x38]
+name = "field_38"
+offset = 0x38
+type = "void *"
+size = 0x8
+
+[members.0x40]
+name = "field_40"
+offset = 0x40
+type = "sead::FixedSafeString<128>"
+size = 0x90
+
+[members.0xd0]
+name = "field_D0"
+offset = 0xd0
+type = "void *"
+size = 0x8
+
+[members.0xd8]
+name = "field_D8"
+offset = 0xd8
+type = "void *"
+size = 0x8

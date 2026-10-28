@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.962708Z
+addr = 0x181da18
+size = 0x20
+name = "sub_710181DA18"
+type = "bool"
+
+[header]
+name = "sub_710181DA18"
+addr = 0x181da18
+type = "bool"
+
+[header.args]

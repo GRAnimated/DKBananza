@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.396499Z
+addr = 0x101e304
+size = 0xc
+name = "_ZNK12_GLOBAL__N_123FakeCreditLogoNrvAppear7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_123FakeCreditLogoNrvAppear7executeEPN2al11NerveKeeperE"
+addr = 0x101e304
+
+[header.args]

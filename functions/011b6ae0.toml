@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.521508Z
+addr = 0x11b6ae0
+size = 0x8c
+name = "_ZN12WeightSwitch7controlEv"
+
+[header]
+name = "_ZN12WeightSwitch7controlEv"
+addr = 0x11b6ae0
+
+[header.args]

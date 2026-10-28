@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.544249Z
+addr = 0x11fac0c
+size = 0x50
+name = "_ZNK12_GLOBAL__N_131Npc2VoxelConstructionNrvRecover7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_131Npc2VoxelConstructionNrvRecover7executeEPN2al11NerveKeeperE"
+addr = 0x11fac0c
+
+[header.args]

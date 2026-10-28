@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:16.426921Z
+addr = 0x113038c
+size = 0x88
+name = "_ZN11PuddlePartsD0Ev"
+
+[header]
+name = "_ZN11PuddlePartsD0Ev"
+addr = 0x113038c
+
+[header.args]

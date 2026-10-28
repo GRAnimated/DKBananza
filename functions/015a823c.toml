@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.785977Z
+addr = 0x15a823c
+size = 0x4
+name = "_ZThn120_N5phive9RigidBodyD0Ev"
+type = "void"
+
+[header]
+name = "_ZThn120_N5phive9RigidBodyD0Ev"
+addr = 0x15a823c
+type = "void"
+
+[header.args]

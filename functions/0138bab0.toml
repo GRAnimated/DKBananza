@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.681290Z
+addr = 0x138bab0
+size = 0x4
+name = "_ZNK4sead18GameFrameworkOunce27checkDerivedRuntimeTypeInfoEPKNS_15RuntimeTypeInfo9InterfaceE"
+type = "void *"
+
+[header]
+name = "_ZNK4sead18GameFrameworkOunce27checkDerivedRuntimeTypeInfoEPKNS_15RuntimeTypeInfo9InterfaceE"
+addr = 0x138bab0
+type = "void *"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "const sead::GameFrameworkOunce *const"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "const sead::RuntimeTypeInfo::Interface *"
+size = 0x8

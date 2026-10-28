@@ -1,0 +1,9 @@
+last_change = 2026-10-28T04:57:00.593846Z
+name = "al::AreaObjDirector"
+size = 0x40
+
+[members.0x0]
+name = "padding"
+offset = 0x0
+type = "unsigned char[64]"
+size = 0x40

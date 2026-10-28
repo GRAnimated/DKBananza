@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.429753Z
+addr = 0x108849c
+size = 0x560
+name = "CannonBarrelTarget_attackCollider"
+
+[header]
+name = "CannonBarrelTarget_attackCollider"
+addr = 0x108849c
+
+[header.args]

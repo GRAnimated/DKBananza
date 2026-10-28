@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:43.886640Z
+addr = 0x7b6518
+size = 0x108
+name = "_ZN21Npc2VoxelConstruction18initAfterPlacementEv"
+
+[header]
+name = "_ZN21Npc2VoxelConstruction18initAfterPlacementEv"
+addr = 0x7b6518
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.549008Z
+addr = 0x120a08c
+size = 0x9a4
+name = "_ZN15Npc2VoxelTalker10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN15Npc2VoxelTalker10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x120a08c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.331821Z
+addr = 0xf565fc
+size = 0x5c
+name = "_ZN10DebrischanD1Ev"
+
+[header]
+name = "_ZN10DebrischanD1Ev"
+addr = 0xf565fc
+
+[header.args]

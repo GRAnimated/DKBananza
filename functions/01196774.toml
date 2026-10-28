@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.989731Z
+last_change = 2026-10-28T04:56:43.511483Z
 addr = 0x1196774
 size = 0x4
-name = "nullsub_1786"
+name = "_ZN8TreeRoot12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
 
 [header]
-name = "nullsub_1786"
+name = "_ZN8TreeRoot12attackSensorEPN2al9HitSensorEPN2al9HitSensorE"
 addr = 0x1196774
 
 [header.args]

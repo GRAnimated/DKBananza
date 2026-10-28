@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:03.869012Z
+addr = 0x10bbb04
+size = 0xe0
+name = "_ZN12ElevatorBase10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+
+[header]
+name = "_ZN12ElevatorBase10receiveMsgEPKN2al9SensorMsgEPN2al9HitSensorEPN2al9HitSensorE"
+addr = 0x10bbb04
+
+[header.args]

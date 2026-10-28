@@ -1,4 +1,4 @@
-last_change = 2026-10-26T00:38:08.316920Z
+last_change = 2026-10-28T04:58:40.829618Z
 addr = 0xf959a0
 size = 0xa0
 name = "_ZN2al19createActorFunctionI19SkydivingRouteGuideEEPNS_9LiveActorEPKc"
@@ -9,4 +9,8 @@ name = "_ZN2al19createActorFunctionI19SkydivingRouteGuideEEPNS_9LiveActorEPKc"
 addr = 0xf959a0
 type = "al::LiveActor *"
 
-[header.args]
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "const char *"
+size = 0x8

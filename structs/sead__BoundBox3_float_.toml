@@ -1,0 +1,15 @@
+last_change = 2026-10-28T04:57:00.591792Z
+name = "sead::BoundBox3<float>"
+size = 0x18
+
+[members.0x0]
+name = "mMin"
+offset = 0x0
+type = "sead::Vector3<float>"
+size = 0xc
+
+[members.0xc]
+name = "mMax"
+offset = 0xc
+type = "sead::Vector3<float>"
+size = 0xc

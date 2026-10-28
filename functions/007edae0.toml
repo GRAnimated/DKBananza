@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:44.748466Z
+addr = 0x7edae0
+size = 0x90
+name = "_ZN2al18initActorPoseTFGSVEPNS_9LiveActorERKNS_13ActorInitInfoE"
+type = "void"
+
+[header]
+name = "_ZN2al18initActorPoseTFGSVEPNS_9LiveActorERKNS_13ActorInitInfoE"
+addr = 0x7edae0
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "actor"
+type = "al::LiveActor *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "initInfo"
+type = "const al::ActorInitInfo *"
+size = 0x8

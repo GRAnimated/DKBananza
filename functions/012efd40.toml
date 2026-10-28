@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.614395Z
+addr = 0x12efd40
+size = 0x30
+name = "sub_71012EFD40"
+type = "long long *"
+
+[header]
+name = "sub_71012EFD40"
+addr = 0x12efd40
+type = "long long *"
+
+[header.args]

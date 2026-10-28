@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.481404Z
+addr = 0x11354b4
+size = 0x14
+name = "_ZNK12_GLOBAL__N_125PullOutObjNrvPopUpPrepare11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_125PullOutObjNrvPopUpPrepare11getNameHashEv"
+addr = 0x11354b4
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.912752Z
+addr = 0x173f44c
+size = 0x4f0
+name = "_ZN2al22CameraVerticalAbsorber9exeAbsorbEv"
+
+[header]
+name = "_ZN2al22CameraVerticalAbsorber9exeAbsorbEv"
+addr = 0x173f44c
+
+[header.args]

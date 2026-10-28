@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:42.488375Z
+addr = 0x3a9d54
+size = 0xb8
+name = "hkThreadLocalBlockStreamAllocator_hkThreadLocalBlockStreamAllocator"
+type = "long long"
+
+[header]
+name = "hkThreadLocalBlockStreamAllocator_hkThreadLocalBlockStreamAllocator"
+addr = 0x3a9d54
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

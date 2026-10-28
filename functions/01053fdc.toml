@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:53.964572Z
+addr = 0x1053fdc
+size = 0x8
+name = "_ZNK12_GLOBAL__N_118WardrobeMenuNrvEnd7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_118WardrobeMenuNrvEnd7executeEPN2al11NerveKeeperE"
+addr = 0x1053fdc
+
+[header.args]

@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:56:43.788023Z
+addr = 0x15b6310
+size = 0xcc
+name = "sub_71015B6310"
+type = "float"
+
+[header]
+name = "sub_71015B6310"
+addr = 0x15b6310
+type = "float"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "long long"
+size = 0x8

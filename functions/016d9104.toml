@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.878872Z
+addr = 0x16d9104
+size = 0x218
+name = "_ZN13ClockMapParts4initERKN2al13ActorInitInfoE"
+
+[header]
+name = "_ZN13ClockMapParts4initERKN2al13ActorInitInfoE"
+addr = 0x16d9104
+
+[header.args]

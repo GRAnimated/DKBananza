@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.673324Z
+addr = 0x1377e9c
+size = 0x5c
+name = "_ZN13VoxelMoneyObjD1Ev"
+
+[header]
+name = "_ZN13VoxelMoneyObjD1Ev"
+addr = 0x1377e9c
+
+[header.args]

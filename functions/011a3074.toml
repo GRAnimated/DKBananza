@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.515547Z
+addr = 0x11a3074
+size = 0x3c
+name = "VoxelForwardBackMapParts_updateCollider"
+
+[header]
+name = "VoxelForwardBackMapParts_updateCollider"
+addr = 0x11a3074
+
+[header.args]

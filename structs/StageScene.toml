@@ -1,4 +1,4 @@
-last_change = 2026-10-26T18:01:48.845723Z
+last_change = 2026-10-28T04:57:00.589805Z
 name = "StageScene"
 size = 0x2d0
 
@@ -6,7 +6,7 @@ size = 0x2d0
 name = ""
 offset = 0x0
 type = "al::Scene"
-size = 0x140
+size = 0x13c
 
 [members.0x140]
 name = "field_140"

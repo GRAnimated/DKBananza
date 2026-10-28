@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.788728Z
+addr = 0x15bc404
+size = 0x4
+name = "sub_71015BC404"
+type = "long long"
+
+[header]
+name = "sub_71015BC404"
+addr = 0x15bc404
+type = "long long"
+
+[header.args]

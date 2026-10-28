@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:07.724279Z
+addr = 0x10df88c
+size = 0xcc
+name = "_ZN15GroundRoomMaker7exeWaitEv"
+
+[header]
+name = "_ZN15GroundRoomMaker7exeWaitEv"
+addr = 0x10df88c
+
+[header.args]

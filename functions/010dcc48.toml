@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.456009Z
+addr = 0x10dcc48
+size = 0x84
+name = "_ZN20GraphicsEnvChangeObj7controlEv"
+
+[header]
+name = "_ZN20GraphicsEnvChangeObj7controlEv"
+addr = 0x10dcc48
+
+[header.args]

@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:57:37.539984Z
+addr = 0x62ec40
+size = 0xe4
+name = "_ZN2al9initNerveEPNS_9LiveActorEPKNS_5NerveEi"
+type = "void"
+
+[header]
+name = "_ZN2al9initNerveEPNS_9LiveActorEPKNS_5NerveEi"
+addr = 0x62ec40
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "actor"
+type = "al::LiveActor *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "nerve"
+type = "const al::Nerve *"
+size = 0x8
+
+[header.args.0x2]
+offset = 0x2
+name = "maxStates"
+type = "int"
+size = 0x4

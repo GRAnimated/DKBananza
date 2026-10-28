@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:02.069828Z
+addr = 0x10ab560
+size = 0x64
+name = "_ZNK25DeformLiftRisingCollision18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK25DeformLiftRisingCollision18getRuntimeTypeInfoEv"
+addr = 0x10ab560
+
+[header.args]

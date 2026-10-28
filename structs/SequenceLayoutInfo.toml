@@ -1,0 +1,45 @@
+last_change = 2026-10-28T04:57:00.607235Z
+name = "SequenceLayoutInfo"
+size = 0x38
+
+[members.0x0]
+name = "mWipeHolder"
+offset = 0x0
+type = "al::WipeHolder *"
+size = 0x8
+
+[members.0x8]
+name = "mLoadLayout"
+offset = 0x8
+type = "void *"
+size = 0x8
+
+[members.0x10]
+name = "mContinueMenu"
+offset = 0x10
+type = "void *"
+size = 0x8
+
+[members.0x18]
+name = "mCounterWipe"
+offset = 0x18
+type = "void *"
+size = 0x8
+
+[members.0x20]
+name = "mBattleArenaLayout"
+offset = 0x20
+type = "void *"
+size = 0x8
+
+[members.0x28]
+name = "mTipsLayout"
+offset = 0x28
+type = "void *"
+size = 0x8
+
+[members.0x30]
+name = "mThankYouLayout"
+offset = 0x30
+type = "void *"
+size = 0x8

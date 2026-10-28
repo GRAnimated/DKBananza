@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.554333Z
+addr = 0x121bb9c
+size = 0x6c
+name = "UnknownHost_7102241930_exeRestartWait"
+type = "long long"
+
+[header]
+name = "UnknownHost_7102241930_exeRestartWait"
+addr = 0x121bb9c
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

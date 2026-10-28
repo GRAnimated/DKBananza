@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:10.006960Z
+last_change = 2026-10-28T04:56:43.906524Z
 addr = 0x172a618
 size = 0x4
-name = "nullsub_3651"
+name = "_ZN16SuccessSePlayObj7controlEv"
 
 [header]
-name = "nullsub_3651"
+name = "_ZN16SuccessSePlayObj7controlEv"
 addr = 0x172a618
 
 [header.args]

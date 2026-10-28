@@ -1,0 +1,22 @@
+last_change = 2026-10-28T04:57:49.642813Z
+addr = 0x919580
+size = 0x170
+name = "havok_7100919580"
+type = "long long"
+
+[header]
+name = "havok_7100919580"
+addr = 0x919580
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4

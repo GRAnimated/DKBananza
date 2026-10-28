@@ -1,0 +1,27 @@
+last_change = 2026-10-28T04:57:00.592253Z
+name = "sead::Vector4<unsigned int>::$::$F3E1E6C47CFE6D90F587350E7FC1BC9E"
+size = 0x10
+
+[members.0x0]
+name = "x"
+offset = 0x0
+type = "unsigned int"
+size = 0x4
+
+[members.0x4]
+name = "y"
+offset = 0x4
+type = "unsigned int"
+size = 0x4
+
+[members.0x8]
+name = "z"
+offset = 0x8
+type = "unsigned int"
+size = 0x4
+
+[members.0xc]
+name = "w"
+offset = 0xc
+type = "unsigned int"
+size = 0x4

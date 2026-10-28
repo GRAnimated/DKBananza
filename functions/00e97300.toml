@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.270083Z
+addr = 0xe97300
+size = 0x8
+name = "_ZNK12_GLOBAL__N_125KingKRoolNrvDemoBattleEnd7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_125KingKRoolNrvDemoBattleEnd7executeEPN2al11NerveKeeperE"
+addr = 0xe97300
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.554381Z
+addr = 0x121bcc8
+size = 0x60
+name = "_ZNK11RambiPlayer18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK11RambiPlayer18getRuntimeTypeInfoEv"
+addr = 0x121bcc8
+
+[header.args]

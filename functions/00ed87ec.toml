@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.292194Z
+addr = 0xed87ec
+size = 0x8
+name = "_ZNK12_GLOBAL__N_118PoppyKongNrvBattle7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_118PoppyKongNrvBattle7executeEPN2al11NerveKeeperE"
+addr = 0xed87ec
+
+[header.args]

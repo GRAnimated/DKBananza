@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.619963Z
+addr = 0x12ff9e8
+size = 0x184
+name = "_ZN10StageScene8exePauseEv"
+type = "void"
+
+[header]
+name = "_ZN10StageScene8exePauseEv"
+addr = 0x12ff9e8
+type = "void"
+
+[header.args.0x0]
+offset = 0x0
+name = "this"
+type = "StageScene *"
+size = 0x8

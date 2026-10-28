@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.666323Z
+addr = 0x136385c
+size = 0x2c
+name = "_ZN17OverlapVoxelField12startClippedEv"
+
+[header]
+name = "_ZN17OverlapVoxelField12startClippedEv"
+addr = 0x136385c
+
+[header.args]

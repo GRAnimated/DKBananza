@@ -1,0 +1,39 @@
+last_change = 2026-10-28T04:57:00.603218Z
+name = "al::WipeHolder"
+size = 0x40
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "al::HioNode"
+size = 0x8
+
+[members.0x8]
+name = "mMaxWipeCount"
+offset = 0x8
+type = "s32"
+size = 0x4
+
+[members.0xc]
+name = "mWipeCount"
+offset = 0xc
+type = "s32"
+size = 0x4
+
+[members.0x10]
+name = "_8"
+offset = 0x10
+type = "void *"
+size = 0x8
+
+[members.0x18]
+name = "mWipes"
+offset = 0x18
+type = "al::WipeSimple **"
+size = 0x8
+
+[members.0x20]
+name = "filler"
+offset = 0x20
+type = "void *[4]"
+size = 0x20

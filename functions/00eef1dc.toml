@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:30.554291Z
+addr = 0xeef1dc
+size = 0x64
+name = "_ZNK9Stomperor18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK9Stomperor18getRuntimeTypeInfoEv"
+addr = 0xeef1dc
+
+[header.args]

@@ -1,0 +1,28 @@
+last_change = 2026-10-28T04:57:31.291197Z
+addr = 0x3db410
+size = 0x2d0
+name = "sub_71003DB410"
+type = "long long"
+
+[header]
+name = "sub_71003DB410"
+addr = 0x3db410
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x1]
+offset = 0x1
+name = ""
+type = "int"
+size = 0x4
+
+[header.args.0x2]
+offset = 0x2
+name = "s2"
+type = "char *"
+size = 0x8

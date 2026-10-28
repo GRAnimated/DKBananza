@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:59:17.173531Z
+addr = 0x1138c0c
+size = 0x64
+name = "_ZNK13RandomShelter18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK13RandomShelter18getRuntimeTypeInfoEv"
+addr = 0x1138c0c
+
+[header.args]

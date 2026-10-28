@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.987707Z
+last_change = 2026-10-28T04:56:43.455090Z
 addr = 0x10da28c
 size = 0x4
-name = "nullsub_1679"
+name = "_ZNK12_GLOBAL__N_116GoalValveNrvWait7executeEPN2al11NerveKeeperE"
 
 [header]
-name = "nullsub_1679"
+name = "_ZNK12_GLOBAL__N_116GoalValveNrvWait7executeEPN2al11NerveKeeperE"
 addr = 0x10da28c
 
 [header.args]

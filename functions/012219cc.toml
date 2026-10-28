@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.556208Z
+addr = 0x12219cc
+size = 0x5c
+name = "_ZN11TadoruyaNpcD1Ev"
+
+[header]
+name = "_ZN11TadoruyaNpcD1Ev"
+addr = 0x12219cc
+
+[header.args]

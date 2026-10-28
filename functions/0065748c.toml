@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.023980Z
+addr = 0x65748c
+size = 0x2c4
+name = "_ZN11PuddleParts18initAfterPlacementEv"
+
+[header]
+name = "_ZN11PuddleParts18initAfterPlacementEv"
+addr = 0x65748c
+
+[header.args]

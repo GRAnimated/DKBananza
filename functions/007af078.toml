@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:43.801948Z
+addr = 0x7af078
+size = 0x13c
+name = "_ZNK12_GLOBAL__N_136VoxelKeyMoveMapPartsGeneratorNrvWait7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_136VoxelKeyMoveMapPartsGeneratorNrvWait7executeEPN2al11NerveKeeperE"
+addr = 0x7af078
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.482053Z
+addr = 0x1136e98
+size = 0x5c
+name = "_ZN10RainDamageD1Ev"
+
+[header]
+name = "_ZN10RainDamageD1Ev"
+addr = 0x1136e98
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.676791Z
+addr = 0x138199c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_131VoxelRisingAbyssMapPartsNrvStop11getNameHashEv"
+
+[header]
+name = "_ZNK12_GLOBAL__N_131VoxelRisingAbyssMapPartsNrvStop11getNameHashEv"
+addr = 0x138199c
+
+[header.args]

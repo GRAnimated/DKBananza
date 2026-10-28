@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.262064Z
+addr = 0xe807d0
+size = 0x4
+name = "_ZNK9BossStorm27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+
+[header]
+name = "_ZNK9BossStorm27checkDerivedRuntimeTypeInfoEPKN4sead15RuntimeTypeInfo9InterfaceE"
+addr = 0xe807d0
+
+[header.args]

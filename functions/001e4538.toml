@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:57:28.124587Z
+addr = 0x1e4538
+size = 0x18c
+name = "_ZNK12_GLOBAL__N_122Npc2VoxelTalkerNrvVoid7executeEPN2al11NerveKeeperE"
+
+[header]
+name = "_ZNK12_GLOBAL__N_122Npc2VoxelTalkerNrvVoid7executeEPN2al11NerveKeeperE"
+addr = 0x1e4538
+
+[header.args]

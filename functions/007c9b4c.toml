@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.088977Z
+addr = 0x7c9b4c
+size = 0x3c
+name = "_ZN19VoxelRisingMapParts8calcAnimEv"
+
+[header]
+name = "_ZN19VoxelRisingMapParts8calcAnimEv"
+addr = 0x7c9b4c
+
+[header.args]

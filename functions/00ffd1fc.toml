@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:58:48.068729Z
+addr = 0xffd1fc
+size = 0x64
+name = "_ZNK9MoneyLine18getRuntimeTypeInfoEv"
+
+[header]
+name = "_ZNK9MoneyLine18getRuntimeTypeInfoEv"
+addr = 0xffd1fc
+
+[header.args]

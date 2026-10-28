@@ -1,10 +1,10 @@
-last_change = 2026-10-26T00:37:09.985700Z
+last_change = 2026-10-28T04:56:43.388414Z
 addr = 0x1004198
 size = 0x4
-name = "nullsub_1558"
+name = "_ZN11TreasureBox6appearEv"
 
 [header]
-name = "nullsub_1558"
+name = "_ZN11TreasureBox6appearEv"
 addr = 0x1004198
 
 [header.args]

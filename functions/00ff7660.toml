@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:56:43.383505Z
+addr = 0xff7660
+size = 0x80
+name = "_ZN13LifeVoxelItem7exeWaitEv"
+type = "long long"
+
+[header]
+name = "_ZN13LifeVoxelItem7exeWaitEv"
+addr = 0xff7660
+type = "long long"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "unsigned long long *"
+size = 0x8

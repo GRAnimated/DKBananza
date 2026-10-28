@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.318233Z
+addr = 0xf297d0
+size = 0x5c
+name = "_ZN15DemoActorPlayerD1Ev"
+
+[header]
+name = "_ZN15DemoActorPlayerD1Ev"
+addr = 0xf297d0
+
+[header.args]

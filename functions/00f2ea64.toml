@@ -1,0 +1,10 @@
+last_change = 2026-10-28T04:56:43.319836Z
+addr = 0xf2ea64
+size = 0x8c
+name = "_ZN12DemoStartObj15exePlayingMovieEv"
+
+[header]
+name = "_ZN12DemoStartObj15exePlayingMovieEv"
+addr = 0xf2ea64
+
+[header.args]

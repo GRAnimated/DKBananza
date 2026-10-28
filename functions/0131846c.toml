@@ -1,0 +1,12 @@
+last_change = 2026-10-28T04:56:43.627708Z
+addr = 0x131846c
+size = 0x14
+name = "_ZNK12_GLOBAL__N_132SequenceStateBootNrvLoadGameData11getNameHashEv"
+type = "long long"
+
+[header]
+name = "_ZNK12_GLOBAL__N_132SequenceStateBootNrvLoadGameData11getNameHashEv"
+addr = 0x131846c
+type = "long long"
+
+[header.args]

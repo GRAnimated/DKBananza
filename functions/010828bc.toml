@@ -1,0 +1,16 @@
+last_change = 2026-10-28T04:58:58.432647Z
+addr = 0x10828bc
+size = 0x2e8
+name = "_ZN12CannonBarrel12exeWaitShootEv"
+type = "__n128"
+
+[header]
+name = "_ZN12CannonBarrel12exeWaitShootEv"
+addr = 0x10828bc
+type = "__n128"
+
+[header.args.0x0]
+offset = 0x0
+name = ""
+type = "long long"
+size = 0x8

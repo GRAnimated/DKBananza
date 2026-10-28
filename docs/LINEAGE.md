@@ -44,7 +44,7 @@ There's a new `TQMSV` pose.
 
 Nerves now use floating point steps and a mutable step rate. Nerve names are now hashed and used in `NerveStateCtrl` comparisons instead of comparing pointers.
 
-`getNameHash` is our name for the 64-bit integer hash getter, not a string-pointer return or recovered original spelling. After the hash, nerves have one more virtual function. It returns nullptr for most nerves, but some use it to pass extra (sometimes unique) data between nerve calls.
+`getNameHash` is our own name for the hash getter. After the hash, nerves have one more virtual function. It returns nullptr for most nerves, but some use it to pass extra (sometimes unique) data between nerve calls.
 
 Odyssey:
 

@@ -101,7 +101,20 @@ struct al::NerveKeeper : al::IUseHioNode // sizeof=0x40
 };
 ```
 
-## Classes
+## Changed classes
+
+**`al::PlacementId`**: Now stores a `mGuid`.
+
+**`al::Collider`**: Now a wrapper containing the old `al::Collider` + a physics class. I've named the inner class `al::ColliderCore`.
+
+```c++
+struct al::Collider : al::HioNode, al::IUseCollision { // sizeof=0x20
+    al::ColliderCore *mCore;
+    al::ActorPhysics *mPhysics;
+};
+```
+
+## Renamed classes
 
 al::KeyMoveMapPartsGenerator -> VoxelKeyMoveMapPartsGenerator
 

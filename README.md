@@ -1,20 +1,19 @@
-# DKBananza
+# Donkey Kong Bananza Research
 
-Symbols and research for Donkey Kong Bananza.
+Join the Bananza Modding Hub for active research and modding on the game:
+
+[![Discord Server Invite](https://invite.casperiv.dev?inviteCode=3BPJbwTHpY)](https://discord.gg/3BPJbwTHpY)
 
 ## Directory
 
-- [docs/](docs/): Research and documentation.
+- [docs/](docs/):
+  - [voxel/](docs/voxel/):
+    - [VoxelData.md](docs/voxel/VoxelData.md): Explanation of the game's voxel formats
+  - [COMPILER.md](docs/COMPILER.md): Effects of CSPGO and other info caused by the compiler flags used.
+  - [LINEAGE.md](docs/LINEAGE.md): Changes from Super Mario Odyssey to this game.
 - [scripts/](scripts/): Tools for working with the executable. See the [script usage](scripts/README.md).
   - [reference/](scripts/reference/): Reference data used by scripts.
 
 ## Symbols
 
-This repository is tracked with [BinSync](https://github.com/binsync/binsync). Its supported platforms:
-
-- IDA Pro: >= 8.4 (if you have an older version, use BinSync v4.10.1)
-- Binary Ninja: >= 2.4
-- angr-management: >= 9.0
-- Ghidra: >= 12.0 (PyGhidra mode)
-
-That creates `binsync` branches. Those are constantly updated and using its plugin for your decompiler is preferred to view those.
+Please contact me on Discord for my symbols and types. -@gooooooooooooooose

@@ -6,13 +6,6 @@ import argparse
 import struct
 import subprocess
 import itertools
-import numpy as np
-
-# Ubuntu: `sudo apt install python3-openvdb`
-try:
-    import openvdb as vdb
-except ImportError:
-    import pyopenvdb as vdb
 
 def zstd_decompress(data: bytes):
     result = subprocess.run(["zstd", "-d", "-c"], input=data, capture_output=True, check=True)
@@ -55,7 +48,7 @@ def unpack_info(data):
 
 
 # {v,e}head.bin
-def block_present(data, bx, by, bz, x, y, z):
+def chunk_present(data, bx, by, bz, x, y, z):
     index = x + y * bx + z * bx * by
     byte = index // 8
     bit = 7 - (index % 8)
@@ -75,12 +68,19 @@ class VoxelCell:
     flags: int
     unknown: bytes
 
-def unpack_voxel_cell(data, offset = 0):
-    return VoxelCell(*struct.unpack_from("<BBBBB3s", data, offset))
+def unpack_voxel_cell(data, offset = 0, cell_size = 8):
+    if cell_size == 5:
+        return VoxelCell(*struct.unpack_from("<BBBBB", data, offset), b"")
+    if cell_size == 8:
+        return VoxelCell(*struct.unpack_from("<BBBBB3s", data, offset))
+    raise ValueError(f"Unsupported voxel cell size: {cell_size}")
 
 # returns list[VoxelCell]
-def unpack_voxel_block(decompressed_block):
-    return [unpack_voxel_cell(decompressed_block, i * 8) for i in range(512)]
+def unpack_voxel_chunk(decompressed_chunk):
+    if len(decompressed_chunk) not in (512 * 5, 512 * 8):
+        raise ValueError(f"Unsupported voxel chunk size: {len(decompressed_chunk)}")
+    cell_size = len(decompressed_chunk) // 512
+    return [unpack_voxel_cell(decompressed_chunk, i * cell_size, cell_size) for i in range(512)]
 
 
 # Edge Data
@@ -100,8 +100,8 @@ def unpack_edge_record(data, offset = 0):
     return EdgeRecord(*struct.unpack_from("<BBBbbbbbb", data, offset))
 
 # returns list[EdgeRecord]
-def unpack_edge_block(decompressed_block):
-    return [unpack_edge_record(decompressed_block, i * 9) for i in range(512)]
+def unpack_edge_chunk(decompressed_chunk):
+    return [unpack_edge_record(decompressed_chunk, i * 9) for i in range(512)]
 
 
 def decompress_frames(data):
@@ -117,8 +117,8 @@ def decompress_frames(data):
     return frames
 
 
-def iter_blocks(vhead_data, bx, by, bz):
-    for x, y, z in itertools.product(range(bx), range(by), range(bz)):
+def iter_chunks(vhead_data, bx, by, bz):
+    for z, y, x in itertools.product(range(bz), range(by), range(bx)):
         index = x + y * bx + z * bx * by
         byte = index // 8
         bit = 7 - (index % 8)
@@ -126,6 +126,8 @@ def iter_blocks(vhead_data, bx, by, bz):
             yield x, y, z
 
 def build_voxel_arrays(vhead_data, vbodies, vx, vy, vz):
+    import numpy as np
+
     bx = (vx + 7) // 8
     by = (vy + 7) // 8
     bz = (vz + 7) // 8
@@ -134,23 +136,25 @@ def build_voxel_arrays(vhead_data, vbodies, vx, vy, vz):
     mat1_arr = np.zeros((vx, vy, vz), dtype=np.float32)
     blend_arr = np.zeros((vx, vy, vz), dtype=np.float32)
 
-    cell_dtype = np.dtype([
+    cell_fields = [
         ("density", "<u1"),
         ("mat1", "<u1"),
         ("mat2", "<u1"),
         ("blend", "<u1"),
         ("flags", "<u1"),
-        ("unknown", "V3"),
-    ])
+    ]
+    cell_dtypes = {
+        512 * 5: np.dtype(cell_fields),
+        512 * 8: np.dtype(cell_fields + [("unknown", "V3")]),
+    }
 
-    coords = list(iter_blocks(vhead_data, bx, by, bz))
+    coords = list(iter_chunks(vhead_data, bx, by, bz))
     
     for (b_x, b_y, b_z), raw in zip(coords, vbodies):
-        if len(raw) != 512 * 8:
-            print(f"Not a 4096-byte block!!!! Got {len(raw)}, skipping")
-            continue
-        
-        cells = np.frombuffer(raw, dtype=cell_dtype).reshape((8, 8, 8))
+        if len(raw) not in cell_dtypes:
+            raise ValueError(f"Unsupported voxel chunk size: {len(raw)}")
+
+        cells = np.frombuffer(raw, dtype=cell_dtypes[len(raw)]).reshape((8, 8, 8)).transpose(2, 1, 0)
 
         x0, y0, z0 = b_x * 8, b_y * 8, b_z * 8
         x1, y1, z1 = min(x0 + 8, vx), min(y0 + 8, vy), min(z0 + 8, vz)
@@ -164,22 +168,33 @@ def build_voxel_arrays(vhead_data, vbodies, vx, vy, vz):
     return density_arr, mat1_arr, blend_arr
 
 def write_vdb(output_path, density_arr, mat1_arr, blend_arr, voxel_size = 1.0):
+    import numpy as np
+
+    try:
+        import openvdb as vdb
+    except ImportError:
+        import pyopenvdb as vdb
+
     transform = vdb.createLinearTransform(voxelSize=voxel_size)
+    offset = (0, 1 - density_arr.shape[2], 0)
+
+    def to_z_up(array):
+        return np.ascontiguousarray(array.transpose(0, 2, 1)[:, ::-1, :])
 
     density_grid = vdb.FloatGrid()
     density_grid.name = "density"
     density_grid.transform = transform
-    density_grid.copyFromArray(density_arr)
+    density_grid.copyFromArray(to_z_up(density_arr), ijk=offset)
 
     mat1_grid = vdb.FloatGrid()
     mat1_grid.name = "material_id_1"
     mat1_grid.transform = transform
-    mat1_grid.copyFromArray(mat1_arr)
+    mat1_grid.copyFromArray(to_z_up(mat1_arr), ijk=offset)
 
     blend_grid = vdb.FloatGrid()
     blend_grid.name = "material_blend"
     blend_grid.transform = transform
-    blend_grid.copyFromArray(blend_arr)
+    blend_grid.copyFromArray(to_z_up(blend_arr), ijk=offset)
 
     vdb.write(str(output_path), grids=[density_grid, mat1_grid, blend_grid])
 
@@ -210,12 +225,12 @@ def parse_folder(path, args):
     bx = (vx + 7) // 8
     by = (vy + 7) // 8
     bz = (vz + 7) // 8
-    block_count = bx * by * bz
+    chunk_count = bx * by * bz
 
     print(f"  Voxel dimensions: {vx, vy, vz}, total count {voxel_count}")
-    print(f"  Block dimensions: {bx, by, bz}, total count {block_count}")
+    print(f"  Chunk dimensions: {bx, by, bz}, total count {chunk_count}")
 
-    if args.vdb is not None:
+    if args.vdb:
         output = args.output
         if output is None:
             output = Path.cwd()
@@ -224,15 +239,15 @@ def parse_folder(path, args):
 
     # print("  ebody.bin:")
     # for x, y, z in itertools.product(range(bx), range(by), range(bz)):
-    #     if block_present(ehead_data, bx, by, bz, x, y, z):
+    #     if chunk_present(ehead_data, bx, by, bz, x, y, z):
     #         print(f"    {x}, {y}, {z}")
 
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("path", type=Path, nargs="?", help="Volume directory (containing bin folders)")
+    parser.add_argument("path", type=Path, help="Stage directory containing volume folders")
     parser.add_argument("--folder", help="folder name to parse, otherwise all of them")
-    parser.add_argument("--block", type=int, nargs=3, metavar=("X", "Y", "Z"), help="decoded bytes for a block")
+    parser.add_argument("--chunk", type=int, nargs=3, metavar=("X", "Y", "Z"), help="decoded bytes for a chunk")
     parser.add_argument("--vdb", action="store_true", help="Convert to .vdb")
     parser.add_argument("-o", "--output", type=Path, help="Output path")
     args = parser.parse_args()
